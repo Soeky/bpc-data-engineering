@@ -2,11 +2,12 @@
 
 **Definition:**  
 - Combines LLM + external knowledge source  
+- PURPOSE enriched the model with up-to-date and factual information beyond its trained parameters
+- Update the information if new data is provided
 
 **Retriever sources:**  
 - PubMed Abstracts → medicine  
 - Legal documents → law  
-- Wikidata / DBpedia → general  
 
 **Process:**  
 1. Input text contains entity (e.g., "CARICOM")  
@@ -24,12 +25,13 @@
 # ReAct (Reason + Act)
 
 **Definition:**  
-- Combines logical reasoning + external actions (search, tools)  
+- A framework that combines reasoning (thinking) with actions (search, code, API calls)
+- The model doesn’t just answer → it plans, retrieves information, and then answers
 
 **Process:**  
-1. Reasoning → plan steps ("CARICOM → is it an organization?")  
-2. Action → external lookup  
-3. Combine → final relation extraction  
+1. Reasoning: Think about what information is needed
+2. Action: Perform an external operation (query, API request, lookup)
+3. Answer: Combine thinking + retrieved results into a final output
 
 **Example:**  
 - Input: "Haiti is a member of CARICOM."  
@@ -39,25 +41,6 @@
 
 **Pros:** less error, transparent steps, good for complex texts  
 **Cons:** more complex, slower, requires tool support  
-
-
-# Showcase Plan
-
-**Demo flow:**  
-1. Input text:  
-   *"Haiti is a member of CARICOM and the United Nations."*  
-
-2. Compare prompting techniques:  
-   - I/O → ("Haiti", "related to", "CARICOM")
-   - CoT → ("Haiti", "member of", "CARICOM"), ("Haiti", "member of", "UN")
-   - RAG → adds context from knowledge source → precise triplets 
-   - ReAct → shows reasoning + external check → robust triplets 
-
-3. Optional: visualize as a small knowledge graph  
-
-**Goal:**  
-- Show clear differences between prompting techniques  
-- Highlight how RAG / ReAct reduce hallucinations  
 
 
 # Evaluation Metrics
@@ -73,6 +56,62 @@
 
 **Semantic metric:**  
 - BERTScore → semantic similarity of predicted vs. gold-standard triplets  
+
+## Challenges
+- Ambiguity in correct triples
+   - Model may output a semantically correct relation that is worded differently than groundtruth
+   - e.g. Haiti is part of CARICOM instead of member of CARICOM
+- Hallucinations vs. Incomplete Knowledge
+   - Some outputs may contain invented facts or hallucinations, while others omit valid relations due to lack of context or retrieval
+   - Challenge distinguishing "model didn't know" vs. "model made something up"
+
+# Plan of the project
+
+(There should be a GANT Diagram here, we can generate that online as well)
+Today 1.11
+2. Prelim meeting 5.11
+standup 19.11
+mid terms 3.12 - 17.12
+poster pres 7.1
+standup 14.1
+written report 21.1
+final poster 28.1 
+
+```mermaid
+gantt
+    title Project 1 – High-Level Gantt Plan (8 Phases)
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+    section 1. Project Understanding & Setup
+    Define scope, goals, responsibilities        :2025-11-01, 2025-11-05
+
+    section 2. Literature Review & Benchmark Study
+    Review prompting techniques & relation extraction research :2025-11-03, 2025-11-10
+
+    section 3. Dataset Selection & Preparation
+    Select + preprocess dataset                  :2025-11-08, 2025-11-15
+
+    section 4. Define Evaluation Metrics & Pipeline
+    Plan metrics (EM, BERTScore, GED, etc.) and build evaluation setup :2025-11-10, 2025-11-18
+
+    section 5. Implement Prompting Methods
+    Implement I/O & CoT                          :2025-11-15, 2025-11-22
+    Implement RAG & ReAct                        :2025-11-22, 2025-12-05
+
+    section 6. Experiment Execution
+    Run experiments & gather outputs             :2025-12-06, 2025-12-20
+
+    section 7. Evaluation & Comparison
+    Apply metrics, compare results, error analysis :2025-12-21, 2026-01-07
+
+    section 8. Final Deliverables
+    Poster, report writing, presentation prep    :2026-01-08, 2026-01-28
+
+```
+
+
+
 
 
 # Conclusion
