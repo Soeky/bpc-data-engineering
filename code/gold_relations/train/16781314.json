@@ -1,0 +1,204 @@
+{
+  "doc_id": "16781314",
+  "title": "Ectodermal dysplasia-skin fragility syndrome resulting from a new homozygous mutation, 888delC, in the desmosomal protein plakophilin 1.",
+  "body": "We report an unusual case of an inherited disorder of the desmosomal protein plakophilin 1, resulting in ectodermal dysplasia-skin fragility syndrome. The affected 6-year-old boy had red skin at birth and subsequently developed skin fragility, progressive plantar keratoderma, nail dystrophy, and alopecia. Skin biopsy revealed widening of intercellular spaces in the epidermis and a reduced number of small, poorly formed desmosomes. Mutation analysis of the plakophilin 1 gene PKP1 revealed a homozygous deletion of C at nucleotide 888 within exon 5. This mutation differs from the PKP1 gene pathology reported in 8 previously published individuals with this rare genodermatosis. However, all cases show similar clinical features, highlighting the importance of functional plakophilin 1 in maintaining desmosomal adhesion in skin, as well as the role of this protein in aspects of ectodermal development.",
+  "entities": [
+    {
+      "id": "C536183",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Ectodermal dysplasia-skin fragility syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 44
+        },
+        {
+          "text": "ectodermal dysplasia-skin fragility syndrome",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 242,
+          "length": 44
+        },
+        {
+          "text": "skin fragility",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 365,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|DEL888|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "888delC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 7
+        },
+        {
+          "text": "deletion of C at nucleotide 888",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 643,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "5317",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "plakophilin 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 122,
+          "length": 13
+        },
+        {
+          "text": "plakophilin 1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 214,
+          "length": 13
+        },
+        {
+          "text": "plakophilin 1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 597,
+          "length": 13
+        },
+        {
+          "text": "PKP1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 616,
+          "length": 4
+        },
+        {
+          "text": "PKP1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 721,
+          "length": 4
+        },
+        {
+          "text": "plakophilin 1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 912,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited disorder",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 169,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D017499",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "plantar keratoderma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 393,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D009260",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nail dystrophy",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 414,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000505",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "alopecia",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 434,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012873",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genodermatosis",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 803,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D030342",
+      "tail_id": "5317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "5317",
+      "tail_id": "D012873",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DEL888|C",
+      "tail_id": "D012873",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C536183",
+      "tail_id": "5317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C536183",
+      "tail_id": "c|DEL888|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "doc_id": "17445520",
+  "title": "Caffeine challenge test in panic disorder and depression with panic attacks.",
+  "body": "Our aim was to observe if patients with panic disorder (PD) and patients with major depression with panic attacks (MDP) (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition criteria) respond in a similar way to the induction of panic attacks by an oral caffeine challenge test. We randomly selected 29 patients with PD, 27 with MDP, 25 with major depression without panic attacks (MD), and 28 healthy volunteers. The patients had no psychotropic drug for at least a 4-week period. In a randomized double-blind experiment performed in 2 occasions 7 days apart, 480 mg caffeine and a caffeine-free (placebo) solution were administered in a coffee form and anxiety scales were applied before and after each test. A total of 58.6% (n = 17) of patients with PD, 44.4% (n = 12) of patients with MDP, 12.0% (n = 3) of patients with MD, and 7.1% (n= 2) of control subjects had a panic attack after the 480-mg caffeine challenge test (chi(2)(3) = 16.22, P = .001). The patients with PD and MDP were more sensitive to caffeine than were patients with MD and healthy volunteers. No panic attack was observed after the caffeine-free solution intake. The patients with MD had a lower heart rate response to the test than all the other groups (2-way analysis of variance, group by time interaction with Greenhouse-Geisser correction: F(3,762) = 2.85, P = .026). Our data suggest that there is an association between panic attacks, no matter if associated with PD or MDP, and hyperreactivity to an oral caffeine challenge test.",
+  "entities": [
+    {
+      "id": "D002110",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Caffeine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 348,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 662,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 677,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 996,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1103,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1202,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1583,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016584",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "panic disorder",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 14
+        },
+        {
+          "text": "panic attacks",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 13
+        },
+        {
+          "text": "panic disorder",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 117,
+          "length": 14
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 133,
+          "length": 2
+        },
+        {
+          "text": "panic attacks",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 177,
+          "length": 13
+        },
+        {
+          "text": "panic attacks",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 323,
+          "length": 13
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 411,
+          "length": 2
+        },
+        {
+          "text": "panic attacks",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 461,
+          "length": 13
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 848,
+          "length": 2
+        },
+        {
+          "text": "panic attack",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 966,
+          "length": 12
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1069,
+          "length": 2
+        },
+        {
+          "text": "panic attack",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1166,
+          "length": 12
+        },
+        {
+          "text": "panic attacks",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1497,
+          "length": 13
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1541,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 103,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 141,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 397,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 512,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 834,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 870,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 906,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1055,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1122,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1237,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003865",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "major depression",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 155,
+          "length": 16
+        },
+        {
+          "text": "major depression",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 436,
+          "length": 16
+        },
+        {
+          "text": "MD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 476,
+          "length": 2
+        },
+        {
+          "text": "MD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 920,
+          "length": 2
+        },
+        {
+          "text": "MD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1136,
+          "length": 2
+        },
+        {
+          "text": "MD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1251,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D003865,D016584",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "MDP",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 192,
+          "length": 3
+        },
+        {
+          "text": "MDP",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 423,
+          "length": 3
+        },
+        {
+          "text": "MDP",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 884,
+          "length": 3
+        },
+        {
+          "text": "MDP",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1076,
+          "length": 3
+        },
+        {
+          "text": "MDP",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1547,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Mental Disorders",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 235,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 749,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016584",
+      "tail_id": "D002110",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003865",
+      "tail_id": "D002110",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

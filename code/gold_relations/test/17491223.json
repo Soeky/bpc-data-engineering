@@ -1,0 +1,152 @@
+{
+  "doc_id": "17491223",
+  "title": "Assessment of a new non-invasive index of cardiac performance for detection of dobutamine-induced myocardial ischemia.",
+  "body": "BACKGROUND: Electrocardiography has a very low sensitivity in detecting dobutamine-induced myocardial ischemia. OBJECTIVES: To assess the added diagnostic value of a new cardiac performance index (dP/dtejc) measurement, based on brachial artery flow changes, as compared to standard 12-lead ECG, for detecting dobutamine-induced myocardial ischemia, using Tc99m-Sestamibi single-photon emission computed tomography as the gold standard of comparison to assess the presence or absence of ischemia. METHODS: The study group comprised 40 patients undergoing Sestamibi-SPECT/dobutamine stress test. Simultaneous measurements of ECG and brachial artery dP/dtejc were performed at each dobutamine level. In 19 of the 40 patients perfusion defects compatible with ischemia were detected on SPECT. The increase in dP/dtejc during infusion of dobutamine in this group was severely impaired as compared to the non-ischemic group. dP/dtejc outcome was combined with the ECG results, giving an ECG-enhanced value, and compared to ECG alone. RESULTS: The sensitivity improved dramatically from 16% to 79%, positive predictive value increased from 60% to 68% and negative predictive value from 54% to 78%, and specificity decreased from 90% to 67%. CONCLUSIONS: If ECG alone is used for specificity, the combination with dP/dtejc improved the sensitivity of the test and could be a cost-savings alternative to cardiac imaging or perfusion studies to detect myocardial ischemia, especially in patients unable to exercise.",
+  "entities": [
+    {
+      "id": "D004280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dobutamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 10
+        },
+        {
+          "text": "dobutamine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 191,
+          "length": 10
+        },
+        {
+          "text": "dobutamine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 429,
+          "length": 10
+        },
+        {
+          "text": "dobutamine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 690,
+          "length": 10
+        },
+        {
+          "text": "dobutamine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 799,
+          "length": 10
+        },
+        {
+          "text": "dobutamine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 953,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D017202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 19
+        },
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 210,
+          "length": 19
+        },
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 448,
+          "length": 19
+        },
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1562,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 606,
+          "length": 8
+        },
+        {
+          "text": "ischemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 876,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 654,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 833,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1597,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004280",
+      "tail_id": "D007511",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004280",
+      "tail_id": "D017202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

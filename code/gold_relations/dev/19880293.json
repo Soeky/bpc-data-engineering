@@ -1,0 +1,496 @@
+{
+  "doc_id": "19880293",
+  "title": "Polymorphisms in the FOXP3 gene in Han Chinese psoriasis patients.",
+  "body": "BACKGROUND: Psoriasis is a common dermatological disorder, in which autoimmunity plays an important role. CD4(+)CD25(+) regulatory T cells (T-regs) have been suggested to be involved in the pathogenesis of some autoimmune diseases. T-regs express the fork head/winged helix transcription factor, FOXP3, which appears to be of key importance in the development and function of T-regs. Studies have found that single-nucleotide polymorphisms (SNPs) in the FOXP3 gene contribute to susceptibility to some autoimmune disorders. However, information about FOXP3 gene in psoriasis is limited. OBJECTIVE: This study evaluated the association between FOXP3 gene SNPs and susceptibility to psoriasis in a Han Chinese population. METHODS: In a hospital-based case-control study, 524 patients with psoriasis and 549 psoriasis-free controls were recruited according to age and gender. We investigated four SNPs in the FOXP3 gene (-6054, deletion/ATT; -3279, A/C; -924, A/G; IVS9+459, A/G) in psoriatic patients, and assessed allele and genotype frequencies in psoriatic patients (237 females, 287 males) and normal controls (272 females, 277 males). The polymorphisms were genotyped using the PCR sequence-specific primer (PCR-SSP) technique and PCR-restriction fragment length polymorphism (RFLP) analysis. RESULTS: We found that increased risk of psoriasis was associated with the FOXP3 -3279 AC genotype (adjusted OR, 1.32; 95% CI, 1.01-1.74) and the combined AC+AA genotype (adjusted OR, 1.38; 95% CI, 1.07-1.78), compared with the -3279 CC genotype. We also found that an increased risk of psoriasis was associated with the FOXP3 IVS9+459 GG genotype (adjusted OR, 2.24; 95% CI, 1.41-3.58). However, the combined GA+GG genotype showed no such tendency (adjusted OR=1.28; 95% CI, 1.00-1.64), compared with the IVS9+459 AA genotype. There was no evidence of an increased risk associated with the FOXP3-6054 deletion/ATT or FOXP3-924 A/G genotype. In combined genotype analyses, the FOXP3-3279 AC+AA genotype was more obviously associated in males (adjusted OR=1.60, 95% CI=1.11-2.31) and severe psoriasis patients (PASI score >20; adjusted OR=1.97, 95% CI=1.41-2.75). Meanwhile, the FOXP3 IVS9+459 GA+GG genotype was also associated with severe psoriasis patients (adjusted OR=1.69, 95% CI=1.21-2.36). CONCLUSIONS: FOXP3 polymorphisms appear to contribute to the risk of psoriasis in a Han Chinese population. Larger studies are needed to confirm these findings.",
+  "entities": [
+    {
+      "id": "50943",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FOXP3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 363,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 521,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 618,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 710,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 973,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1438,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1684,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1954,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1981,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2040,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2241,
+          "length": 5
+        },
+        {
+          "text": "FOXP3",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2373,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D011565",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psoriasis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 9
+        },
+        {
+          "text": "Psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 79,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 632,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 748,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 854,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 872,
+          "length": 9
+        },
+        {
+          "text": "psoriatic",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1047,
+          "length": 9
+        },
+        {
+          "text": "psoriatic",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1115,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1404,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1650,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2153,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2303,
+          "length": 9
+        },
+        {
+          "text": "psoriasis",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2429,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 840,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1057,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1125,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2163,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2313,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012871",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dermatological disorder",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 101,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 173,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3559",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 179,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autoimmune diseases",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 278,
+          "length": 19
+        },
+        {
+          "text": "autoimmune disorders",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 569,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|-6054|ATT",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-6054, deletion/ATT",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 985,
+          "length": 19
+        },
+        {
+          "text": "-6054 deletion/ATT",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1959,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|-3279|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-3279, A/C",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1006,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|-924|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-924, A/G",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1018,
+          "length": 9
+        },
+        {
+          "text": "-924 A/G",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1986,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|IVS9+459|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS9+459, A/G",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1029,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|AC|-3297",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-3279 AC",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1444,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|CC|-3279",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-3279 CC",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1591,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|GG|IVS9+459",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS9+459 GG",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1690,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|AA|IVS9+459",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS9+459 AA",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1869,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|AC|-3279",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-3279 AC+AA",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2045,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|GA|IVS9+459",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS9+459 GA+GG",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 2247,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|Allele|GA|IVS9+459",
+      "tail_id": "D011565",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|Allele|AC|-3279",
+      "tail_id": "D011565",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011565",
+      "tail_id": "c|Allele|GG|IVS9+459",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011565",
+      "tail_id": "c|Allele|AC|-3297",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "50943",
+      "tail_id": "D011565",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "50943",
+      "tail_id": "D001327",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

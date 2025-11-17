@@ -1,0 +1,246 @@
+{
+  "doc_id": "15086325",
+  "title": "Identification of three F5 gene mutations associated with inherited coagulation factor V deficiency in two Chinese pedigrees.",
+  "body": "To investigate the molecular defects in two Chinese pedigrees with inherited factor V (FV) deficiency. A 37-year-old male (proband 1) and an 18-month-old boy (proband 2) were diagnosed as inherited coagulation FV deficiency by severely reduced plasma levels of FV activity and antigen. All 25 exons and their flanking sequence of F5 gene were amplified by polymerase chain reaction (PCR) for both probands and the PCR products were directly sequenced. Total RNA was extracted from the peripheral lymphocytes of proband 1 for detecting the changes at mRNA level. The homozygous deletion IVS8 -2A>G was identified in the F5 gene of proband 1 and complementary DNA (cDNA) analysis revealed the abolishment of the canonical splicing site by the mutation and the activation of the cryptic acceptor site 24 bp upstream instead. The insertion introduced eight additional amino acids (AA) into the FV protein. Two heterozygous mutations of F5 gene were discovered in proband 2. The 2238-9del AG in exon 13 introduced a premature termination code at 689 AA and the substitution of G6410 by T in exon 23 lead to the missense mutation Gly2079Val. Three F5 gene mutations, IVS8 -2A>G, 2238-9del AG and G6410T, have been identified in two Chinese pedigree with congenital FV deficiency, respectively.",
+  "entities": [
+    {
+      "id": "2153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "F5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 2
+        },
+        {
+          "text": "FV",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 387,
+          "length": 2
+        },
+        {
+          "text": "F5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 456,
+          "length": 2
+        },
+        {
+          "text": "F5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 745,
+          "length": 2
+        },
+        {
+          "text": "FV",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1016,
+          "length": 2
+        },
+        {
+          "text": "F5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1058,
+          "length": 2
+        },
+        {
+          "text": "F5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1268,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D005166",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited coagulation factor V deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 41
+        },
+        {
+          "text": "inherited factor V (FV) deficiency",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 193,
+          "length": 34
+        },
+        {
+          "text": "inherited coagulation FV deficiency",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 314,
+          "length": 35
+        },
+        {
+          "text": "congenital FV deficiency",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1374,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|IVS8-2|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS8 -2A>G",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 712,
+          "length": 10
+        },
+        {
+          "text": "IVS8 -2A>G",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1287,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|INS||8",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "insertion introduced eight additional amino acids",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 952,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|2238_2239|AG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "2238-9del AG",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1100,
+          "length": 12
+        },
+        {
+          "text": "2238-9del AG",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1299,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|A|689",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "689 AA",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1167,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|6410|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G6410 by T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1198,
+          "length": 10
+        },
+        {
+          "text": "G6410T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1316,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|2079|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Gly2079Val",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1250,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "g|SUB|G|6410|T",
+      "tail_id": "D005166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL|2238_2239|AG",
+      "tail_id": "D005166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|A|IVS8-2|G",
+      "tail_id": "D005166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005166",
+      "tail_id": "p|INS||8",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005166",
+      "tail_id": "c|Allele|A|689",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005166",
+      "tail_id": "p|SUB|G|2079|V",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "2153",
+      "tail_id": "D005166",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

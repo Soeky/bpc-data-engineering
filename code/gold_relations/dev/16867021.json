@@ -1,0 +1,501 @@
+{
+  "doc_id": "16867021",
+  "title": "Antipsychotic-like profile of thioperamide, a selective H3-receptor antagonist in mice.",
+  "body": "Experimental and clinical evidence points to a role of central histaminergic system in the pathogenesis of schizophrenia. The present study was designed to study the effect of histamine H(3)-receptor ligands on neuroleptic-induced catalepsy, apomorphine-induced climbing behavior and amphetamine-induced locomotor activities in mice. Catalepsy was induced by haloperidol (2 mg/kg p.o.), while apomorphine (1.5 mg/kg s.c.) and amphetamine (2 mg/kg s.c.) were used for studying climbing behavior and locomotor activities, respectively. (R)-alpha-methylhistamine (RAMH) (5 microg i.c.v.) and thioperamide (THP) (15 mg/kg i.p.), per se did not cause catalepsy. Administration of THP (3.75, 7.5 and 15 mg/kg i.p.) 1 h prior to haloperidol resulted in a dose-dependent increase in the catalepsy times (P < 0.05). However, pretreatment with RAMH significantly reversed such an effect of THP (15 mg/kg i.p.). RAMH per se showed significant reduction in locomotor time, distance traveled and average speed but THP (15 mg/kg i.p.) per se had no effect on these parameters. On amphetamine-induced hyperactivity, THP (3.75 and 7.5 mg/kg i.p.) reduced locomotor time, distance traveled and average speed (P < 0.05). Pretreatment with RAMH (5 microg i.c.v.) could partially reverse such effects of THP (3.75 mg/kg i.p.). Climbing behavior induced by apomorphine was reduced in animals treated with THP. Such an effect was, however, reversed in presence of RAMH. THP exhibited an antipsychotic-like profile by potentiating haloperidol-induced catalepsy, reducing amphetamine-induced hyperactivity and reducing apomorphine-induced climbing in mice. Such effects of THP were reversed by RAMH indicating the involvement of histamine H(3)-receptors. Findings suggest a potential for H(3)-receptor antagonists in improving the refractory cases of schizophrenia.",
+  "entities": [
+    {
+      "id": "D014150",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Antipsychotic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "neuroleptic",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 299,
+          "length": 11
+        },
+        {
+          "text": "antipsychotic",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1553,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C052075",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thioperamide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 12
+        },
+        {
+          "text": "thioperamide",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 677,
+          "length": 12
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 691,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 763,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 968,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1089,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1189,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1372,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1472,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1536,
+          "length": 3
+        },
+        {
+          "text": "THP",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1737,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "99296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "H3-receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 11
+        },
+        {
+          "text": "histamine H(3)-receptor",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 264,
+          "length": 23
+        },
+        {
+          "text": "histamine H(3)-receptors",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1793,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 416,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1715,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 195,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1915,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D002375",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 319,
+          "length": 9
+        },
+        {
+          "text": "Catalepsy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 422,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 734,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 867,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1616,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 330,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 481,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1424,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1683,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000661",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 372,
+          "length": 11
+        },
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 514,
+          "length": 11
+        },
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1154,
+          "length": 11
+        },
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1636,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 447,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 810,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1596,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C069357",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "(R)-alpha-methylhistamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 622,
+          "length": 25
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 649,
+          "length": 4
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 922,
+          "length": 4
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 989,
+          "length": 4
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1309,
+          "length": 4
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1530,
+          "length": 4
+        },
+        {
+          "text": "RAMH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1758,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1174,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1656,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D054828",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "H(3)-receptor antagonists",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1852,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D054828",
+      "tail_id": "D012559",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014150",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006220",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000661",
+      "tail_id": "D006948",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C069357",
+      "tail_id": "C052075",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C069357",
+      "tail_id": "99296",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C052075",
+      "tail_id": "D001058",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C052075",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C052075",
+      "tail_id": "D006220",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C052075",
+      "tail_id": "D006948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C052075",
+      "tail_id": "D000661",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "99296",
+      "tail_id": "C052075",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

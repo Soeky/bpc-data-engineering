@@ -1,0 +1,157 @@
+{
+  "doc_id": "18441470",
+  "title": "Complete atrioventricular block secondary to lithium therapy.",
+  "body": "Sinus node dysfunction has been reported most frequently among the adverse cardiovascular effects of lithium. In the present case, complete atrioventricular (AV) block with syncopal attacks developed secondary to lithium therapy, necessitating permanent pacemaker implantation. Serum lithium levels remained under or within the therapeutic range during the syncopal attacks. Lithium should be used with extreme caution, especially in patients with mild disturbance of AV conduction.",
+  "entities": [
+    {
+      "id": "D054537",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Complete atrioventricular block",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 31
+        },
+        {
+          "text": "complete atrioventricular (AV) block",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 193,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "D008094",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lithium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 163,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 275,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 346,
+          "length": 7
+        },
+        {
+          "text": "Lithium",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 437,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012804",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Sinus node dysfunction",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 62,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D018376",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adverse cardiovascular effects",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 129,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D013575",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "syncopal attacks",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 235,
+          "length": 16
+        },
+        {
+          "text": "syncopal attacks",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 419,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 496,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013575",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D054537",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008094",
+      "tail_id": "D012804",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008094",
+      "tail_id": "D018376",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

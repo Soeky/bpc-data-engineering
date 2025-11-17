@@ -1,0 +1,286 @@
+{
+  "doc_id": "19365571",
+  "title": "Macular corneal dystrophy in a Chinese family related with novel mutations of CHST6.",
+  "body": "PURPOSE: To identify mutations in the carbohydrate sulfotransferase gene (CHST6) for a Chinese family with macular corneal dystrophy (MCD) and to investigate the histopathological changes in the affected cornea. METHODS: A corneal button of the proband was obtained by penetrating keratoplasty. The half button and ultrathin sections from the other half button were examined with special stains under a light microscope (LM) and an electron microscope (EM) separately. Genomic DNA was extracted from peripheral blood of 11 family members, and the coding region of CHST6 was amplified by the polymerase chain reaction (PCR) method. The PCR products were analyzed by direct sequencing and restriction enzyme digestion. RESULTS: The positive reaction to colloidal iron stain (extracellular blue accumulations in the stroma) was detected under light microscopy. Transmission electron microscopy revealed the enlargement of smooth endoplasmic reticulum and the presence of intracytoplasmic vacuoles. The compound heterozygous mutations, c.892C>T and c.1072T>C, were identified in exon 3 of CHST6 in three patients. The two transversions resulted in the substitution of a stop codon for glutamine at codon 298 (p.Q298X) and a missense mutation at codon 358, tyrosine to histidine (p.Y358H). The six unaffected family individuals carried alternative heterozygous mutations. These two mutations were not detected in any of the 100 control subjects. CONCLUSIONS: Those novel compound heterozygous mutations were thought to contribute to the loss of CHST6 function, which induced the abnormal metabolism of keratan sulfate (KS) that deposited in the corneal stroma. It could be proved by the observation of a positive stain reaction and the enlarged collagen fibers as well as hyperplastic fibroblasts under microscopes.",
+  "entities": [
+    {
+      "id": "D003317",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Macular corneal dystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 25
+        },
+        {
+          "text": "macular corneal dystrophy",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 192,
+          "length": 25
+        },
+        {
+          "text": "MCD",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 219,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4166",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHST6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 5
+        },
+        {
+          "text": "carbohydrate sulfotransferase gene",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 123,
+          "length": 34
+        },
+        {
+          "text": "CHST6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 159,
+          "length": 5
+        },
+        {
+          "text": "CHST6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 649,
+          "length": 5
+        },
+        {
+          "text": "CHST6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1170,
+          "length": 5
+        },
+        {
+          "text": "CHST6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1625,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 846,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|892|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.892C>T",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1117,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|1072|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1072T>C",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1130,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1185,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q|298|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "stop codon for glutamine at codon 298",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1251,
+          "length": 37
+        },
+        {
+          "text": "p.Q298X",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1290,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Y|358|H",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "codon 358, tyrosine to histidine",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1326,
+          "length": 32
+        },
+        {
+          "text": "p.Y358H",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1360,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "keratan sulfate",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1682,
+          "length": 15
+        },
+        {
+          "text": "KS",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1699,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "1277",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1825,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003317",
+      "tail_id": "c|SUB|T|1072|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003317",
+      "tail_id": "c|SUB|C|892|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003317",
+      "tail_id": "4166",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003317",
+      "tail_id": "p|SUB|Y|358|H",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003317",
+      "tail_id": "p|SUB|Q|298|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007632",
+      "tail_id": "c|SUB|T|1072|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007632",
+      "tail_id": "c|SUB|C|892|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007632",
+      "tail_id": "4166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007632",
+      "tail_id": "p|SUB|Y|358|H",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007632",
+      "tail_id": "D003317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007632",
+      "tail_id": "p|SUB|Q|298|X",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

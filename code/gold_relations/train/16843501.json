@@ -1,0 +1,348 @@
+{
+  "doc_id": "16843501",
+  "title": "DNA damage and repair in gastric cancer--a correlation with the hOGG1 and RAD51 genes polymorphisms.",
+  "body": "The cell's susceptibility to mutagens and its ability to repair DNA lesions are important for cancer induction, promotion and progression. Both the mutagens' sensitivity and the efficacy of DNA repair may be affected by variation in several genes, including DNA repair genes. The hOGG1 gene encodes glycosylase of base excision repair and RAD51 specifies a key protein in homologues recombination repair. Both can be involved in the repair of oxidative DNA lesions, which can contribute to stomach cancer. In the present work we determined the level of basal and oxidative DNA damage and the kinetics of removal of DNA damage induced by hydrogen peroxide in peripheral blood lymphocytes of 30 gastric cancer patients and 30 healthy individuals. The metrics from DNA damage and repair study were correlated with the genotypes of common polymorphisms of the hOGG1 and RAD51 genes: a G-->C transversion at 1245 position of the hOGG1 gene producing a Ser-->Cys substitution at the codon 326 (the Ser326Cys polymorphism) and a G-->C substitution at position 135 (5'-untranslated region) of the RAD51 gene (the G135C polymorphism). DNA damage and repair were evaluated by alkaline single cell gel electrophoresis (comet assay) assisted by DNA repair enzymes: endonuclease III (Nth) and formamidopyrimidine-DNA glycosylase (Fpg), preferentially recognizing oxidized DNA bases. The genotypes of the polymorphism were determined by restriction fragment length polymorphism PCR. We observed a strong association between gastric cancer occurrence, impaired DNA repair in human lymphocytes and the G/C genotype of the G135C polymorphism of the RAD51 gene. Moreover, there was a strong correlation between that genotype and stomach cancer occurrence in subjects with high level of oxidatively damaged DNA. We did not observe any correlation between the Ser1245Cys polymorphism of the hOGG1 gene and gastric cancer, including subjects with impaired DNA repair and/or high levels of endogenous oxidative DNA lesions. Therefore, our result suggest that the G135C polymorphism of the RAD51 gene may be linked with gastric cancer by the modulation of the cellular response to oxidative stress and this polymorphism may be a useful additional marker in this disease along with the genetic or/and environmental indicators of oxidative stress.",
+  "entities": [
+    {
+      "id": "D013274",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 14
+        },
+        {
+          "text": "stomach cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 591,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 794,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1611,
+          "length": 14
+        },
+        {
+          "text": "stomach cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1812,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1987,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 2198,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "4968",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hOGG1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 5
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 381,
+          "length": 5
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 957,
+          "length": 5
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1025,
+          "length": 5
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1972,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5888",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAD51",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 5
+        },
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 440,
+          "length": 5
+        },
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 967,
+          "length": 5
+        },
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1190,
+          "length": 5
+        },
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1733,
+          "length": 5
+        },
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 2168,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 195,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006861",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hydrogen peroxide",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 738,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 809,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1661,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs1052133",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-->C transversion at 1245 position",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 982,
+          "length": 35
+        },
+        {
+          "text": "Ser-->Cys substitution at the codon 326",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1048,
+          "length": 39
+        },
+        {
+          "text": "Ser326Cys",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1093,
+          "length": 9
+        },
+        {
+          "text": "Ser1245Cys",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1941,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|135|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-->C substitution at position 135",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1123,
+          "length": 34
+        },
+        {
+          "text": "G135C",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1206,
+          "length": 5
+        },
+        {
+          "text": "G135C",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1707,
+          "length": 5
+        },
+        {
+          "text": "G135C",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 2142,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4913",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "endonuclease III",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1354,
+          "length": 16
+        },
+        {
+          "text": "Nth",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1372,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "79661",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "formamidopyrimidine-DNA glycosylase",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1381,
+          "length": 35
+        },
+        {
+          "text": "Fpg",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1418,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G/C",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1687,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4968",
+      "tail_id": "D013274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "g|SUB|G|135|C",
+      "tail_id": "D013274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "g|SUB|G||C",
+      "tail_id": "D013274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013274",
+      "tail_id": "5888",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

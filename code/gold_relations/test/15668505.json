@@ -1,0 +1,293 @@
+{
+  "doc_id": "15668505",
+  "title": "Common BRCA2 variants and modification of breast and ovarian cancer risk in BRCA1 mutation carriers.",
+  "body": "The HH genotype of the nonconservative amino acid substitution polymorphism N372H in the BRCA2 gene was reported to be associated with a 1.3- to 1.5-fold increase in risk of both breast and ovarian cancer. As these studies concerned sporadic cancer cases, we investigated whether N372H and another common variant located in the 5'-untranslated region (203G > A) of the BRCA2 gene modify breast or ovarian cancer risk in BRCA1 mutation carriers. The study includes 778 women carrying a BRCA1 germ-line mutation belonging to 403 families. The two BRCA2 variants were analyzed by the TaqMan allelic discrimination technique. Genotypes were analyzed by disease-free survival analysis using a Cox proportional hazards model. We found no evidence of a significant modification of breast cancer penetrance in BRCA1 mutation carriers by either polymorphism. In respect of ovarian cancer risk, we also saw no effect with the N372H variant but we did observe a borderline association with the 5'-untranslated region 203A allele (hazard ratio, 1.43; CI, 1.01-2.00). In contrast to the result of Healey et al. on newborn females and adult female controls, we found no departure from Hardy-Weinberg equilibrium in the distribution of N372H alleles for our female BRCA1 carriers. We conclude that if these single-nucleotide polymorphisms do modify the risk of cancer in BRCA1 mutation carriers, their effects are not significantly larger than that of N372H previously observed in the general population.",
+  "entities": [
+    {
+      "id": "675",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRCA2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 7,
+          "length": 5
+        },
+        {
+          "text": "BRCA2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 190,
+          "length": 5
+        },
+        {
+          "text": "BRCA2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 470,
+          "length": 5
+        },
+        {
+          "text": "BRCA2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 646,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943,D010051",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast and ovarian cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 25
+        },
+        {
+          "text": "breast and ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 280,
+          "length": 25
+        },
+        {
+          "text": "breast or ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 488,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "672",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRCA1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 5
+        },
+        {
+          "text": "BRCA1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 521,
+          "length": 5
+        },
+        {
+          "text": "BRCA1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 586,
+          "length": 5
+        },
+        {
+          "text": "BRCA1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 903,
+          "length": 5
+        },
+        {
+          "text": "BRCA1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1351,
+          "length": 5
+        },
+        {
+          "text": "BRCA1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1457,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs144848",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "N372H",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 177,
+          "length": 5
+        },
+        {
+          "text": "N372H",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 381,
+          "length": 5
+        },
+        {
+          "text": "N372H",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1017,
+          "length": 5
+        },
+        {
+          "text": "N372H",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1322,
+          "length": 5
+        },
+        {
+          "text": "N372H",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1538,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 343,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1447,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|203|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "203G > A",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 453,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 569,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 875,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D010051",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 965,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "g|Allele|A|203",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "203A",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1107,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs144848",
+      "tail_id": "D010051",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs144848",
+      "tail_id": "D001943",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "672",
+      "tail_id": "D010051",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "672",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010051",
+      "tail_id": "g|Allele|A|203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "675",
+      "tail_id": "D010051",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "675",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

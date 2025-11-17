@@ -1,0 +1,345 @@
+{
+  "doc_id": "17391797",
+  "title": "The phosphatidylethanolamine N-methyltransferase gene V175M single nucleotide polymorphism confers the susceptibility to NASH in Japanese population.",
+  "body": "BACKGROUND/AIMS: The genetic predisposition on the development of nonalcoholic steatohepatitis (NASH) has been poorly understood. A functional polymorphism Val175Met was reported in phosphatidylethanolamine N-methyltransferase (PEMT) that catalyzes the conversion of phosphatidylethanolamine to phosphatidylcholine. The aim of this study was to investigate whether the carriers of Val175Met variant impaired in PEMT activity are more susceptible to NASH. METHODS: Blood samples of 107 patients with biopsy-proven NASH and of 150 healthy volunteers were analyzed by the polymerase chain reaction (PCR) and restriction fragment length polymorphism. RESULTS: Val175Met variant allele of the PEMT gene was significantly more frequent in NASH patients than in healthy volunteers (p<0.001), and carriers of Val175Met variant were significantly more frequent in NASH patients than in healthy volunteers (p<0.01). Among NASH patients, body mass index was significantly lower (p<0.05), and non-obese patients were significantly more frequent (p<0.001) in carriers of Val175Met variant than in homozygotes of wild type PEMT. CONCLUSIONS: Val175Met variant of PEMT could be a candidate molecule that determines the susceptibility to NASH, because it is more frequently observed in NASH patients and non-obese persons with Val175Met variant of PEMT are facilitated to develop NASH.",
+  "entities": [
+    {
+      "id": "10400",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phosphatidylethanolamine N-methyltransferase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 44
+        },
+        {
+          "text": "phosphatidylethanolamine N-methyltransferase",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 332,
+          "length": 44
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 378,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 561,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 838,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1259,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1299,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1482,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs7946",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V175M",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 5
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 306,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 531,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 806,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 951,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1208,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1278,
+          "length": 9
+        },
+        {
+          "text": "Val175Met",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1461,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D065626",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "NASH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 121,
+          "length": 4
+        },
+        {
+          "text": "nonalcoholic steatohepatitis",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 216,
+          "length": 28
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 246,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 599,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 663,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 883,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1005,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1062,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1372,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1420,
+          "length": 4
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1514,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010714",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phosphatidylethanolamine",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 417,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D010713",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phosphatidylcholine",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 445,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 635,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 888,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1010,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1067,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1141,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1425,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1135,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1442,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "10400",
+      "tail_id": "D065626",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010714",
+      "tail_id": "D010713",
+      "type": "Conversion",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs7946",
+      "tail_id": "D010713",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs7946",
+      "tail_id": "D010714",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs7946",
+      "tail_id": "D065626",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

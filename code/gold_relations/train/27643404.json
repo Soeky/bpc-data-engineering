@@ -1,0 +1,369 @@
+{
+  "doc_id": "27643404",
+  "title": "Alcohol consumption and prostate cancer incidence and progression: A Mendelian randomisation study.",
+  "body": "Prostate cancer is the most common cancer in men in developed countries, and is a target for risk reduction strategies. The effects of alcohol consumption on prostate cancer incidence and survival remain unclear, potentially due to methodological limitations of observational studies. In this study, we investigated the associations of genetic variants in alcohol-metabolising genes with prostate cancer incidence and survival. We analysed data from 23,868 men with prostate cancer and 23,051 controls from 25 studies within the international PRACTICAL Consortium. Study-specific associations of 68 single nucleotide polymorphisms (SNPs) in 8 alcohol-metabolising genes (Alcohol Dehydrogenases (ADHs) and Aldehyde Dehydrogenases (ALDHs)) with prostate cancer diagnosis and prostate cancer-specific mortality, by grade, were assessed using logistic and Cox regression models, respectively. The data across the 25 studies were meta-analysed using fixed-effect and random-effects models. We found little evidence that variants in alcohol metabolising genes were associated with prostate cancer diagnosis. Four variants in two genes exceeded the multiple testing threshold for associations with prostate cancer mortality in fixed-effect meta-analyses. SNPs within ALDH1A2 associated with prostate cancer mortality were rs1441817 (fixed effects hazard ratio, HRfixed  = 0.78; 95% confidence interval (95%CI):0.66,0.91; p values = 0.002); rs12910509, HRfixed  = 0.76; 95%CI:0.64,0.91; p values = 0.003); and rs8041922 (HRfixed  = 0.76; 95%CI:0.64,0.91; p values = 0.002). These SNPs were in linkage disequilibrium with each other. In ALDH1B1, rs10973794 (HRfixed  = 1.43; 95%CI:1.14,1.79; p values = 0.002) was associated with prostate cancer mortality in men with low-grade prostate cancer. These results suggest that alcohol consumption is unlikely to affect prostate cancer incidence, but it may influence disease progression.",
+  "entities": [
+    {
+      "id": "D000438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Alcohol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 235,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 456,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 743,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1127,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1913,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 15
+        },
+        {
+          "text": "Prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 100,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 258,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 488,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 566,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 843,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 873,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1175,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1291,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1384,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1821,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1869,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1955,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 135,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 145,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 557,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1850,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Alcohol Dehydrogenases",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 771,
+          "length": 22
+        },
+        {
+          "text": "ADHs",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 795,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "8854",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Aldehyde Dehydrogenases",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 805,
+          "length": 23
+        },
+        {
+          "text": "ALDHs",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 830,
+          "length": 5
+        },
+        {
+          "text": "ALDH1A2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1360,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs1441817",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1441817",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1415,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs12910509",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs12910509",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1533,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs8041922",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs8041922",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1602,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "219",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALDH1B1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1728,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs10973794",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs10973794",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1737,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs10973794",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "219",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs8041922",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs12910509",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs1441817",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "8854",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000438",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000438",
+      "tail_id": "8854",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000438",
+      "tail_id": "125",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

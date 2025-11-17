@@ -1,0 +1,582 @@
+{
+  "doc_id": "24911645",
+  "title": "Behavioral and neurochemical studies in mice pretreated with garcinielliptone FC in pilocarpine-induced seizures.",
+  "body": "Garcinielliptone FC (GFC) isolated from hexanic fraction seed extract of species Platonia insignis Mart. It is widely used in folk medicine to treat skin diseases in both humans and animals as well as the seed decoction has been used to treat diarrheas and inflammatory diseases. However, there is no research on GFC effects in the central nervous system of rodents. The present study aimed to evaluate the GFC effects at doses of 25, 50 or 75 mg/kg on seizure parameters to determine their anticonvulsant activity and its effects on amino acid (r-aminobutyric acid (GABA), glutamine, aspartate and glutathione) levels as well as on acetylcholinesterase (AChE) activity in mice hippocampus after seizures. GFC produced an increased latency to first seizure, at doses 25mg/kg (20.12 + 2.20 min), 50mg/kg (20.95 + 2.21 min) or 75 mg/kg (23.43 + 1.99 min) when compared with seized mice. In addition, GABA content of mice hippocampus treated with GFC75 plus P400 showed an increase of 46.90% when compared with seized mice. In aspartate, glutamine and glutamate levels detected a decrease of 5.21%, 13.55% and 21.80%, respectively in mice hippocampus treated with GFC75 plus P400 when compared with seized mice. Hippocampus mice treated with GFC75 plus P400 showed an increase in AChE activity (63.30%) when compared with seized mice. The results indicate that GFC can exert anticonvulsant activity and reduce the frequency of installation of pilocarpine-induced status epilepticus, as demonstrated by increase in latency to first seizure and decrease in mortality rate of animals. In conclusion, our data suggest that GFC may influence in epileptogenesis and promote anticonvulsant actions in pilocarpine model by modulating the GABA and glutamate contents and of AChE activity in seized mice hippocampus. This compound may be useful to produce neuronal protection and it can be considered as an anticonvulsant agent.",
+  "entities": [
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 787,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 993,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1028,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1129,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1245,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1317,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1335,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1440,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1900,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C573355",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "garcinielliptone FC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 19
+        },
+        {
+          "text": "Garcinielliptone FC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 114,
+          "length": 19
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 135,
+          "length": 3
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 427,
+          "length": 3
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 521,
+          "length": 3
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 820,
+          "length": 3
+        },
+        {
+          "text": "GFC75",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1058,
+          "length": 5
+        },
+        {
+          "text": "GFC75",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1275,
+          "length": 5
+        },
+        {
+          "text": "GFC75",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1353,
+          "length": 5
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1472,
+          "length": 3
+        },
+        {
+          "text": "GFC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1730,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010862",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pilocarpine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 11
+        },
+        {
+          "text": "P400",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1069,
+          "length": 4
+        },
+        {
+          "text": "P400",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1286,
+          "length": 4
+        },
+        {
+          "text": "P400",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1364,
+          "length": 4
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1554,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1805,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizures",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 104,
+          "length": 8
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 567,
+          "length": 7
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 810,
+          "length": 8
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 863,
+          "length": 7
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1642,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "198787",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Platonia insignis Mart",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 195,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D012871",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skin diseases",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 263,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 285,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D003967",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diarrheas",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 357,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory diseases",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 371,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D005680",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "r-aminobutyric acid",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 660,
+          "length": 19
+        },
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 681,
+          "length": 4
+        },
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1012,
+          "length": 4
+        },
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1841,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 688,
+          "length": 9
+        },
+        {
+          "text": "glutamine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1149,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1163,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1850,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001224",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 699,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1138,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 713,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "11423",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "acetylcholinesterase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 747,
+          "length": 20
+        },
+        {
+          "text": "AChE",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 769,
+          "length": 4
+        },
+        {
+          "text": "AChE",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1391,
+          "length": 4
+        },
+        {
+          "text": "AChE",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1876,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013226",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "status epilepticus",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1574,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001224",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001224",
+      "tail_id": "C573355",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010862",
+      "tail_id": "D013226",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010862",
+      "tail_id": "11423",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010862",
+      "tail_id": "D012640",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D018698",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D018698",
+      "tail_id": "C573355",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005680",
+      "tail_id": "D010862",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005680",
+      "tail_id": "C573355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C573355",
+      "tail_id": "D003967",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "C573355",
+      "tail_id": "D012871",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "C573355",
+      "tail_id": "D013226",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C573355",
+      "tail_id": "D010862",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C573355",
+      "tail_id": "11423",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C573355",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "C573355",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

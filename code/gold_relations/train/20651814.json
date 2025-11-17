@@ -1,0 +1,123 @@
+{
+  "doc_id": "20651814",
+  "title": "Lack of association between ADRA2B-4825 gene insertion/deletion polymorphism and migraine in Chinese Han population.",
+  "body": "OBJECTIVE: The present study aimed to estimate the association between susceptibility to migraine and the 12-nucleotide insertion/deletion (indel) polymorphism in promoter region of alpha(2B)-adrenergic receptor gene (ADRA2B). METHODS: A case-control study was carried out in Chinese Han population, including 368 cases of migraine and 517 controls. Genomic DNA was extracted from blood samples, and DNA fragments containing the site of polymorphism were amplified by PCR. Data were adjusted for sex, age, migraine history and family history, and analyzed using a logistic regression model. RESULTS: There was no association between indel polymorphism and migraine, at either the allele or the genotype level. CONCLUSION: These findings do not support a functional significance of ADRA2B indel polymorphism at position -4825 relative to the start codon in the far upstream region of the promoter in the present migraine subjects.",
+  "entities": [
+    {
+      "id": "151",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADRA2B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 6
+        },
+        {
+          "text": "alpha(2B)-adrenergic receptor",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 299,
+          "length": 29
+        },
+        {
+          "text": "ADRA2B",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 335,
+          "length": 6
+        },
+        {
+          "text": "ADRA2B",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 898,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL|-4825||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-4825 gene insertion/deletion",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 29
+        },
+        {
+          "text": "indel polymorphism at position -4825",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 905,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "D008881",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "migraine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 206,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 440,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 623,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 773,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1028,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL||12",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "12-nucleotide insertion/deletion (indel)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 223,
+          "length": 40
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

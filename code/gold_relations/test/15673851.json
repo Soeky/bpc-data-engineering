@@ -1,0 +1,342 @@
+{
+  "doc_id": "15673851",
+  "title": "The activation of spinal N-methyl-D-aspartate receptors may contribute to degeneration of spinal motor neurons induced by neuraxial morphine after a noninjurious interval of spinal cord ischemia.",
+  "body": "We investigated the relationship between the degeneration of spinal motor neurons and activation of N-methyl-d-aspartate (NMDA) receptors after neuraxial morphine following a noninjurious interval of aortic occlusion in rats. Spinal cord ischemia was induced by aortic occlusion for 6 min with a balloon catheter. In a microdialysis study, 10 muL of saline (group C; n = 8) or 30 mug of morphine (group M; n = 8) was injected intrathecally (IT) 0.5 h after reflow, and 30 mug of morphine (group SM; n = 8) or 10 muL of saline (group SC; n = 8) was injected IT 0.5 h after sham operation. Microdialysis samples were collected preischemia, before IT injection, and at 2, 4, 8, 24, and 48 h of reperfusion (after IT injection). Second, we investigated the effect of IT MK-801 (30 mug) on the histopathologic changes in the spinal cord after morphine-induced spastic paraparesis. After IT morphine, the cerebrospinal fluid (CSF) glutamate concentration was increased in group M relative to both baseline and group C (P < 0.05). This increase persisted for 8 hrs. IT MK-801 significantly reduced the number of dark-stained alpha-motoneurons after morphine-induced spastic paraparesis compared with the saline group. These data indicate that IT morphine induces spastic paraparesis with a concomitant increase in CSF glutamate, which is involved in NMDA receptor activation. We suggest that opioids may be neurotoxic in the setting of spinal cord ischemia via NMDA receptor activation.",
+  "entities": [
+    {
+      "id": "24408",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-methyl-D-aspartate receptors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 30
+        },
+        {
+          "text": "N-methyl-d-aspartate (NMDA) receptors",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 296,
+          "length": 37
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1539,
+          "length": 13
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1650,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009020",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 132,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 350,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 583,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 675,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1034,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1081,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1338,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1435,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D020760",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "spinal cord ischemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 174,
+          "length": 20
+        },
+        {
+          "text": "Spinal cord ischemia",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 422,
+          "length": 20
+        },
+        {
+          "text": "spinal cord ischemia",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1625,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D001157",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "aortic occlusion",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 396,
+          "length": 16
+        },
+        {
+          "text": "aortic occlusion",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 458,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 416,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D016291",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 962,
+          "length": 6
+        },
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1258,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D020336",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "spastic paraparesis",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1051,
+          "length": 19
+        },
+        {
+          "text": "spastic paraparesis",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1355,
+          "length": 19
+        },
+        {
+          "text": "spastic paraparesis",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1452,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1121,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1507,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opioids",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1581,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxic",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1596,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020760",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000701",
+      "tail_id": "D020760",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000701",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000701",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D020258",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016291",
+      "tail_id": "D020336",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D016291",
+      "tail_id": "D009020",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D018698",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D020336",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009020",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009020",
+      "tail_id": "D018698",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009020",
+      "tail_id": "D020336",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

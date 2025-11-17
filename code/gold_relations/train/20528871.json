@@ -1,0 +1,288 @@
+{
+  "doc_id": "20528871",
+  "title": "Salvage therapy with nelarabine, etoposide, and cyclophosphamide in relapsed/refractory paediatric T-cell lymphoblastic leukaemia and lymphoma.",
+  "body": "A combination of 5 d of nelarabine (AraG) with 5 d of etoposide (VP) and cyclophosphamide (CPM) and prophylactic intrathecal chemotherapy was used as salvage therapy in seven children with refractory or relapsed T-cell leukaemia or lymphoma. The most common side effects attributable to the AraG included Grade 2 and 3 sensory and motor neuropathy and musculoskeletal pain. Haematological toxicity was greater for the combination than AraG alone, although median time to neutrophil and platelet recovery was consistent with other salvage therapies. All patients had some response to the combined therapy and five of the seven went into complete remission after one or two courses of AraG/VP/CPM. Our experience supports the safety of giving AraG as salvage therapy in synchrony with etoposide and cyclophosphamide, although neurological toxicity must be closely monitored.",
+  "entities": [
+    {
+      "id": "C104457",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nelarabine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 10
+        },
+        {
+          "text": "nelarabine",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 168,
+          "length": 10
+        },
+        {
+          "text": "AraG",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 180,
+          "length": 4
+        },
+        {
+          "text": "AraG",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 435,
+          "length": 4
+        },
+        {
+          "text": "AraG",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 579,
+          "length": 4
+        },
+        {
+          "text": "AraG",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 827,
+          "length": 4
+        },
+        {
+          "text": "AraG",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 885,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005047",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etoposide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 198,
+          "length": 9
+        },
+        {
+          "text": "VP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 209,
+          "length": 2
+        },
+        {
+          "text": "VP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 832,
+          "length": 2
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 927,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003520",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 217,
+          "length": 16
+        },
+        {
+          "text": "CPM",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 235,
+          "length": 3
+        },
+        {
+          "text": "CPM",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 835,
+          "length": 3
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 941,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D015458|D016399",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "T-cell lymphoblastic leukaemia and lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 43
+        },
+        {
+          "text": "T-cell leukaemia or lymphoma",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 356,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathy",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 481,
+          "length": 10
+        },
+        {
+          "text": "neurological toxicity",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 968,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D059352",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "musculoskeletal pain",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 496,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D006402",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Haematological toxicity",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 518,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 697,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003520",
+      "tail_id": "D005047",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003520",
+      "tail_id": "D015458|D016399",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005047",
+      "tail_id": "D015458|D016399",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C104457",
+      "tail_id": "D006402",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C104457",
+      "tail_id": "D059352",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C104457",
+      "tail_id": "D009422",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C104457",
+      "tail_id": "D003520",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C104457",
+      "tail_id": "D005047",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C104457",
+      "tail_id": "D015458|D016399",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

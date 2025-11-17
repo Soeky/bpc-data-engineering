@@ -1,0 +1,383 @@
+{
+  "doc_id": "16330669",
+  "title": "Array-based comparative genomic hybridization analysis reveals recurrent chromosomal alterations and prognostic parameters in primary cutaneous large B-cell lymphoma.",
+  "body": "PURPOSE: To evaluate the clinical relevance of genomic aberrations in primary cutaneous large B-cell lymphoma (PCLBCL). PATIENTS AND METHODS: Skin biopsy samples of 31 patients with a PCLBCL classified as either primary cutaneous follicle center lymphoma (PCFCL; n = 19) or PCLBCL, leg type (n = 12), according to the WHO-European Organisation for Research and Treatment of Cancer (EORTC) classification, were investigated using array-based comparative genomic hybridization, fluorescence in situ hybridization (FISH), and examination of promoter hypermethylation. RESULTS: The most recurrent alterations in PCFCL were high-level DNA amplifications at 2p16.1 (63%) and deletion of chromosome 14q32.33 (68%). FISH analysis confirmed c-REL amplification in patients with gains at 2p16.1. In PCLBCL, leg type, most prominent aberrations were a high-level DNA amplification of 18q21.31-q21.33 (67%), including the BCL-2 and MALT1 genes as confirmed by FISH, and deletions of a small region within 9p21.3 containing the CDKN2A, CDKN2B, and NSG-x genes. Homozygous deletion of 9p21.3 was detected in five of 12 patients with PCLBCL, leg type, but in zero of 19 patients with PCFCL. Complete methylation of the promoter region of the CDKN2A gene was demonstrated in one PCLBCL, leg type, patient with hemizygous deletion, in one patient without deletion, but in zero of 19 patients with PCFCL. Seven of seven PCLBCL, leg type, patients with deletion of 9p21.3 and/or complete methylation of CDKN2A died as a result of their lymphoma. CONCLUSION: Our results demonstrate prominent differences in chromosomal alterations between PCFCL and PCLBCL, leg type, that support their classification as separate entities within the WHO-EORTC scheme. Inactivation of CDKN2A by either deletion or methylation of its promoter could be an important prognostic parameter for the group of PCLBCL, leg type.",
+  "entities": [
+    {
+      "id": "D016403",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary cutaneous large B-cell lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 126,
+          "length": 39
+        },
+        {
+          "text": "primary cutaneous large B-cell lymphoma",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 237,
+          "length": 39
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 278,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 351,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 441,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 956,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1286,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1430,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1569,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1797,
+          "length": 6
+        },
+        {
+          "text": "PCLBCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 2032,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 287,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 335,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 922,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1272,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1322,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1448,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1489,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1533,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1587,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008224",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary cutaneous follicle center lymphoma",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 379,
+          "length": 42
+        },
+        {
+          "text": "PCFCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 423,
+          "length": 5
+        },
+        {
+          "text": "PCFCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 775,
+          "length": 5
+        },
+        {
+          "text": "PCFCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1336,
+          "length": 5
+        },
+        {
+          "text": "PCFCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1547,
+          "length": 5
+        },
+        {
+          "text": "PCFCL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1787,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cancer",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 541,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "5966",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-REL",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 899,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL-2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1077,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10892",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MALT1",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1087,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1182,
+          "length": 6
+        },
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1394,
+          "length": 6
+        },
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1651,
+          "length": 6
+        },
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1915,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1030",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN2B",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1190,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "27099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NSG-x",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1202,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lymphoma",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1684,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1029",
+      "tail_id": "D008223",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D016403",
+      "tail_id": "27099",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D016403",
+      "tail_id": "1030",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D016403",
+      "tail_id": "1029",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D016403",
+      "tail_id": "10892",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016403",
+      "tail_id": "596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008224",
+      "tail_id": "5966",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

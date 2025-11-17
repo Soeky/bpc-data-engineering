@@ -1,0 +1,131 @@
+{
+  "doc_id": "17273972",
+  "title": "Human TBX1 missense mutations cause gain of function resulting in the same phenotype as 22q11.2 deletions.",
+  "body": "Deletion 22q11.2 syndrome is the most frequent known microdeletion syndrome and is associated with a highly variable phenotype, including DiGeorge and Shprintzen (velocardiofacial) syndromes. Although haploinsufficiency of the T-box transcription factor gene TBX1 is thought to cause the phenotype, to date, only four different point mutations in TBX1 have been reported in association with six of the major features of 22q11.2 deletion syndrome. Although, for the two truncating mutations, loss of function was previously shown, the pathomechanism of the missense mutations remains unknown. We report a novel heterozygous missense mutation, H194Q, in a familial case of Shprintzen syndrome and show that this and the two previously reported missense mutations result in gain of function, possibly through stabilization of the protein dimer DNA complex. We therefore conclude that TBX1 gain-of-function mutations can result in the same phenotypic spectrum as haploinsufficiency caused by loss-of-function mutations or deletions.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6899",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TBX1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 4
+        },
+        {
+          "text": "T-box transcription factor",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 334,
+          "length": 26
+        },
+        {
+          "text": "TBX1",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 366,
+          "length": 4
+        },
+        {
+          "text": "TBX1",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 454,
+          "length": 4
+        },
+        {
+          "text": "TBX1",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 988,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004062",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "22q11.2 deletions",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 17
+        },
+        {
+          "text": "Deletion 22q11.2 syndrome",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 107,
+          "length": 25
+        },
+        {
+          "text": "DiGeorge and Shprintzen (velocardiofacial) syndromes",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 245,
+          "length": 52
+        },
+        {
+          "text": "22q11.2 deletion syndrome",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 527,
+          "length": 25
+        },
+        {
+          "text": "Shprintzen syndrome",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 778,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "rs74315522",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "H194Q",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 749,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs74315522",
+      "tail_id": "D004062",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "6899",
+      "tail_id": "D004062",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

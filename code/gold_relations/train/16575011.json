@@ -1,0 +1,447 @@
+{
+  "doc_id": "16575011",
+  "title": "Tumor thymidylate synthase 1494del6 genotype as a prognostic factor in colorectal cancer patients receiving fluorouracil-based adjuvant treatment.",
+  "body": "PURPOSE: The purpose of this study was to analyze the value of germline and tumor thymidylate synthase (TS) genotyping as a prognostic marker in a series of colorectal cancer patients receiving adjuvant fluorouracil (FU) -based treatment. PATIENTS AND METHODS: One hundred twenty-nine colorectal cancer patients homogeneously treated with FU plus levamisole or leucovorin in the adjuvant setting were included. TS enhancer region, 3R G > C single nucleotide polymorphism (SNP), and TS 1494del6 polymorphisms were assessed in both fresh-frozen normal mucosa and tumor. Mutational analyses of TS and allelic imbalances were studied in all primary tumors and in 18 additional metachronic metastases. TS protein immunostaining was assessed in an expanded series of 214 tumors. Multivariate Cox models were adjusted for stage, differentiation, and location. RESULTS: Tumor genotyping (frequency of allelic loss, 26%) showed that the 3R/3R genotype was associated with a better outcome (hazard ratio [HR] = 0.38; 95% CI, 0.16 to 0.93; P = .020 for the recessive model). 3R G > C SNP genotyping did not add prognostic information. Tumor TS 1494del6 allele (frequency of allelic loss, 36%) was protective (for each allele with the deletion, based on an additive model, HR = 0.42; 95% CI, 0.22 to 0.82; P = .0034). Both polymorphisms were in strong linkage disequilibrium (D' = 0.71, P < .001), and the 3R/-6 base pair (bp) haplotype showed a significant overall survival benefit compared with the most prevalent haplotype 2R/+6bp (HR = 0.42; 95% CI, 0.20 to 0.85; P = .017). No TS point mutation was detected in primary tumors or metastases. TS protein immunostaining was not associated with survival or any of the genotypes analyzed. CONCLUSION: Tumor TS 1494del6 genotype may be a prognostic factor in FU-based adjuvant treatment of colorectal cancer patients.",
+  "entities": [
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 223,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 708,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 792,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 912,
+          "length": 6
+        },
+        {
+          "text": "Tumor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1009,
+          "length": 5
+        },
+        {
+          "text": "Tumor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1271,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1759,
+          "length": 6
+        },
+        {
+          "text": "Tumor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1886,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7298",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thymidylate synthase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 20
+        },
+        {
+          "text": "thymidylate synthase",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 229,
+          "length": 20
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 251,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 558,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 629,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 738,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 844,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1277,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1717,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1781,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1892,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1494|6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1494del6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 8
+        },
+        {
+          "text": "1494del6",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 632,
+          "length": 8
+        },
+        {
+          "text": "1494del6",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1280,
+          "length": 8
+        },
+        {
+          "text": "1494del6",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1895,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 304,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 432,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1974,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 322,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 386,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 450,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1992,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluorouracil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 108,
+          "length": 12
+        },
+        {
+          "text": "fluorouracil",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 350,
+          "length": 12
+        },
+        {
+          "text": "FU",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 364,
+          "length": 2
+        },
+        {
+          "text": "FU",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 486,
+          "length": 2
+        },
+        {
+          "text": "FU",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1943,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D007978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levamisole",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 494,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002955",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "leucovorin",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 508,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G > C",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 581,
+          "length": 5
+        },
+        {
+          "text": "G > C",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1214,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 832,
+          "length": 10
+        },
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1769,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL|1494|6",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL|1494|6",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "7298",
+      "tail_id": "D009362",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "7298",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "7298",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005472",
+      "tail_id": "D002955",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005472",
+      "tail_id": "D007978",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D015179",
+      "tail_id": "D005472",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D015179",
+      "tail_id": "D002955",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D015179",
+      "tail_id": "D007978",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

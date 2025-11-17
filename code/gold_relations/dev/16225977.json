@@ -1,0 +1,325 @@
+{
+  "doc_id": "16225977",
+  "title": "Amisulpride related tic-like symptoms in an adolescent schizophrenic.",
+  "body": "Tic disorders can be effectively treated by atypical antipsychotics such as risperidone, olanzapine and ziprasidone. However, there are two case reports that show tic-like symptoms, including motor and phonic variants, occurring during treatment with quetiapine or clozapine. We present a 15-year-old girl schizophrenic who developed frequent involuntary eye-blinking movements after 5 months of amisulpride treatment (1000 mg per day). The tic-like symptoms resolved completely after we reduced the dose of amisulpride down to 800 mg per day. However, her psychosis recurred after the dose reduction. We then placed her on an additional 100 mg per day of quetiapine. She has been in complete remission under the combined medications for more than one year and maintains a fair role function. No more tic-like symptoms or other side effects have been reported. Together with previously reported cases, our patient suggests that tic-like symptoms might occur in certain vulnerable individuals during treatment with atypical antipsychotics such as quetiapine, clozapine, or amisulpride.",
+  "entities": [
+    {
+      "id": "D000077582",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Amisulpride",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 466,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 578,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1142,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tic-like symptoms",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 17
+        },
+        {
+          "text": "tic-like symptoms",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 233,
+          "length": 17
+        },
+        {
+          "text": "tic-like symptoms",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 511,
+          "length": 17
+        },
+        {
+          "text": "tic-like symptoms",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 871,
+          "length": 17
+        },
+        {
+          "text": "tic-like symptoms",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 998,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 13
+        },
+        {
+          "text": "schizophrenic",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 376,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D013981",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Tic disorders",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 70,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D014150",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antipsychotics",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 123,
+          "length": 14
+        },
+        {
+          "text": "antipsychotics",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1093,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D018967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 146,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000077152",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 159,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C092292",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ziprasidone",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 174,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000069348",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 321,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 726,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1116,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003024",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 335,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1128,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D020820",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "involuntary eye-blinking movements",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 413,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "D011605",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 627,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 976,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013981",
+      "tail_id": "C092292",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013981",
+      "tail_id": "D000077152",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013981",
+      "tail_id": "D018967",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013981",
+      "tail_id": "D014150",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D011605",
+      "tail_id": "D000069348",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D020820",
+      "tail_id": "D000077582",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000077582",
+      "tail_id": "D000069348",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000077582",
+      "tail_id": "D011605",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000077582",
+      "tail_id": "D012559",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

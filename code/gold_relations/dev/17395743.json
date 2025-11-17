@@ -1,0 +1,220 @@
+{
+  "doc_id": "17395743",
+  "title": "Identification of PVT1 as a candidate gene for end-stage renal disease in type 2 diabetes using a pooling-based genome-wide single nucleotide polymorphism association study.",
+  "body": "To identify genetic variants contributing to end-stage renal disease (ESRD) in type 2 diabetes, we performed a genome-wide analysis of 115,352 single nucleotide polymorphisms (SNPs) in pools of 105 unrelated case subjects with ESRD and 102 unrelated control subjects who have had type 2 diabetes for > or =10 years without macroalbuminuria. Using a sliding window statistic of ranked SNPs, we identified a 200-kb region on 8q24 harboring three SNPs showing substantial differences in allelic frequency between case and control pools. These SNPs were genotyped in individuals comprising each pool, and strong evidence for association was found with rs2720709 (P = 0.000021; odds ratio 2.57 [95% CI 1.66-3.96]), which is located in the plasmacytoma variant translocation gene PVT1. We sequenced all exons, exon-intron boundaries, and the promoter of PVT1 and identified 47 variants, 11 of which represented nonredundant markers with minor allele frequency > or =0.05. We subsequently genotyped these 11 variants and an additional 87 SNPs identified through public databases in 319-kb flanking rs2720709 ( approximately 1 SNP/3.5 kb); 23 markers were associated with ESRD at P < 0.01. The strongest evidence for association was found for rs2648875 (P = 0.0000018; 2.97 [1.90-4.65]), which maps to intron 8 of PVT1. Together, these results suggest that PVT1 may contribute to ESRD susceptibility in diabetes.",
+  "entities": [
+    {
+      "id": "5820",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PVT1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 4
+        },
+        {
+          "text": "PVT1",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 948,
+          "length": 4
+        },
+        {
+          "text": "PVT1",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1022,
+          "length": 4
+        },
+        {
+          "text": "PVT1",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1480,
+          "length": 4
+        },
+        {
+          "text": "PVT1",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1523,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007676",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "end-stage renal disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 23
+        },
+        {
+          "text": "end-stage renal disease",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 219,
+          "length": 23
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 244,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 401,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1338,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1546,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 253,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 454,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs2720709",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2720709",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 822,
+          "length": 9
+        },
+        {
+          "text": "rs2720709",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1265,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2648875",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2648875",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1409,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 174,
+          "char_offset": 1569,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2648875",
+      "tail_id": "D007676",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2720709",
+      "tail_id": "D007676",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003924",
+      "tail_id": "rs2648875",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003924",
+      "tail_id": "rs2720709",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5820",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5820",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5820",
+      "tail_id": "D007676",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

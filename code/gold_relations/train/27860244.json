@@ -1,0 +1,547 @@
+{
+  "doc_id": "27860244",
+  "title": "Role of protein arginine methyltransferase 5 in inflammation and migration of fibroblast-like synoviocytes in rheumatoid arthritis.",
+  "body": "To probe the role of protein arginine methyltransferase 5 (PRMT5) in regulating inflammation, cell proliferation, migration and invasion of fibroblast-like synoviocytes (FLSs) from patients with rheumatoid arthritis (RA). FLSs were separated from synovial tissues (STs) from patients with RA and osteoarthritis (OA). An inhibitor of PRMT5 (EPZ015666) and short interference RNA (siRNA) against PRMT5 were used to inhibit PRMT5 expression. The standard of protein was measured by Western blot or immunofluorescence. The excretion and genetic expression of inflammatory factors were, respectively, estimated by enzyme-linked immunosorbent assay (ELISA) and real-time polymerase chain reaction (PCR). Migration and invasion in vitro were detected by Boyden chamber assay. FLSs proliferation was detected by BrdU incorporation. Increased PRMT5 was discovered in STs and FLSs from patients with RA. In RA FLSs, the level of PRMT5 was up-regulated by stimulation with IL-1b and TNF-a. Inhibition of PRMT5 by EPZ015666 and siRNA-mediated knockdown reduced IL-6 and IL-8 production, and proliferation of RA FLSs. In addition, inhibition of PRMT5 decreased in vitro migration and invasion of RA FLSs. Furthermore, EPZ015666 restrained the phosphorylation of IkB kinaseb and IkBa, as well as nucleus transsituation of p65 as well as AKT in FLSs. PRMT5 regulated the production of inflammatory factors, cell proliferation, migration and invasion of RA FLS, which was mediated by the NF-kB and AKT pathways. Our data suggested that targeting PRMT5 to prevent synovial inflammation and destruction might be a promising therapy for RA.",
+  "entities": [
+    {
+      "id": "10419",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "protein arginine methyltransferase 5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 36
+        },
+        {
+          "text": "protein arginine methyltransferase 5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 153,
+          "length": 36
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 191,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 465,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 526,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 553,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 966,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1051,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1125,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1264,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1468,
+          "length": 5
+        },
+        {
+          "text": "PRMT5",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1662,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 212,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 687,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1502,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D001172",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 20
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 327,
+          "length": 20
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 349,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 421,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1022,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1029,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1228,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1315,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1570,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1750,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 313,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 407,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1008,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010003",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoarthritis",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 428,
+          "length": 14
+        },
+        {
+          "text": "OA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 444,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "C000599896",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "EPZ015666",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 472,
+          "length": 9
+        },
+        {
+          "text": "EPZ015666",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1134,
+          "length": 9
+        },
+        {
+          "text": "EPZ015666",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1337,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1b",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1094,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-a",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1104,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1181,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1190,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3551",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IkB kinaseb",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1381,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "4792",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IkBa",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1397,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5970",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p65",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1440,
+          "length": 3
+        },
+        {
+          "text": "NF-kB",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1604,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1455,
+          "length": 3
+        },
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1614,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013585",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "synovial inflammation",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1679,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C000599896",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C000599896",
+      "tail_id": "5970",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C000599896",
+      "tail_id": "4792",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C000599896",
+      "tail_id": "3551",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C000599896",
+      "tail_id": "3576",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C000599896",
+      "tail_id": "3569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C000599896",
+      "tail_id": "10419",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "C000599896",
+      "tail_id": "D001172",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "10419",
+      "tail_id": "D013585",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "10419",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "10419",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "10419",
+      "tail_id": "5970",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "10419",
+      "tail_id": "3576",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "10419",
+      "tail_id": "3569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "10419",
+      "tail_id": "7124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "10419",
+      "tail_id": "3553",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D001172",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D001172",
+      "tail_id": "5970",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D001172",
+      "tail_id": "10419",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

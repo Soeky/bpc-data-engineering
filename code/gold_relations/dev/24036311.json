@@ -1,0 +1,446 @@
+{
+  "doc_id": "24036311",
+  "title": "CTR9/PAF1c regulates molecular lineage identity, histone H3K36 trimethylation and genomic imprinting during preimplantation development.",
+  "body": "Genome-wide epigenetic reprogramming is required for successful preimplantation development. Inappropriate or deficient chromatin regulation can result in defective lineage specification and loss of genomic imprinting, compromising normal development. Here we report that two members of the RNA polymerase II associated factor, homolog (Saccharomyces cerevisiae) complex (PAF1 complex) components, Ctr9 and Rtf1, are required during mammalian preimplantation development. We demonstrate that Ctr9-deficient embryos fail to correctly specify lineages at the blastocyst stage. Expression of some lineage specific factors is markedly reduced in Ctr9 knockdown embryos, including Eomes, Elf5 and Sox2, while others are inappropriately expressed (Oct4, Nanog, Gata6, Fgf4 and Sox17). We also show that several imprinted genes (Mest, Peg3, Snrpn and Meg3) are aberrantly expressed although allele specific DNA methylation is not altered. We document a loss of histone H3 lysine 36 trimethylation (H3K36me3) in Ctr9-deficient embryos and confirm that knockdown of either Setd2 or Rtf1 results in similar phenotypes. These findings show that the PAF1 complex is required for mammalian development, likely through regulation of H3K36me3, and indicate functional conservation of the PAF1 complex from yeast to mammals in vivo.",
+  "entities": [
+    {
+      "id": "22083",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CTR9",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "Ctr9",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 535,
+          "length": 4
+        },
+        {
+          "text": "Ctr9",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 629,
+          "length": 4
+        },
+        {
+          "text": "Ctr9",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 779,
+          "length": 4
+        },
+        {
+          "text": "Ctr9",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1141,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "22083,54624,76246",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAF1c",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 5,
+          "length": 5
+        },
+        {
+          "text": "RNA polymerase II associated factor, homolog (Saccharomyces cerevisiae) complex",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 428,
+          "length": 79
+        },
+        {
+          "text": "PAF1 complex",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 509,
+          "length": 12
+        },
+        {
+          "text": "PAF1 complex",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1275,
+          "length": 12
+        },
+        {
+          "text": "PAF1 complex",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1410,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "260423",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "histone H3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 10
+        },
+        {
+          "text": "histone H3",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1091,
+          "length": 10
+        },
+        {
+          "text": "H3",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1128,
+          "length": 2
+        },
+        {
+          "text": "H3",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1356,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "76246",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rtf1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 544,
+          "length": 4
+        },
+        {
+          "text": "Rtf1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1210,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "13813",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Eomes",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 813,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13711",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Elf5",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 820,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20674",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sox2",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 829,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18999",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Oct4",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 879,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "71950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nanog",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 885,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "14465",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Gata6",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 892,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "14175",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fgf4",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 899,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20671",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sox17",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 908,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17294",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mest",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 959,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18616",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Peg3",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 965,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20646",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Snrpn",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 971,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17263",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Meg3",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 981,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "235626",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Setd2",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1201,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4932",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "yeast",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1428,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "235626",
+      "tail_id": "260423",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "76246",
+      "tail_id": "260423",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "22083",
+      "tail_id": "17263",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "22083",
+      "tail_id": "20646",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "22083",
+      "tail_id": "18616",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "22083",
+      "tail_id": "17294",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "22083",
+      "tail_id": "20671",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "22083",
+      "tail_id": "14175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "22083",
+      "tail_id": "14465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "22083",
+      "tail_id": "71950",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "22083",
+      "tail_id": "18999",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "22083",
+      "tail_id": "20674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "22083",
+      "tail_id": "13711",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "22083",
+      "tail_id": "13813",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "22083",
+      "tail_id": "260423",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "22083",
+      "tail_id": "76246",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "22083",
+      "tail_id": "22083",
+      "type": "Bind",
+      "novel": "No"
+    }
+  ]
+}

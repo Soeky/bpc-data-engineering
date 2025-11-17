@@ -1,0 +1,293 @@
+{
+  "doc_id": "19881468",
+  "title": "hOGG1 Ser326Cys polymorphism and risk of lung cancer by histological type.",
+  "body": "Human 8-oxoguanine DNA glycosylase 1 (hOGG1) has a major role in the repair of 8-hydroxyguanine, a major promutagenic DNA lesion. The genetic polymorphism rs1052133, which leads to substitution of the amino acid at codon 326 from Ser to Cys, shows functional differences, namely a decrease in enzyme activity in hOGG1-Cys326. Although several studies have investigated the association between rs1052133 and lung cancer susceptibility, the effect of this locus on lung cancer according to histology remains unclear. We therefore conducted a case-control study with 515 incident lung cancer cases and 1030 age- and sex-matched controls without cancer, and further conducted a meta-analysis. In overall analysis, the homozygous Cys/Cys genotype showed a significant association with lung cancer compared to Ser allele carrier status (odds ratio (OR)=1.31, 95% confidence interval (CI)=1.02-1.69). By histology-based analysis, the Cys/Cys genotype showed a significantly positive association with small-cell carcinoma (OR=2.40, 95% CI=1.32-4.49) and marginally significant association with adenocarcinoma (OR=1.32, 95% CI=0.98-1.77). A meta-analysis of previous and our present study revealed that this polymorphism is positively associated with adenocarcinoma, although suggestive associations were also found for squamous- and small-cell lung cancers. These results indicate that rs1052133 contributes to the risk of adenocarcinoma of lung.",
+  "entities": [
+    {
+      "id": "4968",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hOGG1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "8-oxoguanine DNA glycosylase 1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 81,
+          "length": 30
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 113,
+          "length": 5
+        },
+        {
+          "text": "hOGG1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 387,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs1052133",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ser326Cys",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 9
+        },
+        {
+          "text": "rs1052133",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 230,
+          "length": 9
+        },
+        {
+          "text": "326 from Ser to Cys",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 296,
+          "length": 19
+        },
+        {
+          "text": "Cys326",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 393,
+          "length": 6
+        },
+        {
+          "text": "rs1052133",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 468,
+          "length": 9
+        },
+        {
+          "text": "rs1052133",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1453,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 482,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 538,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 652,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 855,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Human",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 75,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C024829",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "8-hydroxyguanine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 154,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 717,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D018288",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "small-cell carcinoma",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1068,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D000230",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1161,
+          "length": 14
+        },
+        {
+          "text": "adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1317,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002289,D055752",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "squamous- and small-cell lung cancers",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1386,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "D000077192",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adenocarcinoma of lung",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1490,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2",
+      "head_id": "D000230",
+      "tail_id": "rs1052133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018288",
+      "tail_id": "rs1052133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C024829",
+      "tail_id": "4968",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000077192",
+      "tail_id": "rs1052133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "4968",
+      "tail_id": "D000230",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "4968",
+      "tail_id": "D018288",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "4968",
+      "tail_id": "D000077192",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "4968",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D008175",
+      "tail_id": "rs1052133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

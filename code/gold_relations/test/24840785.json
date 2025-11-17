@@ -1,0 +1,450 @@
+{
+  "doc_id": "24840785",
+  "title": "Aconitine-induced Ca2+ overload causes arrhythmia and triggers apoptosis through p38 MAPK signaling pathway in rats.",
+  "body": "Aconitine is a major bioactive diterpenoid alkaloid with high content derived from herbal aconitum plants. Emerging evidence indicates that voltage-dependent Na(+) channels have pivotal roles in the cardiotoxicity of aconitine. However, no reports are available on the role of Ca(2+) in aconitine poisoning. In this study, we explored the importance of pathological Ca(2+) signaling in aconitine poisoning in vitro and in vivo. We found that Ca(2+) overload lead to accelerated beating rhythm in adult rat ventricular myocytes and caused arrhythmia in conscious freely moving rats. To investigate effects of aconitine on myocardial injury, we performed cytotoxicity assay in neonatal rat ventricular myocytes (NRVMs), as well as measured lactate dehydrogenase level in the culture medium of NRVMs and activities of serum cardiac enzymes in rats. The results showed that aconitine resulted in myocardial injury and reduced NRVMs viability dose-dependently. To confirm the pro-apoptotic effects, we performed flow cytometric detection, cardiac histology, transmission electron microscopy and terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick end labeling assay. The results showed that aconitine stimulated apoptosis time-dependently. The expression analysis of Ca(2+) handling proteins demonstrated that aconitine promoted Ca(2+) overload through the expression regulation of Ca(2+) handling proteins. The expression analysis of apoptosis-related proteins revealed that pro-apoptotic protein expression was upregulated, and anti-apoptotic protein BCL-2 expression was downregulated. Furthermore, increased phosphorylation of MAPK family members, especially the P-P38/P38 ratio was found in cardiac tissues. Hence, our results suggest that aconitine significantly aggravates Ca(2+) overload and causes arrhythmia and finally promotes apoptotic development via phosphorylation of P38 mitogen-activated protein kinase.",
+  "entities": [
+    {
+      "id": "D000157",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Aconitine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "Aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 117,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 334,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 404,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 503,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 725,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 987,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1315,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1434,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1869,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 4
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 394,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 483,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 559,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1391,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1453,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1506,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1904,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arrhythmia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 10
+        },
+        {
+          "text": "arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 655,
+          "length": 10
+        },
+        {
+          "text": "arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1931,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "81649",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 MAPK",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 8
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1755,
+          "length": 4
+        },
+        {
+          "text": "P38",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1793,
+          "length": 3
+        },
+        {
+          "text": "P38",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1797,
+          "length": 3
+        },
+        {
+          "text": "P38 mitogen-activated protein kinase",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2008,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 619,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 693,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 801,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 957,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diterpenoid alkaloid",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 148,
+          "length": 20
+        },
+        {
+          "text": "dUTP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1254,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Na(+)",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 275,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 316,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D011041",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "poisoning",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 414,
+          "length": 9
+        },
+        {
+          "text": "poisoning",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 513,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial injury",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 738,
+          "length": 17
+        },
+        {
+          "text": "myocardial injury",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1009,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cytotoxicity",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 770,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "24533",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactate dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 855,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D001710",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "biotin",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1259,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "24224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL-2",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1677,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012964",
+      "tail_id": "D066126",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002118",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001145",
+      "tail_id": "81649",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000157",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000157",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000157",
+      "tail_id": "81649",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000157",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000157",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

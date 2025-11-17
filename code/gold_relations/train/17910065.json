@@ -1,0 +1,200 @@
+{
+  "doc_id": "17910065",
+  "title": "A novel missense mutation in the paired domain of human PAX9 causes oligodontia.",
+  "body": "PAX9 and MSX1 are transcription factors that play essential roles in craniofacial and limb development. In humans, mutations in both genes are associated with nonsyndromic and syndromic oligodontia, respectively. We screened one family with nonsyndromic oligodontia for mutations in PAX9 and MSX1. Single stranded conformational polymorphism (SSCP) analysis and sequencing revealed a novel heterozygous C139T transition in PAX9 in the affected members of the family. There were no mutations detected in the entire coding sequence of MSX1. The C139T mutation, predicted to result in the substitution of an arginine by a tryptophan (R47W) in the N-terminal subdomain, affected conserved residues in the PAX9 paired domain. To elucidate the pathogenic mechanism producing oligodontia phenotype caused by this mutation, we analyzed the binding of wild-type and mutant PAX9 paired domain protein to double-stranded DNA targets. The R47W mutation dramatically reduced DNA binding suggesting that the mutant protein with consequent haploinsufficiency results in a clinical phenotype.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 188,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "5083",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAX9",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 4
+        },
+        {
+          "text": "PAX9",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 81,
+          "length": 4
+        },
+        {
+          "text": "PAX9",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 364,
+          "length": 4
+        },
+        {
+          "text": "PAX9",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 504,
+          "length": 4
+        },
+        {
+          "text": "PAX9",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 782,
+          "length": 4
+        },
+        {
+          "text": "PAX9",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 945,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C538049",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oligodontia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 11
+        },
+        {
+          "text": "nonsyndromic and syndromic oligodontia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 240,
+          "length": 38
+        },
+        {
+          "text": "nonsyndromic oligodontia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 322,
+          "length": 24
+        },
+        {
+          "text": "oligodontia phenotype",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 850,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "4487",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MSX1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 90,
+          "length": 4
+        },
+        {
+          "text": "MSX1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 373,
+          "length": 4
+        },
+        {
+          "text": "MSX1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 614,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs121917720",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C139T",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 484,
+          "length": 5
+        },
+        {
+          "text": "C139T",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 624,
+          "length": 5
+        },
+        {
+          "text": "arginine by a tryptophan",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 686,
+          "length": 24
+        },
+        {
+          "text": "R47W",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 712,
+          "length": 4
+        },
+        {
+          "text": "R47W",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1008,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4487",
+      "tail_id": "C538049",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs121917720",
+      "tail_id": "C538049",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "5083",
+      "tail_id": "C538049",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

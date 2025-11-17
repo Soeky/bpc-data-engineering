@@ -1,0 +1,402 @@
+{
+  "doc_id": "17083016",
+  "title": "Genetic polymorphism of the binding domain of surfactant protein-A2 increases susceptibility to meningococcal disease.",
+  "body": "BACKGROUND: Meningococcal disease occurs after colonization of the nasopharynx with Neisseria meningitidis. Surfactant protein (SP)-A and SP-D are pattern-recognition molecules of the respiratory tract that activate inflammatory and phagocytic defences after binding to microbial sugars. Variation in the genes of the surfactant proteins affects the expression and function of these molecules. METHODS: Allele frequencies of SP-A1, SP-A2, and SP-D were determined by polymerase chain reaction in 303 patients with microbiologically proven meningococcal disease, including 18 patients who died, and 222 healthy control subjects. RESULTS: Homozygosity of allele 1A1 of SP-A2 increased the risk of meningococcal disease (odds ratio [OR], 7.4; 95% confidence interval [CI], 1.3-42.4); carriage of 1A5 reduced the risk (OR, 0.3; 95% CI, 0.1-0.97). An analysis of the multiple single-nucleotide polymorphisms in SP-A demonstrated that homozygosity for alleles encoding lysine (in 1A1) rather than glutamine (in 1A5) at amino acid 223 in the carbohydrate recognition domain was associated with an increased risk of meningococcal disease (OR, 6.7; 95% CI, 1.4-31.5). Carriage of alleles encoding lysine at residue 223 was found in 61% of patients who died, compared with 35% of those who survived (OR adjusted for age, 2.9; 95% CI, 1.1-7.7). Genetic variation of SP-A1 and SP-D was not associated with meningococcal disease. CONCLUSIONS: Gene polymorphism resulting in the substitution of glutamine with lysine at residue 223 in the carbohydrate recognition domain of SP-A2 increases susceptibility to meningococcal disease, as well as the risk of death.",
+  "entities": [
+    {
+      "id": "729238",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "surfactant protein-A2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 21
+        },
+        {
+          "text": "SP-A2",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 551,
+          "length": 5
+        },
+        {
+          "text": "SP-A2",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 786,
+          "length": 5
+        },
+        {
+          "text": "SP-A2",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1679,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008589",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "meningococcal disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 21
+        },
+        {
+          "text": "Meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 131,
+          "length": 21
+        },
+        {
+          "text": "meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 658,
+          "length": 21
+        },
+        {
+          "text": "meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 814,
+          "length": 21
+        },
+        {
+          "text": "meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1227,
+          "length": 21
+        },
+        {
+          "text": "meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1513,
+          "length": 21
+        },
+        {
+          "text": "meningococcal disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1713,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D006069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Neisseria meningitidis",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 203,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "653509,729238",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Surfactant protein (SP)-A",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 227,
+          "length": 25
+        },
+        {
+          "text": "SP-A",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1025,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6441",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SP-D",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 257,
+          "length": 4
+        },
+        {
+          "text": "SP-D",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 562,
+          "length": 4
+        },
+        {
+          "text": "SP-D",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1484,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 335,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000073893",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sugars",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 399,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "653509",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SP-A1",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 544,
+          "length": 5
+        },
+        {
+          "text": "SP-A1",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1474,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 619,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 694,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1349,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "died",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 707,
+          "length": 4
+        },
+        {
+          "text": "died",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1362,
+          "length": 4
+        },
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1759,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|Q|223|K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "lysine (in 1A1) rather than glutamine (in 1A5) at amino acid 223",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1082,
+          "length": 64
+        },
+        {
+          "text": "glutamine with lysine at residue 223",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1600,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "D002241",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbohydrate",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1154,
+          "length": 12
+        },
+        {
+          "text": "carbohydrate",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1644,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|K|223",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "lysine at residue 223",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1307,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6441",
+      "tail_id": "D000073893",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "6441",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "653509",
+      "tail_id": "D000073893",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "653509",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|Allele|K|223",
+      "tail_id": "D003643",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D002241",
+      "tail_id": "729238",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "c|SUB|Q|223|K",
+      "tail_id": "D003643",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "c|SUB|Q|223|K",
+      "tail_id": "D002241",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|SUB|Q|223|K",
+      "tail_id": "D008589",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "729238",
+      "tail_id": "D000073893",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "729238",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "729238",
+      "tail_id": "D003643",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "729238",
+      "tail_id": "D008589",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "doc_id": "7468724",
+  "title": "Cardiovascular complications associated with terbutaline treatment for preterm labor.",
+  "body": "Severe cardiovascular complications occurred in eight of 160 patients treated with terbutaline for preterm labor. Associated corticosteroid therapy and twin gestations appear to be predisposing factors. Potential mechanisms of the pathophysiology are briefly discussed.",
+  "entities": [
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cardiovascular complications",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 28
+        },
+        {
+          "text": "cardiovascular complications",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 93,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D013726",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "terbutaline",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 11
+        },
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 169,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007752",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "preterm labor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 13
+        },
+        {
+          "text": "preterm labor",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 185,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 147,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000305",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "corticosteroid",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 211,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007752",
+      "tail_id": "D000305",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013726",
+      "tail_id": "D000305",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013726",
+      "tail_id": "D007752",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002318",
+      "tail_id": "D000305",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D002318",
+      "tail_id": "D013726",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

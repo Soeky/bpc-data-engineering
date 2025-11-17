@@ -1,0 +1,240 @@
+{
+  "doc_id": "16018252",
+  "title": "Two novel mutations in SRY gene form Chinese sex reversal XY females.",
+  "body": "The SRY gene (sex determining region on Y chromosome) acts as TDF and is required for regulating male sex determination. SRY represents a transcription factor belonging to the superfamily of genes sharing the HMG-box motif (high-mobility group-box), which acts as DNA binding region. Deletion and inactivating mutations of SRY are among the known causes of XY sex reversal. Here, we described the screening of 10 patients who presented with 46,XY sex reversal for mutations in open reading frame (ORF) of SRY gene. DNA was isolated from blood samples using standard techniques. A 609 bp fragment from the central portion of the SRY gene was amplified, using primers XES-2 and XES-7. The amplified PCR fragments were cloned into the pUCm-T vectors, and direct sequencing were carried out on an ABI 377-3 automated DNA sequencer to detect the mutation. PCR-restriction enzyme digestion was applied to detect the results of DNA sequencing. In two patients,de novo mutations led to an amino acid substitution. An A was replaced by a G in codon 38 upstream of the 5' border outside the HMG box of the SRY gene, resulting in the replacement of the amino acid glutamate by glycine. Another heterozygous T to A transition at the nucleotide position +387 which encodes for a Tyrosine (Tyr) instead of a Term, whereas her father was proven to have the wild-type sequence. These point mutations have been confirmed with PCR-restrict enzyme method. As demonstrated by the Human Gene Mutation Database analysis,homology search, and review of the literature, these two mutations were not described previously and brought the total number of SRY gene nucleotide substitutions (missense/nonsense) to 45. These findings indicated that these amino acid substitutions may be responsible for the sex reversal,not only inside the HMG-box but also outside the HMG-box. The two novel mutations in SRY gene provided valuable information for understanding the molecular mechanism of the patient with 46,XY female sex reversal.",
+  "entities": [
+    {
+      "id": "6736",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SRY",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 74,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 191,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 393,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 575,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 698,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1166,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1697,
+          "length": 3
+        },
+        {
+          "text": "SRY",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1944,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "OMIM:400044",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sex reversal XY",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 15
+        },
+        {
+          "text": "XY sex reversal",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 427,
+          "length": 15
+        },
+        {
+          "text": "46,XY sex reversal",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 511,
+          "length": 18
+        },
+        {
+          "text": "sex reversal",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1846,
+          "length": 12
+        },
+        {
+          "text": "46,XY female sex reversal",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 2045,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 483,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1014,
+          "length": 8
+        },
+        {
+          "text": "Human",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1530,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 2032,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|CODON38|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A was replaced by a G in codon 38",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1079,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E||G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "glutamate by glycine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1223,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|387|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T to A transition at the nucleotide position +387",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1266,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|Y||X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Tyrosine (Tyr) instead of a Term",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1336,
+          "length": 32
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "OMIM:400044",
+      "tail_id": "c|SUB|A|CODON38|G",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "OMIM:400044",
+      "tail_id": "6736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "OMIM:400044",
+      "tail_id": "c|SUB|Y||X",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "OMIM:400044",
+      "tail_id": "c|SUB|T|387|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "OMIM:400044",
+      "tail_id": "p|SUB|E||G",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

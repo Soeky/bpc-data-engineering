@@ -1,0 +1,361 @@
+{
+  "doc_id": "15018851",
+  "title": "Comparison of sequential cytomegalovirus isolates in a patient with lymphoma and failing antiviral therapy.",
+  "body": "BACKGROUND: Long-term anti-cytomegalovirus (CMV) treatments in immunocompromised patients are hampered by resistance to antiviral drugs. Longitudinal changes in the resistance genotype may depend on changes in selective pressure and the complexity of CMV isolates. OBJECTIVE: To evaluate longitudinal changes in the CMV resistance genotype and phenotype along with strain-specific variability in a patient with non-Hodgkin's lymphoma in whom successive anti-CMV treatments failed. STUDY DESIGN: The resistance phenotype and genotype of seven CMV isolates collected from one patient during a 2-year follow-up period were retrospectively analysed. In parallel, we used glycoprotein B (gB) genotyping, and a- and UL10-13-sequence analysis to study CMV interstrain variability. RESULTS: The patient was infected by at least three CMV strains plus variants of the parental strains. Resistance to ganciclovir, cidofovir and foscarnet was successively detected during the follow-up period. UL97 protein kinase changes responsible for resistance to ganciclovir were initially detected at residues 591 and 592, and then at position 594. Decreased sensitivity to foscarnet coincided with the appearance of amino acid substitution N495K in DNA polymerase, whereas cross-resistance to ganciclovir and cidofovir was due to the L501I substitution. CONCLUSIONS: The CMV isolates obtained from our patient were complex mixtures of strains. Changes in resistance genotypes depended on resistance selective pressure and were not linked to interstrain variation.",
+  "entities": [
+    {
+      "id": "10358",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "cytomegalovirus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 189,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 506,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 682,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 895,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1490,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003586",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Long-term anti-cytomegalovirus",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 120,
+          "length": 30
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 152,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 359,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 424,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 566,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 650,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 853,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 934,
+          "length": 3
+        },
+        {
+          "text": "CMV",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1459,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008228",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "non-Hodgkin's lymphoma",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 519,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "2813",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein B",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 775,
+          "length": 14
+        },
+        {
+          "text": "gB",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 791,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D015774",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ganciclovir",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 999,
+          "length": 11
+        },
+        {
+          "text": "ganciclovir",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1149,
+          "length": 11
+        },
+        {
+          "text": "ganciclovir",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1381,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000077404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cidofovir",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1012,
+          "length": 9
+        },
+        {
+          "text": "cidofovir",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1397,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D017245",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "foscarnet",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1026,
+          "length": 9
+        },
+        {
+          "text": "foscarnet",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1261,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3077517",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "UL97 protein kinase",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1091,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|N|495|K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "N495K",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1328,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|501|I",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L501I",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1422,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3077517",
+      "tail_id": "D017245",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3077517",
+      "tail_id": "D000077404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "3077517",
+      "tail_id": "D015774",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D017245",
+      "tail_id": "p|SUB|N|495|K",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000077404",
+      "tail_id": "p|SUB|L|501|I",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D015774",
+      "tail_id": "p|SUB|L|501|I",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003586",
+      "tail_id": "D017245",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003586",
+      "tail_id": "D000077404",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003586",
+      "tail_id": "D015774",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "2813",
+      "tail_id": "D003586",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

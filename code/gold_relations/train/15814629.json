@@ -1,0 +1,311 @@
+{
+  "doc_id": "15814629",
+  "title": "The number of lymph node metastases in gastric cancer correlates with the angiotensin I-converting enzyme gene insertion/deletion polymorphism.",
+  "body": "PURPOSE: In the present study, we aimed to substantiate the putative significance of angiotensin I-converting enzyme (ACE) on gastric cancer biology by investigating the influence of its gene polymorphism on gastric cancer progression. EXPERIMENTAL DESIGN: Genomic DNA was purified from peripheral blood mononuclear cells or tissue specimens. Amplified ACE gene fragments were separated on agarose gels. D or I alleles were identified by the presence of 190- or 490-bp fragments, respectively. Local expression of ACE was investigated by immunohistochemistry. RESULTS: Twenty-four of 113 (21%) gastric cancer patients had the II, 57 (51%) the ID, and 32 (28%) the DD genotype. The distribution of the ACE genotypes did not differ significantly from the control group of 189 patients without gastric cancer. However, the ACE genotypes correlated with the number of lymph node metastases and the Unio Internationale Contra Cancrum (UICC) tumor stage. Patients with the II genotype had a highly significantly smaller number of lymph node metastases (P < 0.001) and a significantly lower UICC tumor stage (P = 0.01) than patients with the DD genotype. No correlation was found between tumor type, tumor location, local tumor growth, distant metastases, and the ACE genotype. The expression of ACE in gastric cancer was investigated by immunohistochemistry in 100 of 113 patients. ACE was expressed by endothelial cells in all (100%) specimens and by tumor cells in 56 (56%) specimens. CONCLUSIONS: Our study shows that ACE is expressed locally in gastric cancer and that the gene polymorphism influences metastatic behavior.",
+  "entities": [
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lymph node metastases",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 21
+        },
+        {
+          "text": "lymph node metastases",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1008,
+          "length": 21
+        },
+        {
+          "text": "lymph node metastases",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1168,
+          "length": 21
+        },
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1381,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D013274",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 270,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 352,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 738,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 935,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1440,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1687,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin I-converting enzyme",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 31
+        },
+        {
+          "text": "angiotensin I-converting enzyme",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 229,
+          "length": 31
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 262,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 497,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 658,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 845,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 964,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1401,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1433,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1520,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1659,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012685",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "agarose",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 534,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 753,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 918,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1093,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1261,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1510,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1080,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1233,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1325,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1337,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1359,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1590,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1636",
+      "tail_id": "D012685",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "1636",
+      "tail_id": "D013274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1636",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009362",
+      "tail_id": "1636",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

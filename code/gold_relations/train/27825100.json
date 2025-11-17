@@ -1,0 +1,378 @@
+{
+  "doc_id": "27825100",
+  "title": "High glucose repatterns human podocyte energy metabolism during differentiation and diabetic nephropathy.",
+  "body": "Podocytes play a key role in diabetic nephropathy pathogenesis, but alteration of their metabolism remains unknown in human kidney. By using a conditionally differentiating human podocyte cell line, we addressed the functional and molecular changes in podocyte energetics during in vitro development or under high glucose conditions. In 5 mM glucose medium, we observed a stepwise activation of oxidative metabolism during cell differentiation that was characterized by peroxisome proliferator-activated receptor-g coactivator 1a (PGC-1a)-dependent stimulation of mitochondrial biogenesis and function, with concomitant reduction of the glycolytic enzyme content. Conversely, when podocytes were cultured in high glucose (20 mM), stepwise oxidative phosphorylation biogenesis was aborted, and a glycolytic switch occurred, with consecutive lactic acidosis. Expression of the master regulators of oxidative metabolism transcription factor A mitochondrial, PGC-1a, AMPK, and serine-threonine liver kinase B1 was altered by high glucose, as well as their downstream signaling networks. Focused transcriptomics revealed that myocyte-specific enhancer factor 2C (MEF2C) and myogenic factor 5 (MYF5) expression was inhibited by high glucose levels, and endoribonuclease-prepared small interfering RNA-mediated combined inhibition of those transcription factors phenocopied the glycolytic shift that was observed in high glucose conditions. Accordingly, a reduced expression of MEF2C, MYF5, and PGC-1a was found in kidney tissue sections that were obtained from patients with diabetic nephropathy. These findings obtained in human samples demonstrate that MEF2C-MYF5-dependent bioenergetic dedifferentiation occurs in podocytes that are confronted with a high-glucose milieu.-Imasawa, T., Obre, E., Bellance, N., Lavie, J., Imasawa, T., Rigothier, C., Delmas, Y., Combe, C., Lacombe, D., Benard, G., Claverol, S., Bonneu, M., Rossignol, R. High glucose repatterns human podocyte energy metabolism during differentiation and diabetic nephropathy.",
+  "entities": [
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 5,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 420,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 448,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 819,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1132,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1333,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1520,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1859,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 2044,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 224,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 279,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1661,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1724,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 2063,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003928",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 20
+        },
+        {
+          "text": "diabetic nephropathy",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 135,
+          "length": 20
+        },
+        {
+          "text": "diabetic nephropathy",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1675,
+          "length": 20
+        },
+        {
+          "text": "diabetic nephropathy",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 2123,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "10891",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "peroxisome proliferator-activated receptor-g coactivator 1a",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 576,
+          "length": 59
+        },
+        {
+          "text": "PGC-1a",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 637,
+          "length": 6
+        },
+        {
+          "text": "master regulators of oxidative metabolism transcription factor A mitochondrial",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 981,
+          "length": 78
+        },
+        {
+          "text": "PGC-1a",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1061,
+          "length": 6
+        },
+        {
+          "text": "PGC-1a",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1594,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000140",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lactic acidosis",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 946,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "5562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1069,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6794",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "serine-threonine liver kinase B1",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1079,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "4208",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myocyte-specific enhancer factor 2C",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1227,
+          "length": 35
+        },
+        {
+          "text": "MEF2C",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1264,
+          "length": 5
+        },
+        {
+          "text": "MEF2C",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1577,
+          "length": 5
+        },
+        {
+          "text": "MEF2C",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1755,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myogenic factor 5",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1275,
+          "length": 17
+        },
+        {
+          "text": "MYF5",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1294,
+          "length": 4
+        },
+        {
+          "text": "MYF5",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1584,
+          "length": 4
+        },
+        {
+          "text": "MYF5",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1761,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4617",
+      "tail_id": "D003928",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4617",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "4208",
+      "tail_id": "D003928",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4208",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "6794",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5562",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "10891",
+      "tail_id": "D003928",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "10891",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005947",
+      "tail_id": "D003928",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005947",
+      "tail_id": "D000140",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

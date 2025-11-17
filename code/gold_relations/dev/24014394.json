@@ -1,0 +1,437 @@
+{
+  "doc_id": "24014394",
+  "title": "A homozygous mutation in LYRM7/MZM1L associated with early onset encephalopathy, lactic acidosis, and severe reduction of mitochondrial complex III activity.",
+  "body": "Mutations in nuclear genes associated with defective complex III (cIII) of the mitochondrial respiratory chain are rare, having been found in only two cIII assembly factors and, as private changes in single families, three cIII structural subunits. Recently, human LYRM7/MZM1L, the ortholog of yeast MZM1, has been identified as a new assembly factor for cIII. In a baby patient with early onset, severe encephalopathy, lactic acidosis and profound, isolated cIII deficiency in skeletal muscle, we identified a disease-segregating homozygous mutation (c.73G>A) in LYRM7/MZM1L, predicting a drastic change in a highly conserved amino-acid residue (p.Asp25Asn). In a mzm1D yeast strain, the expression of a mzm1(D25N) mutant allele caused temperature-sensitive respiratory growth defect, decreased oxygen consumption, impaired maturation/stabilization of the Rieske Fe-S protein, and reduced complex III activity and amount. LYRM7/MZM1L is a novel disease gene, causing cIII-defective, early onset, severe mitochondrial encephalopathy.",
+  "entities": [
+    {
+      "id": "90624",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LYRM7",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 5
+        },
+        {
+          "text": "MZM1L",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 5
+        },
+        {
+          "text": "LYRM7",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 423,
+          "length": 5
+        },
+        {
+          "text": "MZM1L",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 429,
+          "length": 5
+        },
+        {
+          "text": "LYRM7",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 722,
+          "length": 5
+        },
+        {
+          "text": "MZM1L",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 728,
+          "length": 5
+        },
+        {
+          "text": "LYRM7",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1081,
+          "length": 5
+        },
+        {
+          "text": "MZM1L",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1087,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "encephalopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 14
+        },
+        {
+          "text": "encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 562,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000140",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lactic acidosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 15
+        },
+        {
+          "text": "lactic acidosis",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 578,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "C565128",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "reduction of mitochondrial complex III",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 109,
+          "length": 38
+        },
+        {
+          "text": "defective complex III (cIII) of the mitochondrial",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 201,
+          "length": 49
+        },
+        {
+          "text": "cIII deficiency",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 617,
+          "length": 15
+        },
+        {
+          "text": "cIII-defective",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1126,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cIII",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 309,
+          "length": 4
+        },
+        {
+          "text": "cIII",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 381,
+          "length": 4
+        },
+        {
+          "text": "cIII",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 513,
+          "length": 4
+        },
+        {
+          "text": "complex III",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1048,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 417,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 529,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4932",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "yeast",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 452,
+          "length": 5
+        },
+        {
+          "text": "yeast",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 829,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "852104",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MZM1",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 458,
+          "length": 4
+        },
+        {
+          "text": "mzm1D",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 823,
+          "length": 5
+        },
+        {
+          "text": "mzm1",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 863,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs587777433",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.73G>A",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 710,
+          "length": 7
+        },
+        {
+          "text": "p.Asp25Asn",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 805,
+          "length": 10
+        },
+        {
+          "text": "D25N",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 868,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012131",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory growth defect",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 917,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 954,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "856689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rieske Fe-S protein",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1015,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "C538525",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1162,
+          "length": 28
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs587777433",
+      "tail_id": "D010100",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs587777433",
+      "tail_id": "D012131",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs587777433",
+      "tail_id": "D001927",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012131",
+      "tail_id": "90624",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "852104",
+      "tail_id": "617",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "852104",
+      "tail_id": "D010100",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "852104",
+      "tail_id": "856689",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "852104",
+      "tail_id": "D012131",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000140",
+      "tail_id": "rs587777433",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C565128",
+      "tail_id": "rs587777433",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C565128",
+      "tail_id": "617",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "90624",
+      "tail_id": "C538525",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "90624",
+      "tail_id": "617",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "90624",
+      "tail_id": "D000140",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "90624",
+      "tail_id": "C565128",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "90624",
+      "tail_id": "D001927",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

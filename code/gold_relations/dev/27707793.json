@@ -1,0 +1,232 @@
+{
+  "doc_id": "27707793",
+  "title": "MicroRNA deep sequencing in two adult stem cell populations identifies miR-501 as a novel regulator of myosin heavy chain during muscle regeneration.",
+  "body": "MicroRNAs (miRNAs) are important regulators of skeletal muscle regeneration, but the underlying mechanisms are still incompletely understood. Here, comparative miRNA sequencing analysis of myogenic progenitor cells (MPs) and non-myogenic fibroblast-adipocyte progenitors (FAPs) during cardiotoxin (CTX)-induced muscle injury uncovered miR-501 as a novel muscle-specific miRNA. miR-501 is an intronic miRNA and its expression levels in MPs correlated with its host gene, chloride channel, voltage-sensitive 5 (Clcn5). Pharmacological inhibition of miR-501 dramatically blunted the induction of embryonic myosin heavy chain (MYH3) and, to a lesser extent, adult myosin isoforms during muscle regeneration, and promoted small-diameter neofibers. An unbiased target identification approach in primary myoblasts validated gigaxonin as a target of miR-501 that mimicked the effect of miR-501 inhibition on MYH3 expression. In the mdx mouse model, which models a pathological disease state, not only was miR-501 induced in regenerating skeletal muscle, but also its serum levels were increased, which correlated with the disease state of the animals. Our results suggest that miR-501 plays a key role in adult muscle regeneration and might serve as a novel serum biomarker for the activation of adult muscle stem cells.",
+  "entities": [
+    {
+      "id": "751560",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "miR-501",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 485,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 527,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 697,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 992,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1028,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1147,
+          "length": 7
+        },
+        {
+          "text": "miR-501",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1319,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "17883",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myosin heavy chain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 18
+        },
+        {
+          "text": "myosin heavy chain",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 753,
+          "length": 18
+        },
+        {
+          "text": "MYH3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 773,
+          "length": 4
+        },
+        {
+          "text": "MYH3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1050,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D054715",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cardiotoxin",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 435,
+          "length": 11
+        },
+        {
+          "text": "CTX",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 448,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009135",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscle injury",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 461,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chloride channel, voltage-sensitive 5",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 620,
+          "length": 37
+        },
+        {
+          "text": "Clcn5",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 659,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17879",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adult myosin isoforms",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 804,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "209239",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gigaxonin",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 967,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1078,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D054715",
+      "tail_id": "D009135",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "751560",
+      "tail_id": "12728",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "751560",
+      "tail_id": "D009135",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "751560",
+      "tail_id": "17883",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "209239",
+      "tail_id": "751560",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

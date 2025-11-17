@@ -1,0 +1,150 @@
+{
+  "doc_id": "15188772",
+  "title": "Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic epinephrine overdose.",
+  "body": "Catecholamine-induced cardiomyopathy due to chronic excess of endogenous catecholamines has been recognized for decades as a clinical phenomenon. In contrast, reports of myocardial dysfunction due to acute iatrogenic overdose are rare. A 35-year-old woman whose cervix uteri was inadvertently injected with 8 mg of epinephrine developed myocardial stunning that was characterized by severe hemodynamic compromise, profound, albeit transient, left ventricular systolic and diastolic dysfunction, and only modestly elevated biochemical markers of myocardial necrosis. Our case illustrates the serious consequences of medical errors that can be avoided through improved medication labeling and staff supervision.",
+  "entities": [
+    {
+      "id": "D018487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "left ventricular systolic and diastolic dysfunction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 51
+        },
+        {
+          "text": "left ventricular systolic and diastolic dysfunction",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 563,
+          "length": 51
+        }
+      ]
+    },
+    {
+      "id": "D004837",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "epinephrine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 11
+        },
+        {
+          "text": "epinephrine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 436,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D002395",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Catecholamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 121,
+          "length": 13
+        },
+        {
+          "text": "catecholamines",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 194,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 143,
+          "length": 14
+        },
+        {
+          "text": "myocardial dysfunction",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 291,
+          "length": 22
+        },
+        {
+          "text": "myocardial necrosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 666,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 371,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D017682",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial stunning",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 458,
+          "length": 19
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002395",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009202",
+      "tail_id": "D004837",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004837",
+      "tail_id": "D017682",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018487",
+      "tail_id": "D004837",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

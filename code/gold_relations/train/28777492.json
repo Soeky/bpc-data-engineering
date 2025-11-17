@@ -1,0 +1,532 @@
+{
+  "doc_id": "28777492",
+  "title": "Gankyrin induces STAT3 activation in tumor microenvironment and sorafenib resistance in hepatocellular carcinoma.",
+  "body": "Most hepatocellular carcinomas (HCC) develop as a result of chronic liver inflammation. We have shown that the oncoprotein gankyrin is critical for inflammation-induced tumorigenesis in the colon. Although the in vitro function of gankyrin is well known, its role in vivo remains to be elucidated. We investigated the effect of gankyrin in the tumor microenvironment of mice with liver parenchymal cell-specific gankyrin ablation (Alb-Cre;gankyrin(f/f) ) and gankyrin deletion both in liver parenchymal and non-parenchymal cells (Mx1-Cre;gankyrin(f/f) ). Gankyrin upregulates vascular endothelial growth factor expression in tumor cells. Gankyrin binds to Src homology 2 domain-containing protein tyrosine phosphatase-1 (SHP-1), mainly expressed in liver non-parenchymal cells, resulting in phosphorylation and activation of signal transducer and activator of transcription 3 (STAT3). Gankyrin deficiency in non-parenchymal cells, but not in parenchymal cells, reduced STAT3 activity, interleukin (IL)-6 production, and cancer stem cell marker (Bmi1 and epithelial cell adhesion molecule [EpCAM]) expression, leading to attenuated tumorigenic potential. Chronic inflammation enhances gankyrin expression in the human liver. Gankyrin expression in the tumor microenvironment is negatively correlated with progression-free survival in patients undergoing sorafenib treatment for HCC. Thus, gankyrin appears to play a critical oncogenic function in tumor microenvironment and may be a potential target for developing therapeutic and preventive strategies against HCC.",
+  "entities": [
+    {
+      "id": "53380",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Gankyrin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "oncoprotein",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 225,
+          "length": 11
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 237,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 442,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 526,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 553,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 573,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 652,
+          "length": 8
+        },
+        {
+          "text": "Gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 752,
+          "length": 8
+        },
+        {
+          "text": "Gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 999,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1502,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "20848",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 5
+        },
+        {
+          "text": "signal transducer and activator of transcription 3",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 939,
+          "length": 50
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 991,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1083,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 5
+        },
+        {
+          "text": "tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 283,
+          "length": 13
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 458,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 739,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1134,
+          "length": 6
+        },
+        {
+          "text": "tumorigenic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1245,
+          "length": 11
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1365,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1560,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000077157",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sorafenib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1467,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatocellular carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 24
+        },
+        {
+          "text": "hepatocellular carcinomas",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 119,
+          "length": 25
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 146,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1491,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1674,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic liver inflammation",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 174,
+          "length": 26
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 262,
+          "length": 12
+        },
+        {
+          "text": "Chronic inflammation",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1268,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "5716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 345,
+          "length": 8
+        },
+        {
+          "text": "Gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 669,
+          "length": 8
+        },
+        {
+          "text": "gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1298,
+          "length": 8
+        },
+        {
+          "text": "Gankyrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1338,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 484,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11657",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Alb",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 545,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "17857",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mx1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 644,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "22339",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 690,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "15170",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Src homology 2 domain-containing protein tyrosine phosphatase-1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 770,
+          "length": 63
+        },
+        {
+          "text": "SHP-1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 835,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin (IL)-6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1099,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "12151",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bmi1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1159,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17075",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "epithelial cell adhesion molecule",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1168,
+          "length": 33
+        },
+        {
+          "text": "EpCAM",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1203,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1325,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1447,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007249",
+      "tail_id": "5716",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "5716",
+      "tail_id": "22339",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000077157",
+      "tail_id": "D006528",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "53380",
+      "tail_id": "D006528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "53380",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "53380",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "53380",
+      "tail_id": "17075",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "53380",
+      "tail_id": "12151",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "53380",
+      "tail_id": "16193",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "53380",
+      "tail_id": "15170",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "53380",
+      "tail_id": "D000077157",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "53380",
+      "tail_id": "20848",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

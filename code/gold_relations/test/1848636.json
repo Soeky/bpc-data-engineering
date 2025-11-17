@@ -1,0 +1,315 @@
+{
+  "doc_id": "1848636",
+  "title": "Debrisoquine phenotype and the pharmacokinetics and beta-2 receptor pharmacodynamics of metoprolol and its enantiomers.",
+  "body": "The metabolism of the cardioselective beta-blocker metoprolol is under genetic control of the debrisoquine/sparteine type. The two metabolic phenotypes, extensive (EM) and poor metabolizers (PM), show different stereoselective metabolism, resulting in apparently higher beta-1 adrenoceptor antagonistic potency of racemic metoprolol in EMs. We investigated if the latter also applies to the beta-2 adrenoceptor antagonism by metoprolol. The drug effect studied was the antagonism by metoprolol of terbutaline-induced hypokalemia. By using pharmacokinetic pharmacodynamic modeling the pharmacodynamics of racemic metoprolol and the active S-isomer, were quantitated in EMs and PMs in terms of IC50 values, representing metoprolol plasma concentrations resulting in half-maximum receptor occupancy. Six EMs received 0.5 mg of terbutaline s.c. on two different occasions: 1) 1 hr after administration of a placebo and 2) 1 hr after 150 mg of metoprolol p.o. Five PMs were studied according to the same protocol, except for a higher terbutaline dose (0.75 mg) on day 2. Blood samples for the analysis of plasma potassium, terbutaline, metoprolol (racemic, R- and S-isomer), and alpha-hydroxymetoprolol concentrations were taken at regular time intervals, during 8 hr after metoprolol. In PMs, metoprolol increased the terbutaline area under the plasma concentration vs. time curve (+67%). Higher metoprolol/alpha-hydroxymetoprolol ratios in PMs were predictive for higher R-/S-isomer ratios of unchanged drug. There was a difference in metoprolol potency with higher racemic metoprolol IC50 values in PMs (72 +/- 7 ng.ml-1) than EMs (42 +/- 8 ng.ml-1, P less than .001).(ABSTRACT TRUNCATED AT 250 WORDS)",
+  "entities": [
+    {
+      "id": "D003647",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Debrisoquine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "debrisoquine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 214,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-2 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 15
+        },
+        {
+          "text": "beta-2 adrenoceptor",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 511,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D008790",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "metoprolol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 171,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 442,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 545,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 603,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 732,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 838,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1059,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1251,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1389,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1409,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1512,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1652,
+          "length": 10
+        },
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1691,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D013034",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sparteine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 227,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-1 adrenoceptor",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 390,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D013726",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 617,
+          "length": 11
+        },
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 944,
+          "length": 11
+        },
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1149,
+          "length": 11
+        },
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1238,
+          "length": 11
+        },
+        {
+          "text": "terbutaline",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1434,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 637,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1227,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C029504",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alpha-hydroxymetoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1294,
+          "length": 23
+        },
+        {
+          "text": "alpha-hydroxymetoprolol",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1523,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "153",
+      "tail_id": "D008790",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013726",
+      "tail_id": "D007008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008790",
+      "tail_id": "D013034",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008790",
+      "tail_id": "D003647",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008790",
+      "tail_id": "D013726",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008790",
+      "tail_id": "D007008",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008790",
+      "tail_id": "154",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

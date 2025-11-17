@@ -1,0 +1,434 @@
+{
+  "doc_id": "16629641",
+  "title": "Definition and management of anemia in patients infected with hepatitis C virus.",
+  "body": "Chronic infection with hepatitis C virus (HCV) can progress to cirrhosis, hepatocellular carcinoma, and end-stage liver disease. The current best treatment for HCV infection is combination therapy with pegylated interferon and ribavirin. Although this regimen produces sustained virologic responses (SVRs) in approximately 50% of patients, it can be associated with a potentially dose-limiting hemolytic anemia. Hemoglobin concentrations decrease mainly as a result of ribavirin-induced hemolysis, and this anemia can be problematic in patients with HCV infection, especially those who have comorbid renal or cardiovascular disorders. In general, anemia can increase the risk of morbidity and mortality, and may have negative effects on cerebral function and quality of life. Although ribavirin-associated anemia can be reversed by dose reduction or discontinuation, this approach compromises outcomes by significantly decreasing SVR rates. Recombinant human erythropoietin has been used to manage ribavirin-associated anemia but has other potential disadvantages. Viramidine, a liver-targeting prodrug of ribavirin, has the potential to maintain the virologic efficacy of ribavirin while decreasing the risk of hemolytic anemia in patients with chronic hepatitis C.",
+  "entities": [
+    {
+      "id": "D000740",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 588,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 728,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 887,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1100,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 411,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 617,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1034,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1313,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006526",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infected with hepatitis C virus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 31
+        },
+        {
+          "text": "HCV infection",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 241,
+          "length": 13
+        },
+        {
+          "text": "HCV infection",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 631,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D019698",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Chronic infection with hepatitis C virus",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 81,
+          "length": 40
+        },
+        {
+          "text": "chronic hepatitis C",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1327,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "11103",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 123,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cirrhosis",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 144,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatocellular carcinoma",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 155,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D058625",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "end-stage liver disease",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 185,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "3439",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pegylated interferon",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 283,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D012254",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 308,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 550,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 866,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1079,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1187,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1254,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000743",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hemolytic anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 475,
+          "length": 16
+        },
+        {
+          "text": "hemolytic anemia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1293,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "3039",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Hemoglobin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 493,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D006461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hemolysis",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 568,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002318,D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal or cardiovascular disorders",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 681,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "2056",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "erythropoietin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1040,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "C026956",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Viramidine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1146,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3439",
+      "tail_id": "D012254",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006526",
+      "tail_id": "3439",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006526",
+      "tail_id": "D012254",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C026956",
+      "tail_id": "D019698",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C026956",
+      "tail_id": "D000743",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C026956",
+      "tail_id": "D012254",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "2056",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "2056",
+      "tail_id": "D012254",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "3039",
+      "tail_id": "D006461",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "3039",
+      "tail_id": "D012254",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D012254",
+      "tail_id": "D019698",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D012254",
+      "tail_id": "D000740",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D012254",
+      "tail_id": "D006461",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D012254",
+      "tail_id": "D000743",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

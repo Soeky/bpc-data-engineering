@@ -1,0 +1,491 @@
+{
+  "doc_id": "17495183",
+  "title": "Tenomodulin is associated with obesity and diabetes risk: the Finnish diabetes prevention study.",
+  "body": "We recently showed that long-term weight reduction changes the gene expression profile of adipose tissue in overweight individuals with impaired glucose tolerance (IGT). One of the responding genes was X-chromosomal tenomodulin (TNMD), a putative angiogenesis inhibitor. Our aim was to study the associations of individual single nucleotide polymorphisms and haplotypes with adiposity, glucose metabolism, and the risk of type 2 diabetes (T2D). Seven single nucleotide polymorphisms from two different haploblocks were genotyped from 507 participants of the Finnish Diabetes Prevention Study (DPS). Sex-specific genotype effects were observed. Three markers of haploblock 1 were associated with features of adiposity in women (rs5966709, rs4828037) and men (rs11798018). Markers rs2073163 and rs1155794 from haploblock 2 were associated with 2-hour plasma glucose levels in men during the 3-year follow-up. The same two markers together with rs2073162 associated with the conversion of IGT to T2D in men. The risk of developing T2D was approximately 2-fold in individuals with genotypes associated with higher 2-hour plasma glucose levels; the hazard ratios were 2.192 (p = 0.025) for rs2073162-A, 2.191 (p = 0.027) for rs2073163-C, and 1.998 (p = 0.054) for rs1155974-T. These results suggest that TNMD polymorphisms are associated with adiposity and also with glucose metabolism and conversion from IGT to T2D in men.",
+  "entities": [
+    {
+      "id": "64102",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Tenomodulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "tenomodulin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 313,
+          "length": 11
+        },
+        {
+          "text": "TNMD",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 326,
+          "length": 4
+        },
+        {
+          "text": "TNMD",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1396,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 7
+        },
+        {
+          "text": "adiposity",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 472,
+          "length": 9
+        },
+        {
+          "text": "adiposity",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 804,
+          "length": 9
+        },
+        {
+          "text": "adiposity",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1435,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 8
+        },
+        {
+          "text": "Diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 663,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D050177",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "overweight",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 205,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D018149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired glucose tolerance",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 233,
+          "length": 26
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 261,
+          "length": 3
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1083,
+          "length": 3
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1498,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 483,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 953,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1221,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1459,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 519,
+          "length": 15
+        },
+        {
+          "text": "T2D",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 536,
+          "length": 3
+        },
+        {
+          "text": "T2D",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1090,
+          "length": 3
+        },
+        {
+          "text": "T2D",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1125,
+          "length": 3
+        },
+        {
+          "text": "T2D",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1505,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 817,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 850,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 971,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1097,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1512,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs5966709",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs5966709",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 824,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs4828037",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs4828037",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 835,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs11798018",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs11798018",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 855,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs2073163",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2073163",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 876,
+          "length": 9
+        },
+        {
+          "text": "rs2073163",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1317,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1155794",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1155794",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 890,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2073162",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2073162",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1039,
+          "length": 9
+        },
+        {
+          "text": "rs2073162",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1282,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1155974",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1155974",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1356,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1155974",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2073162",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs2073162",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1155794",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003924",
+      "tail_id": "rs1155974",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003924",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs2073163",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs2073163",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005947",
+      "tail_id": "rs1155794",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005947",
+      "tail_id": "rs2073163",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009765",
+      "tail_id": "rs11798018",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009765",
+      "tail_id": "rs4828037",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D009765",
+      "tail_id": "rs5966709",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "64102",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "64102",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "64102",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "64102",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

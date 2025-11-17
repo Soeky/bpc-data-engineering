@@ -1,0 +1,325 @@
+{
+  "doc_id": "15987266",
+  "title": "Growth-associated protein 43 expression in hippocampal molecular layer of chronic epileptic rats treated with cycloheximide.",
+  "body": "PURPOSE: GAP43 has been thought to be linked with mossy fiber sprouting (MFS) in various experimental models of epilepsy. To investigate how GAP43 expression (GAP43-ir) correlates with MFS, we assessed the intensity (densitometry) and extension (width) of GAP43-ir in the inner molecular layer of the dentate gyrus (IML) of rats subject to status epilepticus induced by pilocarpine (Pilo), previously injected or not with cycloheximide (CHX), which has been shown to inhibit MFS. METHODS: CHX was injected before the Pilo injection in adult Wistar rats. The Pilo group was injected with the same drugs, except for CHX. Animals were killed between 30 and 60 days later, and brain sections were processed for GAP43 immunohistochemistry. RESULTS: Densitometry showed no significant difference regarding GAP43-ir in the IML between Pilo, CHX+Pilo, and control groups. However, the results of the width of the GAP43-ir band in the IML showed that CHX+Pilo and control animals had a significantly larger band (p = 0.03) as compared with that in the Pilo group. CONCLUSIONS: Our current finding that animals in the CHX+Pilo group have a GAP43-ir band in the IML, similar to that of controls, reinforces prior data on the blockade of MFS in these animals. The change in GAP43-ir present in Pilo-treated animals was a thinning of the band to a very narrow layer just above the granule cell layer that is likely to be associated with the loss of hilar cell projections that express GAP-43.",
+  "entities": [
+    {
+      "id": "29423",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Growth-associated protein 43",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 28
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 134,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 266,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 284,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 381,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 832,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 925,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1030,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1255,
+          "length": 5
+        },
+        {
+          "text": "GAP43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1387,
+          "length": 5
+        },
+        {
+          "text": "GAP-43",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1597,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004827",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "epileptic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 9
+        },
+        {
+          "text": "epilepsy",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 237,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 449,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 673,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003513",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cycloheximide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 13
+        },
+        {
+          "text": "cycloheximide",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 547,
+          "length": 13
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 562,
+          "length": 3
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 614,
+          "length": 3
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 739,
+          "length": 3
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 959,
+          "length": 3
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1067,
+          "length": 3
+        },
+        {
+          "text": "CHX",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1233,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013226",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "status epilepticus",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 465,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D010862",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 495,
+          "length": 11
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 508,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 642,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 683,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 953,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 963,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1071,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1168,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1237,
+          "length": 4
+        },
+        {
+          "text": "Pilo",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1407,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "29423",
+      "tail_id": "D004827",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010862",
+      "tail_id": "29423",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013226",
+      "tail_id": "D010862",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003513",
+      "tail_id": "29423",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004827",
+      "tail_id": "D003513",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

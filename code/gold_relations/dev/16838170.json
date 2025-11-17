@@ -1,0 +1,376 @@
+{
+  "doc_id": "16838170",
+  "title": "Single nucleotide polymorphisms of the HNF4alpha gene are associated with the conversion to type 2 diabetes mellitus: the STOP-NIDDM trial.",
+  "body": "Hepatocyte nuclear factor 4alpha (HNF4alpha) is a transcription factor, which is necessary for normal function of human liver and pancreatic islets. We investigated whether single nucleotide polymorphisms (SNPs) of HNF4A, encoding HNF4alpha, influenced the conversion from impaired glucose tolerance (IGT) to type 2 diabetes mellitus in subjects of the STOP-NIDDM trial. This trial aimed at evaluating the effect of acarbose compared to placebo in the prevention of type 2 diabetes mellitus. Eight SNPs covering the intragenic and alternate P2 promoter regions of HNF4A were genotyped in study samples using the TaqMan Allelic Discrimination Assays. Three SNPs in the P2 promoter region (rs4810424, rs1884614, and rs2144908) were in almost complete association (D'>0.97, r (2)>0.95) and, therefore, only rs4810424 was included in further analyses. Female carriers of the less frequent C allele of rs4810424 had a 1.7-fold elevated risk [95% confidence interval (CI) 1.09-2.66; P=0.020] for the conversion to diabetes compared to women with the common genotype after the adjustment for age, treatment group (placebo or acarbose), smoking, weight at baseline, and weight change. No association was found in men. Haplotype analysis based on three SNPs (rs4810424, rs2071197, and rs3818247) representing the linkage disequilibrium blocks in our study population indicated that the conversion to type 2 diabetes mellitus was dependent on the number of risk alleles in different haplotypes in women. Our results suggest that SNPs of HNF4A and their haplotypes predispose to type 2 diabetes mellitus in female subjects of the STOP-NIDDM study population.",
+  "entities": [
+    {
+      "id": "3172",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HNF4alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 9
+        },
+        {
+          "text": "Hepatocyte nuclear factor 4alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 140,
+          "length": 32
+        },
+        {
+          "text": "HNF4alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 174,
+          "length": 9
+        },
+        {
+          "text": "HNF4A",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 355,
+          "length": 5
+        },
+        {
+          "text": "HNF4alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 371,
+          "length": 9
+        },
+        {
+          "text": "HNF4A",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 704,
+          "length": 5
+        },
+        {
+          "text": "HNF4A",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1667,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 24
+        },
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 449,
+          "length": 24
+        },
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 606,
+          "length": 24
+        },
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1531,
+          "length": 24
+        },
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1708,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 254,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1169,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1345,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1627,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D018149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired glucose tolerance",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 413,
+          "length": 26
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 441,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020909",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acarbose",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 556,
+          "length": 8
+        },
+        {
+          "text": "acarbose",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1258,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs4810424",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs4810424",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 828,
+          "length": 9
+        },
+        {
+          "text": "rs4810424",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 944,
+          "length": 9
+        },
+        {
+          "text": "rs4810424",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1037,
+          "length": 9
+        },
+        {
+          "text": "rs4810424",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1390,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1884614",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1884614",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 839,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2144908",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2144908",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 854,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1148,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs2071197",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2071197",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1401,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs3818247",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs3818247",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1416,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2071197",
+      "tail_id": "rs3818247",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs4810424",
+      "tail_id": "rs3818247",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs4810424",
+      "tail_id": "rs2071197",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs4810424",
+      "tail_id": "D003920",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003920",
+      "tail_id": "rs2144908",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003920",
+      "tail_id": "rs1884614",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs2144908",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs1884614",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D020909",
+      "tail_id": "D018149",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D020909",
+      "tail_id": "D003924",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003924",
+      "tail_id": "rs3818247",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D003924",
+      "tail_id": "rs2071197",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D003924",
+      "tail_id": "rs4810424",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "3172",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "doc_id": "15200408",
+  "title": "Lack of major involvement of human uroplakin genes in vesicoureteral reflux: implications for disease heterogeneity.",
+  "body": "BACKGROUND: Primary vesicoureteral reflux (VUR) is a hereditary disorder characterized by the retrograde flow of urine into the ureters and kidneys. It affects about 1% of the young children and is thus one of the most common hereditary diseases. Its associated nephropathy is an important cause of end-stage renal failure in children and adults. Recent studies indicate that genetic ablation of mouse uroplakin (UP) III gene, which encodes a 47 kD urothelial-specific integral membrane protein forming urothelial plaques, causes VUR and hydronephrosis. METHODS: To begin to determine whether mutations in UP genes might play a role in human VUR, we genotyped all four UP genes in 76 patients with radiologically proven primary VUR by polymerase chain reaction (PCR) amplification and sequencing of all their exons plus 50 to 150 bp of flanking intronic sequences. RESULTS: Eighteen single nucleotide polymorphisms (SNPs) were identified, seven of which were missense, with no truncation or frame shift mutations. Since healthy relatives of the VUR probands are not reliable negative controls for VUR, we used a population of 90 race-matched, healthy individuals, unrelated to the VUR patients, as controls to perform an association study. Most of the SNPs were not found to be significantly associated with VUR. However, SNP1 of UP Ia gene affecting a C to T conversion and an Ala7Val change, and SNP7 of UP III affecting a C to G conversion and a Pro154Ala change, were marginally associated with VUR (both P= 0.08). Studies of additional cases yielded a second set of data that, in combination with the first set, confirmed a weak association of UP III SNP7 in VUR (P= 0.036 adjusted for both subsets of cases vs. controls). CONCLUSION: Such a weak association and the lack of families with simple dominant Mendelian inheritance suggest that missense changes of uroplakin genes cannot play a dominant role in causing VUR in humans, although they may be weak risk factors contributing to a complex polygenic disease. The fact that no truncation or frame shift mutations have been found in any of the VUR patients, coupled with our recent finding that some breeding pairs of UP III knockout mice yield litters that show not only VUR, but also severe hydronephrosis and neonatal death, raises the possibility that major uroplakin mutations could be embryonically or postnatally lethal in humans.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 753,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 801,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1302,
+          "length": 8
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2044,
+          "length": 6
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2223,
+          "length": 8
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2505,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11045,7380",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "uroplakin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 9
+        },
+        {
+          "text": "UP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 723,
+          "length": 2
+        },
+        {
+          "text": "UP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 786,
+          "length": 2
+        },
+        {
+          "text": "uroplakin",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1982,
+          "length": 9
+        },
+        {
+          "text": "uroplakin",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2437,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C564042",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vesicoureteral reflux",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 21
+        },
+        {
+          "text": "vesicoureteral reflux",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 137,
+          "length": 21
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 160,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 647,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 759,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 845,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1162,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1214,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1298,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1425,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1616,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1781,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2037,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2219,
+          "length": 3
+        },
+        {
+          "text": "VUR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2347,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hereditary disorder",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 170,
+          "length": 19
+        },
+        {
+          "text": "hereditary diseases",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 343,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 379,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007676",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "end-stage renal failure",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 416,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 513,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2309,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "22270",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "uroplakin (UP) III",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 519,
+          "length": 18
+        },
+        {
+          "text": "UP III",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2293,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006869",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hydronephrosis",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 655,
+          "length": 14
+        },
+        {
+          "text": "hydronephrosis",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2368,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "11045",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "UP Ia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1447,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs373513519",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C to T",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1470,
+          "length": 6
+        },
+        {
+          "text": "Ala7Val",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1495,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "7380",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "UP III",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1523,
+          "length": 6
+        },
+        {
+          "text": "UP III",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1766,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C||G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C to G",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1542,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|P|154|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Pro154Ala",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1566,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D066087",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neonatal death",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 2387,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D066087",
+      "tail_id": "22270",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|P|154|A",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|C||G",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "7380",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs373513519",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "11045",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "22270",
+      "tail_id": "D006869",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "22270",
+      "tail_id": "C564042",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

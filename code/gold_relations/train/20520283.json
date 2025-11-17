@@ -1,0 +1,296 @@
+{
+  "doc_id": "20520283",
+  "title": "Efficacy and safety of asenapine in a placebo- and haloperidol-controlled trial in patients with acute exacerbation of schizophrenia.",
+  "body": "Asenapine is approved by the Food and Drugs Administration in adults for acute treatment of schizophrenia or of manic or mixed episodes associated with bipolar I disorder with or without psychotic features. In a double-blind 6-week trial, 458 patients with acute schizophrenia were randomly assigned to fixed-dose treatment with asenapine at 5 mg twice daily (BID), asenapine at 10 mg BID, placebo, or haloperidol at 4 mg BID (to verify assay sensitivity). With last observations carried forward (LOCF), mean Positive and Negative Syndrome Scale total score reductions from baseline to endpoint were significantly greater with asenapine at 5 mg BID (-16.2) and haloperidol (-15.4) than placebo (-10.7; both P < 0.05); using mixed model for repeated measures (MMRM), changes at day 42 were significantly greater with asenapine at 5 and 10 mg BID (-21.3 and -19.4, respectively) and haloperidol (-20.0) than placebo (-14.6; all P < 0.05). On the Positive and Negative Syndrome Scale positive subscale, all treatments were superior to placebo with LOCF and MMRM; asenapine at 5 mg BID was superior to placebo on the negative subscale with MMRM and on the general psychopathology subscale with LOCF and MMRM. Treatment-related adverse events (AEs) occurred in 44% and 52%, 57%, and 41% of the asenapine at 5 and 10 mg BID, haloperidol, and placebo groups, respectively. Extrapyramidal symptoms reported as AEs occurred in 15% and 18%, 34%, and 10% of the asenapine at 5 and 10 mg BID, haloperidol, and placebo groups, respectively. Across all groups, no more than 5% of patients had clinically significant weight change. Post hoc analyses indicated that efficacy was similar with asenapine and haloperidol; greater contrasts were seen in AEs, especially extrapyramidal symptoms.",
+  "entities": [
+    {
+      "id": "C522667",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "asenapine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 9
+        },
+        {
+          "text": "Asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 134,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 463,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 500,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 761,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 950,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1194,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1423,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1585,
+          "length": 9
+        },
+        {
+          "text": "asenapine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1810,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 536,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 795,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1015,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1453,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1615,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1824,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 377,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1700,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 226,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 397,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D001714",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "manic",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 246,
+          "length": 5
+        },
+        {
+          "text": "bipolar I disorder",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 286,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D011618",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychotic",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 321,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Extrapyramidal symptoms",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1500,
+          "length": 23
+        },
+        {
+          "text": "extrapyramidal symptoms",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1884,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001480",
+      "tail_id": "D006220",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001480",
+      "tail_id": "C522667",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012559",
+      "tail_id": "D006220",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C522667",
+      "tail_id": "D011618",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C522667",
+      "tail_id": "D001714",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C522667",
+      "tail_id": "D012559",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "C522667",
+      "tail_id": "D006220",
+      "type": "Comparison",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "doc_id": "17511042",
+  "title": "An extremely rare case of delusional parasitosis in a chronic hepatitis C patient during pegylated interferon alpha-2b and ribavirin treatment.",
+  "body": "During treatment of chronic hepatitis C patients with interferon and ribavirin, a lot of side effects are described. Twenty-three percent to 44% of patients develop depression. A minority of patients evolve to psychosis. To the best of our knowledge, no cases of psychogenic parasitosis occurring during interferon therapy have been described in the literature. We present a 49-year-old woman who developed a delusional parasitosis during treatment with pegylated interferon alpha-2b weekly and ribavirin. She complained of seeing parasites and the larvae of fleas in her stools. This could not be confirmed by any technical examination. All the complaints disappeared after stopping pegylated interferon alpha-2b and reappeared after restarting it. She had a complete sustained viral response.",
+  "entities": [
+    {
+      "id": "D063726",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "delusional parasitosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 22
+        },
+        {
+          "text": "psychogenic parasitosis",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 407,
+          "length": 23
+        },
+        {
+          "text": "delusional parasitosis",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 553,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D019698",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic hepatitis C",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 19
+        },
+        {
+          "text": "chronic hepatitis C",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 164,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 184,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 292,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 335,
+          "length": 8
+        },
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 531,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3440",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pegylated interferon alpha-2b",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 29
+        },
+        {
+          "text": "interferon",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 198,
+          "length": 10
+        },
+        {
+          "text": "interferon",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 448,
+          "length": 10
+        },
+        {
+          "text": "pegylated interferon alpha-2b",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 598,
+          "length": 29
+        },
+        {
+          "text": "pegylated interferon alpha-2b",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 828,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D012254",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ribavirin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 213,
+          "length": 9
+        },
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 639,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 309,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D011605",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 354,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011605",
+      "tail_id": "3440",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012254",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019698",
+      "tail_id": "D012254",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019698",
+      "tail_id": "3440",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "3440",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "3440",
+      "tail_id": "D012254",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D063726",
+      "tail_id": "3440",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

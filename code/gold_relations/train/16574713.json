@@ -1,0 +1,332 @@
+{
+  "doc_id": "16574713",
+  "title": "Memory function and serotonin transporter promoter gene polymorphism in ecstasy (MDMA) users.",
+  "body": "Although 3,4-methylenedioxymethamphetamine (MDMA or ecstasy) has been shown to damage brain serotonin (5-HT) neurons in animals and possibly humans, little is known about the long-term consequences of MDMA-induced 5-HT neurotoxic lesions on functions in which 5-HT is involved, such as cognitive function. Because 5-HT transporters play a key element in the regulation of synaptic 5-HT transmission it may be important to control for the potential covariance effect of a polymorphism in the 5-HT transporter promoter gene region (5-HTTLPR) when studying the effects of MDMA as well as cognitive functioning. The aim of the study was to investigate the effects of moderate and heavy MDMA use on cognitive function, as well as the effects of long-term abstention from MDMA, in subjects genotyped for 5-HTTLPR. A second aim of the study was to determine whether these effects differ for females and males. Fifteen moderate MDMA users (<55 lifetime tablets), 22 heavy MDMA+ users (>55 lifetime tablets), 16 ex-MDMA+ users (last tablet > 1 year ago) and 13 controls were compared on a battery of neuropsychological tests. DNA from peripheral nuclear blood cells was genotyped for 5-HTTLPR using standard polymerase chain reaction methods.A significant group effect was observed only on memory function tasks (p = 0.04) but not on reaction times (p = 0.61) or attention/executive functioning (p = 0.59). Heavy and ex-MDMA+ users performed significantly poorer on memory tasks than controls. In contrast, no evidence of memory impairment was observed in moderate MDMA users. No significant effect of 5-HTTLPR or gender was observed. While the use of MDMA in quantities that may be considered \"moderate\" is not associated with impaired memory functioning, heavy use of MDMA use may lead to long lasting memory impairments. No effect of 5-HTTLPR or gender on memory function or MDMA use was observed.",
+  "entities": [
+    {
+      "id": "6532",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "serotonin transporter",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 21
+        },
+        {
+          "text": "5-HT transporter promoter gene region",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 585,
+          "length": 37
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 624,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 892,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1269,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1687,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1922,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D018817",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ecstasy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 7
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 4
+        },
+        {
+          "text": "3,4-methylenedioxymethamphetamine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 103,
+          "length": 33
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 138,
+          "length": 4
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 146,
+          "length": 7
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 295,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 663,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 776,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 860,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1014,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1058,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1100,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1505,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1650,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1737,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1855,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1963,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "serotonin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 186,
+          "length": 9
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 197,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 308,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 354,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 408,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 475,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 235,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxic lesions",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 313,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory impairment",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1607,
+          "length": 17
+        },
+        {
+          "text": "impaired memory functioning",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1813,
+          "length": 27
+        },
+        {
+          "text": "memory impairments",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1889,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6532",
+      "tail_id": "D018817",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018817",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018817",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018817",
+      "tail_id": "D012701",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D012701",
+      "tail_id": "6532",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D012701",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

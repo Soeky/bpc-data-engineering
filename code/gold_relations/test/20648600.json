@@ -1,0 +1,646 @@
+{
+  "doc_id": "20648600",
+  "title": "High frequency of lamivudine resistance mutations in Brazilian patients co-infected with HIV and hepatitis B.",
+  "body": "This study analyzed the genotype distribution and frequency of lamivudine (LAM) and tenofovir (TDF) resistance mutations in a group of patients co-infected with HIV and hepatitis B virus (HBV). A cross-sectional study of 847 patients with HIV was conducted. Patients provided blood samples for HBsAg detection. The load of HBV was determined using an \"in-house\" real-time polymerase chain reaction. HBV genotypes/subgenotypes, antiviral resistance, basal core promoter (BCP), and precore mutations were detected by DNA sequencing. Twenty-eight patients with co-infection were identified. The distribution of HBV genotypes among these patients was A (n = 9; 50%), D (n = 4; 22.2%), G (n = 3; 16.7%), and F (n = 2; 11.1%). Eighteen patients were treated with LAM and six patients were treated with LAM plus TDF. The length of exposure to LAM and TDF varied from 4 to 216 months. LAM resistance substitutions (rtL180M + rtM204V) were detected in 10 (50%) of the 20 patients with viremia. This pattern and an accompanying rtV173L mutation was found in four patients. Three patients with the triple polymerase substitution pattern (rtV173L + rtL180M + rtM204V) had associated changes in the envelope gene (sE164D + sI195M). Mutations in the BCP region (A1762T, G1764A) and in the precore region (G1896A, G1899A) were also found. No putative TDF resistance substitution was detected. The data suggest that prolonged LAM use is associated with the emergence of particular changes in the HBV genome, including substitutions that may elicit a vaccine escape phenotype. No putative TDF resistance change was detected after prolonged use of TDF.",
+  "entities": [
+    {
+      "id": "D019259",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lamivudine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 10
+        },
+        {
+          "text": "lamivudine",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 173,
+          "length": 10
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 185,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 867,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 906,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 946,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 987,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1520,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 245,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 335,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 368,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 654,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 744,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 840,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 879,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1072,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1163,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1179,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006509,D015658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "co-infected with HIV and hepatitis B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 36
+        },
+        {
+          "text": "co-infected with HIV and hepatitis B virus",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 254,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "D000068698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tenofovir",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 194,
+          "length": 9
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 205,
+          "length": 3
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 915,
+          "length": 3
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 954,
+          "length": 3
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1446,
+          "length": 3
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1682,
+          "length": 3
+        },
+        {
+          "text": "TDF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1740,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10407",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 298,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 433,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 509,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 718,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1590,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 349,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006514",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "HBsAg",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 404,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "944568",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "precore",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 590,
+          "length": 7
+        },
+        {
+          "text": "precore",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1385,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 671,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|180|M",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L180M",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1019,
+          "length": 5
+        },
+        {
+          "text": "L180M",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1249,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|M|204|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M204V",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1029,
+          "length": 5
+        },
+        {
+          "text": "M204V",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1259,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D014766",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "viremia",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1086,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|V|173|L",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V173L",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1130,
+          "length": 5
+        },
+        {
+          "text": "V173L",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1239,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "944565",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "polymerase",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1204,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "944569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "envelope",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1296,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E|164|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E164D",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1312,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|I|195|M",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "I195M",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1321,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|A|1762|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A1762T",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1358,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|1764|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G1764A",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1366,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|1896|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G1896A",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1401,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|G|1899|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G1899A",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1409,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|E|164|D",
+      "tail_id": "p|SUB|I|195|M",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "944565",
+      "tail_id": "944569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "p|SUB|V|173|L",
+      "tail_id": "p|SUB|I|195|M",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "p|SUB|V|173|L",
+      "tail_id": "p|SUB|E|164|D",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "p|SUB|V|173|L",
+      "tail_id": "p|SUB|M|204|V",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "p|SUB|V|173|L",
+      "tail_id": "p|SUB|L|180|M",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D014766",
+      "tail_id": "944565",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "p|SUB|M|204|V",
+      "tail_id": "p|SUB|I|195|M",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "p|SUB|M|204|V",
+      "tail_id": "p|SUB|E|164|D",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "p|SUB|M|204|V",
+      "tail_id": "D014766",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "p|SUB|L|180|M",
+      "tail_id": "p|SUB|I|195|M",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "p|SUB|L|180|M",
+      "tail_id": "p|SUB|E|164|D",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "p|SUB|L|180|M",
+      "tail_id": "D014766",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "p|SUB|L|180|M",
+      "tail_id": "p|SUB|M|204|V",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "D019259",
+      "tail_id": "D000068698",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R43",
+      "head_id": "D019259",
+      "tail_id": "944565",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R44",
+      "head_id": "D019259",
+      "tail_id": "p|SUB|V|173|L",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R45",
+      "head_id": "D019259",
+      "tail_id": "D014766",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R46",
+      "head_id": "D019259",
+      "tail_id": "p|SUB|M|204|V",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R47",
+      "head_id": "D019259",
+      "tail_id": "p|SUB|L|180|M",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

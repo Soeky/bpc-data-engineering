@@ -1,0 +1,267 @@
+{
+  "doc_id": "19521089",
+  "title": "Serotonin transporter gene polymorphic element 5-HTTLPR increases the risk of sporadic Parkinson's disease in Italy.",
+  "body": "Parkinson's disease (PD) is a neurodegenerative disorder causing muscular rigidity, resting tremor and bradykinesia. We conducted an association study assessing how PD risk in Italy was influenced by the serotonin transporter gene (SLC6A4) polymorphic region 5-HTTLPR, consisting of an insertion/deletion (long allele-L/short allele-S) of 43 bp in the SLC6A4 promoter region. The SLC6A4 promoter single nucleotide polymorphism rs25531(A-->G) was evaluated too. We collected 837 independent subjects (393 PD, 444 controls). An association between the 5-HTTLPR polymorphism and risk of PD (S/S genotype OR [95% CI]: 1.7[1.2-2.5], p = 0.002) was found. The rs25531 and the haplotype 5-HTTLPR/rs25531 did not associate with risk of PD. Our data indicate that the 5-HTTLPR polymorphic element within the SLC6A4 promoter may govern the genetic risk of PD in Italians.",
+  "entities": [
+    {
+      "id": "6532",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Serotonin transporter",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 21
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 8
+        },
+        {
+          "text": "serotonin transporter",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 321,
+          "length": 21
+        },
+        {
+          "text": "SLC6A4",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 349,
+          "length": 6
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 376,
+          "length": 8
+        },
+        {
+          "text": "SLC6A4",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 469,
+          "length": 6
+        },
+        {
+          "text": "SLC6A4",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 497,
+          "length": 6
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 667,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 797,
+          "length": 8
+        },
+        {
+          "text": "5-HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 876,
+          "length": 8
+        },
+        {
+          "text": "SLC6A4",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 916,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 117,
+          "length": 19
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 138,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 282,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 621,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 701,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 845,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 963,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegenerative disorder",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 147,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D009127",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscular rigidity",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 182,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D014202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "resting tremor",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 201,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D018476",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradykinesia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 220,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL||43",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "insertion/deletion (long allele-L/short allele-S) of 43 bp",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 403,
+          "length": 58
+        }
+      ]
+    },
+    {
+      "id": "rs25531",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs25531",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 544,
+          "length": 7
+        },
+        {
+          "text": "A-->G",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 552,
+          "length": 5
+        },
+        {
+          "text": "rs25531",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 771,
+          "length": 7
+        },
+        {
+          "text": "rs25531",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 806,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010300",
+      "tail_id": "c|INDEL||43",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "6532",
+      "tail_id": "D010300",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

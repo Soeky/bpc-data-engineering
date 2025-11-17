@@ -1,0 +1,327 @@
+{
+  "doc_id": "15191352",
+  "title": "Severe form of thyroid hormone resistance in a patient with homozygous/hemizygous mutation of T3 receptor gene.",
+  "body": "Resistance to thyroid hormone syndrome (RTH) is a rare disorder, usually inherited as an autosomal dominant trait. Patients with RTH are usually euthyroid but can occasionally present with signs and symptoms of thyrotoxicosis or rarely with hypothyroidism. Affected individuals are usually heterozygous for mutations in the thyroid hormone receptor beta gene (TR-beta). We present a patient with RTH found to be homo-/hemizygous for a mutation in the TR-beta gene. The single nucleotide substitution I280S (1123T-->G) was present either on both alleles or in a hemizygous form with complete deletion of the second allele. The I280S mutation was recently reported in a heterozygous patient. The severe phenotype with seriously impaired intellectual development, hyperkinetic behaviour, tachycardia, hearing and visual impairment is probably due to the dominant negative effect of the I280S mutant protein and the absence of any functional TR-beta.",
+  "entities": [
+    {
+      "id": "D018382",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thyroid hormone resistance",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 26
+        },
+        {
+          "text": "Resistance to thyroid hormone syndrome",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 112,
+          "length": 38
+        },
+        {
+          "text": "RTH",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 152,
+          "length": 3
+        },
+        {
+          "text": "RTH",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 241,
+          "length": 3
+        },
+        {
+          "text": "RTH",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 508,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 7
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 227,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 495,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 793,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "7068",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "T3 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 11
+        },
+        {
+          "text": "thyroid hormone receptor beta",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 436,
+          "length": 29
+        },
+        {
+          "text": "TR-beta",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 472,
+          "length": 7
+        },
+        {
+          "text": "TR-beta",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 563,
+          "length": 7
+        },
+        {
+          "text": "TR-beta",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1050,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D013971",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thyrotoxicosis",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 323,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007037",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypothyroidism",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 353,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|I|280|S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "I280S",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 612,
+          "length": 5
+        },
+        {
+          "text": "I280S",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 738,
+          "length": 5
+        },
+        {
+          "text": "I280S",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 995,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|T|1123|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1123T-->G",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 619,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired intellectual development",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 838,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperkinetic",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 873,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D013610",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tachycardia",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 897,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006311,D014786",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hearing and visual impairment",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 910,
+          "length": 29
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008607",
+      "tail_id": "p|SUB|I|280|S",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013610",
+      "tail_id": "p|SUB|I|280|S",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006948",
+      "tail_id": "p|SUB|I|280|S",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "g|SUB|T|1123|G",
+      "tail_id": "D008607",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "g|SUB|T|1123|G",
+      "tail_id": "D013610",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "g|SUB|T|1123|G",
+      "tail_id": "D006948",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "7068",
+      "tail_id": "D008607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "7068",
+      "tail_id": "D013610",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "7068",
+      "tail_id": "D006948",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D018382",
+      "tail_id": "g|SUB|T|1123|G",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D018382",
+      "tail_id": "p|SUB|I|280|S",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D018382",
+      "tail_id": "7068",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

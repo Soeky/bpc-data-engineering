@@ -1,0 +1,272 @@
+{
+  "doc_id": "7905839",
+  "title": "Human mu opiate receptor. cDNA and genomic clones, pharmacologic characterization and chromosomal assignment.",
+  "body": "A human mu opiate receptor cDNA has been identified from a cerebral cortical cDNA library using sequences from the rat mu opiate receptor cDNA. The human mu opiate receptor (h mu OR1) shares 95% amino acid identity with the rat sequence. The expressed mu OR1 recognized tested opiate drugs and opioid peptides in a sodium- and GTP-sensitive fashion with affinities virtually identical to those displayed by the rat mu opiate receptor. Effects on cyclic AMP are similar to those noted for the rat mu opiate receptor. An 18 kb genomic clone hybridizing with the h mu OR1 cDNA contains 63 and 489 bp exonic sequences flanked by splice donor/acceptor sequences. Analysis of hybridization to DNA prepared from human rodent hybrid cell lines and chromosomal in situ hybridization studies indicate localization to 6q24-25. An MspI polymorphism, producing a 3.7 kb band, may prove useful in assessing this gene's involvement in neuropsychiatric disorders involving opiatergic systems.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 112,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 258,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 815,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4988",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 18
+        },
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 118,
+          "length": 18
+        },
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 264,
+          "length": 18
+        },
+        {
+          "text": "h mu OR1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 284,
+          "length": 8
+        },
+        {
+          "text": "h mu OR1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 670,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 225,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 334,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 521,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 602,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25601",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 229,
+          "length": 18
+        },
+        {
+          "text": "mu OR1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 362,
+          "length": 6
+        },
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 525,
+          "length": 18
+        },
+        {
+          "text": "mu opiate receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 606,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D053610",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opiate",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 387,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D018847",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opioid peptides",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 404,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 425,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006160",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GTP",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 437,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclic AMP",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 556,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropsychiatric disorders",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1030,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001523",
+      "tail_id": "4988",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000242",
+      "tail_id": "25601",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006160",
+      "tail_id": "25601",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "25601",
+      "tail_id": "D018847",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "25601",
+      "tail_id": "D053610",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D012964",
+      "tail_id": "25601",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "doc_id": "17151160",
+  "title": "Randomized comparison of olanzapine versus risperidone for the treatment of first-episode schizophrenia: 4-month outcomes.",
+  "body": "OBJECTIVE: The authors compared 4-month treatment outcomes for olanzapine versus risperidone in patients with first-episode schizophrenia spectrum disorders. METHOD: One hundred twelve subjects (70% male; mean age=23.3 years [SD = 5.1]) with first-episode schizophrenia (75%), schizophreniform disorder (17%), or schizoaffective disorder (8%) were randomly assigned to treatment with olanzapine (2.5-20 mg/day) or risperidone (1-6 mg/day). RESULTS: Response rates did not significantly differ between olanzapine (43.7%, 95% CI=28.8%-58.6%) and risperidone (54.3%, 95% CI=39.9%-68.7%). Among those responding to treatment, more subjects in the olanzapine group (40.9%, 95% CI=16.8%-65.0%) than in the risperidone group (18.9%, 95% CI=0%-39.2%) had subsequent ratings not meeting response criteria. Negative symptom outcomes and measures of parkinsonism and akathisia did not differ between medications. Extrapyramidal symptom severity scores were 1.4 (95% CI=1.2-1.6) with risperidone and 1.2 (95% CI=1.0-1.4) with olanzapine. Significantly more weight gain occurred with olanzapine than with risperidone: the increase in weight at 4 months relative to baseline weight was 17.3% (95% CI=14.2%-20.5%) with olanzapine and 11.3% (95% CI=8.4%-14.3%) with risperidone. Body mass index at baseline and at 4 months was 24.3 (95% CI=22.8-25.7) versus 28.2 (95% CI=26.7-29.7) with olanzapine and 23.9 (95% CI=22.5-25.3) versus 26.7 (95% CI=25.2-28.2) with risperidone. CONCLUSIONS: Clinical outcomes with risperidone were equal to those with olanzapine, and response may be more stable. Olanzapine may have an advantage for motor side effects. Both medications caused substantial rapid weight gain, but weight gain was greater with olanzapine.",
+  "entities": [
+    {
+      "id": "C076029",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olanzapine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 186,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 507,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 624,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 766,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1137,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1194,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1327,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1494,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1655,
+          "length": 10
+        },
+        {
+          "text": "Olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1700,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1845,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D018967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "risperidone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 204,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 537,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 667,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 823,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1095,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1215,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1373,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1569,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1618,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 247,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 379,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 219,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011618",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophreniform disorder",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 400,
+          "length": 25
+        },
+        {
+          "text": "schizoaffective disorder",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 436,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D010302",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "parkinsonism",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 962,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D017109",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 979,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Extrapyramidal symptom",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1025,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D015430",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weight gain",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1168,
+          "length": 11
+        },
+        {
+          "text": "weight gain",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1799,
+          "length": 11
+        },
+        {
+          "text": "weight gain",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1816,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D015430",
+      "tail_id": "C076029",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001480",
+      "tail_id": "D018967",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001480",
+      "tail_id": "C076029",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011618",
+      "tail_id": "D018967",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D011618",
+      "tail_id": "C076029",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D012559",
+      "tail_id": "D018967",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012559",
+      "tail_id": "C076029",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D018967",
+      "tail_id": "D015430",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C076029",
+      "tail_id": "D018967",
+      "type": "Comparison",
+      "novel": "Novel"
+    }
+  ]
+}

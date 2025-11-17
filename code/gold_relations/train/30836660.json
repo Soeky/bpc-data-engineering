@@ -1,0 +1,693 @@
+{
+  "doc_id": "30836660",
+  "title": "Salidroside Ameliorates Renal Interstitial Fibrosis by Inhibiting the TLR4/NF-kappaB and MAPK Signaling Pathways.",
+  "body": "Salidroside (Sal) is an active ingredient that is isolated from Rhodiola rosea, which has been reported to have anti-inflammatory activities and a renal protective effect. However, the role of Sal on renal fibrosis has not yet been elucidated. Here, the purpose of the current study is to test the protective effects of Sal against renal interstitial fibrosis (RIF), and to explore the underlying mechanisms using both in vivo and in vitro models. In this study, we establish the unilateral ureteric obstruction (UUO) or folic acid (FA)-induced mice renal interstitial fibrosis in vivo and the transforming growth factor (TGF)-beta1-stimulated human proximal tubular epithelial cell (HK-2) model in vitro. The levels of kidney functional parameters and inflammatory cytokines in serum are examined. The degree of renal damage and fibrosis is determined by histological assessment. Immunohistochemistry and western blotting are used to determine the mechanisms of Sal against RIF. Our results show that treatment with Sal can ameliorate tubular injury and deposition of the extracellular matrix (ECM) components (including collagen SH and collagen I). Furthermore, Sal administration significantly suppresses epithelial-mesenchymal transition (EMT), as evidenced by a decreased expression of alpha-SMA, vimentin, TGF-beta1, snail, slug, and a largely restored expression of E-cadherin. Additionally, Sal also reduces the levels of serum biochemical markers (serum creatinine, Scr; blood urea nitrogen, BUN; and uric acid, UA) and decreases the release of inflammatory cytokines (IL-1beta, IL-6, TNF-alpha). Further study revealed that the effect of Sal on renal interstitial fibrosis is associated with the lower expression of TLR4, p-IkappaBalpha, p-NF-kappaB and mitogen-activated protein kinases (MAPK), both in vivo and in vitro. In conclusion, Sal treatment improves kidney function, ameliorates the deposition of the ECM components and relieves the protein levels of EMT markers in mouse kidneys and HK-2 cells. Furthermore, Sal treatment significantly decreases the release of inflammatory cytokines and inhibits the TLR4/NF-kappaB and MAPK signaling pathways. Collectively, these results suggest that the administration of Sal could be a novel therapeutic strategy in treating renal fibrosis.",
+  "entities": [
+    {
+      "id": "C009172",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Salidroside",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "Salidroside",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 114,
+          "length": 11
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 127,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 307,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 434,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1077,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1131,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1278,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1513,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1762,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1962,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2144,
+          "length": 3
+        },
+        {
+          "text": "Sal",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2344,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Renal Interstitial Fibrosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 27
+        },
+        {
+          "text": "renal fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 314,
+          "length": 14
+        },
+        {
+          "text": "renal interstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 446,
+          "length": 27
+        },
+        {
+          "text": "RIF",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 475,
+          "length": 3
+        },
+        {
+          "text": "renal interstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 664,
+          "length": 27
+        },
+        {
+          "text": "renal damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 927,
+          "length": 12
+        },
+        {
+          "text": "RIF",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1089,
+          "length": 3
+        },
+        {
+          "text": "tubular injury",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1150,
+          "length": 14
+        },
+        {
+          "text": "renal interstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1769,
+          "length": 27
+        },
+        {
+          "text": "renal fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2398,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "21898,7099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TLR4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 4
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1840,
+          "length": 4
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2237,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18033,4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1864,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2242,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "26413,5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 4
+        },
+        {
+          "text": "mitogen-activated protein kinases",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1878,
+          "length": 33
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1913,
+          "length": 4
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2256,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "203015",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Rhodiola rosea",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 178,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 231,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 867,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1668,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2197,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D014517",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "unilateral ureteric obstruction",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 594,
+          "length": 31
+        },
+        {
+          "text": "UUO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 627,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "folic acid",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 635,
+          "length": 10
+        },
+        {
+          "text": "FA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 647,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 659,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2101,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "21803",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "transforming growth factor (TGF)-beta1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 708,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 758,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0302",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HK-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 798,
+          "length": 4
+        },
+        {
+          "text": "HK-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 2119,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fibrosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 944,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1281,12825",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen SH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1236,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "1277,1278,12842,12843",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen I",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1252,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "11475,59",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha-SMA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1405,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "22352,7431",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vimentin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1416,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "21803,7040",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1426,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "20613,6615",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "snail",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1437,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20583,6591",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "slug",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1444,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12550,999",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "E-cadherin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1487,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1577,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D014508",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "urea",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1600,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009584",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitrogen",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1605,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014527",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "uric acid",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1624,
+          "length": 9
+        },
+        {
+          "text": "UA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1635,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "16176,3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1692,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "16193,3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1702,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21926,7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1708,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "18035,4792",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IkappaBalpha",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1848,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6",
+      "head_id": "D005492",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "C009172",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "C009172",
+      "tail_id": "D014527",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "C009172",
+      "tail_id": "D003404",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "C009172",
+      "tail_id": "21803",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R50",
+      "head_id": "C009172",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

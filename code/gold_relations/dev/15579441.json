@@ -1,0 +1,279 @@
+{
+  "doc_id": "15579441",
+  "title": "Hypoxia in renal disease with proteinuria and/or glomerular hypertension.",
+  "body": "Despite the increasing need to identify and quantify tissue oxygenation at the cellular level, relatively few methods have been available. In this study, we developed a new hypoxia-responsive reporter vector using a hypoxia-responsive element of the 5' vascular endothelial growth factor untranslated region and generated a novel hypoxia-sensing transgenic rat. We then applied this animal model to the detection of tubulointerstitial hypoxia in the diseased kidney. With this model, we were able to identify diffuse cortical hypoxia in the puromycin aminonucleoside-induced nephrotic syndrome and focal and segmental hypoxia in the remnant kidney model. Expression of the hypoxia-responsive transgene increased throughout the observation period, reaching 2.2-fold at 2 weeks in the puromycin aminonucleoside model and 2.6-fold at 4 weeks in the remnant kidney model, whereas that of vascular endothelial growth factor showed a mild decrease, reflecting distinct behaviors of the two genes. The degree of hypoxia showed a positive correlation with microscopic tubulointerstitial injury in both models. Finally, we identified the localization of proliferating cell nuclear antigen-positive, ED-1-positive, and terminal dUTP nick-end labeled-positive cells in the hypoxic cortical area in the remnant kidney model. We propose here a possible pathological tie between chronic tubulointerstitial hypoxia and progressive glomerular diseases.",
+  "entities": [
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Hypoxia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 247,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 290,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 404,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 509,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 600,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 692,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 747,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1079,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1336,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1466,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 13
+        },
+        {
+          "text": "diseased kidney",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 524,
+          "length": 15
+        },
+        {
+          "text": "tubulointerstitial injury",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1134,
+          "length": 25
+        },
+        {
+          "text": "glomerular diseases",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1490,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "83785",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 327,
+          "length": 34
+        },
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 958,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 431,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D011692",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "puromycin aminonucleoside",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 615,
+          "length": 25
+        },
+        {
+          "text": "puromycin aminonucleoside",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 857,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 649,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "302424",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ED-1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1264,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C027078",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dUTP",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1292,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "302424",
+      "tail_id": "D000860",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C027078",
+      "tail_id": "D000860",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011692",
+      "tail_id": "D009404",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000860",
+      "tail_id": "83785",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000860",
+      "tail_id": "D011692",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

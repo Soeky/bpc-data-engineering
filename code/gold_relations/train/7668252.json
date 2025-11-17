@@ -1,0 +1,248 @@
+{
+  "doc_id": "7668252",
+  "title": "Cloning of human very-long-chain acyl-coenzyme A dehydrogenase and molecular characterization of its deficiency in two patients.",
+  "body": "Two overlapping cDNA clones (1, 991 bp and 736 bp, respectively) encoding the precursor of human mitochondrial very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) were cloned and sequenced. The cDNA inserts of these clones together encompass a region of 2, 177 bases, encoding the entire protein of 655 amino acids, including a 40-amino acid leader peptide and a 615-amino acid mature polypeptide. PCR-amplified VLCAD cDNAs were sequenced in cultured fibroblasts from two VLCAD-deficient patients. In both patients, a 105-bp deletion encompassing bases 1078-1182 in VLCAD cDNA was identified. The deletion seems to occur due to exon skipping during processing of VLCAD pre-mRNA. This is the first demonstration of a mutation causing VLCAD deficiency. Quantitative cDNA expression of normal human VLCAD was performed in the patients fibroblasts, using vaccinia viral system, which demonstrated that the deficiency of the normal VLCAD protein causes impaired long-chain fatty acid beta-oxidation activity in the patients fibroblasts. In patient fibroblasts, raising VLCAD activity to approximately 20% of normal control fibroblast activity raised palmitic acid beta-oxidation flux to the level found in control fibroblasts, which may offer important information for the rational design of future somatic gene therapy for VLCAD deficiency..",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 220,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 619,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 637,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 921,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 954,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1141,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1166,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "very-long-chain acyl-coenzyme A dehydrogenase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 45
+        },
+        {
+          "text": "very-long-chain acyl-coenzyme A dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 240,
+          "length": 45
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 287,
+          "length": 5
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 543,
+          "length": 5
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 697,
+          "length": 5
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 794,
+          "length": 5
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 927,
+          "length": 5
+        },
+        {
+          "text": "VLCAD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1195,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C536353",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "VLCAD-deficient",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 603,
+          "length": 15
+        },
+        {
+          "text": "VLCAD deficiency",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 864,
+          "length": 16
+        },
+        {
+          "text": "deficiency of the normal VLCAD protein",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1033,
+          "length": 38
+        },
+        {
+          "text": "VLCAD deficiency",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1450,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1078-1182|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "105-bp deletion encompassing bases 1078-1182",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 649,
+          "length": 44
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "long-chain fatty acid",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1088,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D019308",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "palmitic acid",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1276,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C536353",
+      "tail_id": "D005227",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C536353",
+      "tail_id": "c|DEL|1078-1182|",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C536353",
+      "tail_id": "37",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019308",
+      "tail_id": "C536353",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "37",
+      "tail_id": "D019308",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

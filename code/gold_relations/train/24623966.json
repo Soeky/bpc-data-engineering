@@ -1,0 +1,761 @@
+{
+  "doc_id": "24623966",
+  "title": "Endothelial NADPH oxidase 4 mediates vascular endothelial growth factor receptor 2-induced intravitreal neovascularization in a rat model of retinopathy of prematurity.",
+  "body": "PURPOSE: NADPH oxidase-generated reactive oxygen species (ROS) are implicated in angiogenesis. Isoforms of NADPH oxidase NOX1, NOX2, and NOX4 are reported to be expressed in endothelial cells (ECs). Of these, NOX1 and NOX2 have been reported to contribute to intravitreal neovascularization (IVNV) in oxygen-induced retinopathy (OIR) models. In this study, we tested the hypothesis that the isoform NOX4 in ECs contributed to vascular endothelial growth factor (VEGF)-induced angiogenesis and IVNV. METHODS: Isoforms of NADPH oxidase MRNA were measured in several types of cultured vascular ecs: human retinal microvascular ECs (hRMVECs), choroidal ECs (CECs), and human umbilical vascular ECs (HUVECs) using real-time PCR. Newborn rat pups and dams were placed into an OIR model that cycled oxygen concentration between 50% and 10% every 24 h for 14 days, and then were placed in room air (RA) for an additional 4 days (rat OIR model). NOX4 expression in retinal lysates from the RA-raised pups at postnatal day 0 (P0), P14, and P18 was determined with western blots. STAT3 activation was determined as the ratio of phosphorylated STAT3 to total STAT3 with western blot analysis of retinal lysates from pups raised in RA or from the rat OIR model at P18. Semiquantitative assessment of the density of NOX4 colabeling with lectin-stained retinal ECs was determined by immunolabeling of retinal cryosections from P18 pups in OIR or in RA. In hRMVECs transfected with NOX4 siRNA and treated with VEGF or control, 1) ROS generation was measured using the 5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester fluorescence assay and 2) phosphorylated VEGF receptor 2 and STAT3, and total VEGFR2 and STAT3 were measured in western blot analyses. VEGF-stimulated hRMVEC proliferation was measured following transfection with NOX4 siRNA or STAT3 siRNA, or respective controls. RESULTS: NOX4 was the most prevalent isoform of NADPH oxidase in vascular ECs. NOX4 expression in retinal lysates was significantly decreased during development in RA. Compared to RA, the expression of retinal NOX4 increased at P18. At p18 OIR, semiquantitative assessment of the density of lectin and NOX4 colabeling in retinal vascular ECs was greater in retinal cryosections and activated STAT3 was greater in retinal lysates when compared to the RA-raised pups. In cultured hRMVECs, knockdown of NOX4 by siRNA transfection inhibited VEGF-induced ROS generation. VEGF induced a physical interaction of phosphorylated-VEGFR2 and NOX4. Knockdown of NOX4: 1) reduced VEGFR2 activation but did not abolish it and 2) abolished STAT3 activation in response to VEGF. Knockdown of either NOX4 or STAT3 inhibited VEGF-induced EC proliferation. CONCLUSIONS: Our data suggest that in a model representative of human retinopathy of prematurity, NOX4 was increased at a time point when IVNV developed. VEGF-activated NOX4 led to an interaction between VEGF-activated VEGFR2 and NOX4 that mediated EC proliferation via activation of STAT3. Altogether, our results suggest that NOX4 may regulate VEGFR2-mediated IVNV through activated STAT3.",
+  "entities": [
+    {
+      "id": "85431",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NADPH oxidase 4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 15
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 306,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 568,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1106,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1471,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2144,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2275,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2367,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3001,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3231,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25589",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor receptor 2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 45
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3249,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 128,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 901,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1090,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1403,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012178",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinopathy of prematurity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 141,
+          "length": 26
+        },
+        {
+          "text": "retinopathy of prematurity",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2973,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "114243,50507,66021,85431",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NADPH oxidase",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 178,
+          "length": 13
+        },
+        {
+          "text": "NADPH oxidase",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 276,
+          "length": 13
+        },
+        {
+          "text": "NADPH oxidase",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 689,
+          "length": 13
+        },
+        {
+          "text": "NADPH oxidase",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2113,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 202,
+          "length": 23
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 227,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1683,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2615,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "114243",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NOX1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 290,
+          "length": 4
+        },
+        {
+          "text": "NOX1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 378,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "66021",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NOX2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 296,
+          "length": 4
+        },
+        {
+          "text": "NOX2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 387,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 470,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 961,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D012164",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinopathy",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 485,
+          "length": 11
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 498,
+          "length": 3
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 939,
+          "length": 3
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1094,
+          "length": 3
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1407,
+          "length": 3
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1593,
+          "length": 3
+        },
+        {
+          "text": "OIR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2305,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "83785",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 595,
+          "length": 34
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 631,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 765,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 834,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2967,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "25125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1238,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1301,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1316,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2457,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3288,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1492,
+          "length": 6
+        },
+        {
+          "text": "5-(and-6)-chloromethyl-2',7'-dichlorodihydrofluorescein diacetate, acetyl ester",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1721,
+          "length": 79
+        },
+        {
+          "text": "lectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2356,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "50507",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1635,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2014,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2074,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2565,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2696,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2715,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2848,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3072,
+          "length": 4
+        },
+        {
+          "text": "NOX4",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3133,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1663,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1936,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2602,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2631,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2822,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2872,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3057,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3107,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3791",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF receptor 2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1842,
+          "length": 15
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1879,
+          "length": 6
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2685,
+          "length": 6
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2732,
+          "length": 6
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3122,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "6774",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1862,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1890,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2028,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2790,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2856,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 3187,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6774",
+      "tail_id": "7422",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "7422",
+      "tail_id": "3791",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "7422",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "66021",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "50507",
+      "tail_id": "6774",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "50507",
+      "tail_id": "3791",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "50507",
+      "tail_id": "7422",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "50507",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "114243",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D010100",
+      "tail_id": "D012164",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "85431",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "85431",
+      "tail_id": "25589",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

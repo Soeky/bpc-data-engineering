@@ -1,0 +1,482 @@
+{
+  "doc_id": "21750150",
+  "title": "Homozygously deleted gene DACH1 regulates tumor-initiating activity of glioma cells.",
+  "body": "Loss or reduction in function of tumor suppressor genes contributes to tumorigenesis. Here, by allelic DNA copy number analysis using single-nucleotide polymorphism genotyping array and mass spectrometry, we report homozygous deletion in glioblastoma multiformes at chromosome 13q21, where DACH1 gene is located. We found decreased cell proliferation of a series of glioma cell lines by forced expression of DACH1. We then generated U87TR-Da glioma cells, where DACH1 expression could be activated by exposure of the cells to doxycycline. Both ex vivo cellular proliferation and in vivo growth of s.c. transplanted tumors in mice are reduced in U87TR-Da cells with DACH1 expression (U87-DACH1-high), compared with DACH1-nonexpressing U87TR-Da cells (U87-DACH1-low). U87-DACH1-low cells form spheroids with CD133 and Nestin expression in serum-free medium but U87-DACH1-high cells do not. Compared with spheroid-forming U87-DACH1-low cells, adherent U87-DACH1-high cells display lower tumorigenicity, indicating DACH1 decreases the number of tumor-initiating cells. Gene expression analysis and chromatin immunoprecipitation assay reveal that fibroblast growth factor 2 (FGF2/bFGF) is transcriptionally repressed by DACH1, especially in cells cultured in serum-free medium. Exogenous bFGF rescues spheroid-forming activity and tumorigenicity of the U87-DACH1-high cells, suggesting that loss of DACH1 increases the number of tumor-initiating cells through transcriptional activation of bFGF. These results illustrate that DACH1 is a distinctive tumor suppressor, which does not only suppress growth of tumor cells but also regulates bFGF-mediated tumor-initiating activity of glioma cells.",
+  "entities": [
+    {
+      "id": "1602",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DACH1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 375,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 493,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 547,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 750,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 772,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 799,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 839,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 855,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 948,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1008,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1038,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1096,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1300,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1437,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1479,
+          "length": 5
+        },
+        {
+          "text": "DACH1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1606,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 118,
+          "length": 5
+        },
+        {
+          "text": "tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 156,
+          "length": 13
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 700,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1126,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1509,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1629,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1686,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1731,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005910",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glioma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 451,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 527,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1760,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005909",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glioblastoma",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 323,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0022",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "U87TR-Da",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 518,
+          "length": 8
+        },
+        {
+          "text": "U87TR-Da",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 730,
+          "length": 8
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 768,
+          "length": 3
+        },
+        {
+          "text": "U87TR-Da",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 819,
+          "length": 8
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 835,
+          "length": 3
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 851,
+          "length": 3
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 944,
+          "length": 3
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1004,
+          "length": 3
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1034,
+          "length": 3
+        },
+        {
+          "text": "U87",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1433,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004318",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxycycline",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 611,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 710,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "8842",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 891,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10763",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nestin",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 901,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2247",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibroblast growth factor 2",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1227,
+          "length": 26
+        },
+        {
+          "text": "FGF2",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1255,
+          "length": 4
+        },
+        {
+          "text": "bFGF",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1260,
+          "length": 4
+        },
+        {
+          "text": "bFGF",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1368,
+          "length": 4
+        },
+        {
+          "text": "bFGF",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1570,
+          "length": 4
+        },
+        {
+          "text": "bFGF",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1717,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2247",
+      "tail_id": "D005910",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2247",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "2247",
+      "tail_id": "1602",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004318",
+      "tail_id": "1602",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "1602",
+      "tail_id": "10763",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "1602",
+      "tail_id": "8842",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "1602",
+      "tail_id": "D005910",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "1602",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

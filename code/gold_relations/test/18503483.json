@@ -1,0 +1,216 @@
+{
+  "doc_id": "18503483",
+  "title": "Recovery of tacrolimus-associated brachial neuritis after conversion to everolimus in a pediatric renal transplant recipient--case report and review of the literature.",
+  "body": "TAC has been shown to be a potent immunosuppressive agent for solid organ transplantation in pediatrics. Neurotoxicity is a potentially serious toxic effect. It is characterized by encephalopathy, headaches, seizures, or neurological deficits. Here, we describe an eight-and-a-half-yr-old male renal transplant recipient with right BN. MRI demonstrated hyperintense T2 signals in the cervical cord and right brachial plexus roots indicative of both myelitis and right brachial plexitis. Symptoms persisted for three months despite TAC dose reduction, administration of IVIG and four doses of methylprednisolone pulse therapy. Improvement and eventually full recovery only occurred after TAC was completely discontinued and successfully replaced by everolimus.",
+  "entities": [
+    {
+      "id": "D016559",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tacrolimus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 10
+        },
+        {
+          "text": "TAC",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 168,
+          "length": 3
+        },
+        {
+          "text": "TAC",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 699,
+          "length": 3
+        },
+        {
+          "text": "TAC",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 855,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020968",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brachial neuritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 17
+        },
+        {
+          "text": "brachial plexitis",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 636,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D000068338",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "everolimus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 10
+        },
+        {
+          "text": "everolimus",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 916,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 273,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 349,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006261",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "headaches",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 365,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 376,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological deficits",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 389,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D009187",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myelitis",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 617,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008775",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methylprednisolone",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 760,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009187",
+      "tail_id": "D000068338",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009187",
+      "tail_id": "D016559",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000068338",
+      "tail_id": "D020968",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D016559",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D016559",
+      "tail_id": "D000068338",
+      "type": "Conversion",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016559",
+      "tail_id": "D020968",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

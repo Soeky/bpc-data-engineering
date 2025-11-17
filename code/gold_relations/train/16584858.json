@@ -1,0 +1,783 @@
+{
+  "doc_id": "16584858",
+  "title": "Role of mangiferin on biochemical alterations and antioxidant status in isoproterenol-induced myocardial infarction in rats.",
+  "body": "The current study dealt with the protective role of mangiferin, a polyphenol from Mangifera indica Linn. (Anacardiaceae), on isoproterenol (ISPH)-induced myocardial infarction (MI) in rats through its antioxidative mechanism. Subcutaneous injection of ISPH (200 mg/kg body weight in 1 ml saline) to rats for 2 consecutive days caused myocardial damage in rat heart, which was determined by the increased activity of serum lactate dehydrogenase (LDH) and creatine phosphokinase isoenzymes (CK-MB), increased uric acid level and reduced plasma iron binding capacity. The protective role of mangiferin was analyzed by triphenyl tetrazolium chloride (TTC) test used for macroscopic enzyme mapping assay of the ischemic myocardium. The heart tissue antioxidant enzymes such as superoxide dismutase, catalase, glutathione peroxidase, glutathione transferase and glutathione reductase activities, non-enzymic antioxidants such as cerruloplasmin, Vitamin C, Vitamin E and glutathione levels were altered in MI rats. Upon pretreatment with mangiferin (100 mg/kg body weight suspended in 2 ml of dimethyl sulphoxide) given intraperitoneally for 28 days to MI rats protected the above-mentioned parameters to fall from the normal levels. Activities of heart tissue enzymic antioxidants and serum non-enzymic antioxidants levels rose significantly upon mangiferin administration as compared to ISPH-induced MI rats. From the present study it is concluded that mangiferin exerts a beneficial effect against ISPH-induced MI due to its antioxidant potential, which regulated the tissues defense system against cardiac damage.",
+  "entities": [
+    {
+      "id": "C013592",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mangiferin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 10
+        },
+        {
+          "text": "mangiferin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 177,
+          "length": 10
+        },
+        {
+          "text": "mangiferin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 713,
+          "length": 10
+        },
+        {
+          "text": "mangiferin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1156,
+          "length": 10
+        },
+        {
+          "text": "mangiferin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1466,
+          "length": 10
+        },
+        {
+          "text": "mangiferin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1573,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 250,
+          "length": 13
+        },
+        {
+          "text": "ISPH",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 265,
+          "length": 4
+        },
+        {
+          "text": "ISPH",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 377,
+          "length": 4
+        },
+        {
+          "text": "ISPH",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1507,
+          "length": 4
+        },
+        {
+          "text": "ISPH",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1619,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 279,
+          "length": 21
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 302,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1124,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1271,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1520,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1632,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 309,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 424,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 480,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1127,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1274,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1523,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D059808",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "polyphenol",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 191,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "29780",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mangifera indica Linn",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 207,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial damage",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 459,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "24533",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactate dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 547,
+          "length": 21
+        },
+        {
+          "text": "LDH",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 570,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "creatine phosphokinase isoenzymes",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 579,
+          "length": 33
+        },
+        {
+          "text": "CK-MB",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 614,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D014527",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "uric acid",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 632,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 667,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C009591",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triphenyl tetrazolium chloride",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 740,
+          "length": 30
+        },
+        {
+          "text": "TTC",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 772,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D017202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic myocardium",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 831,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "24786",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 897,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "24248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "catalase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 919,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24404",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione peroxidase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 929,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "24421",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione transferase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 953,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "116686",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione reductase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 981,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "1356",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cerruloplasmin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1048,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001205",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Vitamin C",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1064,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014810",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Vitamin E",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1075,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1089,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D004121",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dimethyl sulphoxide",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1211,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac damage",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1720,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004121",
+      "tail_id": "1356",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004121",
+      "tail_id": "116686",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004121",
+      "tail_id": "24786",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004121",
+      "tail_id": "24421",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004121",
+      "tail_id": "24404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004121",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004121",
+      "tail_id": "D014810",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004121",
+      "tail_id": "D001205",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004121",
+      "tail_id": "24248",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C013592",
+      "tail_id": "D006331",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C013592",
+      "tail_id": "1356",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C013592",
+      "tail_id": "116686",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C013592",
+      "tail_id": "24786",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C013592",
+      "tail_id": "24421",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C013592",
+      "tail_id": "24404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C013592",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "C013592",
+      "tail_id": "D014810",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "C013592",
+      "tail_id": "D001205",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "C013592",
+      "tail_id": "24248",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "C013592",
+      "tail_id": "D017202",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "C013592",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "C013592",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D009202",
+      "tail_id": "24264",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D009202",
+      "tail_id": "24533",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D009202",
+      "tail_id": "D007501",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "D009202",
+      "tail_id": "D014527",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "D009203",
+      "tail_id": "1356",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "D009203",
+      "tail_id": "116686",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "D009203",
+      "tail_id": "24786",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "D009203",
+      "tail_id": "24421",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D009203",
+      "tail_id": "24404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "D009203",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D009203",
+      "tail_id": "D014810",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "D009203",
+      "tail_id": "D001205",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "D009203",
+      "tail_id": "24248",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D007545",
+      "tail_id": "24264",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "D007545",
+      "tail_id": "24533",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "D007545",
+      "tail_id": "D007501",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D007545",
+      "tail_id": "D014527",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "D007545",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R40",
+      "head_id": "D007545",
+      "tail_id": "D009203",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

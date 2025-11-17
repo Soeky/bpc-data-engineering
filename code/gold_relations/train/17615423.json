@@ -1,0 +1,643 @@
+{
+  "doc_id": "17615423",
+  "title": "Severe rhabdomyolysis and acute renal failure secondary to concomitant use of simvastatin, amiodarone, and atazanavir.",
+  "body": "OBJECTIVE: To report a case of a severe interaction between simvastatin, amiodarone, and atazanavir resulting in rhabdomyolysis and acute renal failure. BACKGROUND: A 72-year-old white man with underlying human immunodeficiency virus, atrial fibrillation, coronary artery disease, and hyperlipidemia presented with generalized pain, fatigue, and dark orange urine for 3 days. The patient was taking 80 mg simvastatin at bedtime (initiated 27 days earlier); amiodarone at a dose of 400 mg daily for 7 days, then 200 mg daily (initiated 19 days earlier); and 400 mg atazanavir daily (initiated at least 2 years previously). Laboratory evaluation revealed 66,680 U/L creatine kinase, 93 mg/dL blood urea nitrogen, 4.6 mg/dL creatinine, 1579 U/L aspartate aminotransferase, and 738 U/L alanine aminotransferase. Simvastatin, amiodarone, and the patient's human immunodeficiency virus medications were all temporarily discontinued and the patient was given forced alkaline diuresis and started on dialysis. Nine days later the patient's creatine kinase had dropped to 1695 U/L and creatinine was 3.3 mg/dL. The patient was discharged and continued outpatient dialysis for 1 month until his renal function recovered. DISCUSSION: The risk of rhabdomyolysis is increased in the presence of concomitant drugs that inhibit simvastatin metabolism. Simvastatin is metabolized by CYP3A4. Amiodarone and atazanavir are recognized CYP3A4 inhibitors. CONCLUSIONS: Pharmacokinetic differences in statins are an important consideration for assessing the risk of potential drug interactions. In patients requiring the concurrent use of statins and CYP3A4 inhibitors, pravastatin, fluvastatin, and rosuvastatin carry the lowest risk of drug interactions; atorvastatin carries moderate risk, whereas simvastatin and lovastatin have the highest risk and should be avoided in patients taking concomitant CYP3A4 inhibitors.",
+  "entities": [
+    {
+      "id": "D012206",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rhabdomyolysis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 7,
+          "length": 14
+        },
+        {
+          "text": "rhabdomyolysis",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 232,
+          "length": 14
+        },
+        {
+          "text": "rhabdomyolysis",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1354,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 19
+        },
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 251,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D019821",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "simvastatin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 179,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 524,
+          "length": 11
+        },
+        {
+          "text": "Simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 927,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1432,
+          "length": 11
+        },
+        {
+          "text": "Simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1456,
+          "length": 11
+        },
+        {
+          "text": "statins",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1598,
+          "length": 7
+        },
+        {
+          "text": "statins",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1736,
+          "length": 7
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1898,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amiodarone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 10
+        },
+        {
+          "text": "amiodarone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 192,
+          "length": 10
+        },
+        {
+          "text": "amiodarone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 576,
+          "length": 10
+        },
+        {
+          "text": "amiodarone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 940,
+          "length": 10
+        },
+        {
+          "text": "Amiodarone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1494,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C413408",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "atazanavir",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 107,
+          "length": 10
+        },
+        {
+          "text": "atazanavir",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 208,
+          "length": 10
+        },
+        {
+          "text": "atazanavir",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 683,
+          "length": 10
+        },
+        {
+          "text": "atazanavir",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1509,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 304,
+          "length": 3
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 499,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 960,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1053,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1141,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1225,
+          "length": 7
+        },
+        {
+          "text": "outpatient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1262,
+          "length": 10
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1695,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1972,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "12721",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human immunodeficiency virus",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 324,
+          "length": 28
+        },
+        {
+          "text": "human immunodeficiency virus",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 970,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D001281",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 354,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D003324",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "coronary artery disease",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 375,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D006949",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperlipidemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 404,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 446,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005221",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fatigue",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 452,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003402",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatine kinase",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 783,
+          "length": 15
+        },
+        {
+          "text": "creatine kinase",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1151,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D001806",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "blood urea nitrogen",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 809,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 840,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1195,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001219",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspartate aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 861,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D000410",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alanine aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 901,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "1576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP3A4",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1486,
+          "length": 6
+        },
+        {
+          "text": "CYP3A4",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1535,
+          "length": 6
+        },
+        {
+          "text": "CYP3A4",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1748,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D017035",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pravastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1767,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C065180",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1780,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C422923",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "rosuvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1797,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "C065179",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1854,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008148",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lovastatin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1914,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D065692",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "CYP3A4 inhibitors",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 2000,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C413408",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C413408",
+      "tail_id": "1576",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C413408",
+      "tail_id": "D012206",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000638",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000638",
+      "tail_id": "C413408",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000638",
+      "tail_id": "1576",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000638",
+      "tail_id": "D012206",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "1576",
+      "tail_id": "C422923",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "1576",
+      "tail_id": "C065180",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "1576",
+      "tail_id": "D017035",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D019821",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D019821",
+      "tail_id": "C413408",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D019821",
+      "tail_id": "D000638",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D019821",
+      "tail_id": "1576",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D012206",
+      "tail_id": "D019821",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

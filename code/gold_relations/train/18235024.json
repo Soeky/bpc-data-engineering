@@ -1,0 +1,239 @@
+{
+  "doc_id": "18235024",
+  "title": "Cone dystrophy with supernormal rod response is strictly associated with mutations in KCNV2.",
+  "body": "PURPOSE: Cone dystrophy with supernormal rod response (CDSRR) is a retinal disorder characterized by reduced visual acuity, color vision defects, and specific alterations of ERG responses that feature elevated scotopic b-wave amplitudes at high luminance intensities. Mutations in PDE6H and in KCNV2 have been described in CDSRR. A combined clinical and genetic study was conducted in a cohort of patients with CDSRR, to substantiate these prior RESULTS: Seventeen patients from 13 families underwent a detailed ophthalmic examination including color vision testing, Goldmann visual fields, fundus photography, Ganzfeld and multifocal ERGs, and optical coherence tomography. The coding sequences and flanking intron/UTR sequences of PDE6C and KCNV2 were screened for mutations by means of DHPLC and direct DNA sequencing of PCR-amplified genomic DNA. results. Whereas no mutations were detected in the PDE6H gene, mutations in KCNV2 were identified in all patients, in either the homozygous or compound heterozygous state. Ten of the 11 identified mutations were novel, including three missense and six truncating mutations and one gross deletion. The mutations concordantly segregate in all available families according a recessive mode of inheritance. The CDSRR phenotype was associated with reduced visual acuity of variable degree and color vision defects. Macular defects ranging from mild pigmentary changes to distinct foveal atrophy were present in nine patients. Progression of the disease was observed in only three of seven patients with follow-up data. CONCLUSIONS: The phenotype of cone dystrophy with supernormal rod response is tightly linked with mutations in KCNV2.",
+  "entities": [
+    {
+      "id": "C563678",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cone dystrophy with supernormal rod response",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 44
+        },
+        {
+          "text": "Cone dystrophy with supernormal rod response",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 102,
+          "length": 44
+        },
+        {
+          "text": "CDSRR",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 148,
+          "length": 5
+        },
+        {
+          "text": "CDSRR",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 416,
+          "length": 5
+        },
+        {
+          "text": "CDSRR",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 504,
+          "length": 5
+        },
+        {
+          "text": "CDSRR",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1351,
+          "length": 5
+        },
+        {
+          "text": "cone dystrophy with supernormal rod response",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1688,
+          "length": 44
+        }
+      ]
+    },
+    {
+      "id": "169522",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KCNV2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 5
+        },
+        {
+          "text": "KCNV2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 387,
+          "length": 5
+        },
+        {
+          "text": "KCNV2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 836,
+          "length": 5
+        },
+        {
+          "text": "KCNV2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1020,
+          "length": 5
+        },
+        {
+          "text": "KCNV2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1769,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012164",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinal disorder",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 160,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D003117",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "color vision defects",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 217,
+          "length": 20
+        },
+        {
+          "text": "color vision defects",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1432,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "5149",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDE6H",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 374,
+          "length": 5
+        },
+        {
+          "text": "PDE6H",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 995,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 490,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 558,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1049,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1555,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1628,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "5146",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDE6C",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 826,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001284",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrophy",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1526,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C563678",
+      "tail_id": "169522",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C563678",
+      "tail_id": "5149",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

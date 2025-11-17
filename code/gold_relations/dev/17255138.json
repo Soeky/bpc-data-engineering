@@ -1,0 +1,619 @@
+{
+  "doc_id": "17255138",
+  "title": "Risks and benefits of COX-2 inhibitors vs non-selective NSAIDs: does their cardiovascular risk exceed their gastrointestinal benefit? A retrospective cohort study.",
+  "body": "OBJECTIVES: The risk of acute myocardial infarction (AMI) with COX-2 inhibitors may offset their gastrointestinal (GI) benefit compared with non-selective (NS) non-steroidal anti-inflammatory drugs (NSAIDs). We aimed to compare the risks of hospitalization for AMI and GI bleeding among elderly patients using COX-2 inhibitors, NS-NSAIDs and acetaminophen. METHODS: We conducted a retrospective cohort study using administrative data of patients > or =65 years of age who filled a prescription for NSAID or acetaminophen during 1999-2002. Outcomes were compared using Cox regression models with time-dependent exposures. RESULTS: Person-years of exposure among non-users of aspirin were: 75,761 to acetaminophen, 42,671 to rofecoxib 65,860 to celecoxib, and 37,495 to NS-NSAIDs. Among users of aspirin, they were: 14,671 to rofecoxib, 22,875 to celecoxib, 9,832 to NS-NSAIDs and 38,048 to acetaminophen. Among non-users of aspirin, the adjusted hazard ratios (95% confidence interval) of hospitalization for AMI/GI vs the acetaminophen (with no aspirin) group were: rofecoxib 1.27 (1.13, 1.42), celecoxib 0.93 (0.83, 1.03), naproxen 1.59 (1.31, 1.93), diclofenac 1.17 (0.99, 1.38) and ibuprofen 1.05 (0.74, 1.51). Among users of aspirin, they were: rofecoxib 1.73 (1.52, 1.98), celecoxib 1.34 (1.19, 1.52), ibuprofen 1.51 (0.95, 2.41), diclofenac 1.69 (1.35, 2.10), naproxen 1.35 (0.97, 1.88) and acetaminophen 1.29 (1.17, 1.42). CONCLUSION: Among non-users of aspirin, naproxen seemed to carry the highest risk for AMI/GI bleeding. The AMI/GI toxicity of celecoxib was similar to that of acetaminophen and seemed to be better than those of rofecoxib and NS-NSAIDs. Among users of aspirin, both celecoxib and naproxen seemed to be the least toxic.",
+  "entities": [
+    {
+      "id": "D052246",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "COX-2 inhibitors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 16
+        },
+        {
+          "text": "COX-2 inhibitors",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 227,
+          "length": 16
+        },
+        {
+          "text": "COX-2 inhibitors",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 474,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D000894",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NSAIDs",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 6
+        },
+        {
+          "text": "non-steroidal anti-inflammatory drugs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 324,
+          "length": 37
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 363,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 495,
+          "length": 6
+        },
+        {
+          "text": "NSAID",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 662,
+          "length": 5
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 935,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1032,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1822,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 188,
+          "length": 27
+        },
+        {
+          "text": "AMI",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 217,
+          "length": 3
+        },
+        {
+          "text": "AMI",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 425,
+          "length": 3
+        },
+        {
+          "text": "AMI",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1172,
+          "length": 3
+        },
+        {
+          "text": "AMI",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1680,
+          "length": 3
+        },
+        {
+          "text": "AMI",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1701,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GI bleeding",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 433,
+          "length": 11
+        },
+        {
+          "text": "GI bleeding",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1684,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 459,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 601,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000082",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 506,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 671,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 862,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1053,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1186,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1561,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1753,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D001241",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 838,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 958,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1087,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1209,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1393,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1625,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1845,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C116926",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 887,
+          "length": 9
+        },
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 988,
+          "length": 9
+        },
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1230,
+          "length": 9
+        },
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1413,
+          "length": 9
+        },
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1805,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C105934",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 907,
+          "length": 9
+        },
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1009,
+          "length": 9
+        },
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1259,
+          "length": 9
+        },
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1442,
+          "length": 9
+        },
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1720,
+          "length": 9
+        },
+        {
+          "text": "celecoxib",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1859,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009288",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "naproxen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1288,
+          "length": 8
+        },
+        {
+          "text": "naproxen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1530,
+          "length": 8
+        },
+        {
+          "text": "naproxen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1634,
+          "length": 8
+        },
+        {
+          "text": "naproxen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1873,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004008",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1316,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1500,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007052",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ibuprofen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1349,
+          "length": 9
+        },
+        {
+          "text": "ibuprofen",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1471,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005767",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GI toxicity",
+          "passage_index": 1,
+          "passage_offset": 164,
+          "char_offset": 1705,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005767",
+      "tail_id": "C105934",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005767",
+      "tail_id": "C116926",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005767",
+      "tail_id": "D000082",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005767",
+      "tail_id": "D000894",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009288",
+      "tail_id": "D006471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009288",
+      "tail_id": "D009203",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009203",
+      "tail_id": "D052246",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "C105934",
+      "tail_id": "D006471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C105934",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C116926",
+      "tail_id": "D006471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C116926",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D000082",
+      "tail_id": "D006471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D000082",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D001241",
+      "tail_id": "C105934",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D001241",
+      "tail_id": "C116926",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D001241",
+      "tail_id": "D000082",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D001241",
+      "tail_id": "D000894",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D000894",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D000894",
+      "tail_id": "D000082",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D052246",
+      "tail_id": "D000082",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D052246",
+      "tail_id": "D000894",
+      "type": "Comparison",
+      "novel": "Novel"
+    }
+  ]
+}

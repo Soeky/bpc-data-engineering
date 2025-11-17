@@ -1,0 +1,505 @@
+{
+  "doc_id": "27941998",
+  "title": "Voltage-Dependent Anion Channel 1(VDAC1) Participates the Apoptosis of the Mitochondrial Dysfunction in Desminopathy.",
+  "body": "Desminopathies caused by the mutation in the gene coding for desmin are genetically protein aggregation myopathies. Mitochondrial dysfunction is one of pathological changes in the desminopathies at the earliest stage. The molecular mechanisms of mitochondria dysfunction in desminopathies remain exclusive. VDAC1 regulates mitochondrial uptake across the outer membrane and mitochondrial outer membrane permeabilization (MOMP). Relationships between desminopathies and Voltage-dependent anion channel 1 (VDAC1) remain unclear. Here we successfully constructed the desminopathy rat model, evaluated with conventional stains, containing hematoxylin and eosin (HE), Gomori Trichrome (MGT), (PAS), red oil (ORO), NADH-TR, SDH staining and immunohistochemistry. Immunofluorescence results showed that VDAC1 was accumulated in the desmin highly stained area of muscle fibers of desminopathy patients or desminopathy rat model compared to the normal ones. Meanwhile apoptosis related proteins bax and ATF2 were involved in desminopathy patients and desminopathy rat model, but not bcl-2, bcl-xl or HK2.VDAC1 and desmin are closely relevant in the tissue splices of deminopathies patients and rats with desminopathy at protein lever. Moreover, apoptotic proteins are also involved in the desminopathies, like bax, ATF2, but not bcl-2, bcl-xl or HK2. This pathological analysis presents the correlation between VDAC1 and desmin, and apoptosis related proteins are correlated in the desminopathy. Furthermore, we provide a rat model of desminopathy for the investigation of desmin related myopathy.",
+  "entities": [
+    {
+      "id": "7416,83529",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Voltage-Dependent Anion Channel 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 33
+        },
+        {
+          "text": "VDAC1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 5
+        },
+        {
+          "text": "VDAC1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 914,
+          "length": 5
+        },
+        {
+          "text": "VDAC1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1213,
+          "length": 5
+        },
+        {
+          "text": "VDAC1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1520,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Mitochondrial Dysfunction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 25
+        },
+        {
+          "text": "Mitochondrial dysfunction",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 234,
+          "length": 25
+        },
+        {
+          "text": "mitochondria dysfunction",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 364,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "C563319",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Desminopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 104,
+          "length": 12
+        },
+        {
+          "text": "Desminopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 118,
+          "length": 14
+        },
+        {
+          "text": "desminopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 298,
+          "length": 14
+        },
+        {
+          "text": "desminopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 392,
+          "length": 14
+        },
+        {
+          "text": "desminopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 568,
+          "length": 14
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 682,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 990,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1015,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1134,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1160,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1313,
+          "length": 12
+        },
+        {
+          "text": "desminopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1398,
+          "length": 14
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1591,
+          "length": 12
+        },
+        {
+          "text": "desminopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1644,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "1674",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 179,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009135",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myopathies",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 222,
+          "length": 10
+        },
+        {
+          "text": "myopathy",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1697,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VDAC1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 425,
+          "length": 5
+        },
+        {
+          "text": "Voltage-dependent anion channel 1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 587,
+          "length": 33
+        },
+        {
+          "text": "VDAC1",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 622,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 695,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1028,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1173,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1303,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1631,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1674,64362",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 943,
+          "length": 6
+        },
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1223,
+          "length": 6
+        },
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1530,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1003,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1147,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1290,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24887,581",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bax",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1104,
+          "length": 3
+        },
+        {
+          "text": "bax",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1419,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1386,81647",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATF2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1112,
+          "length": 4
+        },
+        {
+          "text": "ATF2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1424,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24224,596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bcl-2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1192,
+          "length": 5
+        },
+        {
+          "text": "bcl-2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1438,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24888,598",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bcl-xl",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1199,
+          "length": 6
+        },
+        {
+          "text": "bcl-xl",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1445,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "25059,3099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HK2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1209,
+          "length": 3
+        },
+        {
+          "text": "HK2",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1455,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "64362",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 1682,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R4",
+      "head_id": "64362",
+      "tail_id": "D009135",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "64362",
+      "tail_id": "C563319",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "1674",
+      "tail_id": "D009135",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "1674",
+      "tail_id": "C563319",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "7416",
+      "tail_id": "C563319",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "7416",
+      "tail_id": "64362",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "7416",
+      "tail_id": "1674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "7416",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

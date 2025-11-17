@@ -1,0 +1,451 @@
+{
+  "doc_id": "18827003",
+  "title": "A novel point mutation in the amino terminal domain of the human glucocorticoid receptor (hGR) gene enhancing hGR-mediated gene expression.",
+  "body": "CONTEXT: Interindividual variations in glucocorticoid sensitivity have been associated with manifestations of cortisol excess or deficiency and may be partly explained by polymorphisms in the human glucocorticoid receptor (hGR) gene. We studied a 43-yr-old female, who presented with manifestations consistent with tissue-selective glucocorticoid hypersensitivity. We detected a novel, single, heterozygous nucleotide (G --> C) substitution at position 1201 (exon 2) of the hGR gene, which resulted in aspartic acid to histidine substitution at amino acid position 401 in the amino-terminal domain of the hGRalpha. We investigated the molecular mechanisms of action of the natural mutant receptor hGRalphaD401H. METHODS-RESULTS: Compared with the wild-type hGRalpha, the mutant receptor hGRalphaD401H demonstrated a 2.4-fold increase in its ability to transactivate the glucocorticoid-inducible mouse mammary tumor virus promoter in response to dexamethasone but had similar affinity for the ligand (dissociation constant = 6.2 +/- 0.6 vs. 6.1 +/- 0.6 nm) and time to nuclear translocation (14.75 +/- 0.25 vs. 14.25 +/- 1.13 min). The mutant receptor hGRalphaD401H did not exert a dominant positive or negative effect upon the wild-type receptor, it preserved its ability to bind to glucocorticoid response elements, and displayed a normal interaction with the glucocorticoid receptor-interacting protein 1 coactivator. CONCLUSIONS: The mutant receptor hGRalphaD401H enhances the transcriptional activity of glucocorticoid-responsive genes. The presence of the D401H mutation may predispose subjects to obesity, hypertension, and other manifestations of the metabolic syndrome.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 332,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2908",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 23
+        },
+        {
+          "text": "hGR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 3
+        },
+        {
+          "text": "hGR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 3
+        },
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 338,
+          "length": 23
+        },
+        {
+          "text": "hGR",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 363,
+          "length": 3
+        },
+        {
+          "text": "hGR",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 614,
+          "length": 3
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 745,
+          "length": 8
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 837,
+          "length": 8
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 897,
+          "length": 8
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 927,
+          "length": 8
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1291,
+          "length": 8
+        },
+        {
+          "text": "hGRalpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1593,
+          "length": 8
+        },
+        {
+          "text": "glucocorticoid-responsive genes",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1648,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 179,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 472,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1010,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1423,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006854",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cortisol",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 250,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 487,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1201|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(G --> C) substitution at position 1201",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 558,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D|401|H",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "aspartic acid to histidine substitution at amino acid position 401",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 642,
+          "length": 66
+        },
+        {
+          "text": "D401H",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 845,
+          "length": 5
+        },
+        {
+          "text": "D401H",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 935,
+          "length": 5
+        },
+        {
+          "text": "D401H",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1299,
+          "length": 5
+        },
+        {
+          "text": "D401H",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1601,
+          "length": 5
+        },
+        {
+          "text": "D401H",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1701,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11757",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse mammary tumor virus",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1035,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1085,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "23426",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucocorticoid receptor-interacting protein 1",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1501,
+          "length": 45
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1743,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1752,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolic syndrome",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1798,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|G|1201|C",
+      "tail_id": "D005938",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006973",
+      "tail_id": "2908",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009765",
+      "tail_id": "2908",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005938",
+      "tail_id": "D006854",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005938",
+      "tail_id": "D003907",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005938",
+      "tail_id": "2908",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005938",
+      "tail_id": "D004342",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "p|SUB|D|401|H",
+      "tail_id": "D008659",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "p|SUB|D|401|H",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "p|SUB|D|401|H",
+      "tail_id": "D009765",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "p|SUB|D|401|H",
+      "tail_id": "D003907",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "p|SUB|D|401|H",
+      "tail_id": "D005938",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "2908",
+      "tail_id": "D008659",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "2908",
+      "tail_id": "23426",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "2908",
+      "tail_id": "D003907",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D004342",
+      "tail_id": "c|SUB|G|1201|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D004342",
+      "tail_id": "p|SUB|D|401|H",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D004342",
+      "tail_id": "2908",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

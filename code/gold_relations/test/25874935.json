@@ -1,0 +1,555 @@
+{
+  "doc_id": "25874935",
+  "title": "Neuroprotective effect of neuroserpin in oxygen-glucose deprivation- and reoxygenation-treated rat astrocytes in vitro.",
+  "body": "Neuroserpin (NSP) reportedly exerts neuroprotective effects in cerebral ischemic animal models and patients; however, the mechanism of protection is poorly understood. We thus attempted to confirm neuroprotective effects of NSP on astrocytes in the ischemic state and then explored the relative mechanisms. Astrocytes from neonatal rats were treated with oxygen-glucose deprivation (OGD) followed by reoxygenation (OGD/R). To confirm the neuroprotective effects of NSP, we measured the cell survival rate, relative lactate dehydrogenase (LDH) release; we also performed morphological methods, namely Hoechst 33342 staining and Annexin V assay. To explore the potential mechanisms of NSP, the release of nitric oxide (NO) and TNF-alpha related to NSP administration were measured by enzyme-linked immunosorbent assay. The proteins related to the NF-kappaB, ERK1/2, and PI3K/Akt pathways were investigated by Western blotting. To verify the cause-and-effect relationship between neuroprotection and the NF-kappaB pathway, a NF-kappaB pathway inhibitor sc3060 was employed to observe the effects of NSP-induced neuroprotection. We found that NSP significantly increased the cell survival rate and reduced LDH release in OGD/R-treated astrocytes. It also reduced NO/TNF-alpha release. Western blotting showed that the protein levels of p-IKKBalpha/beta and P65 were upregulated by the OGD/R treatment and such effects were significantly inhibited by NSP administration. The NSP-induced inhibition could be significantly reversed by administration of the NF-kappaB pathway inhibitor sc3060, whereas, expressions of p-ERK1, p-ERK2, and p-AKT were upregulated by the OGD/R treatment; however, their levels were unchanged by NSP administration. Our results thus verified the neuroprotective effects of NSP in ischemic astrocytes. The potential mechanisms include inhibition of the release of NO/TNF-alpha and repression of the NF-kappaB signaling pathways. Our data also indicated that NSP has little influence on the MAPK and PI3K/Akt pathways.",
+  "entities": [
+    {
+      "id": "116459",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neuroserpin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 11
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 344,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 585,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 803,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 866,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1216,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1259,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1566,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1590,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1837,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1914,
+          "length": 3
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2098,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 475,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 482,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 452,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "116459,5274",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Neuroserpin",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 120,
+          "length": 11
+        },
+        {
+          "text": "NSP",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 133,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002545",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebral ischemic",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 183,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 219,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 369,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1921,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24533",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactate dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 635,
+          "length": 21
+        },
+        {
+          "text": "LDH",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 658,
+          "length": 3
+        },
+        {
+          "text": "LDH",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1322,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25673",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Annexin V",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 747,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 823,
+          "length": 12
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 837,
+          "length": 2
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1379,
+          "length": 2
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2004,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "24835",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 845,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1382,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2007,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "309165",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 965,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1121,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1142,
+          "length": 9
+        },
+        {
+          "text": "P65",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1473,
+          "length": 3
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1670,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2039,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5594,5595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 976,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "298947",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 988,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2139,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24185",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 993,
+          "length": 3
+        },
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1752,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2144,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C118258",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sc3060",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1170,
+          "length": 6
+        },
+        {
+          "text": "sc3060",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1698,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "309361,84351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IKKBalpha/beta",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1454,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "50689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1732,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "116590",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1740,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "116590,50689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 2130,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "D002545",
+      "tail_id": "116459",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C118258",
+      "tail_id": "116459",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "309165",
+      "tail_id": "C118258",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009569",
+      "tail_id": "116459",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "116459",
+      "tail_id": "D007511",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "116459",
+      "tail_id": "24533",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "24835",
+      "tail_id": "116459",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

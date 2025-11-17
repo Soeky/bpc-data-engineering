@@ -1,0 +1,247 @@
+{
+  "doc_id": "19101703",
+  "title": "Study of a Taiwanese family with oculopharyngeal muscular dystrophy.",
+  "body": "BACKGROUND: Oculopharyngeal muscular dystrophy (OPMD) is a late onset autosomal dominant muscle disorder. OPMD is caused by a short trinucleotide repeat expansion encoding an expanded polyalanine tract in the polyadenylate binding-protein nuclear 1 (PABPN1) gene. We identified and characterized a PABPN1 mutation in a Taiwanese family with OPMD. METHODS: The phenotypic and genotypic characteristics of all subjects were evaluated in a Taiwanese OPMD family. Genetic alterations in the PABPN1 gene were identified using PCR and DNA sequencing. RESULTS: Ten subjects with OPMD (6 symptomatic and 4 asymptomatic) within the Taiwanese family carried a novel mutation in the PABPN1 gene. The normal (GCG)6(GCA)3GCG sequence was replaced by (GCG)6(GCA)(GCG)4(GCA)3GCG due to an insertion of (GCG)4GCA into the normal allele in the Taiwanese OPMD subjects. CONCLUSIONS: In contrast to a single GCG expansion in most of OPMD patients in the literature, an insertion of (GCG)4GCA in the PABPN1 gene was found in the Taiwanese OPMD subjects. The identification of this mutation appears to support the molecular mechanism of unequal cross-over of two PABPN1 alleles.",
+  "entities": [
+    {
+      "id": "D039141",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oculopharyngeal muscular dystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 34
+        },
+        {
+          "text": "Oculopharyngeal muscular dystrophy",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 81,
+          "length": 34
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 117,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 175,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 410,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 516,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 641,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 906,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 983,
+          "length": 4
+        },
+        {
+          "text": "OPMD",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1088,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant muscle disorder",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 139,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "C019529",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "polyalanine",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 253,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "8106",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "polyadenylate binding-protein nuclear 1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 278,
+          "length": 39
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 319,
+          "length": 6
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 367,
+          "length": 6
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 556,
+          "length": 6
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 741,
+          "length": 6
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1049,
+          "length": 6
+        },
+        {
+          "text": "PABPN1",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1211,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|(GCG)6(GCA)3GCG||(GCG)6(GCA)(GCG)4(GCA)3GCG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(GCG)6(GCA)3GCG sequence was replaced by (GCG)6(GCA)(GCG)4(GCA)3GCG",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 765,
+          "length": 67
+        }
+      ]
+    },
+    {
+      "id": "c|INS|(GCG)4GCA",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "insertion of (GCG)4GCA",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 843,
+          "length": 22
+        },
+        {
+          "text": "insertion of (GCG)4GCA",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1019,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 988,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "8106",
+      "tail_id": "D039141",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C019529",
+      "tail_id": "8106",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D039141",
+      "tail_id": "C019529",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D039141",
+      "tail_id": "c|INS|(GCG)4GCA",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D039141",
+      "tail_id": "c|SUB|(GCG)6(GCA)3GCG||(GCG)6(GCA)(GCG)4(GCA)3GCG",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

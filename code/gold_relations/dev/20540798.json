@@ -1,0 +1,283 @@
+{
+  "doc_id": "20540798",
+  "title": "Sex-differential genetic effect of phosphodiesterase 4D (PDE4D) on carotid atherosclerosis.",
+  "body": "BACKGROUND: The phosphodiesterase 4D (PDE4D) gene was reported as a susceptibility gene to stroke. The genetic effect might be attributed to its role in modulating the atherogenic process in the carotid arteries. Using carotid intima-media thickness (IMT) and plaque index as phenotypes, the present study sought to determine the influence of this gene on subclinical atherosclerosis. METHODS: Carotid ultrasonography was performed on 1013 stroke-free subjects who participated in the health screening programs (age 52.6 +/- 12.2; 47.6% men). Genotype distribution was compared among the high-risk (plaque index > or = 4), low-risk (index = 1-3), and reference (index = 0) groups. We analyzed continuous IMT data and further dichotomized IMT data using mean plus one standard deviation as the cutoff level. Because the plaque prevalence and IMT values displayed a notable difference between men and women, we carried out sex-specific analyses in addition to analyzing the overall data. Rs702553 at the PDE4D gene was selected because it conferred a risk for young stroke in our previous report. Previous young stroke data (190 cases and 211 controls) with an additional 532 control subjects without ultrasonic data were shown as a cross-validation for the genetic effect. RESULTS: In the overall analyses, the rare homozygote of rs702553 led to an OR of 3.1 (p = 0.034) for a plaque index > or = 4. When subjects were stratified by sex, the genetic effect was only evident in men but not in women. Comparing male subjects with plaque index > or = 4 and those with plaque index = 0, the TT genotype was over-represented (27.6% vs. 13.4%, p = 0.008). For dichotomized IMT data in men, the TT genotype had an OR of 2.1 (p = 0.032) for a thicker IMT at the common carotid artery compared with the (AA + AT) genotypes. In women, neither IMT nor plaque index was associated with rs702553. Similarly, SNP rs702553 was only significant in young stroke men (OR = 1.8, p = 0.025) but not in women (p = 0.27). CONCLUSIONS: The present study demonstrates a sex-differential effect of PDE4D on IMT, plaque index and stroke, which highlights its influence on various aspects of atherogenesis.",
+  "entities": [
+    {
+      "id": "5144",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phosphodiesterase 4D",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 20
+        },
+        {
+          "text": "PDE4D",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 5
+        },
+        {
+          "text": "phosphodiesterase 4D",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 108,
+          "length": 20
+        },
+        {
+          "text": "PDE4D",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 130,
+          "length": 5
+        },
+        {
+          "text": "PDE4D",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1094,
+          "length": 5
+        },
+        {
+          "text": "PDE4D",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2164,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002340",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carotid atherosclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 183,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 532,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1156,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1202,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2029,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2195,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D050197",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atherogenic",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 260,
+          "length": 11
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 460,
+          "length": 15
+        },
+        {
+          "text": "atherogenesis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2256,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 629,
+          "length": 3
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 983,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 991,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1568,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1583,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1770,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1909,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2036,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 2073,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs702553",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Rs702553",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1078,
+          "length": 8
+        },
+        {
+          "text": "rs702553",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1421,
+          "length": 8
+        },
+        {
+          "text": "rs702553",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1965,
+          "length": 8
+        },
+        {
+          "text": "rs702553",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1990,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D050197",
+      "tail_id": "rs702553",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs702553",
+      "tail_id": "D020521",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "5144",
+      "tail_id": "D050197",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "5144",
+      "tail_id": "D020521",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "5144",
+      "tail_id": "D002340",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

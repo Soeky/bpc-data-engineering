@@ -1,0 +1,274 @@
+{
+  "doc_id": "16046395",
+  "title": "Allelic expression imbalance of human mu opioid receptor (OPRM1) caused by variant A118G.",
+  "body": "As a primary target for opioid drugs and peptides, the mu opioid receptor (OPRM1) plays a key role in pain perception and addiction. Genetic variants of OPRM1 have been implicated in predisposition to drug addiction, in particular the single nucleotide polymorphism A118G, leading to an N40D substitution, with an allele frequency of 10-32%, and uncertain functions. We have measured allele-specific mRNA expression of OPRM1 in human autopsy brain tissues, using A118G as a marker. In 8 heterozygous samples measured, the A118 mRNA allele was 1.5-2.5-fold more abundant than the G118 allele. Transfection into Chinese hamster ovary cells of a cDNA representing only the coding region of OPRM1, carrying adenosine, guanosine, cytidine, and thymidine in position 118, resulted in 1.5-fold lower mRNA levels only for OPRM1-G118, and more than 10-fold lower OPRM1 protein levels, measured by Western blotting and receptor binding assay. After transfection and inhibition of transcription with actinomycin D, analysis of mRNA turnover failed to reveal differences in mRNA stability between A118 and G118 alleles, indicating a defect in transcription or mRNA maturation. These results indicate that OPRM1-G118 is a functional variant with deleterious effects on both mRNA and protein yield. Clarifying the functional relevance of polymorphisms associated with susceptibility to a complex disorder such as drug addiction provides a foundation for clinical association studies.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 518,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4988",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mu opioid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 18
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 5
+        },
+        {
+          "text": "mu opioid receptor",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 145,
+          "length": 18
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 165,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 243,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 509,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs1799971",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A118G",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 5
+        },
+        {
+          "text": "A118G",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 356,
+          "length": 5
+        },
+        {
+          "text": "N40D",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 377,
+          "length": 4
+        },
+        {
+          "text": "A118G",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 553,
+          "length": 5
+        },
+        {
+          "text": "A118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 612,
+          "length": 4
+        },
+        {
+          "text": "G118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 669,
+          "length": 4
+        },
+        {
+          "text": "adenosine, guanosine, cytidine, and thymidine in position 118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 793,
+          "length": 61
+        },
+        {
+          "text": "G118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 910,
+          "length": 4
+        },
+        {
+          "text": "A118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1175,
+          "length": 4
+        },
+        {
+          "text": "G118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1184,
+          "length": 4
+        },
+        {
+          "text": "G118",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1289,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 192,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019966",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "drug addiction",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 291,
+          "length": 14
+        },
+        {
+          "text": "drug addiction",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1489,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10029",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Chinese hamster",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 700,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "100770962",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 777,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 904,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 944,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1283,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003609",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "actinomycin D",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1079,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4988",
+      "tail_id": "D010146",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "4988",
+      "tail_id": "D019966",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019966",
+      "tail_id": "rs1799971",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

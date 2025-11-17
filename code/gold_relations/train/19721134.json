@@ -1,0 +1,370 @@
+{
+  "doc_id": "19721134",
+  "title": "The antiarrhythmic effect and possible ionic mechanisms of pilocarpine on animal models.",
+  "body": "This study was designed to evaluate the effects of pilocarpine and explore the underlying ionic mechanism, using both aconitine-induced rat and ouabain-induced guinea pig arrhythmia models. Confocal microscopy was used to measure intracellular free-calcium concentrations ([Ca(2+)](i)) in isolated myocytes. The current data showed that pilocarpine significantly delayed onset of arrhythmias, decreased the time course of ventricular tachycardia and fibrillation, reduced arrhythmia score, and increased the survival time of arrhythmic rats and guinea pigs. [Ca(2+)](i) overload induced by aconitine or ouabain was reduced in isolated myocytes pretreated with pilocarpine. Moreover, M(3)-muscarinic acetylcholine receptor (mAChR) antagonist 4-DAMP (4-diphenylacetoxy-N-methylpiperidine-methiodide) partially abolished the beneficial effects of pilocarpine. These data suggest that pilocarpine produced antiarrhythmic actions on arrhythmic rat and guinea pig models induced by aconitine or ouabain via stimulating the cardiac M(3)-mAChR. The mechanism may be related to the improvement of Ca(2+) handling.",
+  "entities": [
+    {
+      "id": "D010862",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pilocarpine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 140,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 426,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 749,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 933,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 970,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000157",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 207,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 679,
+          "length": 9
+        },
+        {
+          "text": "aconitine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1065,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 225,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 625,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1028,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ouabain",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 233,
+          "length": 7
+        },
+        {
+          "text": "ouabain",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 692,
+          "length": 7
+        },
+        {
+          "text": "ouabain",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1078,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10141",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "guinea pig",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 249,
+          "length": 10
+        },
+        {
+          "text": "guinea pigs",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 634,
+          "length": 11
+        },
+        {
+          "text": "guinea pig",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1036,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 260,
+          "length": 10
+        },
+        {
+          "text": "arrhythmias",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 469,
+          "length": 11
+        },
+        {
+          "text": "arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 561,
+          "length": 10
+        },
+        {
+          "text": "arrhythmic",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 614,
+          "length": 10
+        },
+        {
+          "text": "arrhythmic",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1017,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 338,
+          "length": 7
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 363,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 648,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1177,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D017180|D014693",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ventricular tachycardia and fibrillation",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 511,
+          "length": 40
+        }
+      ]
+    },
+    {
+      "id": "100379235,24260",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "M(3)-muscarinic acetylcholine receptor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 772,
+          "length": 38
+        },
+        {
+          "text": "mAChR",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 812,
+          "length": 5
+        },
+        {
+          "text": "M(3)-mAChR",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1114,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C042375",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "4-DAMP",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 830,
+          "length": 6
+        },
+        {
+          "text": "4-diphenylacetoxy-N-methylpiperidine-methiodide",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 838,
+          "length": 47
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R8",
+      "head_id": "C042375",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D002118",
+      "tail_id": "D010042",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D002118",
+      "tail_id": "D000157",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002118",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D001145",
+      "tail_id": "D010042",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D001145",
+      "tail_id": "D000157",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D010862",
+      "tail_id": "D010042",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D010862",
+      "tail_id": "D000157",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D010862",
+      "tail_id": "D001145",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D010862",
+      "tail_id": "D017180|D014693",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "doc_id": "25622904",
+  "title": "Inactivation of Sag/Rbx2/Roc2 e3 ubiquitin ligase triggers senescence and inhibits kras-induced immortalization.",
+  "body": "Our recent study showed that SAG/RBX2 E3 ubiquitin ligase regulates apoptosis and vasculogenesis by promoting degradation of NOXA and NF1, and co-operates with Kras to promote lung tumorigenesis by activating NFkappaB and mTOR pathways via targeted degradation of tumor suppressive substrates including IkappaB, DEPTOR, p21 and p27. Here we investigated the role of Sag/Rbx2 E3 ligase in cellular senescence and immortalization of mouse embryonic fibroblasts (MEFs) and report that Sag is required for proper cell proliferation and Kras(G12D)-induced immortalization. Sag inactivation by genetic deletion remarkably suppresses cell proliferation by inducing senescence, which is associated with accumulation of p16, but not p53. Mechanistically, Sag deletion caused accumulation of Jun-B, a substrate of Sag-Fbxw7 E3 ligase and a transcription factor that drives p16 transcription. Importantly, senescence triggered by Sag deletion can be largely rescued by simultaneous deletion of Cdkn2a, the p16 encoding gene, indicating its causal role. Furthermore, Kras(G12D)-induced immortalization can also be abrogated by Sag deletion via senescence induction, which is again rescued by simultaneous deletion of Cdkn2a. Finally, we found that Sag deletion inactivates Kras(G12D) activity and block the MAPK signaling pathway, together with accumulated p16, to induce senescence. Taken together, our results demonstrated that Sag is a Kras(G12D)-cooperating oncogene required for Kras(G12D)-induced immortalization and transformation, and targeting SAG-SCF E3 ligase may, therefore, have therapeutic value for senescence-based cancer treatment.",
+  "entities": [
+    {
+      "id": "19823",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sag",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 3
+        },
+        {
+          "text": "Rbx2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 4
+        },
+        {
+          "text": "Roc2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 4
+        },
+        {
+          "text": "e3 ubiquitin ligase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 19
+        },
+        {
+          "text": "SAG",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 142,
+          "length": 3
+        },
+        {
+          "text": "RBX2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 146,
+          "length": 4
+        },
+        {
+          "text": "E3 ubiquitin ligase",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 151,
+          "length": 19
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 479,
+          "length": 3
+        },
+        {
+          "text": "Rbx2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 483,
+          "length": 4
+        },
+        {
+          "text": "E3 ligase",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 488,
+          "length": 9
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 595,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 681,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 859,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 917,
+          "length": 3
+        },
+        {
+          "text": "E3 ligase",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 927,
+          "length": 9
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1032,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1228,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1349,
+          "length": 3
+        },
+        {
+          "text": "Sag",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1531,
+          "length": 3
+        },
+        {
+          "text": "SAG",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1654,
+          "length": 3
+        },
+        {
+          "text": "E3 ligase",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1662,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "kras",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 273,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 645,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1168,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1374,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1540,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1585,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "58801",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NOXA",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 238,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18015",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 247,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 289,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "18033",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 322,
+          "length": 8
+        },
+        {
+          "text": "IkappaB",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 416,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 335,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 377,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1732,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "97998",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DEPTOR",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 425,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12575",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 433,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 441,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 544,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs121913529",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 650,
+          "length": 4
+        },
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1173,
+          "length": 4
+        },
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1379,
+          "length": 4
+        },
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1545,
+          "length": 4
+        },
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1590,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12578",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 824,
+          "length": 3
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 976,
+          "length": 3
+        },
+        {
+          "text": "Cdkn2a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1096,
+          "length": 6
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1108,
+          "length": 3
+        },
+        {
+          "text": "Cdkn2a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1318,
+          "length": 6
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1458,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "22059",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 837,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16477",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Jun-B",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 895,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "50754",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fbxw7",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 921,
+          "length": 5
+        },
+        {
+          "text": "SCF",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1658,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1408,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs121913529",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "16477",
+      "tail_id": "50754",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "16477",
+      "tail_id": "12578",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009369",
+      "tail_id": "50754",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "12576",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "12576",
+      "tail_id": "16653",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "12575",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "12575",
+      "tail_id": "16653",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "97998",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "97998",
+      "tail_id": "16653",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "18033",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "18033",
+      "tail_id": "16653",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "16653",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "16653",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "19823",
+      "tail_id": "18015",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "19823",
+      "tail_id": "58801",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "19823",
+      "tail_id": "26413",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "19823",
+      "tail_id": "16477",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "19823",
+      "tail_id": "12578",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "19823",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "19823",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "19823",
+      "tail_id": "12576",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "19823",
+      "tail_id": "12575",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "19823",
+      "tail_id": "97998",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "19823",
+      "tail_id": "18033",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "19823",
+      "tail_id": "16653",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "doc_id": "21615796",
+  "title": "Interleukin-17F gene polymorphism in patients with chronic immune thrombocytopenia.",
+  "body": "INTRODUCTION: IL-17F is a novel inflammatory cytokine and plays an important role in some autoimmune diseases. We investigated the association between chronic ITP and the frequency of the single-nucleotide polymorphism rs763780 (7488T/C), which causes a His-to-Arg substitution at amino acid 161. PATIENTS AND METHODS: We examined 102 patients (men/women, 40/62; median age, 42) diagnosed with chronic ITP and 188 healthy controls (men/women, 78/110; median age, 38). Genotyping was determined by the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) technique. RESULTS: Compared with the control group, patients with chronic ITP had a significantly lower frequency of the IL-17F 7488CC genotype (0% vs. 4.8%, P<0.05). The number of IL-17F 7488C alleles among the patients with chronic ITP was also significantly lower than in the control group (8.7% vs. 15.2% OR=0.48, 95%CI=0.27-0.84, P=0.016). Furthermore, patients with the IL-17F 7488TT genotype showed a severe thrombocytopenic state (platelet count<10 10(9) /L) at diagnosis than those with the IL-17F 7488TC genotype (20.9% vs. 0%, P=0.04). CONCLUSION: These findings suggest that the IL-17F 7488 T allele is significantly associated with the development of chronic ITP, suggesting a role for IL-17F in the pathogenesis of chronic ITP.",
+  "entities": [
+    {
+      "id": "112744",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Interleukin-17F",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 98,
+          "length": 6
+        },
+        {
+          "text": "inflammatory cytokine",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 116,
+          "length": 21
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 785,
+          "length": 6
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 845,
+          "length": 6
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1040,
+          "length": 6
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1164,
+          "length": 6
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1255,
+          "length": 6
+        },
+        {
+          "text": "IL-17F",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1363,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 381,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 419,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 429,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 433,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 516,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 520,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 716,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 876,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1022,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016553",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic immune thrombocytopenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 31
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 235,
+          "length": 11
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 478,
+          "length": 11
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 730,
+          "length": 11
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 890,
+          "length": 11
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1328,
+          "length": 11
+        },
+        {
+          "text": "chronic ITP",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1393,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autoimmune diseases",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 174,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "rs763780",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs763780",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 303,
+          "length": 8
+        },
+        {
+          "text": "7488T/C",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 313,
+          "length": 7
+        },
+        {
+          "text": "His-to-Arg substitution at amino acid 161",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 338,
+          "length": 41
+        },
+        {
+          "text": "7488CC",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 792,
+          "length": 6
+        },
+        {
+          "text": "7488C",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 852,
+          "length": 5
+        },
+        {
+          "text": "7488TT",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1047,
+          "length": 6
+        },
+        {
+          "text": "7488TC",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1171,
+          "length": 6
+        },
+        {
+          "text": "7488 T",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1262,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D011696",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombocytopenic",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 1079,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "112744",
+      "tail_id": "D011696",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "112744",
+      "tail_id": "D016553",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001327",
+      "tail_id": "112744",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs763780",
+      "tail_id": "D011696",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D016553",
+      "tail_id": "rs763780",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

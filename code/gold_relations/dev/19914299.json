@@ -1,0 +1,233 @@
+{
+  "doc_id": "19914299",
+  "title": "Fluoxetine improves the memory deficits caused by the chemotherapy agent 5-fluorouracil.",
+  "body": "Cancer patients who have been treated with systemic adjuvant chemotherapy have described experiencing deteriorations in cognition. A widely used chemotherapeutic agent, 5-fluorouracil (5-FU), readily crosses the blood-brain barrier and so could have a direct effect on brain function. In particular this anti mitotic drug could reduce cell proliferation in the neurogenic regions of the adult brain. In contrast reports indicate that hippocampal dependent neurogenesis and cognition are enhanced by the SSRI antidepressant Fluoxetine. In this investigation the behavioural effects of chronic (two week) treatment with 5-FU and (three weeks) with Fluoxetine either separately or in combination with 5-FU were tested on adult Lister hooded rats. Behavioural effects were tested using a context dependent conditioned emotional response test (CER) which showed that animals treated with 5-FU had a significant reduction in freezing time compared to controls. A separate group of animals was tested using a hippocampal dependent spatial working memory test, the object location recognition test (OLR). Animals treated only with 5-FU showed significant deficits in their ability to carry out the OLR task but co administration of Fluoxetine improved their performance. 5-FU chemotherapy caused a significant reduction in the number of proliferating cells in the sub granular zone of the dentate gyrus compared to controls. This reduction was eliminated when Fluoxetine was co administered with 5-FU. Fluoxetine on its own had no effect on proliferating cell number or behaviour. These findings suggest that 5-FU can negatively affect both cell proliferation and hippocampal dependent working memory and that these deficits can be reversed by the simultaneous administration of the antidepressant Fluoxetine.",
+  "entities": [
+    {
+      "id": "D005473",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Fluoxetine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 612,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 735,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1313,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1541,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1583,
+          "length": 10
+        },
+        {
+          "text": "Fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1879,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory deficits",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D005472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-fluorouracil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 14
+        },
+        {
+          "text": "5-fluorouracil",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 258,
+          "length": 14
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 274,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 707,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 787,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 972,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1212,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1352,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1577,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1690,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 89,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 96,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D017367",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "SSRI",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 592,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 827,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005472",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008569",
+      "tail_id": "D005472",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005473",
+      "tail_id": "D005472",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005473",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

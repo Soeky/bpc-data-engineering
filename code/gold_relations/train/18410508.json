@@ -1,0 +1,435 @@
+{
+  "doc_id": "18410508",
+  "title": "Methamphetamine-induced neurotoxicity and microglial activation are not mediated by fractalkine receptor signaling.",
+  "body": "Methamphetamine (METH) damages dopamine (DA) nerve endings by a process that has been linked to microglial activation but the signaling pathways that mediate this response have not yet been delineated. Cardona et al. [Nat. Neurosci. 9 (2006), 917] recently identified the microglial-specific fractalkine receptor (CX3CR1) as an important mediator of MPTP-induced neurodegeneration of DA neurons. Because the CNS damage caused by METH and MPTP is highly selective for the DA neuronal system in mouse models of neurotoxicity, we hypothesized that the CX3CR1 plays a role in METH-induced neurotoxicity and microglial activation. Mice in which the CX3CR1 gene has been deleted and replaced with a cDNA encoding enhanced green fluorescent protein (eGFP) were treated with METH and examined for striatal neurotoxicity. METH depleted DA, caused microglial activation, and increased body temperature in CX3CR1 knockout mice to the same extent and over the same time course seen in wild-type controls. The effects of METH in CX3CR1 knockout mice were not gender-dependent and did not extend beyond the striatum. Striatal microglia expressing eGFP constitutively show morphological changes after METH that are characteristic of activation. This response was restricted to the striatum and contrasted sharply with unresponsive eGFP-microglia in surrounding brain areas that are not damaged by METH. We conclude from these studies that CX3CR1 signaling does not modulate METH neurotoxicity or microglial activation. Furthermore, it appears that striatal-resident microglia respond to METH with an activation cascade and then return to a surveying state without undergoing apoptosis or migration.",
+  "entities": [
+    {
+      "id": "D008694",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Methamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "Methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 116,
+          "length": 15
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 133,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 545,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 688,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 883,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 929,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1124,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1302,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1498,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1575,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1688,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 625,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 701,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 914,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1580,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "13051",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fractalkine receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 20
+        },
+        {
+          "text": "fractalkine receptor",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 408,
+          "length": 20
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 430,
+          "length": 6
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 665,
+          "length": 6
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 760,
+          "length": 6
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1011,
+          "length": 6
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1132,
+          "length": 6
+        },
+        {
+          "text": "CX3CR1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1540,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 147,
+          "length": 8
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 157,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 500,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 587,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 943,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D015632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MPTP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 466,
+          "length": 4
+        },
+        {
+          "text": "MPTP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 554,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegeneration",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 479,
+          "length": 17
+        },
+        {
+          "text": "CNS damage",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 524,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 609,
+          "length": 5
+        },
+        {
+          "text": "Mice",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 742,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1027,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1148,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C485184",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "enhanced green fluorescent protein",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 823,
+          "length": 34
+        },
+        {
+          "text": "eGFP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 859,
+          "length": 4
+        },
+        {
+          "text": "eGFP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1249,
+          "length": 4
+        },
+        {
+          "text": "eGFP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1432,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C485184",
+      "tail_id": "D008694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D015632",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D015632",
+      "tail_id": "D009422",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D015632",
+      "tail_id": "D020258",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "13051",
+      "tail_id": "C485184",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "13051",
+      "tail_id": "D015632",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "13051",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "13051",
+      "tail_id": "D009422",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009422",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009422",
+      "tail_id": "D008694",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008694",
+      "tail_id": "D004298",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D008694",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

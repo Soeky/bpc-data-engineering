@@ -1,0 +1,548 @@
+{
+  "doc_id": "17943461",
+  "title": "Myocardial Fas ligand expression increases susceptibility to AZT-induced cardiomyopathy.",
+  "body": "BACKGROUND: Dilated cardiomyopathy (DCM) and myocarditis occur in many HIV-infected individuals, resulting in symptomatic heart failure in up to 5% of patients. Highly active antiretroviral therapy (HAART) has significantly reduced morbidity and mortality of acquired immunodeficiency syndrome (AIDS), but has resulted in an increase in cardiac and skeletal myopathies. METHODS AND RESULTS: In order to investigate whether the HAART component zidovudine (3'-azido-2',3'-deoxythymidine; AZT) triggers the Fas-dependent cell-death pathway and cause cytoskeletal disruption in a murine model of DCM, 8-week-old transgenic (expressing Fas ligand in the myocardium: FasL Tg) and non-transgenic (NTg) mice received water ad libitum containing different concentrations of AZT (0, 0.07, 0.2, and 0.7 mg/ml). After 6 weeks, cardiac function was assessed by echocardiography and morphology was assessed by histopathologic and immunohistochemical methods. NTg and untreated FasL Tg mice showed little or no change in cardiac structure or function. In contrast, AZT-treated FasL Tg mice developed cardiac dilation and depressed cardiac function in a dose-dependent manner, with concomitant inflammatory infiltration of both ventricles. These changes were associated with an increased sarcolemmal expression of Fas and FasL, as well as increased activation of caspase 3, translocation of calpain 1 to the sarcolemma and sarcomere, and increased numbers of cells undergoing apoptosis. These were associated with changes in dystrophin and cardiac troponin I localization, as well as loss of sarcolemmal integrity. CONCLUSIONS: The expression of Fas ligand in the myocardium, as identified in HIV-positive patients, might increase the susceptibility to HAART-induced cardiomyopathy due to activation of apoptotic pathways, resulting in cardiac dilation and dysfunction.",
+  "entities": [
+    {
+      "id": "356",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fas ligand",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 10
+        },
+        {
+          "text": "Fas ligand",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 720,
+          "length": 10
+        },
+        {
+          "text": "Fas ligand",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1719,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D015215",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "AZT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 3
+        },
+        {
+          "text": "zidovudine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 532,
+          "length": 10
+        },
+        {
+          "text": "3'-azido-2',3'-deoxythymidine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 544,
+          "length": 29
+        },
+        {
+          "text": "AZT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 575,
+          "length": 3
+        },
+        {
+          "text": "AZT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 854,
+          "length": 3
+        },
+        {
+          "text": "AZT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1139,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiomyopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 14
+        },
+        {
+          "text": "cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1840,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002311",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Dilated cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 101,
+          "length": 22
+        },
+        {
+          "text": "DCM",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 125,
+          "length": 3
+        },
+        {
+          "text": "DCM",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 681,
+          "length": 3
+        },
+        {
+          "text": "cardiac dilation",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1174,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009205",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocarditis",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 134,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D015658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HIV-infected",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 160,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D006333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "heart failure",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 211,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 240,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1779,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000163",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acquired immunodeficiency syndrome",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 348,
+          "length": 34
+        },
+        {
+          "text": "AIDS",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 384,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C538496",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac and skeletal myopathies",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 426,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "355",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fas",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 593,
+          "length": 3
+        },
+        {
+          "text": "Fas",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1387,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 665,
+          "length": 6
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 784,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1060,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1159,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14103",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FasL",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 750,
+          "length": 4
+        },
+        {
+          "text": "FasL",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1052,
+          "length": 4
+        },
+        {
+          "text": "FasL",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1151,
+          "length": 4
+        },
+        {
+          "text": "FasL",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1395,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000275",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressed cardiac function",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1195,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1267,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "12367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase 3",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1436,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12333",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "calpain 1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1464,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "13405",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dystrophin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1598,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "21954",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cardiac troponin I",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1613,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1766,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002311,D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac dilation and dysfunction",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1909,
+          "length": 32
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "12367",
+      "tail_id": "D015215",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "14103",
+      "tail_id": "D000275",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "14103",
+      "tail_id": "D002311",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000275",
+      "tail_id": "12333",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000275",
+      "tail_id": "12367",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000275",
+      "tail_id": "355",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D002311",
+      "tail_id": "12333",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002311",
+      "tail_id": "12367",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002311",
+      "tail_id": "355",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D015215",
+      "tail_id": "12333",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D015215",
+      "tail_id": "14103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D015215",
+      "tail_id": "D000275",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D015215",
+      "tail_id": "D002311",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D015215",
+      "tail_id": "355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D015215",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "356",
+      "tail_id": "D002311",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "356",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "356",
+      "tail_id": "D015215",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

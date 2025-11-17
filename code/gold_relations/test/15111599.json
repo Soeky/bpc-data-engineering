@@ -1,0 +1,210 @@
+{
+  "doc_id": "15111599",
+  "title": "CRYBA3/A1 gene mutation associated with suture-sparing autosomal dominant congenital nuclear cataract: a novel phenotype.",
+  "body": "PURPOSE: To identify the genetic defect leading to the congenital nuclear cataract affecting a large five-generation Swiss family. METHODS: Family history and clinical data were recorded. The phenotype was documented by both slit lamp and Scheimpflug photography. One cortical lens was evaluated by electron microscopy after cataract extraction. Lenticular phenotyping and genotyping were performed independently with short tandem repeat polymorphism. Linkage analysis was performed, and candidate genes were PCR amplified and screened for mutations on both strands using direct sequencing. RESULTS: Affected individuals had a congenital nuclear lactescent cataract in both eyes. Linkage was observed on chromosome 17 for DNA marker D17S1857 (lod score: 3.44 at theta = 0). Direct sequencing of CRYBA3/A1, which maps to the vicinity, revealed an in-frame 3-bp deletion in exon 4 (279delGAG). This mutation involved a deletion of glycine-91, cosegregated in all affected individuals, and was not observed in unaffected individuals or in 250 normal control subjects from the same ethnic background. Electron microscopy showed that cortical lens fiber morphology was normal. CONCLUSIONS: The DeltaG91 mutation in CRYBA3/A1 is associated with an autosomal dominant congenital nuclear lactescent cataract. A splice mutation (IVS3+1G/A) in this gene has been reported in a zonular cataract with sutural opacities. These results indicate phenotypic heterogeneity related to mutations in this gene.",
+  "entities": [
+    {
+      "id": "1411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CRYBA3/A1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "CRYBA3/A1",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 917,
+          "length": 9
+        },
+        {
+          "text": "CRYBA3/A1",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1332,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C565137",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant congenital nuclear cataract",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 46
+        },
+        {
+          "text": "congenital nuclear cataract",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 177,
+          "length": 27
+        },
+        {
+          "text": "congenital nuclear lactescent cataract",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 749,
+          "length": 38
+        },
+        {
+          "text": "autosomal dominant congenital nuclear lactescent cataract",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1364,
+          "length": 57
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genetic defect",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 147,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002386",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cataract",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 447,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||3",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "3-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 977,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|279|GAG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "279delGAG",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1002,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|91|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion of glycine-91",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1039,
+          "length": 22
+        },
+        {
+          "text": "DeltaG91",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1311,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|IVS3+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS3+1G/A",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1442,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C535342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "zonular cataract",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1489,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|DEL|91|G",
+      "tail_id": "C565137",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL|279|GAG",
+      "tail_id": "C565137",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DEL||3",
+      "tail_id": "C565137",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|G|IVS3+1|A",
+      "tail_id": "C535342",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C535342",
+      "tail_id": "1411",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "1411",
+      "tail_id": "C565137",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

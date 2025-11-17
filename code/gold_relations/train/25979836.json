@@ -1,0 +1,977 @@
+{
+  "doc_id": "25979836",
+  "title": "Gastrointestinal hormones/neurotransmitters and growth factors can activate P21 activated kinase 2 in pancreatic acinar cells by novel mechanisms.",
+  "body": "P-21-activated kinases (PAKs) are serine/threonine kinases comprising six isoforms divided in two groups, group-I (PAK1-3)/group-II (PAK4-6) which play important roles in cell cytoskeletal dynamics, survival, secretion and proliferation and are activated by diverse stimuli. However, little is known about PAKs ability to be activated by gastrointestinal (GI) hormones/neurotransmitters/growth-factors. We used rat pancreatic acini to explore the ability of GI-hormones/neurotransmitters/growth-factors to activate Group-I-PAKs and the signaling cascades involved. Only PAK2 was present in acini. PAK2 was activated by some pancreatic growth-factors [EGF, PDGF, bFGF], by secretagogues activating phospholipase-C (PLC) [CCK, carbachol, bombesin] and by post-receptor stimulants activating PKC [TPA], but not agents only mobilizing cellular calcium or increasing cyclic AMP. CCK-activation of PAK2 required both high- and low-affinity-CCK1-receptor-state activation. It was partially reduced by PKC- or Src-inhibition, but not with PI3K-inhibitors (wortmannin, LY294002) or thapsigargin. IPA-3, which prevents PAK2 binding to small-GTPases partially inhibited PAK2-activation, as well as reduced CCK-induced ERK1/2 activation and amylase release induced by CCK or bombesin. This study demonstrates pancreatic acini, possess only one Group-I-PAK, PAK2. CCK and other GI-hormones/neurotransmitters/growth-factors activate PAK2 via small GTPases (CDC42/Rac1), PKC and SFK but not cytosolic calcium or PI3K. CCK-activation of PAK2 showed several novel features being dependent on both receptor-activation states, having PLC- and PKC-dependent/independent components and small-GTPase-dependent/independent components. These results show that PAK2 is important in signaling cascades activated by numerous pancreatic stimuli which mediate their various physiological/pathophysiological responses and thus could be a promising target for the development of therapies in some pancreatic disorders such as pancreatitis.",
+  "entities": [
+    {
+      "id": "D005768",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Gastrointestinal hormones",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 25
+        },
+        {
+          "text": "gastrointestinal (GI) hormones",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 485,
+          "length": 30
+        },
+        {
+          "text": "GI-hormones",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 605,
+          "length": 11
+        },
+        {
+          "text": "GI-hormones",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1512,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D018377",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "neurotransmitters",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 17
+        },
+        {
+          "text": "neurotransmitters",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 516,
+          "length": 17
+        },
+        {
+          "text": "neurotransmitters",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 617,
+          "length": 17
+        },
+        {
+          "text": "neurotransmitters",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1524,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "29432",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "P21 activated kinase 2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 22
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 717,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 744,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1039,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1256,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1306,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1492,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1566,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1668,
+          "length": 4
+        },
+        {
+          "text": "PAK2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1883,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "292756,29431,29432,29433,296078,311450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "P-21-activated kinases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 147,
+          "length": 22
+        },
+        {
+          "text": "PAKs",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 171,
+          "length": 4
+        },
+        {
+          "text": "serine/threonine kinases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 181,
+          "length": 24
+        },
+        {
+          "text": "PAKs",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 453,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "29431,29432,29433",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAK1-3",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 262,
+          "length": 6
+        },
+        {
+          "text": "Group-I-PAKs",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 662,
+          "length": 12
+        },
+        {
+          "text": "Group-I-PAK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1479,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "292756,296078,311450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAK4-6",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 280,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 558,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25266,25313,54250",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pancreatic growth-factors",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 771,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "25313",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 798,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25266",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDGF",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 803,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "54250",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bFGF",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 809,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24655",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phospholipase-C",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 844,
+          "length": 15
+        },
+        {
+          "text": "PLC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 861,
+          "length": 3
+        },
+        {
+          "text": "PLC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1762,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25298",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 867,
+          "length": 3
+        },
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1021,
+          "length": 3
+        },
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1342,
+          "length": 3
+        },
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1403,
+          "length": 3
+        },
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1498,
+          "length": 3
+        },
+        {
+          "text": "CCK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1650,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002217",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbachol",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 872,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001839",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bombesin",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 883,
+          "length": 8
+        },
+        {
+          "text": "bombesin",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1410,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24681",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 936,
+          "length": 3
+        },
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1141,
+          "length": 3
+        },
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1603,
+          "length": 3
+        },
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1771,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013755",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "TPA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 941,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 987,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1633,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclic AMP",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1009,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24889",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCK1-receptor",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1081,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "83805",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Src",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1149,
+          "length": 3
+        },
+        {
+          "text": "SFK",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1611,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "298947",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1178,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1644,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000077191",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "wortmannin",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1195,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C085911",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "LY294002",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1207,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D019284",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thapsigargin",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1220,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "C541795",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "IPA-3",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1234,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "363875,64465",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "small-GTPases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1272,
+          "length": 13
+        },
+        {
+          "text": "small GTPases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1575,
+          "length": 13
+        },
+        {
+          "text": "small-GTPase",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1812,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "116590,50689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1354,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "24203",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "amylase",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1376,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "64465",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDC42",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1590,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "363875",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rac1",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1596,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010182",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pancreatic disorders",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 2113,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D010195",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pancreatitis",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 2142,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R10",
+      "head_id": "24203",
+      "tail_id": "25298",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "C541795",
+      "tail_id": "24203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C541795",
+      "tail_id": "64465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C541795",
+      "tail_id": "363875",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "C541795",
+      "tail_id": "D001839",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "C541795",
+      "tail_id": "25298",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "C541795",
+      "tail_id": "29432",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "298947",
+      "tail_id": "C085911",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "298947",
+      "tail_id": "D000077191",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "24889",
+      "tail_id": "25298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D001839",
+      "tail_id": "24203",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "25298",
+      "tail_id": "83805",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "25298",
+      "tail_id": "64465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "25298",
+      "tail_id": "363875",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "25298",
+      "tail_id": "24681",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "25298",
+      "tail_id": "24655",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D018377",
+      "tail_id": "83805",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "D018377",
+      "tail_id": "64465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D018377",
+      "tail_id": "363875",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "D018377",
+      "tail_id": "24681",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "D018377",
+      "tail_id": "29432",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "29432",
+      "tail_id": "D010195",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "29432",
+      "tail_id": "D010182",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "29432",
+      "tail_id": "83805",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "29432",
+      "tail_id": "64465",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "29432",
+      "tail_id": "363875",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "29432",
+      "tail_id": "24889",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "29432",
+      "tail_id": "25266",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "29432",
+      "tail_id": "25313",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R43",
+      "head_id": "29432",
+      "tail_id": "D001839",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R44",
+      "head_id": "29432",
+      "tail_id": "D013755",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R45",
+      "head_id": "29432",
+      "tail_id": "24681",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R46",
+      "head_id": "29432",
+      "tail_id": "D002217",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R47",
+      "head_id": "29432",
+      "tail_id": "25298",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R48",
+      "head_id": "29432",
+      "tail_id": "24655",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R49",
+      "head_id": "29432",
+      "tail_id": "54250",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R50",
+      "head_id": "D005768",
+      "tail_id": "83805",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R51",
+      "head_id": "D005768",
+      "tail_id": "64465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R52",
+      "head_id": "D005768",
+      "tail_id": "363875",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R53",
+      "head_id": "D005768",
+      "tail_id": "24681",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R54",
+      "head_id": "D005768",
+      "tail_id": "29432",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

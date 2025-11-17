@@ -1,0 +1,218 @@
+{
+  "doc_id": "21135151",
+  "title": "Impact of CCR5delta32 host genetic background and disease progression on HIV-1 intrahost evolutionary processes: efficient hypothesis testing through hierarchical phylogenetic models.",
+  "body": "The interplay between C-C chemokine receptor type 5 (CCR5) host genetic background, disease progression, and intrahost HIV-1 evolutionary dynamics remains unclear because differences in viral evolution between hosts limit the ability to draw conclusions across hosts stratified into clinically relevant populations. Similar inference problems are proliferating across many measurably evolving pathogens for which intrahost sequence samples are readily available. To this end, we propose novel hierarchical phylogenetic models (HPMs) that incorporate fixed effects to test for differences in dynamics across host populations in a formal statistical framework employing stochastic search variable selection and model averaging. To clarify the role of CCR5 host genetic background and disease progression on viral evolutionary patterns, we obtain gp120 envelope sequences from clonal HIV-1 variants isolated at multiple time points in the course of infection from populations of HIV-1-infected individuals who only harbored CCR5-using HIV-1 variants at all time points. Presence or absence of a CCR5 wt/DD32 genotype and progressive or long-term nonprogressive course of infection stratify the clinical populations in a two-way design. As compared with the standard approach of analyzing sequences from each patient independently, the HPM provides more efficient estimation of evolutionary parameters such as nucleotide substitution rates and d(N)/d(S) rate ratios, as shown by significant shrinkage of the estimator variance. The fixed effects also correct for nonindependence of data between populations and results in even further shrinkage of individual patient estimates. Model selection suggests an association between nucleotide substitution rate and disease progression, but a role for CCR5 genotype remains elusive. Given the absence of clear d(N)/d(S) differences between patient groups, delayed onset of AIDS symptoms appears to be solely associated with lower viral replication rates rather than with differences in selection on amino acid fixation.",
+  "entities": [
+    {
+      "id": "1234",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCR5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 4
+        },
+        {
+          "text": "C-C chemokine receptor type 5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 206,
+          "length": 29
+        },
+        {
+          "text": "CCR5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 237,
+          "length": 4
+        },
+        {
+          "text": "CCR5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 933,
+          "length": 4
+        },
+        {
+          "text": "CCR5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1205,
+          "length": 4
+        },
+        {
+          "text": "CCR5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1276,
+          "length": 4
+        },
+        {
+          "text": "CCR5",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1975,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||32",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "delta32",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 7
+        },
+        {
+          "text": "DD32",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1284,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 5
+        },
+        {
+          "text": "HIV-1",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 303,
+          "length": 5
+        },
+        {
+          "text": "HIV-1",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1065,
+          "length": 5
+        },
+        {
+          "text": "HIV-1",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1216,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3700",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gp120",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1028,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1130,
+          "length": 9
+        },
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1352,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D015658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HIV-1-infected",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1160,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1489,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 1839,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 2063,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000163",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "AIDS",
+          "passage_index": 1,
+          "passage_offset": 184,
+          "char_offset": 2096,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL||32",
+      "tail_id": "D015658",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1234",
+      "tail_id": "D015658",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

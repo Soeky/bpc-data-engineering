@@ -1,0 +1,531 @@
+{
+  "doc_id": "22711886",
+  "title": "TNFR-associated factor 2 deficiency in B lymphocytes predisposes to chronic lymphocytic leukemia/small lymphocytic lymphoma in mice.",
+  "body": "We have previously shown that transgenic (tg) mice expressing in B lymphocytes both BCL-2 and a TNFR-associated factor 2 (TRAF2) mutant lacking the really interesting new gene and zinc finger domains (TRAF2DN) develop small lymphocytic lymphoma and chronic lymphocytic leukemia with high incidence (Zapata et al. 2004. Proc. Nat. Acad. Sci. USA 101: 16600-16605). Further analysis of the expression of TRAF2 and TRAF2DN in purified B cells demonstrated that expression of both endogenous TRAF2 and tg TRAF2DN was negligible in Traf2DN-tg B cells compared with wild-type mice. This was the result of proteasome-dependent degradation, and rendered TRAF2DN B cells as bona fide TRAF2-deficient B cells. Similar to B cells with targeted Traf2 deletion, Traf2DN-tg mice show expanded marginal zone B cell population and have constitutive p100 NF-kappaB2 processing. Also, TRAF3, X-linked inhibitor of apoptosis, and Bcl-X(L) expression levels were increased, whereas cellular inhibitors of apoptosis 1 and 2 levels were drastically reduced compared with those found in wild-type B cells. Moreover, consistent with previous results, we also show that TRAF2 was required for efficient JNK and ERK activation in response to CD40 engagement. However, TRAF2 was deleterious for BCR-mediated activation of these kinases. In contrast, TRAF2 deficiency had no effect on CD40-mediated p38 MAPK activation but significantly reduced BCR-mediated p38 activation. Finally, we further confirm that TRAF2 was required for CD40-mediated proliferation, but its absence relieved B cells of the need for B cell activating factor for survival. Altogether, our results suggest that TRAF2 deficiency cooperates with BCL-2 in promoting chronic lymphocytic leukemia/small lymphocytic lymphoma in mice, possibly by specifically enforcing marginal zone B cell accumulation, increasing X-linked inhibitor of apoptosis expression, and rendering B cells independent of B cell activating factor for survival.",
+  "entities": [
+    {
+      "id": "22030",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFR-associated factor 2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 24
+        },
+        {
+          "text": "TNFR-associated factor 2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 229,
+          "length": 24
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 255,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 535,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 621,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 808,
+          "length": 5
+        },
+        {
+          "text": "Traf2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 866,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1278,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1375,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1456,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1612,
+          "length": 5
+        },
+        {
+          "text": "TRAF2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1789,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D015451",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic lymphocytic leukemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 28
+        },
+        {
+          "text": "small lymphocytic lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 97,
+          "length": 26
+        },
+        {
+          "text": "small lymphocytic lymphoma",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 351,
+          "length": 26
+        },
+        {
+          "text": "chronic lymphocytic leukemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 382,
+          "length": 28
+        },
+        {
+          "text": "chronic lymphocytic leukemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1841,
+          "length": 28
+        },
+        {
+          "text": "small lymphocytic lymphoma",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1870,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 127,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 179,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 703,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 893,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1900,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL-2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 217,
+          "length": 5
+        },
+        {
+          "text": "BCL-2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1822,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_TT54",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "Traf2DN-tg B",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 660,
+          "length": 12
+        },
+        {
+          "text": "Traf2DN-tg",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 882,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "16912",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "proteasome",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 732,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "18034",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p100 NF-kappaB2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 966,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "22031",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TRAF3",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1000,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11798",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "X-linked inhibitor of apoptosis",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1007,
+          "length": 31
+        },
+        {
+          "text": "X-linked inhibitor of apoptosis",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1987,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "12048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-X(L)",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1044,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "11796,11797",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cellular inhibitors of apoptosis 1 and 2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1095,
+          "length": 40
+        }
+      ]
+    },
+    {
+      "id": "26419",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1311,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1319,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "21939",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD40",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1349,
+          "length": 4
+        },
+        {
+          "text": "CD40",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1490,
+          "length": 4
+        },
+        {
+          "text": "CD40",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1635,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12518",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1401,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1550,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1504,
+          "length": 8
+        },
+        {
+          "text": "p38",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1563,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "B cell activating factor",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1713,
+          "length": 24
+        },
+        {
+          "text": "B cell activating factor",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 2068,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "596",
+      "tail_id": "11798",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "596",
+      "tail_id": "D015451",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "12518",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "21939",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "26413",
+      "tail_id": "21939",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "26419",
+      "tail_id": "21939",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "22030",
+      "tail_id": "24099",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "22030",
+      "tail_id": "11798",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "22030",
+      "tail_id": "596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "22030",
+      "tail_id": "26416",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "22030",
+      "tail_id": "12518",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "22030",
+      "tail_id": "21939",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "22030",
+      "tail_id": "26413",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "22030",
+      "tail_id": "26419",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "22030",
+      "tail_id": "D015451",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

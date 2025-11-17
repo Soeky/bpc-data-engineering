@@ -1,0 +1,217 @@
+{
+  "doc_id": "16321363",
+  "title": "Congenital disorder of glycosylation Ic due to a de novo deletion and an hALG-6 mutation.",
+  "body": "We describe a new cause of congenital disorder of glycosylation-Ic (CDG-Ic) in a young girl with a rather mild CDG phenotype. Her cells accumulated lipid-linked oligosaccharides lacking three glucose residues, and sequencing of the ALG6 gene showed what initially appeared to be a homozygous novel point mutation (338G>A). However, haplotype analysis showed that the patient does not carry any paternal DNA markers extending 33kb in the telomeric direction from the ALG6 region, and microsatellite analysis extended the abnormal region to at least 2.5Mb. We used high-resolution karyotyping to confirm a deletion (10-12Mb) [del(1)(p31.2p32.3)] and found no structural abnormalities in the father, suggesting a de novo event. Our findings extend the causes of CDG to larger DNA deletions and identify the first Japanese CDG-Ic mutation.",
+  "entities": [
+    {
+      "id": "C535741",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Congenital disorder of glycosylation Ic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 39
+        },
+        {
+          "text": "congenital disorder of glycosylation-Ic",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 117,
+          "length": 39
+        },
+        {
+          "text": "CDG-Ic",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 158,
+          "length": 6
+        },
+        {
+          "text": "CDG-Ic",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 909,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "29929",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hALG-6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 6
+        },
+        {
+          "text": "ALG6",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 322,
+          "length": 4
+        },
+        {
+          "text": "ALG6",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 556,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018981",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "CDG",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 201,
+          "length": 3
+        },
+        {
+          "text": "CDG",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 849,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C023023",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid-linked oligosaccharides",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 238,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 282,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs768372697",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "338G>A",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 404,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 457,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||10-12MB",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion (10-12Mb)",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 694,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|p31.2_p32.3|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "del(1)(p31.2p32.3)",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 714,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs768372697",
+      "tail_id": "C535741",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL|p31.2_p32.3|",
+      "tail_id": "D018981",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DEL|p31.2_p32.3|",
+      "tail_id": "C535741",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|DEL||10-12MB",
+      "tail_id": "D018981",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|DEL||10-12MB",
+      "tail_id": "C535741",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "29929",
+      "tail_id": "D018981",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "29929",
+      "tail_id": "C535741",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "doc_id": "20523265",
+  "title": "Association study of complement factor H, C2, CFB, and C3 and age-related macular degeneration in a Han Chinese population.",
+  "body": "PURPOSE: Genes in the complement pathway, including complement factor H (CFH), C2/BF, and C3, have been reported to be associated with age-related macular degeneration (AMD). Genetic variants, single-nucleotide polymorphisms (SNPs), in these genes were geno-typed for a case-control association study in a mainland Han Chinese population. METHODS: One hundred and fifty-eight patients with wet AMD, 80 patients with soft drusen, and 220 matched control subjects were recruited among Han Chinese in mainland China. Seven SNPs in CFH and two SNPs in C2, CFB', and C3 were genotyped using the ABI SNaPshot method. A deletion of 84,682 base pairs covering the CFHR1 and CFHR3 genes was detected by direct polymerase chain reaction and gel electrophoresis. RESULTS: Four SNPs, including rs3753394 (P = 0.0276), rs800292 (P = 0.0266), rs1061170 (P = 0.00514), and rs1329428 (P = 0.0089), in CFH showed a significant association with wet AMD in the cohort of this study. A haplotype containing these four SNPs (CATA) significantly increased protection of wet AMD with a P value of 0.0005 and an odds ratio of 0.29 (95% confidence interval: 0.15-0.60). Unlike in other populations, rs2274700 and rs1410996 did not show a significant association with AMD in the Chinese population of this study. None of the SNPs in CFH showed a significant association with drusen, and none of the SNPs in CFH, C2, CFB, and C3 showed a significant association with either wet AMD or drusen in the cohort of this study. The CFHR1 and CFHR3 deletion was not polymorphic in the Chinese population and was not associated with wet AMD or drusen. CONCLUSION: This study showed that SNPs rs3753394 (P = 0.0276), rs800292 (P = 0.0266), rs1061170 (P = 0.00514), and rs1329428 (P = 0.0089), but not rs7535263, rs1410996, or rs2274700, in CFH were significantly associated with wet AMD in a mainland Han Chinese population. This study showed that CFH was more likely to be AMD susceptibility gene at Chr.1q31 based on the finding that the CFHR1 and CFHR3 deletion was not polymorphic in the cohort of this study, and none of the SNPs that were significantly associated with AMD in a white population in C2, CFB, and C3 genes showed a significant association with AMD.",
+  "entities": [
+    {
+      "id": "3075",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "complement factor H",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 19
+        },
+        {
+          "text": "complement factor H",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 176,
+          "length": 19
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 197,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 652,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1009,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1431,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1505,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1927,
+          "length": 3
+        },
+        {
+          "text": "CFH",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2035,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 2
+        },
+        {
+          "text": "C2",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 672,
+          "length": 2
+        },
+        {
+          "text": "C2",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1510,
+          "length": 2
+        },
+        {
+          "text": "C2",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2291,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "629",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CFB",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 3
+        },
+        {
+          "text": "CFB",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 676,
+          "length": 3
+        },
+        {
+          "text": "CFB",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1514,
+          "length": 3
+        },
+        {
+          "text": "CFB",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2295,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "718",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 2
+        },
+        {
+          "text": "C3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 214,
+          "length": 2
+        },
+        {
+          "text": "C3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 686,
+          "length": 2
+        },
+        {
+          "text": "C3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1523,
+          "length": 2
+        },
+        {
+          "text": "C3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2304,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D008268",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "age-related macular degeneration",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 32
+        },
+        {
+          "text": "age-related macular degeneration",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 259,
+          "length": 32
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 293,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 518,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1055,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1176,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1366,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1575,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1725,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1970,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2061,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2262,
+          "length": 3
+        },
+        {
+          "text": "AMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2351,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "629,717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C2/BF",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 203,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 500,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 526,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005128",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "drusen",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 545,
+          "length": 6
+        },
+        {
+          "text": "drusen",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1473,
+          "length": 6
+        },
+        {
+          "text": "drusen",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1582,
+          "length": 6
+        },
+        {
+          "text": "drusen",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1732,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3078",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CFHR1",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 780,
+          "length": 5
+        },
+        {
+          "text": "CFHR1",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1622,
+          "length": 5
+        },
+        {
+          "text": "CFHR1",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2127,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CFHR3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 790,
+          "length": 5
+        },
+        {
+          "text": "CFHR3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1632,
+          "length": 5
+        },
+        {
+          "text": "CFHR3",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 2137,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs3753394",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs3753394",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 906,
+          "length": 9
+        },
+        {
+          "text": "rs3753394",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1780,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs800292",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs800292",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 930,
+          "length": 8
+        },
+        {
+          "text": "rs800292",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1804,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs1061170",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1061170",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 953,
+          "length": 9
+        },
+        {
+          "text": "rs1061170",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1827,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1329428",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1329428",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 982,
+          "length": 9
+        },
+        {
+          "text": "rs1329428",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1856,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2274700",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2274700",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1298,
+          "length": 9
+        },
+        {
+          "text": "rs2274700",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1913,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1410996",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1410996",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1312,
+          "length": 9
+        },
+        {
+          "text": "rs1410996",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1899,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs7535263",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs7535263",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1888,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3075",
+      "tail_id": "D008268",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs1329428",
+      "tail_id": "D008268",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs1061170",
+      "tail_id": "D008268",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs800292",
+      "tail_id": "D008268",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs3753394",
+      "tail_id": "D008268",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "717",
+      "tail_id": "D008268",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008268",
+      "tail_id": "718",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "629",
+      "tail_id": "D008268",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

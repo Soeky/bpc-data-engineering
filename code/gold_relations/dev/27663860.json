@@ -1,0 +1,546 @@
+{
+  "doc_id": "27663860",
+  "title": "Role of angiotensin II type 1a receptor in renal injury induced by deoxycorticosterone acetate-salt hypertension.",
+  "body": "The aim of this study was to investigate the in vivo role of angiotensin II type 1a (AT1a) receptor in renal damage as a result of hypertension by using transgenic mice with AT1a receptor gene disruption. Transgenic mice that express human liver-type fatty acid binding protein (L-FABP) with or without disruption of the AT1a receptor gene (L-FABP(+/-) AT1a(-/-), and L-FABP(+/-) AT1a(+/+), respectively) were used with urinary L-FABP as an indicator of tubulointerstitial damage. Those female mice were administered subcutaneously deoxycorticosterone acetate (DOCA)-salt tablets plus drinking water that contained 1% saline for 28 d after uninephrectomy. In L-FABP(+/-) AT1a(+/+) mice that received DOCA-salt treatment, hypertension was induced and slight expansion of glomerular area, glomerular sclerosis, and tubulointerstitial damage were observed. In L-FABP(+/-) AT1a(-/-) mice that received DOCA-salt treatment, hypertension was similarly induced and the degree of glomerular damage was significantly more severe than in L-FABP(+/-) AT1a(+/+)-DOCA mice. Urinary L-FABP levels were significantly higher in L-FABP(+/-) AT1a(-/-)-DOCA mice compared with those in L-FABP(+/-) AT1a(+/+)-DOCA mice. Hydralazine treatment significantly attenuated renal damage that was found in L-FABP(+/-) AT1a(-/-)-DOCA mice along with a reduction in blood pressure. In summary, activation of the AT1a receptor may contribute to maintenance of the glomerular structure against hypertensive renal damage.-Hisamichi, M., Kamijo-Ikemori, A., Sugaya, T., Ichikawa, D., Natsuki, T., Hoshino, S., Kimura, K., Shibagaki, Y. Role of angiotensin II type 1a receptor in renal injury induced by deoxycorticosterone acetate-salt hypertension.",
+  "entities": [
+    {
+      "id": "11607",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin II type 1a receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 31
+        },
+        {
+          "text": "angiotensin II type 1a (AT1a) receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 175,
+          "length": 38
+        },
+        {
+          "text": "AT1a receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 288,
+          "length": 13
+        },
+        {
+          "text": "AT1a receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 435,
+          "length": 13
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 467,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 494,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 785,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 983,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1154,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1238,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1293,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1404,
+          "length": 4
+        },
+        {
+          "text": "AT1a receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1496,
+          "length": 13
+        },
+        {
+          "text": "angiotensin II type 1a receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1724,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal injury",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 12
+        },
+        {
+          "text": "renal damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 217,
+          "length": 12
+        },
+        {
+          "text": "tubulointerstitial damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 568,
+          "length": 25
+        },
+        {
+          "text": "glomerular sclerosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 901,
+          "length": 20
+        },
+        {
+          "text": "tubulointerstitial damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 927,
+          "length": 25
+        },
+        {
+          "text": "glomerular damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1086,
+          "length": 17
+        },
+        {
+          "text": "renal damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1361,
+          "length": 12
+        },
+        {
+          "text": "renal injury",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1759,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D064791",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "deoxycorticosterone acetate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 27
+        },
+        {
+          "text": "deoxycorticosterone acetate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 646,
+          "length": 27
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 675,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 814,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1012,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1164,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1248,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1303,
+          "length": 4
+        },
+        {
+          "text": "DOCA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1414,
+          "length": 4
+        },
+        {
+          "text": "deoxycorticosterone acetate",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1783,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 245,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 835,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1033,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1816,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 278,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 330,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 608,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 795,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 993,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1169,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1253,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1308,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1419,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 348,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2168",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "liver-type fatty acid binding protein",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 354,
+          "length": 37
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 393,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 455,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 482,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 542,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 773,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 971,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1142,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1183,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1226,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1281,
+          "length": 6
+        },
+        {
+          "text": "L-FABP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1392,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006830",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Hydralazine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1314,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006973,D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive renal damage",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1576,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D006830",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2168",
+      "tail_id": "11607",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2168",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "11607",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D064791",
+      "tail_id": "2168",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D064791",
+      "tail_id": "11607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D064791",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007674",
+      "tail_id": "D064791",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

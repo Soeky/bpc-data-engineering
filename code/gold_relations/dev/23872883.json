@@ -1,0 +1,480 @@
+{
+  "doc_id": "23872883",
+  "title": "Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity.",
+  "body": "Cardiovascular diseases (CVDs) are the major health problem of advanced as well as developing countries of the world. The aim of the present study was to investigate the protective effect of the Solidago virgaurea extract on isoproterenol-induced cardiotoxicity in rats. The subcutaneous injection of isoproterenol (30 mg/kg) into rats twice at an interval of 24 h, for two consecutive days, led to a significant increase in serum lactate dehydrogenase, creatine phosphokinase, alanine transaminase, aspartate transaminase, and angiotensin-converting enzyme activities, total cholesterol, triglycerides, free serum fatty acid, cardiac tissue malondialdehyde (MDA), and nitric oxide levels and a significant decrease in levels of glutathione and superoxide dismutase in cardiac tissue as compared to the normal control group (P < 0.05). Pretreatment with S. virgaurea extract for 5 weeks at a dose of 250 mg/kg followed by isoproterenol injection significantly prevented the observed alterations. Captopril (50 mg/kg/day, given orally), an inhibitor of angiotensin-converting enzyme used as a standard cardioprotective drug, was used as a positive control in this study. The data of the present study suggest that S. virgaurea extract exerts its protective effect by decreasing MDA level and increasing the antioxidant status in isoproterenol-treated rats. The study emphasizes the beneficial action of S. virgaurea extract as a cardioprotective agent.",
+  "entities": [
+    {
+      "id": "D010936",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Solidago virgaurea extract",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 26
+        },
+        {
+          "text": "Solidago virgaurea extract",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 277,
+          "length": 26
+        },
+        {
+          "text": "S. virgaurea extract",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 936,
+          "length": 20
+        },
+        {
+          "text": "S. virgaurea extract",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1295,
+          "length": 20
+        },
+        {
+          "text": "S. virgaurea extract",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1484,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 14
+        },
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 329,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cardiovascular diseases",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 82,
+          "length": 23
+        },
+        {
+          "text": "CVDs",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 107,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 307,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 383,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1004,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1410,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 347,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 413,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1432,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24533",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactate dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 513,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "24264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "creatine phosphokinase",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 536,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "81670",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alanine transaminase",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 560,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "25721",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aspartate transaminase",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 582,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "24310",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin-converting enzyme",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 610,
+          "length": 29
+        },
+        {
+          "text": "angiotensin-converting enzyme",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1134,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 658,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triglycerides",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 671,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 697,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D008315",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malondialdehyde",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 724,
+          "length": 15
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 741,
+          "length": 3
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1359,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 751,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 811,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "24786",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 827,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D002216",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Captopril",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1078,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002316",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cardioprotective drug",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1183,
+          "length": 21
+        },
+        {
+          "text": "cardioprotective agent",
+          "passage_index": 1,
+          "passage_offset": 82,
+          "char_offset": 1510,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002216",
+      "tail_id": "24310",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007545",
+      "tail_id": "24786",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007545",
+      "tail_id": "24533",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007545",
+      "tail_id": "24264",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007545",
+      "tail_id": "81670",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007545",
+      "tail_id": "25721",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007545",
+      "tail_id": "24310",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007545",
+      "tail_id": "D005978",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007545",
+      "tail_id": "D009569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007545",
+      "tail_id": "D008315",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007545",
+      "tail_id": "D005227",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D007545",
+      "tail_id": "D014280",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D007545",
+      "tail_id": "D002784",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D007545",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D010936",
+      "tail_id": "D008315",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D010936",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D010936",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

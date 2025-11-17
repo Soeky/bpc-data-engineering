@@ -1,0 +1,621 @@
+{
+  "doc_id": "19811499",
+  "title": "Independent and cooperative roles of tumor necrosis factor-alpha, nuclear factor-kappaB, and bone morphogenetic protein-2 in regulation of metastasis and osteomimicry of prostate cancer cells and differentiation and mineralization of MC3T3-E1 osteoblast-like cells.",
+  "body": "The molecular mechanisms involved in prostate cancer (PC) metastasis and bone remodeling are poorly understood. We recently reported that phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt) mediates transcriptional regulation and activation of bone morphogenetic protein (BMP)-2 signaling by nuclear factor (NF)-kappaB in bone metastatic prostate cancer cells. In the present study, we demonstrate that NF-kappaB, whether activated by recombinant human tumor necrosis factor (TNF)-alpha or by ectopic expression of the p65 subunit, is involved in extracellular matrix adhesion and invasion of osteotropic PC-3 and C4-2B, but not LNCaP, cells. The enhanced metastatic potential was associated with transcriptional upregulation of osteopontin, osteocalcin, and collagen IA1 in osteotropic PC cells, suggesting their role in osteomimicry of PC cells. Unlike BMP-4, BMP-2 protein enhanced the invasive properties of C4-2B cells, but not in LNCaP cells. Also, this effect was nullified by Noggin. In addition, BMP-2 mediates TNF-alpha-induced invasion of C4-2B cells in a NF-kappaB-dependent fashion. TNF-alpha or conditioned media (CM) of TNF-alpha-stimulated C4-2B cells upregulated BMP-2 and BMP-dependent Smad transcripts and inhibited receptor activator of NF-kappaB ligand transcripts in RAW 264.7 preosteoclast cells, respectively, implying that this factor may contribute to suppression of osteoclastogenesis via direct and paracrine mechanisms. In contrast, CM of TNF-alpha-stimulate or BMP2-stimulated C4-2B cells induced in vitro mineralization of MC3T3-E1 osteoblast cells in a BMP-2-dependent and NF-kappaB-dependent manner, respectively. Taken together, the results suggest that mutual interactions between these factors may be pivotal not only in enhancing the osteomimicry and metastatic potential of PC cells, but also in bone remodeling and in shifting the balance from osteoclastogenesis towards osteoblastogenesis.",
+  "entities": [
+    {
+      "id": "21926,7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tumor necrosis factor-alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "18033,4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear factor-kappaB",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "12156,650",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bone morphogenetic protein-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastasis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 139,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 170,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 608,
+          "length": 15
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1057,
+          "length": 2
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1108,
+          "length": 2
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 2082,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0409",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MC3T3-E1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 234,
+          "length": 8
+        },
+        {
+          "text": "MC3T3-E1",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1824,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009362,D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer (PC) metastasis",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 303,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phosphoinositide 3-kinase (PI3K)/protein kinase B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 404,
+          "length": 49
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 455,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "650",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bone morphogenetic protein (BMP)-2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 514,
+          "length": 34
+        },
+        {
+          "text": "BMP-2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1132,
+          "length": 5
+        },
+        {
+          "text": "BMP-2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1275,
+          "length": 5
+        },
+        {
+          "text": "BMP2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1761,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear factor (NF)-kappaB",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 562,
+          "length": 26
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 673,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1337,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1875,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 717,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tumor necrosis factor (TNF)-alpha",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 723,
+          "length": 33
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1290,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1366,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1405,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1738,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5970",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p65",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 789,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0035",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "PC-3",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 875,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_4784",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "C4-2B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 884,
+          "length": 5
+        },
+        {
+          "text": "C4-2B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1182,
+          "length": 5
+        },
+        {
+          "text": "C4-2B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1320,
+          "length": 5
+        },
+        {
+          "text": "C4-2B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1426,
+          "length": 5
+        },
+        {
+          "text": "C4-2B",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1777,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0395",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "LNCaP",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 899,
+          "length": 5
+        },
+        {
+          "text": "LNCaP",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1206,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6696",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "osteopontin",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 999,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "632",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "osteocalcin",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1012,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "1277",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen IA1",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1029,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1125,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9241",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Noggin",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1254,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12156",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP-2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1450,
+          "length": 5
+        },
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1460,
+          "length": 3
+        },
+        {
+          "text": "BMP-2",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1855,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17127",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1474,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21943",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "receptor activator of NF-kappaB ligand",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1505,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0493",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "RAW 264.7",
+          "passage_index": 1,
+          "passage_offset": 266,
+          "char_offset": 1559,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "207",
+      "tail_id": "650",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "207",
+      "tail_id": "4790",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "207",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "1277",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "632",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "6696",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "650",
+      "tail_id": "4790",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "650",
+      "tail_id": "7124",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "650",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "12156",
+      "tail_id": "17127",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "12156",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "4790",
+      "tail_id": "5970",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "4790",
+      "tail_id": "7124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "4790",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "7124",
+      "tail_id": "21943",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "7124",
+      "tail_id": "17127",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "7124",
+      "tail_id": "12156",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "7124",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

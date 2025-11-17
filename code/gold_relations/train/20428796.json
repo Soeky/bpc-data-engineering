@@ -1,0 +1,410 @@
+{
+  "doc_id": "20428796",
+  "title": "Effect of the abrogation of TGF-beta1 by antisense oligonucleotides on the expression of TGF-beta-isoforms and their receptors I and II in isolated fibroblasts from keloid scars.",
+  "body": "Disequilibrium of dermal wound repair can result in continued accumulation of ECM and excessive scar formation. In susceptible genetically predisposed individuals, keloid formation can be observed. Keloid disease represents a benign dermal fibroproliferative tumor that is unique to humans. TGF-beta is known to play a key role in the pathogenesis of this disease which is still not fully understood. The isoforms TGF-beta1 and TGF-beta2 have profibrotic properties, whereas TGF-beta3 may have antifibrotic functions. TGF-beta exerts its influence by binding to type I and type II TGF-beta receptors, thereby forming a complex and activating specific downstream effector molecules. The aim of this study was to investigate the effect of TGF-beta1 targeting by antisense oligonucleotides on the RNA synthesis and protein expression of TGF-beta isoforms and their receptors in keloid-derived fibroblasts. In tissue samples with normal fibroblasts (NFs) serving as control samples, expression of TGF-beta1 and -beta2 was decreased when compared to keloid fibroblasts (KFs), while expression of TGF-beta3 and of TGF-betaRII was significantly higher in NFs. In the ELISA assay, abrogation of TGF-beta1 led to a significant decrease in TGF-beta1 and -beta2 (p<0.05). Expression of TGF-beta2 mRNA was reduced. Expression of TGF-beta3 mRNA revealed contrary patterns in KFs from different patients while expression of TGF-betaRI was found to be equal during the measurement period. TGF-betaRII mRNA expression was increased after 48 and 72 h respectively. There is growing evidence for a regulatory mechanism between TGF-beta1 and its receptors. Our findings support this theory by suggesting interrelations between the different TGF-beta isoforms and their receptors. Abnormal response of KFs to TGF-betamight reflect a modification in the regulatory pathway that occurs at the receptor level or during intracellular trans-duction. Improving the understanding of TGF-beta in keloid disease could lead to the development of clinically useful therapeutic modalities for treatment of keloid disease or even allow identification of preventive strategies.",
+  "entities": [
+    {
+      "id": "4052",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta1",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 593,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta1",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 916,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta1",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1366,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta1",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1788,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009841",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oligonucleotides",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 16
+        },
+        {
+          "text": "oligonucleotides",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 949,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "7046,7048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta-isoforms and their receptors I and II",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 46
+        },
+        {
+          "text": "type I and type II TGF-beta receptors",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 741,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "D007627",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "keloid scars",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 165,
+          "length": 12
+        },
+        {
+          "text": "keloid",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 343,
+          "length": 6
+        },
+        {
+          "text": "Keloid disease",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 377,
+          "length": 14
+        },
+        {
+          "text": "keloid",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1054,
+          "length": 6
+        },
+        {
+          "text": "keloid",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1224,
+          "length": 6
+        },
+        {
+          "text": "keloid disease",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 2147,
+          "length": 14
+        },
+        {
+          "text": "keloid disease",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 2253,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 438,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 462,
+          "length": 6
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1560,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7040,7042,7043",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 470,
+          "length": 8
+        },
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 697,
+          "length": 8
+        },
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1013,
+          "length": 8
+        },
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1901,
+          "length": 8
+        },
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 2135,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7042",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta2",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 607,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta2",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1454,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "7043",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta3",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 654,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta3",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1270,
+          "length": 9
+        },
+        {
+          "text": "TGF-beta3",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1496,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "4052,7042",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta1 and -beta2",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1172,
+          "length": 20
+        },
+        {
+          "text": "TGF-beta1 and -beta2",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1409,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "7048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-betaRII",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1287,
+          "length": 11
+        },
+        {
+          "text": "TGF-betaRII",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1653,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "7046",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-betaRI",
+          "passage_index": 1,
+          "passage_offset": 179,
+          "char_offset": 1589,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7043",
+      "tail_id": "7048",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "7043",
+      "tail_id": "7046",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "7042",
+      "tail_id": "7048",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "7042",
+      "tail_id": "7046",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "7042",
+      "tail_id": "D007627",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "7048",
+      "tail_id": "D007627",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "7046",
+      "tail_id": "D007627",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007627",
+      "tail_id": "7043",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "4052",
+      "tail_id": "7042",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "4052",
+      "tail_id": "7046",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "4052",
+      "tail_id": "D007627",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "4052",
+      "tail_id": "D009841",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "4052",
+      "tail_id": "4052",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

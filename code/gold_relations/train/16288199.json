@@ -1,0 +1,286 @@
+{
+  "doc_id": "16288199",
+  "title": "The promoter of inducible nitric oxide synthase implicated in glaucoma based on genetic analysis and nuclear factor binding.",
+  "body": "PURPOSE: Nitric oxide has many beneficial functions in the human body at the right amounts, but it can also be hazardous if it is produced in amounts more than needed and has therefore been studied in relation to several neurological and non-neurological disorders. In vitro and in vivo studies demonstrate a connection between the inducible form of Nitric Oxide Synthase, iNOS, and the neuropathological disorder glaucoma, one of the major causes of blindness in the world. In this study, we sought to establish the genetic association between iNOS and primary open angle glaucoma, POAG, and to find the functional element(s) connected with the pathogenesis of the disease. METHODS: Two microsatellites, 1 insertion/deletion, and 8 single nucleotide polymorphisms (SNPs) in the regulatory region of iNOS were genotyped in 200 POAG patients and 200 age-matched controls. Also, the CCTTT-microsatellite was examined for its protein-binding capability in an electrophoretic mobility shift assay, EMSA. RESULTS: There was a significant difference in allele distribution of the CCTTT-microsatellite, between patients and controls. (CCTTT)14, which has been reported to have a higher activity in a reporter-construct, was significantly more abundant in POAG patients, while (CCTTT)10 and (CCTTT)13 were less common. In EMSA, the (CCTTT)14 allele exhibited specific binding of nuclear proteins. CONCLUSIONS: These results, together with other studies on this gene and the CCTTT-microsatellite, establish, for the first time, a genetic association of iNOS with POAG and suggest a regulatory function for the microsatellite.",
+  "entities": [
+    {
+      "id": "4843",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nitric oxide synthase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 21
+        },
+        {
+          "text": "Nitric Oxide Synthase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 475,
+          "length": 21
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 498,
+          "length": 4
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 670,
+          "length": 4
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 925,
+          "length": 4
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1669,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005901",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glaucoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 8
+        },
+        {
+          "text": "neuropathological disorder glaucoma",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 512,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 134,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 184,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 957,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1229,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1378,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological and non-neurological disorders",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 346,
+          "length": 43
+        }
+      ]
+    },
+    {
+      "id": "D001766",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "blindness",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 576,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005902",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary open angle glaucoma",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 679,
+          "length": 27
+        },
+        {
+          "text": "POAG",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 708,
+          "length": 4
+        },
+        {
+          "text": "POAG",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 952,
+          "length": 4
+        },
+        {
+          "text": "POAG",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1373,
+          "length": 4
+        },
+        {
+          "text": "POAG",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1679,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||CCTTT|14",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(CCTTT)14",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1252,
+          "length": 9
+        },
+        {
+          "text": "(CCTTT)14",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1449,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||CCTTT|10",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(CCTTT)10",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1394,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||CCTTT|13",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(CCTTT)13",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1408,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009569",
+      "tail_id": "D009422",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DUP||CCTTT|14",
+      "tail_id": "D005902",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005902",
+      "tail_id": "c|DUP||CCTTT|13",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005902",
+      "tail_id": "c|DUP||CCTTT|10",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4843",
+      "tail_id": "D001766",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "4843",
+      "tail_id": "D005901",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4843",
+      "tail_id": "D005902",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

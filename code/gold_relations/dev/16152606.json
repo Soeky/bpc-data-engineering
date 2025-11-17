@@ -1,0 +1,437 @@
+{
+  "doc_id": "16152606",
+  "title": "Carrier frequency of mutation 657del5 in the NBS1 gene in a population of Polish pediatric patients with sporadic lymphoid malignancies.",
+  "body": "Nijmegen breakage syndrome (NBS) is a human autosomal recessive disease characterized by genomic instability and enhanced cancer predisposition, in particular to lymphoma and leukemia. Recently, significantly higher frequencies of heterozygous carriers of the Slavic founder NBS1 mutation, 657del5, were found in Russian children with sporadic lymphoid malignancies, and in Polish adults with non-Hodgkin lymphoma (NHL). In addition, the substitution 643C>T (R215W) has also been found in excess among children with acute lymphoblastic leukemia (ALL). In an attempt to asses the contribution of both mutations to the development of sporadic lymphoid malignancies, we analyzed DNA samples from a large group of Polish pediatric patients. The NBS1 mutation 657del5 on one allele was found in 3 of 270 patients with ALL and 2 of 212 children and adolescents with NHL; no carrier was found among 63 patients with Hodgkin lymphoma (HL). No carriers of the variant R215W were detected in any studied group. The relative frequency of the 657del5 mutation was calculated from a total of 6,984 controls matched by place of patient residence, of whom 42 were found to be carriers (frequency = 0.006). In the analyzed population with malignancies, an increased odds ratio for the occurrence of mutation 657del5 was found in comparison with the control Polish population (OR range 1.48-1.85, 95% confidence interval 1.18-2.65). This finding indicates that the frequency of the mutation carriers was indeed increased in patients with ALL and NHL (p < 0.05). Nonetheless, NBS1 gene heterozygosity is not a major risk factor for lymphoid malignancies in childhood and adolescence.",
+  "entities": [
+    {
+      "id": "c|DEL|657|5",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "657del5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 7
+        },
+        {
+          "text": "657del5",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 427,
+          "length": 7
+        },
+        {
+          "text": "657del5",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 892,
+          "length": 7
+        },
+        {
+          "text": "657del5",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1168,
+          "length": 7
+        },
+        {
+          "text": "657del5",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1429,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4683",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NBS1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 4
+        },
+        {
+          "text": "NBS1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 412,
+          "length": 4
+        },
+        {
+          "text": "NBS1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 878,
+          "length": 4
+        },
+        {
+          "text": "NBS1",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1695,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 175,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 864,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 936,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1032,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1251,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1644,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sporadic lymphoid malignancies",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 30
+        },
+        {
+          "text": "lymphoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 299,
+          "length": 8
+        },
+        {
+          "text": "sporadic lymphoid malignancies",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 472,
+          "length": 30
+        },
+        {
+          "text": "sporadic lymphoid malignancies",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 769,
+          "length": 30
+        },
+        {
+          "text": "lymphoid malignancies",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1751,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D049932",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 137,
+          "length": 26
+        },
+        {
+          "text": "NBS",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 165,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disease",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 181,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 259,
+          "length": 6
+        },
+        {
+          "text": "malignancies",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1360,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007938",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "leukemia",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 312,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008228",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "non-Hodgkin lymphoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 530,
+          "length": 20
+        },
+        {
+          "text": "NHL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 552,
+          "length": 3
+        },
+        {
+          "text": "NHL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 997,
+          "length": 3
+        },
+        {
+          "text": "NHL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1666,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|643|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "643C>T",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 588,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|215|W",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R215W",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 596,
+          "length": 5
+        },
+        {
+          "text": "R215W",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1096,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D054198",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute lymphoblastic leukemia",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 653,
+          "length": 28
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 683,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 950,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1658,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006689",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Hodgkin lymphoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1046,
+          "length": 16
+        },
+        {
+          "text": "HL",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1064,
+          "length": 2
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "c|DEL|657|5",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D054198",
+      "tail_id": "p|SUB|R|215|W",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D054198",
+      "tail_id": "c|SUB|C|643|T",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D054198",
+      "tail_id": "c|DEL|657|5",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4683",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "4683",
+      "tail_id": "D008228",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4683",
+      "tail_id": "D054198",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "4683",
+      "tail_id": "D008223",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|DEL|657|5",
+      "tail_id": "D008228",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008223",
+      "tail_id": "c|DEL|657|5",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

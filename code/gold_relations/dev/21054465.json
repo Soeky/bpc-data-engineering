@@ -1,0 +1,294 @@
+{
+  "doc_id": "21054465",
+  "title": "Mutational analysis of CYP2C8 in hypertensive patients using denaturing high performance liquid chromatography.",
+  "body": "WHAT IS KNOWN AND OBJECTIVE: CYP2C8 is involved in the cytochrome P450 (CYP) epoxygenase pathway. Arachidonic acid metabolites such as epoxyeicosatrienenoic acids and hydroxyeicosatetrenoic acids, produced may have a role in hypertension. We aimed to develop a medium through-put method for screening samples of known and new mutations of CYP2C8 using denaturing high performance liquid chromatography (DHPLC). METHODS: DNA samples from 200 subjects (hypertensive patients and healthy controls) were screened for SNPs in CYP2C8 using DHPLC. Genotypes and allelic frequencies of CYP2C8 between the healthy controls and patients with hypertension were compared. RESULTS AND DISCUSSIONS: Six variants were detected and two were new; T deletion at 5063 and substitution of C to T at 33468 in exon 8. Differences in variant frequencies were detected between the controls and hypertensive patients. The controls have significantly higher prevalence of C35322C compared to the patients. The functional significance of the SNP at 35322 requires further study. Having homozygous C35322C could be a protective factor for hypertension. WHAT IS NEW AND CONCLUSION: Denaturing high performance liquid chromatography is useful for population screening to identify new and existing SNPs. A higher frequency of the C35322T SNP was observed among hypertensive patients than control subjects. This potentially important observation requires confirmation and the clinical significance assessed.",
+  "entities": [
+    {
+      "id": "1558",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP2C8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 6
+        },
+        {
+          "text": "CYP2C8",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 141,
+          "length": 6
+        },
+        {
+          "text": "cytochrome P450 (CYP) epoxygenase",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 167,
+          "length": 33
+        },
+        {
+          "text": "CYP2C8",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 451,
+          "length": 6
+        },
+        {
+          "text": "CYP2C8",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 633,
+          "length": 6
+        },
+        {
+          "text": "CYP2C8",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 690,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 337,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 563,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 744,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 982,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1223,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1442,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 576,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 730,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 995,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1082,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1455,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016718",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Arachidonic acid",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 210,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "epoxyeicosatrienenoic acids",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 247,
+          "length": 27
+        },
+        {
+          "text": "hydroxyeicosatetrenoic acids",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 279,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|5063|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T deletion at 5063",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 842,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|33468|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C to T at 33468",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 881,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|35322|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C35322C",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1058,
+          "length": 7
+        },
+        {
+          "text": "C35322C",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1182,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|35322|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C35322T",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1411,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1558",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D016718",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|C|35322|T",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|C|33468|T",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006973",
+      "tail_id": "c|SUB|C|35322|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "c|DEL|5063|T",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

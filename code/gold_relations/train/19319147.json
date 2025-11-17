@@ -1,0 +1,336 @@
+{
+  "doc_id": "19319147",
+  "title": "Rapid reversal of anticoagulation reduces hemorrhage volume in a mouse model of warfarin-associated intracerebral hemorrhage.",
+  "body": "Warfarin-associated intracerebral hemorrhage (W-ICH) is a severe type of stroke. There is no consensus on the optimal treatment for W-ICH. Using a mouse model, we tested whether the rapid reversal of anticoagulation using human prothrombin complex concentrate (PCC) can reduce hemorrhagic blood volume. Male CD-1 mice were treated with warfarin (2 mg/kg over 24 h), resulting in a mean (+/-s.d.) International Normalized Ratio of 3.5+/-0.9. First, we showed that an intravenous administration of human PCC rapidly reversed anticoagulation in mice. Second, a stereotactic injection of collagenase was administered to induce hemorrhage in the right striatum. Forty-five minutes later, the animals were randomly treated with PCC (100 U/kg) or saline i.v. (n=12 per group). Twenty-four hours after hemorrhage induction, hemorrhagic blood volume was quantified using a photometric hemoglobin assay. The mean hemorrhagic blood volume was reduced in PCC-treated animals (6.5+/-3.1 microL) compared with saline controls (15.3+/-11.2 microL, P=0.015). In the saline group, 45% of the mice developed large hematomas (i.e., >15 microL). In contrast, such extensive lesions were never found in the PCC group. We provide experimental data suggesting PCC to be an effective acute treatment for W-ICH in terms of reducing hemorrhagic blood volume. Future studies are needed to assess the therapeutic potential emerging from our finding for human W-ICH.",
+  "entities": [
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 10
+        },
+        {
+          "text": "hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 749,
+          "length": 10
+        },
+        {
+          "text": "hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 920,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 273,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 439,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 668,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1201,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "warfarin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 8
+        },
+        {
+          "text": "Warfarin",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 126,
+          "length": 8
+        },
+        {
+          "text": "W",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 172,
+          "length": 1
+        },
+        {
+          "text": "W",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 258,
+          "length": 1
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 462,
+          "length": 8
+        },
+        {
+          "text": "W",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1406,
+          "length": 1
+        },
+        {
+          "text": "W",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1557,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "D002543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 24
+        },
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 146,
+          "length": 24
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 174,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 260,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1408,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1559,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 199,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 348,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 622,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1551,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C025667",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "prothrombin complex concentrate",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 354,
+          "length": 31
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 387,
+          "length": 3
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 628,
+          "length": 3
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 848,
+          "length": 3
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1069,
+          "length": 3
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1312,
+          "length": 3
+        },
+        {
+          "text": "PCC",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1363,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D017364",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "collagenase",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 710,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006406",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hematomas",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1222,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014859",
+      "tail_id": "D002543",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C025667",
+      "tail_id": "D014859",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C025667",
+      "tail_id": "D002543",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006470",
+      "tail_id": "C025667",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D017364",
+      "tail_id": "D006470",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "doc_id": "21080147",
+  "title": "Novel CRELD1 gene mutations in patients with atrioventricular septal defect.",
+  "body": "BACKGROUND: Atrioventricular septal defects (AVSDs) occur as clinical defects of several different syndromes, as autosomal dominant defects, and as sporadically occurring malformations. Consequently, there is genetic heterogeneity, but until recently, little is known about the genes involving in the pathogenesis of AVSD. CRELD1 gene, a novel cell adhesion molecule, is a candidate gene for AVSD. METHODS: This study included 133 patients with AVSD and 200 healthy controls. Peripheral blood samples were collected and genomic DNA was extracted from the leukocytes. CRELD1 was amplified by polymerase chain reaction (PCR) with specific primers. The sequences of PCR products were compared between the patients and controls. RESULTS: In a patient, a C-to-G transition was identified at nucleotide 857 in exon 8 that resulted in a substitution of alanine for proline at amino acid 286 in the first calcium-binding EGF domain. This patient had an isolated partial AVSD and the mutation was inherited from her mother. Another mutation was detected in a patient with a partial AVSD and evidence of Down syndrome. The heterozygous c.973G>A transition in exon 9 resulted in a substitution of lysine for glutamic acid at amino acid 325 (E325K) in the second calcium-binding EGF domain. CONCLUSIONS: Two novel CRELD1 mutations were identified in the calcium-binding EGF domain in patients with AVSD. CRELD1 is likely to be an AVSD-susceptibility gene and CRELD1 mutations may increase the risk of developing a heart defect rather than being a direct causative mutation.",
+  "entities": [
+    {
+      "id": "78987",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CRELD1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 6
+        },
+        {
+          "text": "CRELD1",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 400,
+          "length": 6
+        },
+        {
+          "text": "CRELD1",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 644,
+          "length": 6
+        },
+        {
+          "text": "CRELD1",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1379,
+          "length": 6
+        },
+        {
+          "text": "CRELD1",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1469,
+          "length": 6
+        },
+        {
+          "text": "CRELD1",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1524,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 508,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 779,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 816,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1007,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1127,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1449,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C562831",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrioventricular septal defect",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 30
+        },
+        {
+          "text": "Atrioventricular septal defects",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 89,
+          "length": 31
+        },
+        {
+          "text": "AVSDs",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 122,
+          "length": 5
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 394,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 469,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 522,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1039,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1150,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1463,
+          "length": 4
+        },
+        {
+          "text": "AVSD",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1495,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant defects",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 190,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D000013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malformations",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 248,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|857|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C-to-G transition was identified at nucleotide 857",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 827,
+          "length": 50
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|286|P",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "alanine for proline at amino acid 286",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 923,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 974,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1328,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1419,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 990,
+          "length": 3
+        },
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1344,
+          "length": 3
+        },
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1435,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004314",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Down syndrome",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1171,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "rs755981922",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.973G>A",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1203,
+          "length": 8
+        },
+        {
+          "text": "lysine for glutamic acid at amino acid 325",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1263,
+          "length": 42
+        },
+        {
+          "text": "E325K",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1307,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "heart defect",
+          "passage_index": 1,
+          "passage_offset": 77,
+          "char_offset": 1579,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1950",
+      "tail_id": "C562831",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002118",
+      "tail_id": "1950",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004314",
+      "tail_id": "78987",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs755981922",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs755981922",
+      "tail_id": "D006331",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs755981922",
+      "tail_id": "C562831",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "p|SUB|A|286|P",
+      "tail_id": "D006331",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "p|SUB|A|286|P",
+      "tail_id": "C562831",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|SUB|C|857|G",
+      "tail_id": "D006331",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "c|SUB|C|857|G",
+      "tail_id": "C562831",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "78987",
+      "tail_id": "1950",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "78987",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "78987",
+      "tail_id": "D006331",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "78987",
+      "tail_id": "C562831",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

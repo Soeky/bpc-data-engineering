@@ -1,0 +1,330 @@
+{
+  "doc_id": "20005218",
+  "title": "A potential regulatory single nucleotide polymorphism in the promoter of the Klotho gene may be associated with essential hypertension in the Chinese Han population.",
+  "body": "BACKGROUND: Mice with defects in the Klotho gene exhibit multiple aging phenotypes including arteriosclerosis. We hypothesised that the G-395A polymorphism in the promoter region of the human Klotho gene may contribute to the prevalence of Essential Hypertension (EH). METHODS: We investigate whether the G-395A polymorphism of Klotho is associated with EH in a population consisting of 215 patients with EH and 220 non-hypertensive subjects. We also tested whether a G/A substitution at the G-395A site affected the transcription level in vitro through the dual-luciferase reporter assay. RESULTS: Differences in the genotype distributions of the G-395A polymorphism between the EH and non-hypertension groups are statistically significant (P=0.032). There are differential effects of age, gender and smoking status on the association of the G-395A polymorphism with EH; the G-395A polymorphism is significantly associated with EH in subjects over 60years old, in females and in nonsmokers. A multiple logistic regression analysis indicated that the odds ratio for EH in the -395A allele carriers as compared with the control group was 0.593 (P=0.024) after adjusting for current traditional risk factors. The dual-luciferase reporter assay revealed that the -395A carrier of a 498-bp DNA fragment (containing the G-395A site) upstream of the Klotho gene has higher relative luciferase activity than the -395G carrier. CONCLUSIONS: The G-395A polymorphism of the human Klotho gene is associated with EH and may be a potential regulatory site.",
+  "entities": [
+    {
+      "id": "9365",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Klotho",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 6
+        },
+        {
+          "text": "Klotho",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 358,
+          "length": 6
+        },
+        {
+          "text": "Klotho",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 494,
+          "length": 6
+        },
+        {
+          "text": "Klotho",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1510,
+          "length": 6
+        },
+        {
+          "text": "Klotho",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1636,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000075222",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "essential hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 112,
+          "length": 22
+        },
+        {
+          "text": "Essential Hypertension",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 406,
+          "length": 22
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 430,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 520,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 571,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 846,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1034,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1095,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1232,
+          "length": 2
+        },
+        {
+          "text": "EH",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1667,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mice",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 178,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16591",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Klotho",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 203,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001161",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arteriosclerosis",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 259,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "rs1207568",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 302,
+          "length": 6
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 471,
+          "length": 6
+        },
+        {
+          "text": "G/A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 634,
+          "length": 3
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 658,
+          "length": 6
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 814,
+          "length": 6
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1009,
+          "length": 6
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1042,
+          "length": 6
+        },
+        {
+          "text": "-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1242,
+          "length": 5
+        },
+        {
+          "text": "-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1426,
+          "length": 5
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1481,
+          "length": 6
+        },
+        {
+          "text": "-395G",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1571,
+          "length": 5
+        },
+        {
+          "text": "G-395A",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1603,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 352,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 557,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1630,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 586,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 857,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "9365",
+      "tail_id": "D000075222",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "16591",
+      "tail_id": "D001161",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "16591",
+      "tail_id": "D000075222",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1207568",
+      "tail_id": "D000075222",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

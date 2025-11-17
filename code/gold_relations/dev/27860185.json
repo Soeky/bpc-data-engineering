@@ -1,0 +1,416 @@
+{
+  "doc_id": "27860185",
+  "title": "Sildenafil attenuates hypoxic pulmonary remodelling by inhibiting bone marrow progenitor cells.",
+  "body": "The recruitment of bone marrow (BM)-derived progenitor cells to the lung is related to pulmonary remodelling and the pathogenesis of pulmonary hypertension (PH). Although sildenafil is a known target in PH treatment, the underlying molecular mechanism is still elusive. To test the hypothesis that the therapeutic effect of sildenafil is linked to the reduced recruitment of BM-derived progenitor cells, we induced pulmonary remodelling in rats by two-week exposure to chronic hypoxia (CH, 10% oxygen), a trigger of BM-derived progenitor cells. Rats were treated with either placebo (saline) or sildenafil (1.4 mg/kg/day ip) during CH. Control rats were kept in room air (21% oxygen) with no treatment. As expected, sildenafil attenuated the CH-induced increase in right ventricular systolic pressure and right ventricular hypertrophy. However, sildenafil suppressed the CH-induced increase in c-kit(+) cells in the adventitia of pulmonary arteries. Moreover, sildenafil reduced the number of c-kit(+) cells that colocalize with tyrosine kinase receptor 2 (VEGF-R2) and CD68 (a marker for macrophages), indicating a positive effect on moderating hypoxia-induced smooth muscle cell proliferation and inflammation without affecting the pulmonary levels of hypoxia-inducible factor (HIF)-1a. Furthermore, sildenafil depressed the number of CXCR4(+) cells. Collectively, these findings indicate that the improvement in pulmonary haemodynamic by sildenafil is linked to decreased recruitment of BM-derived c-kit(+) cells in the pulmonary tissue. The attenuation of the recruitment of BM-derived c-kit(+) cells by sildenafil may provide novel therapeutic insights into the control of pulmonary remodelling.",
+  "entities": [
+    {
+      "id": "D000068677",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Sildenafil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 267,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 420,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 691,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 812,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 941,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1056,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1398,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1537,
+          "length": 10
+        },
+        {
+          "text": "sildenafil",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1704,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D066253",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxic pulmonary remodelling",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 29
+        },
+        {
+          "text": "pulmonary remodelling",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 183,
+          "length": 21
+        },
+        {
+          "text": "pulmonary remodelling",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 511,
+          "length": 21
+        },
+        {
+          "text": "pulmonary remodelling",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1774,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D006976",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pulmonary hypertension",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 229,
+          "length": 22
+        },
+        {
+          "text": "PH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 253,
+          "length": 2
+        },
+        {
+          "text": "PH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 299,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 536,
+          "length": 4
+        },
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 641,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 740,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 573,
+          "length": 7
+        },
+        {
+          "text": "CH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 582,
+          "length": 2
+        },
+        {
+          "text": "CH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 728,
+          "length": 2
+        },
+        {
+          "text": "CH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 838,
+          "length": 2
+        },
+        {
+          "text": "CH",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 967,
+          "length": 2
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1242,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 590,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 772,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D017380",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "right ventricular hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 901,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "64030",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-kit",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 990,
+          "length": 5
+        },
+        {
+          "text": "c-kit",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1089,
+          "length": 5
+        },
+        {
+          "text": "c-kit",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1597,
+          "length": 5
+        },
+        {
+          "text": "c-kit",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1686,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "25589",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tyrosine kinase receptor 2",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1125,
+          "length": 26
+        },
+        {
+          "text": "VEGF-R2",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1153,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "287435",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD68",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1166,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1295,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "29560",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hypoxia-inducible factor (HIF)-1a",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1350,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "60628",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCR4",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1433,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000068677",
+      "tail_id": "D006976",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000068677",
+      "tail_id": "D066253",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000068677",
+      "tail_id": "60628",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000068677",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000068677",
+      "tail_id": "287435",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000068677",
+      "tail_id": "25589",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000068677",
+      "tail_id": "D017380",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000068677",
+      "tail_id": "D000860",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

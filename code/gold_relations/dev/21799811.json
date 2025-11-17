@@ -1,0 +1,179 @@
+{
+  "doc_id": "21799811",
+  "title": "Strong association of 677 C>T substitution in the MTHFR gene with male infertility--a study on an indian population and a meta-analysis.",
+  "body": "BACKGROUND: Methylenetetrahydrofolate reductase (MTHFR) is an important enzyme of folate and methionine metabolism, making it crucial for DNA synthesis and methylation. The objective of this study was to analyze MTHFR gene 677C>T polymorphism in infertile male individuals from North India, followed by a meta-analysis on our data and published studies. METHODOLOGY/PRINCIPAL FINDINGS: We undertook genotyping on a total of 837 individuals including well characterized infertile (N=522) and confirmed fertile (N=315) individuals. The SNP was typed by direct DNA sequencing. Chi square test was done for statistical analysis. Published studies were searched using appropriate keywords. Source of data collection for meta-analysis included 'Pubmed', 'Ovid' and 'Google Scholar'. Those studies analyzing 677C>T polymorphism in male infertility and presenting all relevant data were included in meta-analysis. The genotype data for infertile subjects and fertile controls was extracted from each study. Chi square test was done to obtain odds ratio (OR) and p-value. Meta-analysis was performed using Comprehensive Meta-analysis software (Version 2). The frequency of mutant (T) allele (p=0.0025) and genotypes (CT+TT) (p=0.0187) was significantly higher in infertile individuals in comparison to fertile controls in our case-control study. The overall summary estimate (OR) for allele and genotype meta-analysis were 1.304 (p=0.000), 1.310 (p=0.000), respectively, establishing significant association of 677C>T polymorphism with male infertility. CONCLUSIONS/SIGNIFICANCE: 677C>T substitution associated strongly with male infertility in Indian population. Allele and genotype meta-analysis also supported its strong correlation with male infertility, thus establishing it as a risk factor.",
+  "entities": [
+    {
+      "id": "rs1801133",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "677 C>T",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 7
+        },
+        {
+          "text": "677C>T",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 360,
+          "length": 6
+        },
+        {
+          "text": "677C>T",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 938,
+          "length": 6
+        },
+        {
+          "text": "677C>T",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1639,
+          "length": 6
+        },
+        {
+          "text": "677C>T",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1708,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4524",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MTHFR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 5
+        },
+        {
+          "text": "Methylenetetrahydrofolate reductase",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 149,
+          "length": 35
+        },
+        {
+          "text": "MTHFR",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 186,
+          "length": 5
+        },
+        {
+          "text": "MTHFR",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 349,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007248",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "male infertility",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 16
+        },
+        {
+          "text": "male infertility",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 961,
+          "length": 16
+        },
+        {
+          "text": "male infertility",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1664,
+          "length": 16
+        },
+        {
+          "text": "male infertility",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1753,
+          "length": 16
+        },
+        {
+          "text": "male infertility",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1869,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D005492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 219,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008715",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methionine",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 230,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1801133",
+      "tail_id": "D007248",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4524",
+      "tail_id": "D008715",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "4524",
+      "tail_id": "D005492",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "4524",
+      "tail_id": "D007248",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

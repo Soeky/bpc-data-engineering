@@ -1,0 +1,388 @@
+{
+  "doc_id": "21130517",
+  "title": "Detection of EGFR mutations in plasma DNA from lung cancer patients by mass spectrometry genotyping is predictive of tumor EGFR status and response to EGFR inhibitors.",
+  "body": "AIMS: EGFR mutations now guide the clinical use of EGFR-targeted therapy in lung cancer. However, standard EGFR mutation analysis requires a minimum amount of tumor tissue, which may not be available in certain situations. In this study, we combined a mass spectrometry genotyping assay (Sequenom) with a mutant-enriched PCR (ME-PCR) to detect EGFR mutations in free plasma DNA from patients with lung cancer. METHOD: DNAs were extracted from 31 plasma samples from 31 patients and analyzed by both methods for EGFR Exon 19 deletion and EGFR L858R mutation. Results in plasma DNA samples were compared with EGFR mutation status obtained in tumor DNA (18/31 EGFR mutant). The relationship of EGFR mutation status in tumor and/or plasma samples to overall survival was assessed. RESULTS: The EGFR mutation status in plasma DNA was identical to the primary tumor in 61% of patients (19/31). By mass spectrometry genotyping, the plasma samples contained mutant DNA corresponding to 5/14 EGFR Exon 19 deletions and 3/4 EGFR L858R mutations previously diagnosed in the matched tumors. Two samples were positive in plasma DNA but negative in primary tumor tissue. Results were similar for samples studied by ME-PCR. For patients treated with erlotinib, overall survival was correlated with the presence of EGFR mutation in plasma and/or tumor tissue (p=0.002), with the two patients positive only in plasma DNA showing responses and favorable outcomes. CONCLUSION: The detection of EGFR mutations in plasma DNA samples by mass spectrometry genotyping and ME-PCR is feasible. A positive EGFR result in plasma DNA has a high predictive value for tumor EGFR status and for favorable clinical course on EGFR-targeted therapy and could therefore be useful in guiding clinical decisions in patients with insufficient or unavailable tumor specimens.",
+  "entities": [
+    {
+      "id": "1956",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGFR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 151,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 174,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 219,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 275,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 512,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 679,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 705,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 775,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 825,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 859,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 958,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1151,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1182,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1467,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1643,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1747,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1811,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1860,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 244,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 565,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 551,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 637,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1038,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1381,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1535,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1945,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 327,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 808,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 883,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1022,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1239,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1311,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1498,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1805,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1987,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs121434568",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L858R",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 710,
+          "length": 5
+        },
+        {
+          "text": "L858R",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1187,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000069347",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "erlotinib",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1403,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs121434568",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000069347",
+      "tail_id": "rs121434568",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000069347",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000069347",
+      "tail_id": "1956",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "1956",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "1956",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

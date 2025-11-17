@@ -1,0 +1,489 @@
+{
+  "doc_id": "28260056",
+  "title": "Insulin-like growth factor 1 receptor-mediated cell survival in hypoxia depends on the promotion of autophagy via suppression of the PI3K/Akt/mTOR signaling pathway.",
+  "body": "Hypoxia is widely accepted as a fundamental biological phenomenon, which is strongly associated with tissue damage and cell viability under stress conditions. Insulin-like growth factor-1 (IGF-1) is known to protect tissues from multiple types of damage, and protect cells from apoptosis. Hypoxia is a regulatory factor of the IGF system, however the role of the IGF-1 receptor (IGF-1R) in hypoxia-induced apoptosis remains unclear. The present study investigated the potential mechanisms associated with IGF-1R-associated apoptosis under hypoxic conditions. Mouse embryonic fibroblasts exhibiting disruption or overexpression of IGF-1R (R- cells and R+ cells) were used to examine the level of apoptosis, autophagy, and production of reactive oxygen species (ROS). The autophagy inhibitor 3-methyladenine was used to assess the effect of autophagy on ROS production and apoptosis under hypoxic conditions. A potential downstream signaling pathway involving phosphatidylinositol 3-kinase (PI3K)/threonine protein kinase B (Akt)/mammalian target of rapamycin (mTOR) was identifiedby western blot analysis. The results demonstrated that hypoxia induced apoptosis, increased ROS production, and promoted autophagy in a time-dependent manner relative to that observed under normoxia. R+ cells exhibited a lower percentage of apoptotic cells, lower ROS production, and higher levels of autophagy when compared to that of R- cells. In addition, inhibition of autophagy led to increased ROS production and a higher percentage of apoptotic cells in the two cell types. Furthermore, IGF-1R is related with PI3K/Akt/mTOR signaling pathway and enhanced autophagy-associated protein expression, which was verified following treatment with the PI3K inhibitor LY294002. These results indicated that IGF-1R may increase cell viability under hypoxic conditions by promoting autophagy and scavenging ROS production, which is closed with PI3K/Akt/mTOR signaling pathway.",
+  "entities": [
+    {
+      "id": "16001",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Insulin-like growth factor 1 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 37
+        },
+        {
+          "text": "IGF-1 receptor",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 529,
+          "length": 14
+        },
+        {
+          "text": "IGF-1R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 545,
+          "length": 6
+        },
+        {
+          "text": "IGF-1R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 671,
+          "length": 6
+        },
+        {
+          "text": "IGF-1R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 796,
+          "length": 6
+        },
+        {
+          "text": "IGF-1R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1740,
+          "length": 6
+        },
+        {
+          "text": "IGF-1R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1951,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 7
+        },
+        {
+          "text": "Hypoxia",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 166,
+          "length": 7
+        },
+        {
+          "text": "Hypoxia",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 455,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 556,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 705,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1053,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1301,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1992,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "18706",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 133,
+          "length": 4
+        },
+        {
+          "text": "phosphatidylinositol 3-kinase",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1124,
+          "length": 29
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1155,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1763,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1897,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 2086,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 138,
+          "length": 3
+        },
+        {
+          "text": "threonine protein kinase B",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1161,
+          "length": 26
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1189,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1768,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 2091,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 142,
+          "length": 4
+        },
+        {
+          "text": "mammalian target of rapamycin",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1194,
+          "length": 29
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1225,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1772,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 2095,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16000",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Insulin-like growth factor-1",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 325,
+          "length": 28
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 355,
+          "length": 5
+        },
+        {
+          "text": "IGF",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 493,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mouse",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 725,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 901,
+          "length": 23
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 926,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1018,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1338,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1510,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1646,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 2049,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C025946",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3-methyladenine",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 956,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "C085911",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "LY294002",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1912,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C025946",
+      "tail_id": "D017382",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C025946",
+      "tail_id": "D000860",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D017382",
+      "tail_id": "56717",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D017382",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D017382",
+      "tail_id": "18706",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D017382",
+      "tail_id": "D000860",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "18706",
+      "tail_id": "C085911",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000860",
+      "tail_id": "16000",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000860",
+      "tail_id": "56717",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000860",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D000860",
+      "tail_id": "18706",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "16001",
+      "tail_id": "D017382",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "16001",
+      "tail_id": "56717",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "16001",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "16001",
+      "tail_id": "18706",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "16001",
+      "tail_id": "D000860",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

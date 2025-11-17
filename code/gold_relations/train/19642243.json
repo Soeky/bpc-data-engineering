@@ -1,0 +1,238 @@
+{
+  "doc_id": "19642243",
+  "title": "Acute renal failure in patients with AIDS on tenofovir while receiving prolonged vancomycin course for osteomyelitis.",
+  "body": "Renal failure developed after a prolonged course of vancomycin therapy in 2 patients who were receiving tenofovir disoproxil fumarate as part of an antiretroviral regimen. Tenofovir has been implicated in the development of Fanconi syndrome and renal insufficiency because of its effects on the proximal renal tubule. Vancomycin nephrotoxicity is infrequent but may result from coadministration with a nephrotoxic agent. Clinicians should be aware that tenofovir may raise the risk of renal failure during prolonged administration of vancomycin.",
+  "entities": [
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Acute renal failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 194,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000163",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "AIDS",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000068698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tenofovir",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 9
+        },
+        {
+          "text": "tenofovir disoproxil fumarate",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 222,
+          "length": 29
+        },
+        {
+          "text": "Tenofovir",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 290,
+          "length": 9
+        },
+        {
+          "text": "tenofovir",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 571,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014640",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vancomycin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 10
+        },
+        {
+          "text": "vancomycin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 170,
+          "length": 10
+        },
+        {
+          "text": "Vancomycin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 436,
+          "length": 10
+        },
+        {
+          "text": "vancomycin",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 652,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010019",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteomyelitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D051437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Renal failure",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 118,
+          "length": 13
+        },
+        {
+          "text": "renal insufficiency",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 363,
+          "length": 19
+        },
+        {
+          "text": "renal failure",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 603,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D005198",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Fanconi syndrome",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 342,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 447,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxic",
+          "passage_index": 1,
+          "passage_offset": 118,
+          "char_offset": 520,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014640",
+      "tail_id": "D051437",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010019",
+      "tail_id": "D014640",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000068698",
+      "tail_id": "D005198",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000068698",
+      "tail_id": "D051437",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000068698",
+      "tail_id": "D014640",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000068698",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

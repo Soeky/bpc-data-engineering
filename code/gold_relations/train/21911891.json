@@ -1,0 +1,406 @@
+{
+  "doc_id": "21911891",
+  "title": "Plasminogen activator inhibitor type 1 serum levels and 4G/5G gene polymorphism in morbidly obese Hispanic patients with non-alcoholic fatty liver disease.",
+  "body": "BACKGROUND: The plasminogen activator inhibitor type-1 (PAI-1) has been implicated in the regulation of fibrinolysis and extracellular matrix components. The single base pair guanine insertion/deletion polymorphism (4G/5G) within the promoter region of the PAI-1 gene influences PAI-1 synthesis and may modulate hepatic fibrogenesis. AIM: To evaluate the influence of PAI-1 serum levels and 4G/5G polymorphism on the risk of liver fibrosis associated to non-alcoholic fatty liver disease (NAFLD) in morbidly obese patients. MATERIAL AND METHODS: Case-control study of 50 obese patients undergoing bariatric surgery and 71 non-obese subjects matched by age and sex. Anthropometric and biochemical measurements were performed, including PAI-1 serum levels. Genomic DNA was obtained to assess the presence of 4G/5G polymorphism. RESULTS: BMI, insulinemia, triglycerides, HOMA-IR, hypertension and diabetes were significantly higher in obese patients compared to control subjects. PAI-1 serum levels observed in obese patients were significantly lower (10.63 4.82) compared to controls (14.26 11.4; p < 0.05). No differences were observed in the PAI-1 4G/5G promoter genotypes frequencies (p = 0.12). No differences were observed in PAI-1 plasma levels among obese patients with liver fibrosis (10.64 4.35) compared to patients without liver fibrosis (10.61 5.2; p = 0.985). PAI-1 4G/5G promoter genotypes frequencies were similar in patients with or without liver fibrosis associated to NASH (p = 0.6). CONCLUSIONS: Morbidly obese patients had significantly lower PAI-1 serum levels with similar PAI-1 4G/5G genotypes frequencies compared to non-obese subjects. The frequency of 4G/5G genotypes in Chilean Hispanic healthy subjects was similar to that described in other populations. No association was found between PAI-1 serum levels or 4G/5G genotype with liver fibrosis in obese patients.",
+  "entities": [
+    {
+      "id": "5054",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Plasminogen activator inhibitor type 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 38
+        },
+        {
+          "text": "plasminogen activator inhibitor type-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 172,
+          "length": 38
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 212,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 413,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 435,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 524,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 891,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1133,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1298,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1385,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1527,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1717,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1749,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1970,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obese",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 664,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 727,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 782,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1088,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1164,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1411,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1678,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1799,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 2030,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 107,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 670,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 733,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1094,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1170,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1417,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1471,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1586,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1684,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 2036,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D065626",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "non-alcoholic fatty liver disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 121,
+          "length": 33
+        },
+        {
+          "text": "non-alcoholic fatty liver disease",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 610,
+          "length": 33
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 645,
+          "length": 5
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1640,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008107",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatic fibrogenesis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 468,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D008103",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 581,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1431,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1488,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1611,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 2012,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triglycerides",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1009,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1033,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 156,
+          "char_offset": 1050,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014280",
+      "tail_id": "D009765",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "5054",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

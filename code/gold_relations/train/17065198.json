@@ -1,0 +1,442 @@
+{
+  "doc_id": "17065198",
+  "title": "Analysis of skin cancer risk factors in immunosuppressed renal transplant patients shows high levels of UV-specific tandem CC to TT mutations of the p53 gene.",
+  "body": "Immunosuppressed renal transplant recipients (RTRs) are predisposed to non-melanoma skin cancers (NMSCs), predominantly squamous cell carcinomas (SCCs). We have analyzed skin lesions from RTRs with aggressive tumors for p53 gene modifications, the presence of Human Papillomas Virus (HPV) DNA in relation to the p53 codon 72 genotype and polymorphisms of the XPD repair gene. We detected 24 p53 mutations in 15/25 (60%) NMSCs, 1 deletion and 23 base substitutions, the majority (78%) being UV-specific C to T transitions at bipyrimidine sites. Importantly, 35% (6/17) are tandem mutations, including 4 UV signature CC to TT transitions possibly linked to modulated DNA repair caused by the immunosuppressive drug cyclosporin A (CsA). We found 8 p53 mutations in 7/17 (41%) precancerous actinic keratosis (AK), suggesting that p53 mutations are early events in RTR skin carcinogenesis. Immunohistochemical analysis shows a good correlation between p53 accumulation and mutations. HPV DNA was detected in 78% of skin lesions (60% Basal Cell Carcinomas, 82%AK and 79% SCCs). Thus, immunosuppression has increased the risk of infections by HPVs, predominantly epidermodysplasia verruciformis, speculated to play a role in skin cancer development. No association is found between HPV status and p53 mutation. Moreover, p53 codon 72 or frequencies of three XPD genotypes of RTRs are comparable with control populations. The p53 mutation spectrum, presenting a high level of CC to TT mutations, shows that the UV component of sunlight is the major risk factor and modulated DNA repair by immunosuppressive drug treatment may be significant in the skin carcinogenesis of RTRs.",
+  "entities": [
+    {
+      "id": "D012878",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skin cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 11
+        },
+        {
+          "text": "non-melanoma skin cancers",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 230,
+          "length": 25
+        },
+        {
+          "text": "NMSCs",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 257,
+          "length": 5
+        },
+        {
+          "text": "NMSCs",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 579,
+          "length": 5
+        },
+        {
+          "text": "skin carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1023,
+          "length": 19
+        },
+        {
+          "text": "skin cancer",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1377,
+          "length": 11
+        },
+        {
+          "text": "skin carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1799,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C||T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "CC to TT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 8
+        },
+        {
+          "text": "C to T",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 661,
+          "length": 6
+        },
+        {
+          "text": "CC to TT",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 774,
+          "length": 8
+        },
+        {
+          "text": "CC to TT",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1627,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 149,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 379,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 471,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 550,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 904,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 985,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1106,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1449,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1473,
+          "length": 3
+        },
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1577,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002294",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "squamous cell carcinomas",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 279,
+          "length": 24
+        },
+        {
+          "text": "SCCs",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 305,
+          "length": 4
+        },
+        {
+          "text": "SCCs",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1224,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012871",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skin lesions",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 329,
+          "length": 12
+        },
+        {
+          "text": "skin lesions",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1169,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 368,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10566",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Human Papillomas Virus",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 419,
+          "length": 22
+        },
+        {
+          "text": "HPV",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 443,
+          "length": 3
+        },
+        {
+          "text": "HPV",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1138,
+          "length": 3
+        },
+        {
+          "text": "HPVs",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1295,
+          "length": 4
+        },
+        {
+          "text": "HPV",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1434,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2068",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "XPD",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 518,
+          "length": 3
+        },
+        {
+          "text": "XPD",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1510,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016572",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclosporin A",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 872,
+          "length": 13
+        },
+        {
+          "text": "CsA",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 887,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D011230",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "precancerous",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 932,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D055623",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "actinic keratosis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 945,
+          "length": 17
+        },
+        {
+          "text": "AK",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 964,
+          "length": 2
+        },
+        {
+          "text": "AK",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1213,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D002280",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Basal Cell Carcinomas",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1187,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infections",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1281,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D004819",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "epidermodysplasia verruciformis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1315,
+          "length": 31
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7157",
+      "tail_id": "D012878",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "7157",
+      "tail_id": "D055623",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "7157",
+      "tail_id": "D016572",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|C||T",
+      "tail_id": "D012878",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|C||T",
+      "tail_id": "D016572",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

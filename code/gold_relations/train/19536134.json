@@ -1,0 +1,511 @@
+{
+  "doc_id": "19536134",
+  "title": "TAK1 is an essential regulator of BMP signalling in cartilage.",
+  "body": "TGFbeta activated kinase 1 (TAK1), a member of the MAPKKK family, controls diverse functions ranging from innate and adaptive immune system activation to vascular development and apoptosis. To analyse the in vivo function of TAK1 in cartilage, we generated mice with a conditional deletion of Tak1 driven by the collagen 2 promoter. Tak1(col2) mice displayed severe chondrodysplasia with runting, impaired formation of secondary centres of ossification, and joint abnormalities including elbow dislocation and tarsal fusion. This phenotype resembled that of bone morphogenetic protein receptor (BMPR)1 and Gdf5-deficient mice. BMPR signalling was markedly impaired in TAK1-deficient chondrocytes as evidenced by reduced expression of known BMP target genes as well as reduced phosphorylation of Smad1/5/8 and p38/Jnk/Erk MAP kinases. TAK1 mediates Smad1 phosphorylation at C-terminal serine residues. These findings provide the first in vivo evidence in a mammalian system that TAK1 is required for BMP signalling and functions as an upstream activating kinase for Smad1/5/8 in addition to its known role in regulating MAP kinase pathways. Our experiments reveal an essential role for TAK1 in the morphogenesis, growth, and maintenance of cartilage.",
+  "entities": [
+    {
+      "id": "26409",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TAK1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "TGFbeta activated kinase 1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 63,
+          "length": 26
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 91,
+          "length": 4
+        },
+        {
+          "text": "MAPKKK",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 114,
+          "length": 6
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 288,
+          "length": 4
+        },
+        {
+          "text": "Tak1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 356,
+          "length": 4
+        },
+        {
+          "text": "Tak1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 396,
+          "length": 4
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 731,
+          "length": 4
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 897,
+          "length": 4
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1041,
+          "length": 4
+        },
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1248,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12159",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 3
+        },
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 803,
+          "length": 3
+        },
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1062,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 320,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 407,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 684,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12824",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen 2",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 375,
+          "length": 10
+        },
+        {
+          "text": "col2",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 401,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010009",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chondrodysplasia",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 429,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D007592",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "joint abnormalities",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 521,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D004204",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "elbow dislocation",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 551,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D000070604",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tarsal fusion",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 573,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12166",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bone morphogenetic protein receptor (BMPR)1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 621,
+          "length": 43
+        },
+        {
+          "text": "BMPR",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 690,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14563",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Gdf5",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 669,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17125,17129,55994",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad1/5/8",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 858,
+          "length": 9
+        },
+        {
+          "text": "Smad1/5/8",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1128,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 872,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26419",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Jnk",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 876,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 880,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413,26416,26419",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAP kinases",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 884,
+          "length": 11
+        },
+        {
+          "text": "MAP kinase",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1182,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "17125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad1",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 911,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "12166",
+      "tail_id": "26413",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "12166",
+      "tail_id": "26419",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "12166",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "12166",
+      "tail_id": "17125",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "12166",
+      "tail_id": "12159",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "12166",
+      "tail_id": "26409",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "12824",
+      "tail_id": "D000070604",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "12824",
+      "tail_id": "D004204",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "12824",
+      "tail_id": "D007592",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "12824",
+      "tail_id": "D010009",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "12159",
+      "tail_id": "26413",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "12159",
+      "tail_id": "26419",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "12159",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "12159",
+      "tail_id": "17125",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "26409",
+      "tail_id": "26413",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "26409",
+      "tail_id": "26419",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "26409",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "26409",
+      "tail_id": "17125",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "26409",
+      "tail_id": "12824",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "26409",
+      "tail_id": "D000070604",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "26409",
+      "tail_id": "D004204",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "26409",
+      "tail_id": "D007592",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "26409",
+      "tail_id": "D010009",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "26409",
+      "tail_id": "12159",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

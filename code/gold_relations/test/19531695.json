@@ -1,0 +1,498 @@
+{
+  "doc_id": "19531695",
+  "title": "Delirium in a patient with toxic flecainide plasma concentrations: the role of a pharmacokinetic drug interaction with paroxetine.",
+  "body": "OBJECTIVE: To describe a case of flecainide-induced delirium associated with a pharmacokinetic drug interaction with paroxetine. CASE SUMMARY: A 69-year-old white female presented to the emergency department with a history of confusion and paranoia over the past several days. On admission the patient was taking carvedilol 12 mg twice daily, warfarin 2 mg/day, folic acid 1 mg/day, levothyroxine 100 microg/day, pantoprazole 40 mg/day, paroxetine 40 mg/day, and flecainide 100 mg twice daily. Flecainide had been started 2 weeks prior for atrial fibrillation. Laboratory test findings on admission were notable only for a flecainide plasma concentration of 1360 microg/L (reference range 200-1000). A metabolic drug interaction between flecainide and paroxetine, which the patient had been taking for more than 5 years, was considered. Paroxetine was discontinued and the dose of flecainide was reduced to 50 mg twice daily. Her delirium resolved 3 days later. DISCUSSION: Flecainide and pharmacologically similar agents that interact with sodium channels may cause delirium in susceptible patients. A MEDLINE search (1966-January 2009) revealed one in vivo pharmacokinetic study on the interaction between flecainide, a CYP2D6 substrate, and paroxetine, a CYP2D6 inhibitor, as well as 3 case reports of flecainide-induced delirium. According to the Naranjo probability scale, flecainide was the probable cause of the patient's delirium; the Horn Drug Interaction Probability Scale indicates a possible pharmacokinetic drug interaction between flecainide and paroxetine. CONCLUSIONS: Supratherapeutic flecainide plasma concentrations may cause delirium. Because toxicity may occur when flecainide is prescribed with paroxetine and other potent CYP2D6 inhibitors, flecainide plasma concentrations should be monitored closely with commencement of CYP2D6 inhibitors.",
+  "entities": [
+    {
+      "id": "D003693",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Delirium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 183,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1061,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1198,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1455,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1560,
+          "length": 8
+        },
+        {
+          "text": "delirium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1776,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 425,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 905,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1222,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1550,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005424",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "flecainide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 164,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 594,
+          "length": 10
+        },
+        {
+          "text": "Flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 625,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 754,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 868,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1012,
+          "length": 10
+        },
+        {
+          "text": "Flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1105,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1339,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1436,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1509,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1676,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1733,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1818,
+          "length": 10
+        },
+        {
+          "text": "flecainide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1895,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D017374",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paroxetine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 248,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 568,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 883,
+          "length": 10
+        },
+        {
+          "text": "Paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 968,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1375,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1691,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1848,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003221",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "confusion",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 357,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D010259",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "paranoia",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 371,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C043211",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carvedilol",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 444,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D014859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 474,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "folic acid",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 493,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D013974",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levothyroxine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 514,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C064276",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pantoprazole",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 544,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D001281",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 671,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1172,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1565",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP2D6",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1353,
+          "length": 6
+        },
+        {
+          "text": "CYP2D6",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1389,
+          "length": 6
+        },
+        {
+          "text": "CYP2D6",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1876,
+          "length": 6
+        },
+        {
+          "text": "CYP2D6",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1977,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1794,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012964",
+      "tail_id": "D003693",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D017374",
+      "tail_id": "1565",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D017374",
+      "tail_id": "D003693",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005424",
+      "tail_id": "1565",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005424",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005424",
+      "tail_id": "D017374",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005424",
+      "tail_id": "D003693",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005424",
+      "tail_id": "D001281",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

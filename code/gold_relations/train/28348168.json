@@ -1,0 +1,130 @@
+{
+  "doc_id": "28348168",
+  "title": "FGFR2 is required for airway basal cell self-renewal and terminal differentiation.",
+  "body": "Airway stem cells slowly self-renew and produce differentiated progeny to maintain homeostasis throughout the lifespan of an individual. Mutations in the molecular regulators of these processes may drive cancer or degenerative disease, but are also potential therapeutic targets. Conditionally deleting one copy of FGF receptor 2 (FGFR2) in adult mouse airway basal cells results in self-renewal and differentiation phenotypes. We show that FGFR2 signalling correlates with maintenance of expression of a key transcription factor for basal cell self-renewal and differentiation: SOX2. This heterozygous phenotype illustrates that subtle changes in receptor tyrosine kinase signalling can have significant effects, perhaps providing an explanation for the numerous changes seen in cancer.",
+  "entities": [
+    {
+      "id": "14183",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "FGF receptor 2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 398,
+          "length": 14
+        },
+        {
+          "text": "FGFR2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 414,
+          "length": 5
+        },
+        {
+          "text": "FGFR2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 524,
+          "length": 5
+        },
+        {
+          "text": "receptor tyrosine kinase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 731,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 287,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 863,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "degenerative disease",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 297,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 430,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20674",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOX2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 662,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "14183",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "14183",
+      "tail_id": "20674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019636",
+      "tail_id": "14183",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

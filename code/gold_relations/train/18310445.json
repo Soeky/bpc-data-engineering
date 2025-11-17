@@ -1,0 +1,705 @@
+{
+  "doc_id": "18310445",
+  "title": "Bone morphogenetic protein-4 interacts with activin and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs.",
+  "body": "We have shown previously that, in sheep primary pituitary cells, bone morphogenetic proteins (BMP)-4 inhibits FSHbeta mRNA expression and FSH release. In contrast, in mouse LbetaT2 gonadotrophs, others have shown a stimulatory effect of BMPs on basal or activin-stimulated FSHbeta promoter-driven transcription. As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH. BMP-4 alone had no effect on FSH production, but enhanced the activin+GnRH-induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA. BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH (+/-activin) and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion. In contrast to sheep pituitary gonadotrophs, which express only BMP receptor types IA (BMPRIA) and II (BMPRII), LbetaT2 cells also express BMPRIB. Smad1/5 phosphorylation induced by BMP-4, indicating activation of BMP signalling, was the same whether BMP-4 was used alone or combined with activin+/-GnRH. We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin-stimulated phosphorylation of Smad2/3 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified. However, the GnRH-induced activation of p38 MAPK was decreased by BMP-4. This was associated with increased FSHbeta mRNA levels and FSH secretion, but decreased LHbeta mRNA levels. These results confirm 1. BMPs as important modulators of activin and/or GnRH-stimulated gonadotrophin synthesis and release and 2. important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.",
+  "entities": [
+    {
+      "id": "652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bone morphogenetic protein-4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 28
+        },
+        {
+          "text": "BMPs",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 359,
+          "length": 4
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 537,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 610,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 780,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1140,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1209,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1333,
+          "length": 5
+        },
+        {
+          "text": "BMP-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1560,
+          "length": 5
+        },
+        {
+          "text": "BMPs",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1700,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3624,83729",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "activin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "14714",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GnRH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 604,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 680,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 835,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1257,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1299,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1410,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1507,
+          "length": 4
+        },
+        {
+          "text": "GnRH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1747,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12640,14308",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gonadotrophin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 13
+        },
+        {
+          "text": "gonadotrophin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 546,
+          "length": 13
+        },
+        {
+          "text": "gonadotrophin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1763,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0398",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "LbetaT2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 7
+        },
+        {
+          "text": "LbetaT2",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 295,
+          "length": 7
+        },
+        {
+          "text": "LbetaT2",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 493,
+          "length": 7
+        },
+        {
+          "text": "LbetaT2",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1070,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9940",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "sheep",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 156,
+          "length": 5
+        },
+        {
+          "text": "sheep",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 973,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "443502",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bone morphogenetic proteins (BMP)-4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 187,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "443387",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FSHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 232,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "443387,443538",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FSH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 260,
+          "length": 3
+        },
+        {
+          "text": "FSH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 639,
+          "length": 3
+        },
+        {
+          "text": "FSH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 725,
+          "length": 3
+        },
+        {
+          "text": "FSH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 912,
+          "length": 3
+        },
+        {
+          "text": "FSH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1626,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 289,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16323",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 376,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 592,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 672,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 844,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1247,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1284,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1356,
+          "length": 7
+        },
+        {
+          "text": "activin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1732,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "14308",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FSHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 395,
+          "length": 7
+        },
+        {
+          "text": "FSHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 708,
+          "length": 7
+        },
+        {
+          "text": "FSHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1602,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "14313",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "follistatin",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 762,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "16866",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 794,
+          "length": 6
+        },
+        {
+          "text": "LHbeta",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1655,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "14715",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GnRH receptor",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 867,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12640,16866",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 929,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "101103793,101112282",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP receptor types IA (BMPRIA) and II (BMPRII)",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1022,
+          "length": 46
+        }
+      ]
+    },
+    {
+      "id": "12167",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMPRIB",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1097,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "17125,17129",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad1/5",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1105,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "12159",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1172,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "17126,17127",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad2/3",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1394,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1423,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12912",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cAMP response element-binding",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1433,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1534,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "101103793,101112282,12167",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP receptor",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1891,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "443502",
+      "tail_id": "443387",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "26416",
+      "tail_id": "652",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "14715",
+      "tail_id": "16866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "16866",
+      "tail_id": "14714",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "16323",
+      "tail_id": "443387",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "16323",
+      "tail_id": "14308",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "16323",
+      "tail_id": "14714",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "14714",
+      "tail_id": "26416",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "14714",
+      "tail_id": "12912",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "14714",
+      "tail_id": "443387",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "14714",
+      "tail_id": "14308",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "652",
+      "tail_id": "14715",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "652",
+      "tail_id": "16866",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "652",
+      "tail_id": "16323",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "652",
+      "tail_id": "14308",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "652",
+      "tail_id": "14714",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

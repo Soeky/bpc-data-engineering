@@ -1,0 +1,362 @@
+{
+  "doc_id": "24743235",
+  "title": "IL-3 and CSF-1 interact to promote generation of CD11c+ IL-10-producing macrophages.",
+  "body": "Unraveling the mechanisms of hematopoiesis regulated by multiple cytokines remains a challenge in hematology. IL-3 is an allergic cytokine with the multilineage potential, while CSF-1 is produced in the steady state with restricted lineage coverage. Here, we uncovered an instructive role of CSF-1 in IL-3-mediated hematopoiesis. CSF-1 significantly promoted IL-3-driven CD11c+ cell expansion and dampened basophil and mast cell generation from C57BL/6 bone marrow. Further studies indicated that the CSF-1/CSF-1R axis contributed significantly to IL-3-induced CD11c+ cell generation through enhancing c-Fos-associated monopoiesis. CD11c+ cells induced by IL-3 or IL-3/CSF-1 were competent in cellular maturation and endocytosis. Both IL-3 and IL-3/CSF-1 cells lacked classical dendritic cell appearance and resembled macrophages in morphology. Both populations produced a high level of IL-10, in addition to IL-1, IL-6 and TNFa, in response to LPS, and were relatively poor T cell stimulators. Collectively, these findings reveal a role for CSF-1 in mediating the IL-3 hematopoietic pathway through monopoiesis, which regulates expansion of CD11c+ macrophages.",
+  "entities": [
+    {
+      "id": "16187",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 195,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 386,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 444,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 633,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 741,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 749,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 820,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 829,
+          "length": 4
+        },
+        {
+          "text": "IL-3",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1150,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12977",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CSF-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 263,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 377,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 415,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 586,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 754,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 834,
+          "length": 5
+        },
+        {
+          "text": "CSF-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1127,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD11c",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 5
+        },
+        {
+          "text": "CD11c",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 456,
+          "length": 5
+        },
+        {
+          "text": "CD11c",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 646,
+          "length": 5
+        },
+        {
+          "text": "CD11c",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 717,
+          "length": 5
+        },
+        {
+          "text": "CD11c",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1227,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 972,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_5746",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "C57BL/6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 530,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "12978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CSF-1R",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 592,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "14281",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-Fos",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 687,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "111343",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 994,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1000,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1009,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 85,
+          "char_offset": 1030,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "12978",
+      "tail_id": "14281",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "12977",
+      "tail_id": "14281",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "12977",
+      "tail_id": "12978",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "12977",
+      "tail_id": "16153",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "12977",
+      "tail_id": "16411",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "12977",
+      "tail_id": "16187",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "16153",
+      "tail_id": "D008070",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "16187",
+      "tail_id": "16153",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "16187",
+      "tail_id": "16411",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

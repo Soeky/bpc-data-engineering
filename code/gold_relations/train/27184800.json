@@ -1,0 +1,372 @@
+{
+  "doc_id": "27184800",
+  "title": "Metallothionein-1 as a biomarker of altered redox metabolism in hepatocellular carcinoma cells exposed to sorafenib.",
+  "body": "BACKGROUND: Sorafenib, a kinase inhibitor active against various solid tumours, induces oxidative stress and ferroptosis, a new form of oxidative necrosis, in some cancer cells. Clinically-applicable biomarkers that reflect the impact of sorafenib on the redox metabolism of cancer cells are lacking. METHODS: We used gene expression microarrays, real-time PCR, immunoblot, protein-specific ELISA, and gene reporter constructs encoding the enzyme luciferase to study the response of a panel of cancer cells to sorafenib. Tumour explants prepared from surgical hepatocellular carcinoma (HCC) samples and serum samples obtained from HCC patients receiving sorafenib were also used. RESULTS: We observed that genes of the metallothionein-1 (MT1) family are induced in the HCC cell line Huh7 exposed to sorafenib. Sorafenib increased the expression of MT1G mRNA in a panel of human cancer cells, an effect that was not observed with eight other clinically-approved kinase inhibitors. We identified the minimal region of the MT1G promoter that confers inducibility by sorafenib to a 133 base pair region containing an Anti-oxidant Response Element (ARE) and showed the essential role of the transcription factor NRF2 (Nuclear factor erythroid 2-Related Factor 2). We examined the clinical relevance of our findings by analysing the regulation of MT1G in five tumour explants prepared from surgical HCC samples. Finally, we showed that the protein levels of MT1 increase in the serum of some HCC patients receiving sorafenib, and found an association with reduced overall survival. CONCLUSION: These findings indicate that MT1 constitute a biomarker adapted for exploring the impact of sorafenib on the redox metabolism of cancer cells.",
+  "entities": [
+    {
+      "id": "4495",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Metallothionein-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 17
+        },
+        {
+          "text": "metallothionein-1",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 836,
+          "length": 17
+        },
+        {
+          "text": "MT1",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 855,
+          "length": 3
+        },
+        {
+          "text": "MT1G",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 965,
+          "length": 4
+        },
+        {
+          "text": "MT1G",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1137,
+          "length": 4
+        },
+        {
+          "text": "MT1G",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1458,
+          "length": 4
+        },
+        {
+          "text": "MT1",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1569,
+          "length": 3
+        },
+        {
+          "text": "MT1",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1734,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatocellular carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 24
+        },
+        {
+          "text": "hepatocellular carcinoma",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 677,
+          "length": 24
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 703,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 748,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 886,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1510,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1603,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000077157",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sorafenib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 9
+        },
+        {
+          "text": "Sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 129,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 355,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 627,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 771,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 916,
+          "length": 9
+        },
+        {
+          "text": "Sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 927,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1180,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1626,
+          "length": 9
+        },
+        {
+          "text": "sorafenib",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1797,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumours",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 188,
+          "length": 7
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 281,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 392,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 611,
+          "length": 6
+        },
+        {
+          "text": "Tumour",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 638,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 995,
+          "length": 6
+        },
+        {
+          "text": "tumour",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1471,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1834,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009336",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "necrosis",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 263,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 752,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 989,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1607,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0336",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "Huh7",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 900,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4780",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NRF2",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1324,
+          "length": 4
+        },
+        {
+          "text": "Nuclear factor erythroid 2-Related Factor 2",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1330,
+          "length": 43
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4495",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4495",
+      "tail_id": "D000077157",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "4495",
+      "tail_id": "D006528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000077157",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006528",
+      "tail_id": "D000077157",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

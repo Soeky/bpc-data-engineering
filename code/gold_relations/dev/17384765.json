@@ -1,0 +1,289 @@
+{
+  "doc_id": "17384765",
+  "title": "Succimer chelation improves learning, attention, and arousal regulation in lead-exposed rats but produces lasting cognitive impairment in the absence of lead exposure.",
+  "body": "BACKGROUND: There is growing pressure for clinicians to prescribe chelation therapy at only slightly elevated blood lead levels. However, very few studies have evaluated whether chelation improves cognitive outcomes in Pb-exposed children, or whether these agents have adverse effects that may affect brain development in the absence of Pb exposure. OBJECTIVES: The present study was designed to answer these questions, using a rodent model of early childhood Pb exposure and treatment with succimer, a widely used chelating agent for the treatment of Pb poisoning. RESULTS: Pb exposure produced lasting impairments in learning, attention, inhibitory control, and arousal regulation, paralleling the areas of dysfunction seen in Pb-exposed children. Succimer treatment of the Pb-exposed rats significantly improved learning, attention, and arousal regulation, although the efficacy of the treatment varied as a function of the Pb exposure level and the specific functional deficit. In contrast, succimer treatment of rats not previously exposed to Pb produced lasting and pervasive cognitive and affective dysfunction comparable in magnitude to that produced by the higher Pb exposure regimen. CONCLUSIONS: These are the first data, to our knowledge, to show that treatment with any chelating agent can alleviate cognitive deficits due to Pb exposure. These findings suggest that it may be possible to identify a succimer treatment protocol that improves cognitive outcomes in Pb-exposed children. However, they also suggest that succimer treatment should be strongly discouraged for children who do not have elevated tissue levels of Pb or other heavy metals.",
+  "entities": [
+    {
+      "id": "D004113",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Succimer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "succimer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 659,
+          "length": 8
+        },
+        {
+          "text": "Succimer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 918,
+          "length": 8
+        },
+        {
+          "text": "succimer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1163,
+          "length": 8
+        },
+        {
+          "text": "succimer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1581,
+          "length": 8
+        },
+        {
+          "text": "succimer",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1698,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007854",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lead",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 4
+        },
+        {
+          "text": "lead",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 153,
+          "length": 4
+        },
+        {
+          "text": "lead",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 284,
+          "length": 4
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 387,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 505,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 628,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 743,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 897,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 944,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1095,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1216,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1341,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1507,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1645,
+          "length": 2
+        },
+        {
+          "text": "Pb",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1803,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 955,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1185,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive impairment",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 20
+        },
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1481,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007855",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Pb poisoning",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 720,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007859,D019958",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impairments in learning, attention, inhibitory control, and arousal regulation",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 772,
+          "length": 78
+        }
+      ]
+    },
+    {
+      "id": "D003072,D019964",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive and affective dysfunction",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1250,
+          "length": 35
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "D007854",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007854",
+      "tail_id": "D007855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004113",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004113",
+      "tail_id": "D007855",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004113",
+      "tail_id": "D007854",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

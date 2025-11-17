@@ -1,0 +1,596 @@
+{
+  "doc_id": "28660748",
+  "title": "Angiotensin II subtype 1a receptor signaling in resident hepatic macrophages induces liver metastasis formation.",
+  "body": "Liver metastases from colorectal cancer (CRC) are a clinically significant problem. The renin-angiotensin system is involved in tumor growth and metastases. This study was designed to evaluate the role of angiotensin II subtype receptor 1a (AT1a) in the formation of liver metastasis in CRC. A model of liver metastasis was developed by intrasplenic injection of mouse colon cancer (CMT-93) into AT1a knockout mice (AT1aKO) and wild-type (C57BL/6) mice (WT). Compared with WT mice, the liver weight and liver metastatic rate were significantly lower in AT1aKO. The mRNA levels of CD31, transforming growth factor- b1 (TGF-b1), and F4/80 were suppressed in AT1aKO compared with WT. Double immunofluorescence analysis showed that the number of accumulated F4/80(+) cells expressing TGF-b1 in metastatic areas was higher in WT than in AT1aKO. The AT1aKO bone marrow (BM) (AT1aKO-BM)>WT showed suppressed formation of liver metastasis compared with WT-BM>WT. However, the formation of metastasis was further suppressed in WT-BM>AT1aKO compared with AT1aKO-BM>WT. In addition, accumulated F4/80(+) cells in the liver metastasis were not BM-derived F4/80(+) cells, but mainly resident hepatic F4/80(+) cells, and these resident hepatic F4/80(+) cells were positive for TGF-b1. Angiotensin II enhanced TGF-b1 expression in Kupffer cells. Treatment of WT with clodronate liposomes suppressed liver metastasis by diminishing TGF-b1(+) F4/80(+) cells accumulation. The formation of liver metastasis correlated with collagen deposition in the metastatic area, which was dependent on AT1a signaling. These results suggested that resident hepatic macrophages induced liver metastasis formation by induction of TGF-b1 through AT1a signaling.",
+  "entities": [
+    {
+      "id": "11607",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Angiotensin II subtype 1a receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 34
+        },
+        {
+          "text": "angiotensin II subtype receptor 1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 318,
+          "length": 34
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 354,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 509,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 529,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 666,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 769,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 945,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 957,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 982,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1137,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1158,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1685,
+          "length": 4
+        },
+        {
+          "text": "AT1a",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1825,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008113",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver metastasis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 16
+        },
+        {
+          "text": "Liver metastases",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 113,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 380,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 416,
+          "length": 16
+        },
+        {
+          "text": "liver metastatic",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 616,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1027,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1219,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1497,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1585,
+          "length": 16
+        },
+        {
+          "text": "liver metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1767,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 135,
+          "length": 17
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 154,
+          "length": 3
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 400,
+          "length": 3
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 482,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "19701",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "renin",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 201,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11606",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 207,
+          "length": 11
+        },
+        {
+          "text": "Angiotensin II",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1384,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 241,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 258,
+          "length": 10
+        },
+        {
+          "text": "metastasis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1094,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 476,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 523,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 561,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 589,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1986",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "CMT-93",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 496,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "CVCL_5746",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "C57BL/6",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 552,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "18613",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD31",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 693,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21803",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "transforming growth factor- b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 699,
+          "length": 30
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 731,
+          "length": 6
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 893,
+          "length": 6
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1376,
+          "length": 6
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1408,
+          "length": 6
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1529,
+          "length": 6
+        },
+        {
+          "text": "TGF-b1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1810,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "13733",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 744,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 867,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1197,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1256,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1300,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1343,
+          "length": 5
+        },
+        {
+          "text": "F4/80",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1539,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004002",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clodronate",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1465,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "12842",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1618,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "19701",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "19701",
+      "tail_id": "D009362",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "19701",
+      "tail_id": "11606",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "12842",
+      "tail_id": "11607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008113",
+      "tail_id": "12842",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004002",
+      "tail_id": "D008113",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "11606",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "11606",
+      "tail_id": "D009362",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "11606",
+      "tail_id": "21803",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "13733",
+      "tail_id": "11607",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "21803",
+      "tail_id": "D008113",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "21803",
+      "tail_id": "11607",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "11607",
+      "tail_id": "D008113",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "18613",
+      "tail_id": "11607",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

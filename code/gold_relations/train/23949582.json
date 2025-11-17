@@ -1,0 +1,240 @@
+{
+  "doc_id": "23949582",
+  "title": "The cytogenetic action of ifosfamide, mesna, and their combination on peripheral rabbit lymphocytes: an in vivo/in vitro cytogenetic study.",
+  "body": "Ifosfamide (IFO) is an alkylating nitrogen mustard, administrated as an antineoplasmic agent. It is characterized by its intense urotoxic action, leading to hemorrhagic cystitis. This side effect of IFO raises the requirement for the co-administration with sodium 2-sulfanylethanesulfonate (Mesna) aiming to avoid or minimize this effect. IFO and Mesna were administrated separately on rabbit's lymphocytes in vivo, which were later developed in vitro. Cytogenetic markers for sister chromatid exchanges (SCEs), proliferation rate index (PRI) and Mitotic Index were recorded. Mesna's action, in conjunction with IFO reduces the frequency of SCEs, in comparison with the SCEs recordings obtained when IFO is administered alone. In addition to this, when high concentrations of Mesna were administered alone significant reductions of the PRI were noted, than with IFO acting at the same concentration on the lymphocytes. Mesna significantly reduces IFO's genotoxicity, while when administered in high concentrations it acts in an inhibitory fashion on the cytostatic action of the drug.",
+  "entities": [
+    {
+      "id": "D007069",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ifosfamide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 10
+        },
+        {
+          "text": "Ifosfamide",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 140,
+          "length": 10
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 152,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 339,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 479,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 752,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 840,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1002,
+          "length": 3
+        },
+        {
+          "text": "IFO",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1087,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D015080",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mesna",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 5
+        },
+        {
+          "text": "sodium 2-sulfanylethanesulfonate",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 397,
+          "length": 32
+        },
+        {
+          "text": "Mesna",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 431,
+          "length": 5
+        },
+        {
+          "text": "Mesna",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 487,
+          "length": 5
+        },
+        {
+          "text": "Mesna",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 716,
+          "length": 5
+        },
+        {
+          "text": "Mesna",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 916,
+          "length": 5
+        },
+        {
+          "text": "Mesna",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1059,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9986",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rabbit",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 6
+        },
+        {
+          "text": "rabbit",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 526,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008357",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alkylating nitrogen mustard",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 163,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hemorrhagic",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 297,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D003556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cystitis",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 309,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genotoxicity",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1093,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007069",
+      "tail_id": "D003556",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007069",
+      "tail_id": "D006470",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007069",
+      "tail_id": "D030342",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D015080",
+      "tail_id": "D030342",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D015080",
+      "tail_id": "D007069",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

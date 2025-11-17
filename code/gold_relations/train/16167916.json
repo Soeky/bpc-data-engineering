@@ -1,0 +1,322 @@
+{
+  "doc_id": "16167916",
+  "title": "The effects of short-term raloxifene therapy on fibrinolysis markers: TAFI, tPA, and PAI-1.",
+  "body": "BACKGROUND: Markers of fibrinolysis, thrombin-activatable fibrinolysis inhibitor (TAFI), tissue-type plasminogen activator (tPA), and plasminogen activator inhibitor-1 (PAI-1) levels were studied for the evaluation of short-term effects of raloxifene administration in postmenopausal women. METHODS: Thirty-nine postmenopausal women with osteopenia or osteoporosis were included in this prospective, controlled clinical study. Twenty-five women were given raloxifene hydrochloride (60 mg/day) plus calcium (500 mg/day). Age-matched controls (n = 14) were given only calcium. Plasma TAFI, tPA, and PAI-1 antigen levels were measured at baseline and after 3 months of treatment by commercially available ELISA kits. Variations of individuals were assessed by Wilcoxon's test. Relationship between those markers and demographic characteristics were investigated. RESULTS: Three months of raloxifene treatment was associated with a significant decrease in the plasma TAFI antigen concentrations (16% change, P < 0.01), and a significant increase in tPA antigen concentrations (25% change, P < 0.05). A significant correlation was found between baseline TAFI antigen concentrations and the duration of amenorrhea (P < 0.05; r = 0.33). CONCLUSION: We suggest that the increased risk of venous thromboembolism due to raloxifene treatment may be related to increased tPA levels, but not TAFI levels.",
+  "entities": [
+    {
+      "id": "D020849",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "raloxifene",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 10
+        },
+        {
+          "text": "raloxifene",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 332,
+          "length": 10
+        },
+        {
+          "text": "raloxifene hydrochloride",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 548,
+          "length": 24
+        },
+        {
+          "text": "raloxifene",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 977,
+          "length": 10
+        },
+        {
+          "text": "raloxifene",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1402,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "1361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TAFI",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 4
+        },
+        {
+          "text": "thrombin-activatable fibrinolysis inhibitor",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 129,
+          "length": 43
+        },
+        {
+          "text": "TAFI",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 174,
+          "length": 4
+        },
+        {
+          "text": "TAFI",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 674,
+          "length": 4
+        },
+        {
+          "text": "TAFI",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1055,
+          "length": 4
+        },
+        {
+          "text": "TAFI",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1241,
+          "length": 4
+        },
+        {
+          "text": "TAFI",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1471,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5327",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tPA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 3
+        },
+        {
+          "text": "tissue-type plasminogen activator",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 181,
+          "length": 33
+        },
+        {
+          "text": "tPA",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 216,
+          "length": 3
+        },
+        {
+          "text": "tPA",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 680,
+          "length": 3
+        },
+        {
+          "text": "tPA",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1137,
+          "length": 3
+        },
+        {
+          "text": "tPA",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1451,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5054",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAI-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 5
+        },
+        {
+          "text": "plasminogen activator inhibitor-1",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 226,
+          "length": 33
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 261,
+          "length": 5
+        },
+        {
+          "text": "PAI-1",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 689,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 376,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 419,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 531,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001851",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteopenia",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 430,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010024",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoporosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 444,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 590,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 658,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D054556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "venous thromboembolism",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1372,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D054556",
+      "tail_id": "5327",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D054556",
+      "tail_id": "D020849",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010024",
+      "tail_id": "D020849",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D020849",
+      "tail_id": "5327",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D020849",
+      "tail_id": "1361",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D020849",
+      "tail_id": "D001851",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "5054",
+      "tail_id": "D020849",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

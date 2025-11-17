@@ -1,0 +1,500 @@
+{
+  "doc_id": "25550469",
+  "title": "The androgen receptor confers protection against diet-induced atherosclerosis, obesity, and dyslipidemia in female mice.",
+  "body": "Androgens have important cardiometabolic actions in males, but their metabolic role in females is unclear. To determine the physiologic androgen receptor (AR)-dependent actions of androgens on atherogenesis in female mice, we generated female AR-knockout (ARKO) mice on an atherosclerosis-prone apolipoprotein E (apoE)-deficient background. After 8 weeks on a high-fat diet, but not on a normal chow diet, atherosclerosis in aorta was increased in ARKO females (+59% vs. control apoE-deficient mice with intact AR gene). They also displayed increased body weight (+18%), body fat percentage (+62%), and hepatic triglyceride levels, reduced insulin sensitivity, and a marked atherogenic dyslipidemia (serum cholesterol, +52%). Differences in atherosclerosis, body weight, and lipid levels between ARKO and control mice were abolished in mice that were ovariectomized before puberty, consistent with a protective action of ovarian androgens mediated via the AR. Furthermore, the AR agonist dihydrotestosterone reduced atherosclerosis (-41%; thoracic aorta), subcutaneous fat mass (-44%), and cholesterol levels (-35%) in ovariectomized mice, reduced hepatocyte lipid accumulation in hepatoma cells in vitro, and regulated mRNA expression of hepatic genes pivotal for lipid homeostasis. In conclusion, we demonstrate that the AR protects against diet-induced atherosclerosis in female mice and propose that this is mediated by modulation of body composition and lipid metabolism.",
+  "entities": [
+    {
+      "id": "11835",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "androgen receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 17
+        },
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 257,
+          "length": 17
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 276,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 364,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 377,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 569,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 632,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 917,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1077,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1098,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1444,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D050197",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atherosclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 15
+        },
+        {
+          "text": "atherogenesis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 314,
+          "length": 13
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 394,
+          "length": 15
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 527,
+          "length": 15
+        },
+        {
+          "text": "atherogenic",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 795,
+          "length": 11
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 862,
+          "length": 15
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1137,
+          "length": 15
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1477,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D050171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyslipidemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 12
+        },
+        {
+          "text": "dyslipidemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 807,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 115,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 338,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 383,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 615,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 934,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 957,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1255,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1503,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000728",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Androgens",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 121,
+          "length": 9
+        },
+        {
+          "text": "androgens",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 301,
+          "length": 9
+        },
+        {
+          "text": "androgens",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1050,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "11816",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "apolipoprotein E",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 416,
+          "length": 16
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 434,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 600,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "100035834",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "triglyceride",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 732,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "16334",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 761,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 827,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1211,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 896,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1280,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1386,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1580,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013196",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dihydrotestosterone",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1109,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatoma",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1302,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013196",
+      "tail_id": "D008055",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013196",
+      "tail_id": "D002784",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013196",
+      "tail_id": "D050197",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D050197",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D050197",
+      "tail_id": "D002784",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D050171",
+      "tail_id": "D002784",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D050171",
+      "tail_id": "11835",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "100035834",
+      "tail_id": "11835",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "11835",
+      "tail_id": "D013196",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "11835",
+      "tail_id": "D000728",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "11835",
+      "tail_id": "D050197",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "11835",
+      "tail_id": "16334",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "11835",
+      "tail_id": "D009765",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "doc_id": "18987260",
+  "title": "Reduced progression of adriamycin nephropathy in spontaneously hypertensive rats treated by losartan.",
+  "body": "BACKGROUND: The aim of the study was to investigate the antihypertensive effects of angiotensin II type-1 receptor blocker, losartan, and its potential in slowing down renal disease progression in spontaneously hypertensive rats (SHR) with adriamycin (ADR) nephropathy. METHODS: Six-month-old female SHR were randomly selected in six groups. Two control groups (SH(6), SH(12)) received vehicle. Groups ADR(6), ADR+LOS(6) and ADR(12), and ADR+LOS(12) received ADR (2 mg/kg/b.w. i.v.) twice in a 3-week interval. Group ADR+LOS(6) received losartan (10 mg/kg/b.w./day by gavages) for 6 weeks and group ADR+LOS(12) for 12 weeks after second injection of ADR. Animals were killed after 6 or 12 weeks, respectively. Haemodynamic measurements were performed on anaesthetized animals, blood and urine samples were taken for biochemical analysis and the left kidney was processed for morphological studies. RESULTS: Short-term losartan treatment, besides antihypertensive effect, improved glomerular filtration rate and ameliorated glomerulosclerosis resulting in decreased proteinuria. Prolonged treatment with losartan showed further reduction of glomerulosclerosis associated with reduced progression of tubular atrophy and interstitial fibrosis, thus preventing heavy proteinuria and chronic renal failure. Losartan reduced uraemia and increased urea clearance in advanced ADR nephropathy in SHR. Histological examination showed that losartan could prevent tubular atrophy, interstitial infiltration and fibrosis in ADR nephropathy. CONCLUSION: Losartan reduces the rate of progression of ADR-induced focal segmental glomerulosclerosis to end-stage renal disease in SHR.",
+  "entities": [
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "adriamycin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 10
+        },
+        {
+          "text": "adriamycin",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 342,
+          "length": 10
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 354,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 504,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 512,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 527,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 540,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 561,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 619,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 701,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 752,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1470,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1613,
+          "length": 3
+        },
+        {
+          "text": "ADR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1686,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 11
+        },
+        {
+          "text": "renal disease",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 270,
+          "length": 13
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 359,
+          "length": 11
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1474,
+          "length": 11
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1617,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 313,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 326,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019808",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "losartan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 8
+        },
+        {
+          "text": "losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 226,
+          "length": 8
+        },
+        {
+          "text": "LOS",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 516,
+          "length": 3
+        },
+        {
+          "text": "LOS",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 544,
+          "length": 3
+        },
+        {
+          "text": "LOS",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 623,
+          "length": 3
+        },
+        {
+          "text": "losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 639,
+          "length": 8
+        },
+        {
+          "text": "LOS",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 705,
+          "length": 3
+        },
+        {
+          "text": "losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1020,
+          "length": 8
+        },
+        {
+          "text": "losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1205,
+          "length": 8
+        },
+        {
+          "text": "Losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1404,
+          "length": 8
+        },
+        {
+          "text": "losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1531,
+          "length": 8
+        },
+        {
+          "text": "Losartan",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1642,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24180",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin II type-1 receptor",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 186,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D005921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1125,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1242,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1167,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1365,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001284",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1308,
+          "length": 7
+        },
+        {
+          "text": "atrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1562,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "interstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1320,
+          "length": 21
+        },
+        {
+          "text": "fibrosis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1601,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007676",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic renal failure",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1381,
+          "length": 21
+        },
+        {
+          "text": "end-stage renal disease",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1736,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D014511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "uraemia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1421,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D014508",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "urea",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1443,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005923",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "focal segmental glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1698,
+          "length": 34
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014508",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019808",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019808",
+      "tail_id": "24180",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019808",
+      "tail_id": "D005923",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019808",
+      "tail_id": "D014511",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019808",
+      "tail_id": "D007676",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019808",
+      "tail_id": "D005355",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D019808",
+      "tail_id": "D001284",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D019808",
+      "tail_id": "D011507",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D019808",
+      "tail_id": "D005921",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D019808",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D019808",
+      "tail_id": "D004317",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D004317",
+      "tail_id": "D005923",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D004317",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

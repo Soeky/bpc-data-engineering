@@ -1,0 +1,308 @@
+{
+  "doc_id": "20558148",
+  "title": "Glutamatergic neurotransmission mediated by NMDA receptors in the inferior colliculus can modulate haloperidol-induced catalepsy.",
+  "body": "The inferior colliculus (IC) is primarily involved in the processing of auditory information, but it is distinguished from other auditory nuclei in the brainstem by its connections with structures of the motor system. Functional evidence relating the IC to motor behavior derives from experiments showing that activation of the IC by electrical stimulation or excitatory amino acid microinjection causes freezing, escape-like behavior, and immobility. However, the nature of this immobility is still unclear. The present study examined the influence of excitatory amino acid-mediated mechanisms in the IC on the catalepsy induced by the dopamine receptor blocker haloperidol administered systemically (1 or 0.5 mg/kg) in rats. Haloperidol-induced catalepsy was challenged with prior intracollicular microinjections of glutamate NMDA receptor antagonists, MK-801 (15 or 30 mmol/0.5 microl) and AP7 (10 or 20 nmol/0.5 microl), or of the NMDA receptor agonist N-methyl-d-aspartate (NMDA, 20 or 30 nmol/0.5 microl). The results showed that intracollicular microinjection of MK-801 and AP7 previous to systemic injections of haloperidol significantly attenuated the catalepsy, as indicated by a reduced latency to step down from a horizontal bar. Accordingly, intracollicular microinjection of NMDA increased the latency to step down the bar. These findings suggest that glutamate-mediated mechanisms in the neural circuits at the IC level influence haloperidol-induced catalepsy and participate in the regulation of motor activity.",
+  "entities": [
+    {
+      "id": "24408",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NMDA receptors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 14
+        },
+        {
+          "text": "glutamate NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 948,
+          "length": 23
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1065,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 793,
+          "length": 11
+        },
+        {
+          "text": "Haloperidol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 857,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1250,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1575,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D002375",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "catalepsy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 742,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 877,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1291,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1595,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24316",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dopamine receptor",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 767,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 851,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D016291",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 985,
+          "length": 6
+        },
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1200,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C031231",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "AP7",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1023,
+          "length": 3
+        },
+        {
+          "text": "AP7",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1211,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016202",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "N-methyl-d-aspartate",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1087,
+          "length": 20
+        },
+        {
+          "text": "NMDA",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1109,
+          "length": 4
+        },
+        {
+          "text": "NMDA",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1419,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1496,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24316",
+      "tail_id": "D006220",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018698",
+      "tail_id": "D002375",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018698",
+      "tail_id": "D006220",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C031231",
+      "tail_id": "D002375",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C031231",
+      "tail_id": "D006220",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016291",
+      "tail_id": "D002375",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D016291",
+      "tail_id": "D006220",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "24408",
+      "tail_id": "D016202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "24408",
+      "tail_id": "C031231",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "24408",
+      "tail_id": "D016291",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "24408",
+      "tail_id": "D002375",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D006220",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

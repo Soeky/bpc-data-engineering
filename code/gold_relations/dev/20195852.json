@@ -1,0 +1,480 @@
+{
+  "doc_id": "20195852",
+  "title": "Risk of nephropathy after consumption of nonionic contrast media by children undergoing cardiac angiography: a prospective study.",
+  "body": "Despite increasing reports on nonionic contrast media-induced nephropathy (CIN) in hospitalized adult patients during cardiac procedures, the studies in pediatrics are limited, with even less focus on possible predisposing factors and preventive measures for patients undergoing cardiac angiography. This prospective study determined the incidence of CIN for two nonionic contrast media (CM), iopromide and iohexol, among 80 patients younger than 18 years and compared the rates for this complication in relation to the type and dosage of CM and the presence of cyanosis. The 80 patients in the study consecutively received either iopromide (group A, n = 40) or iohexol (group B, n = 40). Serum sodium (Na), potassium (K), and creatinine (Cr) were measured 24 h before angiography as baseline values, then measured again at 12-, 24-, and 48-h intervals after CM use. Urine samples for Na and Cr also were checked at the same intervals. Risk of renal failure, Injury to the kidney, Failure of kidney function, Loss of kidney function, and End-stage renal damage (RIFLE criteria) were used to define CIN and its incidence in the study population. Accordingly, among the 15 CIN patients (18.75%), 7.5% of the patients in group A had increased risk and 3.75% had renal injury, whereas 5% of group B had increased risk and 2.5% had renal injury. Whereas 33.3% of the patients with CIN were among those who received the proper dosage of CM, the percentage increased to 66.6% among those who received larger doses, with a significant difference in the incidence of CIN related to the different dosages of CM (p = 0.014). Among the 15 patients with CIN, 6 had cyanotic congenital heart diseases, but the incidence did not differ significantly from that for the noncyanotic patients (p = 0.243). Although clinically silent, CIN is not rare in pediatrics. The incidence depends on dosage but not on the type of consumed nonionic CM, nor on the presence of cyanosis, and although CIN usually is reversible, more concern is needed for the prevention of such a complication in children.",
+  "entities": [
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 11
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 192,
+          "length": 11
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 205,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 481,
+          "length": 3
+        },
+        {
+          "text": "renal damage",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1178,
+          "length": 12
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1228,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1301,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1506,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1688,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1771,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1945,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2099,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003287",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "contrast media",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 14
+        },
+        {
+          "text": "contrast media",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 169,
+          "length": 14
+        },
+        {
+          "text": "contrast media",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 502,
+          "length": 14
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 518,
+          "length": 2
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 669,
+          "length": 2
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 989,
+          "length": 2
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1561,
+          "length": 2
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1728,
+          "length": 2
+        },
+        {
+          "text": "CM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2049,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 232,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 389,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 555,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 709,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1305,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1336,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1492,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1757,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1895,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C038192",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iopromide",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 523,
+          "length": 9
+        },
+        {
+          "text": "iopromide",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 761,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iohexol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 537,
+          "length": 7
+        },
+        {
+          "text": "iohexol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 792,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003490",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cyanosis",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 692,
+          "length": 8
+        },
+        {
+          "text": "cyanosis",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2076,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 825,
+          "length": 6
+        },
+        {
+          "text": "Na",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 833,
+          "length": 2
+        },
+        {
+          "text": "Na",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1015,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 838,
+          "length": 9
+        },
+        {
+          "text": "K",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 849,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 857,
+          "length": 10
+        },
+        {
+          "text": "Cr",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 869,
+          "length": 2
+        },
+        {
+          "text": "Cr",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1022,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D051437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal failure",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1074,
+          "length": 13
+        },
+        {
+          "text": "Failure of kidney function",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1111,
+          "length": 26
+        },
+        {
+          "text": "Loss of kidney function",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1139,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Injury to the kidney",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1089,
+          "length": 20
+        },
+        {
+          "text": "renal injury",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1389,
+          "length": 12
+        },
+        {
+          "text": "renal injury",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1457,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital heart diseases",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1791,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C038192",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003287",
+      "tail_id": "D003490",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003287",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007472",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007674",
+      "tail_id": "C038192",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007674",
+      "tail_id": "D007472",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

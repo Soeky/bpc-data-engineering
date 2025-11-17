@@ -1,0 +1,546 @@
+{
+  "doc_id": "15075188",
+  "title": "Increased expression and apical targeting of renal ENaC subunits in puromycin aminonucleoside-induced nephrotic syndrome in rats.",
+  "body": "Nephrotic syndrome is often accompanied by sodium retention and generalized edema. However, the molecular basis for the decreased renal sodium excretion remains undefined. We hypothesized that epithelial Na channel (ENaC) subunit dysregulation may be responsible for the increased sodium retention. An experimental group of rats was treated with puromycin aminonucleoside (PAN; 180 mg/kg iv), whereas the control group received only vehicle. After 7 days, PAN treatment induced significant proteinuria, hypoalbuminemia, decreased urinary sodium excretion, and extensive ascites. The protein abundance of alpha-ENaC and beta-ENaC was increased in the inner stripe of the outer medulla (ISOM) and in the inner medulla (IM) but was not altered in the cortex. gamma-ENaC abundance was increased in the cortex, ISOM, and IM. Immunoperoxidase brightfield- and laser-scanning confocal fluorescence microscopy demonstrated increased targeting of alpha-ENaC, beta-ENaC, and gamma-ENaC subunits to the apical plasma membrane in the distal convoluted tubule (DCT2), connecting tubule, and cortical and medullary collecting duct segments. Immunoelectron microscopy further revealed an increased labeling of alpha-ENaC in the apical plasma membrane of cortical collecting duct principal cells of PAN-treated rats, indicating enhanced apical targeting of alpha-ENaC subunits. In contrast, the protein abundances of Na(+)/H(+) exchanger type 3 (NHE3), Na(+)-K(+)-2Cl(-) cotransporter (BSC-1), and thiazide-sensitive Na(+)-Cl(-) cotransporter (TSC) were decreased. Moreover, the abundance of the alpha(1)-subunit of the Na-K-ATPase was decreased in the cortex and ISOM, but it remained unchanged in the IM. In conclusion, the increased or sustained expression of ENaC subunits combined with increased apical targeting in the DCT2, connecting tubule, and collecting duct are likely to play a role in the sodium retention associated with PAN-induced nephrotic syndrome. The decreased abundance of NHE3, BSC-1, TSC, and Na-K-ATPase may play a compensatory role to promote sodium excretion.",
+  "entities": [
+    {
+      "id": "24767,24768,25122",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ENaC subunits",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 13
+        },
+        {
+          "text": "epithelial Na channel (ENaC) subunit",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 323,
+          "length": 36
+        },
+        {
+          "text": "ENaC subunits",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1877,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D011692",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "puromycin aminonucleoside",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 25
+        },
+        {
+          "text": "puromycin aminonucleoside",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 476,
+          "length": 25
+        },
+        {
+          "text": "PAN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 503,
+          "length": 3
+        },
+        {
+          "text": "PAN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 586,
+          "length": 3
+        },
+        {
+          "text": "PAN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1413,
+          "length": 3
+        },
+        {
+          "text": "PAN",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2050,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 18
+        },
+        {
+          "text": "Nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 130,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2062,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 124,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 454,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1425,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 173,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 266,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 411,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 668,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2017,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2183,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 206,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 620,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D034141",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoalbuminemia",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 633,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D001201",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ascites",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 700,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25122",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 734,
+          "length": 10
+        },
+        {
+          "text": "alpha-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1068,
+          "length": 10
+        },
+        {
+          "text": "alpha-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1325,
+          "length": 10
+        },
+        {
+          "text": "alpha-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1471,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24767",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 749,
+          "length": 9
+        },
+        {
+          "text": "beta-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1080,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24768",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gamma-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 886,
+          "length": 10
+        },
+        {
+          "text": "gamma-ENaC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1095,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24784",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Na(+)/H(+) exchanger type 3",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1531,
+          "length": 27
+        },
+        {
+          "text": "NHE3",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1560,
+          "length": 4
+        },
+        {
+          "text": "NHE3",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2109,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25065",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Na(+)-K(+)-2Cl(-) cotransporter",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1567,
+          "length": 31
+        },
+        {
+          "text": "BSC-1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1600,
+          "length": 5
+        },
+        {
+          "text": "BSC-1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2115,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "54300",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thiazide-sensitive Na(+)-Cl(-) cotransporter",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1612,
+          "length": 44
+        },
+        {
+          "text": "TSC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1658,
+          "length": 3
+        },
+        {
+          "text": "TSC",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2122,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24211",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha(1)-subunit of the Na-K-ATPase",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1710,
+          "length": 35
+        },
+        {
+          "text": "Na-K-ATPase",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 2131,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24211",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "54300",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "25065",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "24784",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "24768",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "24767",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "25122",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D012964",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D011692",
+      "tail_id": "54300",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D011692",
+      "tail_id": "25065",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D011692",
+      "tail_id": "24784",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D011692",
+      "tail_id": "24768",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D011692",
+      "tail_id": "24767",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D011692",
+      "tail_id": "25122",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D011692",
+      "tail_id": "D001201",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D011692",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D011692",
+      "tail_id": "D034141",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D011692",
+      "tail_id": "D011507",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D011692",
+      "tail_id": "D009404",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

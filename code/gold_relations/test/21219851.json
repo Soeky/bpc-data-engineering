@@ -1,0 +1,287 @@
+{
+  "doc_id": "21219851",
+  "title": "A novel mutation screening system for Ehlers-Danlos Syndrome, vascular type by high-resolution melting curve analysis in combination with small amplicon genotyping using genomic DNA.",
+  "body": "Ehlers-Danlos syndrome, vascular type (vEDS) (MIM #130050) is an autosomal dominant disorder caused by type III procollagen gene (COL3A1) mutations. Most COL3A1 mutations are detected by using total RNA from patient-derived fibroblasts, which requires an invasive skin biopsy. High-resolution melting curve analysis (hrMCA) has recently been developed as a post-PCR mutation scanning method which enables simple, rapid, cost-effective, and highly sensitive mutation screening of large genes. We established a hrMCA method to screen for COL3A1 mutations using genomic DNA. PCR primers pairs for COL3A1 (52 amplicons) were designed to cover all coding regions of the 52 exons, including the splicing sites. We used 15 DNA samples (8 validation samples and 7 samples of clinically suspected vEDS patients) in this study. The eight known COL3A1 mutations in validation samples were all successfully detected by the hrMCA. In addition, we identified five novel COL3A1 mutations, including one deletion (c.2187delA) and one nonsense mutation (c.2992C>T) that could not be determined by the conventional total RNA method. Furthermore, we established a small amplicon genotyping (SAG) method for detecting three high frequency coding-region SNPs (rs1800255:G>A, rs1801184:T>C, and rs2271683:A>G) in COL3A1 to differentiate mutations before sequencing. The use of hrMCA in combination with SAG from genomic DNA enables rapid detection of COL3A1 mutations with high efficiency and specificity. A better understanding of the genotype-phenotype correlation in COL3A1 using this method will lead to improve in diagnosis and treatment.",
+  "entities": [
+    {
+      "id": "D004535",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Ehlers-Danlos Syndrome, vascular type",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 37
+        },
+        {
+          "text": "Ehlers-Danlos syndrome, vascular type",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 183,
+          "length": 37
+        },
+        {
+          "text": "vEDS",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 222,
+          "length": 4
+        },
+        {
+          "text": "MIM #130050",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 229,
+          "length": 11
+        },
+        {
+          "text": "vEDS",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 971,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant disorder",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 248,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "1281",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type III procollagen",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 286,
+          "length": 20
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 313,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 337,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 719,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 777,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1017,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1139,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1474,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1612,
+          "length": 6
+        },
+        {
+          "text": "COL3A1",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1731,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 391,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 976,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|2187|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2187delA",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1181,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|2992|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2992C>T",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1220,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1800255",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1800255",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1422,
+          "length": 9
+        },
+        {
+          "text": "G>A",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1432,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs1801184",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1801184",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1437,
+          "length": 9
+        },
+        {
+          "text": "T>C",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1447,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs2271683",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2271683",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1456,
+          "length": 9
+        },
+        {
+          "text": "A>G",
+          "passage_index": 1,
+          "passage_offset": 183,
+          "char_offset": 1466,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004535",
+      "tail_id": "1281",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004535",
+      "tail_id": "rs2271683",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004535",
+      "tail_id": "rs1801184",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004535",
+      "tail_id": "rs1800255",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004535",
+      "tail_id": "c|SUB|C|2992|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004535",
+      "tail_id": "c|DEL|2187|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

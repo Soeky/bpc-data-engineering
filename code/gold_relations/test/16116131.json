@@ -1,0 +1,116 @@
+{
+  "doc_id": "16116131",
+  "title": "rTMS of supplementary motor area modulates therapy-induced dyskinesias in Parkinson disease.",
+  "body": "The neural mechanisms and circuitry involved in levodopa-induced dyskinesia are unclear. Using repetitive transcranial magnetic stimulation (rTMS) over the supplementary motor area (SMA) in a group of patients with advanced Parkinson disease, the authors investigated whether modulation of SMA excitability may result in a modification of a dyskinetic state induced by continuous apomorphine infusion. rTMS at 1 Hz was observed to markedly reduce drug-induced dyskinesias, whereas 5-Hz rTMS induced a slight but not significant increase.",
+  "entities": [
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyskinesias",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 11
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 158,
+          "length": 10
+        },
+        {
+          "text": "dyskinetic",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 434,
+          "length": 10
+        },
+        {
+          "text": "drug-induced dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 540,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 17
+        },
+        {
+          "text": "Parkinson disease",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 317,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 141,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 294,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 473,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001058",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007980",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

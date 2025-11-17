@@ -1,0 +1,634 @@
+{
+  "doc_id": "20705401",
+  "title": "Serotonin 6 receptor gene is associated with methamphetamine-induced psychosis in a Japanese population.",
+  "body": "BACKGROUND: Altered serotonergic neural transmission is hypothesized to be a susceptibility factor for psychotic disorders such as schizophrenia. The serotonin 6 (5-HT6) receptor is therapeutically targeted by several second generation antipsychotics, such as clozapine and olanzapine, and d-amphetamine-induced hyperactivity in rats is corrected with the use of a selective 5-HT6 receptor antagonist. In addition, the disrupted prepulse inhibition induced by d-amphetamine or phencyclidine was restored by 5-HT6 receptor antagonist in an animal study using rats. These animal models were considered to reflect the positive symptoms of schizophrenia, and the above evidence suggests that altered 5-HT6 receptors are involved in the pathophysiology of psychotic disorders. The symptoms of methamphetamine (METH)-induced psychosis are similar to those of paranoid type schizophrenia. Therefore, we conducted an analysis of the association of the 5-HT6 gene (HTR6) with METH-induced psychosis. METHOD: Using five tagging SNPs (rs6693503, rs1805054, rs4912138, rs3790757 and rs9659997), we conducted a genetic association analysis of case-control samples (197 METH-induced psychosis patients and 337 controls) in the Japanese population. The age and sex of the control subjects did not differ from those of the methamphetamine dependence patients. RESULTS: rs6693503 was associated with METH-induced psychosis patients in the allele/genotype-wise analysis. Moreover, this association remained significant after Bonferroni correction. In the haplotype-wise analysis, we detected an association between two markers (rs6693503 and rs1805054) and three markers (rs6693503, rs1805054 and rs4912138) in HTR6 and METH-induced psychosis patients, respectively. CONCLUSION: HTR6 may play an important role in the pathophysiology of METH-induced psychosis in the Japanese population.",
+  "entities": [
+    {
+      "id": "3362",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Serotonin 6 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 20
+        },
+        {
+          "text": "serotonin 6 (5-HT6) receptor",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 255,
+          "length": 28
+        },
+        {
+          "text": "5-HT6 receptors",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 801,
+          "length": 15
+        },
+        {
+          "text": "5-HT6",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1049,
+          "length": 5
+        },
+        {
+          "text": "HTR6",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1061,
+          "length": 4
+        },
+        {
+          "text": "HTR6",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1798,
+          "length": 4
+        },
+        {
+          "text": "HTR6",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1866,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008694",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 893,
+          "length": 15
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 910,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1072,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1261,
+          "length": 4
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1412,
+          "length": 15
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1488,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1807,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1924,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011605",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 9
+        },
+        {
+          "text": "psychotic disorders",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 208,
+          "length": 19
+        },
+        {
+          "text": "psychotic disorders",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 856,
+          "length": 19
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 924,
+          "length": 9
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1085,
+          "length": 9
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1274,
+          "length": 9
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1501,
+          "length": 9
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1820,
+          "length": 9
+        },
+        {
+          "text": "psychosis",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1937,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 236,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 741,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D014150",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antipsychotics",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 341,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D003024",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 365,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000077152",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 379,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003913",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "d-amphetamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 395,
+          "length": 13
+        },
+        {
+          "text": "d-amphetamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 565,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 417,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 434,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 663,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012702",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-HT6 receptor antagonist",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 480,
+          "length": 25
+        },
+        {
+          "text": "5-HT6 receptor antagonist",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 612,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D010622",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phencyclidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 582,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D012563",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "paranoid type schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 958,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "rs6693503",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs6693503",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1129,
+          "length": 9
+        },
+        {
+          "text": "rs6693503",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1458,
+          "length": 9
+        },
+        {
+          "text": "rs6693503",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1715,
+          "length": 9
+        },
+        {
+          "text": "rs6693503",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1759,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1805054",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1805054",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1140,
+          "length": 9
+        },
+        {
+          "text": "rs1805054",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1729,
+          "length": 9
+        },
+        {
+          "text": "rs1805054",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1770,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs4912138",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs4912138",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1151,
+          "length": 9
+        },
+        {
+          "text": "rs4912138",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1784,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs3790757",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs3790757",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1162,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs9659997",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs9659997",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1176,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1284,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1439,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1511,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1830,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs4912138",
+      "tail_id": "D011605",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs4912138",
+      "tail_id": "D008694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs1805054",
+      "tail_id": "D011605",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1805054",
+      "tail_id": "D008694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs6693503",
+      "tail_id": "D011605",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs6693503",
+      "tail_id": "D008694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D010622",
+      "tail_id": "D012702",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D012702",
+      "tail_id": "D012559",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003913",
+      "tail_id": "D012702",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003913",
+      "tail_id": "D006948",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "3362",
+      "tail_id": "D000077152",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "3362",
+      "tail_id": "D003024",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "3362",
+      "tail_id": "D014150",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "3362",
+      "tail_id": "D006948",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "3362",
+      "tail_id": "D011605",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "3362",
+      "tail_id": "D008694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D011605",
+      "tail_id": "D000077152",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D011605",
+      "tail_id": "D003024",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D008694",
+      "tail_id": "D011605",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

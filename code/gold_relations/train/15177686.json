@@ -1,0 +1,153 @@
+{
+  "doc_id": "15177686",
+  "title": "Altered replication timing of the HIRA/Tuple1 locus in the DiGeorge and Velocardiofacial syndromes.",
+  "body": "DiGeorge and Velocardiofacial syndromes (DGS/VCFS) are endowed by a similar complex phenotype including cardiovascular, craniofacial, and thymic malformations, and are associated with heterozygous deletions of 22q11 chromosomal band. The Typically Deleted Region in the 22q11.21 subband (here called TDR22) is very gene-dense, and the extent of the deletion has been defined precisely in several studies. However, to date there is no evidence for a mechanism of haploinsufficiency that can fully explain the DGS/VCFS phenotype. In this study, we show that the candidate gene HIRA/Tuple1 mapping on the non-deleted TDR22, in DGS/VCFS subjects presents a delayed replication timing. Moreover, we observed an increase in the cell ratio showing the HIRA/Tuple1 locus localised toward the nuclear periphery. It is known that replication timing and nuclear location are generally correlated to the transcription activity of the relative DNA region. We propose that the alteration in the replication/nuclear location pattern of the non-deleted TDR22 indicates an altered gene regulation hence an altered transcritpion in DGS/VCFS.",
+  "entities": [
+    {
+      "id": "7290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HIRA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 4
+        },
+        {
+          "text": "Tuple1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 6
+        },
+        {
+          "text": "HIRA",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 675,
+          "length": 4
+        },
+        {
+          "text": "Tuple1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 680,
+          "length": 6
+        },
+        {
+          "text": "HIRA",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 845,
+          "length": 4
+        },
+        {
+          "text": "Tuple1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 850,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004062",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "DiGeorge and Velocardiofacial syndromes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 39
+        },
+        {
+          "text": "DiGeorge and Velocardiofacial syndromes",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 100,
+          "length": 39
+        },
+        {
+          "text": "DGS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 141,
+          "length": 3
+        },
+        {
+          "text": "VCFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 145,
+          "length": 4
+        },
+        {
+          "text": "DGS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 608,
+          "length": 3
+        },
+        {
+          "text": "VCFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 612,
+          "length": 4
+        },
+        {
+          "text": "DGS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 724,
+          "length": 3
+        },
+        {
+          "text": "VCFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 728,
+          "length": 4
+        },
+        {
+          "text": "DGS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1214,
+          "length": 3
+        },
+        {
+          "text": "VCFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1218,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018376,D019465",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular, craniofacial, and thymic malformations",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 204,
+          "length": 54
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7290",
+      "tail_id": "D004062",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

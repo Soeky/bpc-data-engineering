@@ -1,0 +1,438 @@
+{
+  "doc_id": "19889778",
+  "title": "Differential impact of immune escape mutations G145R and P120T on the replication of lamivudine-resistant hepatitis B virus e antigen-positive and -negative strains.",
+  "body": "Immune escape variants of the hepatitis B virus (HBV) represent an emerging clinical challenge, because they can be associated with vaccine escape, HBV reactivation, and failure of diagnostic tests. Recent data suggest a preferential selection of immune escape mutants in distinct peripheral blood leukocyte compartments of infected individuals. We therefore systematically analyzed the functional impact of the most prevalent immune escape variants, the sG145R and sP120T mutants, on the viral replication efficacy and antiviral drug susceptibility of common treatment-associated mutants with resistance to lamivudine (LAM) and/or HBeAg negativity. Replication-competent HBV strains with sG145R or sP120T and LAM resistance (rtM204I or rtL180M/rtM204V) were generated on an HBeAg-positive and an HBeAg-negative background with precore (PC) and basal core promoter (BCP) mutants. The sG145R mutation strongly reduced HBsAg levels and was able to fully restore the impaired replication of LAM-resistant HBV mutants to the levels of wild-type HBV, and PC or BCP mutations further enhanced viral replication. Although the sP120T substitution also impaired HBsAg secretion, it did not enhance the replication of LAM-resistant clones. However, the concomitant occurrence of HBeAg negativity (PC/BCP), sP120T, and LAM resistance resulted in the restoration of replication to levels of wild-type HBV. In all clones with combined immune escape and LAM resistance mutations, the nucleotide analogues adefovir and tenofovir remained effective in suppressing viral replication in vitro. These findings reveal the differential impact of immune escape variants on the replication and drug susceptibility of complex HBV mutants, supporting the need of close surveillance and treatment adjustment in response to the selection of distinct mutational patterns.",
+  "entities": [
+    {
+      "id": "p|SUB|G|145|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G145R",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 5
+        },
+        {
+          "text": "G145R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 622,
+          "length": 5
+        },
+        {
+          "text": "G145R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 856,
+          "length": 5
+        },
+        {
+          "text": "G145R",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1051,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|P|120|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P120T",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 5
+        },
+        {
+          "text": "P120T",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 633,
+          "length": 5
+        },
+        {
+          "text": "P120T",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 866,
+          "length": 5
+        },
+        {
+          "text": "P120T",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1286,
+          "length": 5
+        },
+        {
+          "text": "P120T",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1463,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D019259",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lamivudine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 10
+        },
+        {
+          "text": "lamivudine",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 774,
+          "length": 10
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 786,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 876,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1154,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1374,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1474,
+          "length": 3
+        },
+        {
+          "text": "LAM",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1606,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006513",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hepatitis B virus e antigen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 27
+        },
+        {
+          "text": "HBeAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 798,
+          "length": 5
+        },
+        {
+          "text": "HBeAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 941,
+          "length": 5
+        },
+        {
+          "text": "HBeAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 963,
+          "length": 5
+        },
+        {
+          "text": "HBeAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1435,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10407",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "hepatitis B virus",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 196,
+          "length": 17
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 215,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 314,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 838,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1168,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1207,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1555,
+          "length": 3
+        },
+        {
+          "text": "HBV",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1868,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|M|204|I",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M204I",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 894,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|180|M",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L180M",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 905,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|M|204|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M204V",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 913,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "944568",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "precore",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 994,
+          "length": 7
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1003,
+          "length": 2
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1216,
+          "length": 2
+        },
+        {
+          "text": "PC",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1453,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D006514",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "HBsAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1083,
+          "length": 5
+        },
+        {
+          "text": "HBsAg",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1319,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C053001",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "adefovir",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1657,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000068698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tenofovir",
+          "passage_index": 1,
+          "passage_offset": 166,
+          "char_offset": 1670,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "944568",
+      "tail_id": "D006514",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "944568",
+      "tail_id": "D019259",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "944568",
+      "tail_id": "D006513",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|P|120|T",
+      "tail_id": "D006514",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|P|120|T",
+      "tail_id": "D006513",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019259",
+      "tail_id": "c|SUB|P|120|T",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019259",
+      "tail_id": "D006513",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "p|SUB|G|145|R",
+      "tail_id": "D006514",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "p|SUB|G|145|R",
+      "tail_id": "D019259",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D006513",
+      "tail_id": "p|SUB|G|145|R",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

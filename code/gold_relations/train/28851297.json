@@ -1,0 +1,535 @@
+{
+  "doc_id": "28851297",
+  "title": "An Ag-globin G->A gene polymorphism associated with b(0)39 thalassemia globin gene and high fetal hemoglobin production.",
+  "body": "BACKGROUND: Increase of the expression of g-globin gene and high production of fetal hemoglobin (HbF) in b-thalassemia patients is widely accepted as associated with a milder or even asymptomatic disease. The search for HbF-associated polymorphisms (such as the XmnI, BCL11A and MYB polymorphisms) has recently gained great attention, in order to stratify b-thalassemia patients with respect to expectancy of the first transfusion, need for annual intake of blood, response to HbF inducers (the most studied of which is hydroxyurea). METHODS: Ag-globin gene sequencing was performed on genomic DNA isolated from a total of 75 b-thalassemia patients, including 31 b(0)39/b(0)39, 33 b(0)39/b(+)IVSI-110, 9 b(+)IVSI-110/b(+)IVSI-110, one b(0)IVSI-1/b(+)IVSI-6 and one b(0)39/b(+)IVSI-6. RESULTS: The results show that the rs368698783 polymorphism is present in b-thalassemia patients in the 5'UTR sequence (+25) of the Ag-globin gene, known to affect the LYAR (human homologue of mouse Ly-1 antibody reactive clone) binding site 5'-GGTTAT-3'. This Ag(+25 G->A) polymorphism is associated with the Gg-globin-XmnI polymorphism and both are linked with the b(0)39-globin gene, but not with the b(+)IVSI-110-globin gene. In agreement with the expectation that this mutation alters the LYAR binding activity, we found that the Ag(+25 G->A) and Gg-globin-XmnI polymorphisms are associated with high HbF in erythroid precursor cells isolated from b(0)39/b(0)39 thalassemia patients. CONCLUSIONS: As a potential explanation of our findings, we hypothesize that in b-thalassemia the Gg-globin-XmnI/Ag-globin-(G->A) genotype is frequently under genetic linkage with b(0)-thalassemia mutations, but not with the b(+)-thalassemia mutation here studied (i.e. b(+)IVSI-110) and that this genetic combination has been selected within the population of b(0)-thalassemia patients, due to functional association with high HbF. Here we describe the characterization of the rs368698783 (+25 G->A) polymorphism of the Ag-globin gene associated in b(0)39 thalassemia patients with high HbF in erythroid precursor cells.",
+  "entities": [
+    {
+      "id": "3047",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ag-globin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 3,
+          "length": 9
+        },
+        {
+          "text": "Ag-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 664,
+          "length": 9
+        },
+        {
+          "text": "Ag-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1037,
+          "length": 9
+        },
+        {
+          "text": "Ag",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1166,
+          "length": 2
+        },
+        {
+          "text": "Ag",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1440,
+          "length": 2
+        },
+        {
+          "text": "Ag-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1707,
+          "length": 9
+        },
+        {
+          "text": "Ag-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2115,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs368698783",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G->A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 4
+        },
+        {
+          "text": "rs368698783",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 940,
+          "length": 11
+        },
+        {
+          "text": "+25 G->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1169,
+          "length": 8
+        },
+        {
+          "text": "+25 G->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1443,
+          "length": 8
+        },
+        {
+          "text": "G->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1718,
+          "length": 4
+        },
+        {
+          "text": "rs368698783",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2072,
+          "length": 11
+        },
+        {
+          "text": "+25 G->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2085,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3043",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "b(0)39 thalassemia globin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 25
+        },
+        {
+          "text": "b(0)39-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1272,
+          "length": 13
+        },
+        {
+          "text": "b(+)IVSI-110-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1309,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "3040,3048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fetal hemoglobin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 16
+        },
+        {
+          "text": "fetal hemoglobin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 200,
+          "length": 16
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 218,
+          "length": 3
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 341,
+          "length": 3
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 598,
+          "length": 3
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1511,
+          "length": 3
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2022,
+          "length": 3
+        },
+        {
+          "text": "HbF",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2182,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3047,3048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "g-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 163,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D017086",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "b-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 226,
+          "length": 13
+        },
+        {
+          "text": "b-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 477,
+          "length": 13
+        },
+        {
+          "text": "b-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 747,
+          "length": 13
+        },
+        {
+          "text": "b-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 979,
+          "length": 13
+        },
+        {
+          "text": "b(0)39/b(0)39 thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1558,
+          "length": 25
+        },
+        {
+          "text": "b-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1674,
+          "length": 13
+        },
+        {
+          "text": "b(0)-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1774,
+          "length": 16
+        },
+        {
+          "text": "b(+)-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1819,
+          "length": 16
+        },
+        {
+          "text": "b(0)-thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1955,
+          "length": 16
+        },
+        {
+          "text": "b(0)39 thalassemia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2144,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 240,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 491,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 761,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 993,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1079,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1584,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1972,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 2163,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "53335",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL11A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 389,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4602",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MYB",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 400,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "55646",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LYAR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1073,
+          "length": 4
+        },
+        {
+          "text": "LYAR",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1399,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1098,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17089",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ly-1 antibody reactive clone",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1104,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "3048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Gg-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1215,
+          "length": 9
+        },
+        {
+          "text": "Gg-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1457,
+          "length": 9
+        },
+        {
+          "text": "Gg-globin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1692,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R3",
+      "head_id": "3048",
+      "tail_id": "4602",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "3048",
+      "tail_id": "53335",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "3048",
+      "tail_id": "3043",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "3048",
+      "tail_id": "3048",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3048",
+      "tail_id": "D017086",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3047",
+      "tail_id": "3043",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "3047",
+      "tail_id": "3048",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "3047",
+      "tail_id": "17089",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "3047",
+      "tail_id": "55646",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "3047",
+      "tail_id": "D017086",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "rs368698783",
+      "tail_id": "D017086",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

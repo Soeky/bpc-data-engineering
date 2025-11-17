@@ -1,0 +1,538 @@
+{
+  "doc_id": "19759529",
+  "title": "The glycine transporter-1 inhibitor SSR103800 displays a selective and specific antipsychotic-like profile in normal and transgenic mice.",
+  "body": "Schizophrenia has been initially associated with dysfunction in dopamine neurotransmission. However, the observation that antagonists of the glutamate N-methyl-D-aspartate (NMDA) receptor produce schizophrenic-like symptoms in humans has led to the idea of a dysfunctioning of the glutamatergic system via its NMDA receptor. As a result, there is a growing interest in the development of pharmacological agents with potential antipsychotic properties that enhance the activity of the glutamatergic system via a modulation of the NMDA receptor. Among them are glycine transporter-1 (GlyT1) inhibitors such as SSR103800, which indirectly enhance NMDA receptor function by increasing the glycine (a co-agonist for the NMDA receptor) levels in the synapse. This study aimed at investigating the potential antipsychotic-like properties of SSR103800, with a particular focus on models of hyperactivity, involving either drug challenge (ie, amphetamine and MK-801) or transgenic mice (ie, NMDA Nr1(neo-/-) and DAT(-/-)). Results showed that SSR103800 (10-30 mg/kg p.o.) blocked hyperactivity induced by the non-competitive NMDA receptor antagonist, MK-801 and partially reversed spontaneous hyperactivity of NMDA Nr1(neo-/-) mice. In contrast, SSR103800 failed to affect hyperactivity induced by amphetamine or naturally observed in dopamine transporter (DAT(-/-)) knockout mice (10-30 mg/kg p.o.). Importantly, both classical (haloperidol) and atypical (olanzapine, clozapine and aripiprazole) antipsychotics were effective in all these models of hyperactivity. However, unlike these latter, SSR103800 did not produce catalepsy (retention on the bar test) up to 30 mg/kg p.o. Together these findings show that the GlyT1 inhibitor, SSR103800, produces antipsychotic-like effects, which differ from those observed with compounds primarily targeting the dopaminergic system, and has a reduced side-effect potential as compared with these latter drugs.",
+  "entities": [
+    {
+      "id": "14664",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycine transporter-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 21
+        },
+        {
+          "text": "glycine transporter-1",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 697,
+          "length": 21
+        },
+        {
+          "text": "GlyT1",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 720,
+          "length": 5
+        },
+        {
+          "text": "GlyT1",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1846,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "SSR103800",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 746,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 972,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1172,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1375,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1724,
+          "length": 9
+        },
+        {
+          "text": "SSR103800",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1863,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 132,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1110,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1356,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1505,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 138,
+          "length": 13
+        },
+        {
+          "text": "schizophrenic",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 334,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 202,
+          "length": 8
+        },
+        {
+          "text": "dopaminergic",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1983,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "14810",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutamate N-methyl-D-aspartate (NMDA) receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 279,
+          "length": 46
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 448,
+          "length": 13
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 667,
+          "length": 13
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 782,
+          "length": 13
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 853,
+          "length": 13
+        },
+        {
+          "text": "NMDA Nr1",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1120,
+          "length": 8
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1254,
+          "length": 13
+        },
+        {
+          "text": "NMDA Nr1",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1339,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 365,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005998",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 823,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1020,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1209,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1322,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1402,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1679,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D000661",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1072,
+          "length": 11
+        },
+        {
+          "text": "amphetamine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1427,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D016291",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1088,
+          "length": 6
+        },
+        {
+          "text": "MK-801",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1280,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "13162",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DAT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1141,
+          "length": 3
+        },
+        {
+          "text": "dopamine transporter",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1464,
+          "length": 20
+        },
+        {
+          "text": "DAT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1486,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1559,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C076029",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1586,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003024",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1598,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C094645",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aripiprazole",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1612,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002375",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1750,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C094645",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C094645",
+      "tail_id": "D006948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003024",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003024",
+      "tail_id": "D006948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C076029",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C076029",
+      "tail_id": "D006948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D006220",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D006220",
+      "tail_id": "D006948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D012559",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D006948",
+      "tail_id": "D000661",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D006948",
+      "tail_id": "D016291",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D006948",
+      "tail_id": "14810",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "14810",
+      "tail_id": "D012559",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "14810",
+      "tail_id": "D016291",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D005998",
+      "tail_id": "14810",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

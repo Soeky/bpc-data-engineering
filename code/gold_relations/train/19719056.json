@@ -1,0 +1,284 @@
+{
+  "doc_id": "19719056",
+  "title": "Dextran-etodolac conjugates: synthesis, in vitro and in vivo evaluation.",
+  "body": "Etodolac (E), is a non-narcotic analgesic and antiinflammatory drug. A biodegradable polymer dextran has been utilized as a carrier for synthesis of etodolac-dextran conjugates (ED) to improve its aqueous solubility and reduce gastrointestinal side effects. An activated moiety, i.e. N-acylimidazole derivative of etodolac (EAI), was condensed with the polysaccharide polymer dextran of different molecular weights (40000, 60000, 110000 and 200000). IR spectral data confirmed formation of ester bonding in the conjugates. Etodolac contents were evaluated by UV-spectrophotometric analysis. The molecular weights were determined by measuring viscosity using the Mark-Howink-Sakurada equation. In vitro hydrolysis of ED was done in aqueous buffers (pH 1.2, 7.4, 9) and in 80% (v/v) human plasma (pH 7.4). At pH 9, a higher rate of etodolac release from ED was observed as compared to aqueous buffer of pH 7.4 and 80% human plasma (pH 7.4), following first-order kinetics. In vivo investigations were performed in animals. Acute analgesic and antiinflammatory activities were ascertained using acetic acid induced writhing model (mice) and carrageenan-induced rat paw edema model, respectively. In comparison to control, E and ED1-ED4 showed highly significant analgesic and antiinflammatory activities (p <0.001). Biological evaluation suggested that conjugates (ED1-ED4) retained comparable analgesic and antiinflammatory activities with remarkably reduced ulcerogenicity as compared to their parent drug--etodolac.",
+  "entities": [
+    {
+      "id": "D003911",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Dextran",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "dextran",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 166,
+          "length": 7
+        },
+        {
+          "text": "dextran",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 231,
+          "length": 7
+        },
+        {
+          "text": "dextran",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 449,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D017308",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etodolac",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 8
+        },
+        {
+          "text": "Etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 73,
+          "length": 8
+        },
+        {
+          "text": "E",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 83,
+          "length": 1
+        },
+        {
+          "text": "etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 222,
+          "length": 8
+        },
+        {
+          "text": "etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 387,
+          "length": 8
+        },
+        {
+          "text": "Etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 596,
+          "length": 8
+        },
+        {
+          "text": "etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 903,
+          "length": 8
+        },
+        {
+          "text": "E",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1292,
+          "length": 1
+        },
+        {
+          "text": "etodolac",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1579,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000893",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antiinflammatory drug",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 119,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D003911,D017308",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ED",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 251,
+          "length": 2
+        },
+        {
+          "text": "ED",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 789,
+          "length": 2
+        },
+        {
+          "text": "ED",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 925,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "N-acylimidazole",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 357,
+          "length": 15
+        },
+        {
+          "text": "EAI",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 397,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004952",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ester",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 563,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 854,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 989,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D019342",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetic acid",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1165,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1201,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002351",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carrageenan",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1211,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1231,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1239,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002351",
+      "tail_id": "D004487",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003911",
+      "tail_id": "D017308",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

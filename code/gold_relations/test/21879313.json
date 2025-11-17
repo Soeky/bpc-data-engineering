@@ -1,0 +1,563 @@
+{
+  "doc_id": "21879313",
+  "title": "Genotype rs8099917 near the IL28B gene and amino acid substitution at position 70 in the core region of the hepatitis C virus are determinants of serum apolipoprotein B-100 concentration in chronic hepatitis C.",
+  "body": "The life cycle of the hepatitis C virus (HCV) is closely related to host lipoprotein metabolism. Serum levels of lipid are associated with the response to pegylated interferon plus ribavirin (PEG-IFN/RBV) therapy, while single nucleotide polymorphisms (SNPs) around the human interleukin 28B (IL28B) gene locus and amino acid substitutions in the core region of the HCV have been reported to affect the efficacy of PEG-IFN/RBV therapy in chronic hepatitis with HCV genotype 1b infection. The aim of this study was to elucidate the relationship between serum lipid and factors that are able to predict the efficacy of PEG-IFN/RB therapy, with specific focus on apolipoprotein B-100 (apoB-100) in 148 subjects with chronic HCV G1b infection. Our results demonstrated that both the aa 70 substitution in the core region of the HCV and the rs8099917 SNP located proximal to the IL28B were independent factors in determining serum apoB-100 and low-density lipoprotein (LDL) cholesterol levels. A significant association was noted between higher levels of apoB-100 (P = 1.1 10(-3)) and LDL cholesterol (P = 0.02) and the subjects having Arg70. A significant association was also observed between subjects carrying the rs8099917 TT responder genotype and higher levels of apoB-100 (P = 6.4 10(-3)) and LDL cholesterol (P = 4.2 10(-3)). Our results suggest that apoB-100 and LDL cholesterol are markers of impaired cellular lipoprotein pathways and/or host endogenous interferon response to HCV in chronic HCV infection. In particular, serum apoB-100 concentration might be an informative marker for judging changes in HCV-associated intracellular lipoprotein metabolism in patients carrying the rs8099917 responder genotype.",
+  "entities": [
+    {
+      "id": "rs8099917",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs8099917",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 9
+        },
+        {
+          "text": "rs8099917",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1047,
+          "length": 9
+        },
+        {
+          "text": "rs8099917",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1423,
+          "length": 9
+        },
+        {
+          "text": "rs8099917",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1899,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "282617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL28B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 5
+        },
+        {
+          "text": "interleukin 28B",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 487,
+          "length": 15
+        },
+        {
+          "text": "IL28B",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 504,
+          "length": 5
+        },
+        {
+          "text": "IL28B",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1085,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11103",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "hepatitis C virus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 108,
+          "length": 17
+        },
+        {
+          "text": "hepatitis C virus",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 233,
+          "length": 17
+        },
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 252,
+          "length": 3
+        },
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 577,
+          "length": 3
+        },
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1035,
+          "length": 3
+        },
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1694,
+          "length": 3
+        },
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1822,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "338",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "apolipoprotein B-100",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 152,
+          "length": 20
+        },
+        {
+          "text": "apolipoprotein B-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 871,
+          "length": 20
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 893,
+          "length": 8
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1137,
+          "length": 8
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1261,
+          "length": 8
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1476,
+          "length": 8
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1565,
+          "length": 8
+        },
+        {
+          "text": "apoB-100",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1745,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D019698",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic hepatitis C",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 190,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 324,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 769,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3439",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pegylated interferon",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 366,
+          "length": 20
+        },
+        {
+          "text": "PEG-IFN",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 403,
+          "length": 7
+        },
+        {
+          "text": "PEG-IFN",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 626,
+          "length": 7
+        },
+        {
+          "text": "PEG-IFN",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 828,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012254",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ribavirin",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 392,
+          "length": 9
+        },
+        {
+          "text": "RBV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 411,
+          "length": 3
+        },
+        {
+          "text": "RBV",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 634,
+          "length": 3
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 836,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 481,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1877,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic hepatitis",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 649,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D006526",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HCV genotype 1b infection",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 672,
+          "length": 25
+        },
+        {
+          "text": "HCV G1b infection",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 932,
+          "length": 17
+        },
+        {
+          "text": "HCV infection",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1709,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D008078",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "low-density lipoprotein (LDL) cholesterol",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1150,
+          "length": 41
+        },
+        {
+          "text": "LDL cholesterol",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1291,
+          "length": 15
+        },
+        {
+          "text": "LDL cholesterol",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1506,
+          "length": 15
+        },
+        {
+          "text": "LDL cholesterol",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1578,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|R|70",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg70",
+          "passage_index": 1,
+          "passage_offset": 211,
+          "char_offset": 1342,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008055",
+      "tail_id": "D012254",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008055",
+      "tail_id": "3439",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006526",
+      "tail_id": "p|Allele|R|70",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006526",
+      "tail_id": "338",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006526",
+      "tail_id": "282617",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006526",
+      "tail_id": "rs8099917",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008078",
+      "tail_id": "p|Allele|R|70",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008078",
+      "tail_id": "D006526",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D012254",
+      "tail_id": "D006526",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D012254",
+      "tail_id": "D006521",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "3439",
+      "tail_id": "D006526",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "3439",
+      "tail_id": "D006521",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "3439",
+      "tail_id": "D012254",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "338",
+      "tail_id": "D008078",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "282617",
+      "tail_id": "D008078",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "282617",
+      "tail_id": "D006521",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "282617",
+      "tail_id": "D012254",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "282617",
+      "tail_id": "3439",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "282617",
+      "tail_id": "338",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "rs8099917",
+      "tail_id": "D008078",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D019698",
+      "tail_id": "338",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D019698",
+      "tail_id": "282617",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D019698",
+      "tail_id": "rs8099917",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

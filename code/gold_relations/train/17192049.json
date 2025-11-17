@@ -1,0 +1,172 @@
+{
+  "doc_id": "17192049",
+  "title": "Cytochrome p4501A1 gene variants as susceptibility marker for prostate cancer.",
+  "body": "CYP1A1 activates environmental procarcinogens and catalyzes oxidative metabolism of estrogens and is likely to play an important role in the etiology of prostate cancer. To evaluate this phenomenon, the association between two single nucleotide polymorphisms (A to G transition in exon7 leading to amino acid substitution Ile462Val and T3801C at 3'UTR) of CYP1A1 gene in prostate cancer were analyzed in a case-control study of 100 individuals in South Indian population. The estimated relative risk was significantly high for individuals with w1/m1 genotype at 3'UTR of CYP1A1 gene (OR-4.64; 95%CI = 1.51-14.86; P < 0.01) whereas the CYP1A1 Ile/Val genotype (w2/m2) on exon 7 was found to be associated with a decreased risk for prostate cancer (OR-0.17; 95%CI = 0.02-0.89; P=0.03). A Stratified analysis of the genotypes with age of onset and tumor grade showed the w1/m1 genotype to be significantly associated with an early age of onset; however the tumor grades did not have significant association with the variant genotypes. Thus the present study indicates that individuals with the variant w1/m1 genotype exhibit an increased risk while those with w2/m2 genotype exhibit a decreased risk for prostate cancer.",
+  "entities": [
+    {
+      "id": "1543",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cytochrome p4501A1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 18
+        },
+        {
+          "text": "CYP1A1",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 79,
+          "length": 6
+        },
+        {
+          "text": "CYP1A1",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 435,
+          "length": 6
+        },
+        {
+          "text": "CYP1A1",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 650,
+          "length": 6
+        },
+        {
+          "text": "CYP1A1",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 714,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 232,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 450,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 809,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1280,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs1048943",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A to G",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 339,
+          "length": 6
+        },
+        {
+          "text": "Ile462Val",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 401,
+          "length": 9
+        },
+        {
+          "text": "Ile/Val",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 721,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|T|3801|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T3801C",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 415,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 924,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1033,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1048943",
+      "tail_id": "D011471",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011471",
+      "tail_id": "g|SUB|T|3801|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011471",
+      "tail_id": "1543",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

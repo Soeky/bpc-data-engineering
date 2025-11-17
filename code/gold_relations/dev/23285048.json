@@ -1,0 +1,546 @@
+{
+  "doc_id": "23285048",
+  "title": "Context- and cell-dependent effects of Delta-like 4 targeting in the bone marrow microenvironment.",
+  "body": "Delta-like 4 (Dll4) is a ligand of the Notch pathway family which has been widely studied in the context of tumor angiogenesis, its blockade shown to result in non-productive angiogenesis and halted tumor growth. As Dll4 inhibitors enter the clinic, there is an emerging need to understand their side effects, namely the systemic consequences of Dll4:Notch blockade in tissues other than tumors. The present study focused on the effects of systemic anti-Dll4 targeting in the bone marrow (BM) microenvironment. Here we show that Dll4 blockade with monoclonal antibodies perturbs the BM vascular niche of sub-lethally irradiated mice, resulting in increased CD31(+), VE-Cadherin(+) and c-kit(+) vessel density, and also increased megakaryocytes, whereas CD105(+), VEGFR3(+), SMA(+) and lectin(+) vessel density remained unaltered. We investigated also the expression of angiocrine genes upon Dll4 treatment in vivo, and demonstrate that IGFbp2, IGFbp3, Angpt2, Dll4, DHH and VEGF-A are upregulated, while FGF1 and CSF2 are reduced. In vitro treatment of endothelial cells with anti-Dll4 reduced Akt phosphorylation while maintaining similar levels of Erk 1/2 phosphorylation. Besides its effects in the BM vascular niche, anti-Dll4 treatment perturbed hematopoiesis, as evidenced by increased myeloid (CD11b(+)), decreased B (B220(+)) and T (CD3(+)) lymphoid BM content of treated mice, with a corresponding increase in myeloid circulating cells. Moreover, anti-Dll4 treatment also increased the number of CFU-M and -G colonies in methylcellulose assays, independently of Notch1. Finally, anti-Dll4 treatment of donor BM improved the hematopoietic recovery of lethally irradiated recipients in a transplant setting. Together, our data reveals the hematopoietic (BM) effects of systemic anti-Dll4 treatment result from qualitative vascular changes and also direct hematopoietic cell modulation, which may be favorable in a transplant setting.",
+  "entities": [
+    {
+      "id": "54485",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Delta-like 4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 12
+        },
+        {
+          "text": "Delta-like 4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 99,
+          "length": 12
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 113,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 315,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 445,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 553,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 628,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 990,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1059,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1180,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1325,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1560,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1692,
+          "length": 4
+        },
+        {
+          "text": "Dll4",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1889,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18128",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Notch",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 138,
+          "length": 5
+        },
+        {
+          "text": "Notch",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 450,
+          "length": 5
+        },
+        {
+          "text": "Notch1",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1670,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 207,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 298,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 487,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 727,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1479,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18613",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD31",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 756,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VE-Cadherin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 765,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "16590",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-kit",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 784,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13805",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD105",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 852,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "14257",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGFR3",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 862,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SMA",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 873,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lectin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 884,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16008",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGFbp2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1035,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16009",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGFbp3",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1043,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11601",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Angpt2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1051,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "13363",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DHH",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1065,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "22339",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF-A",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1073,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "14164",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGF1",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1103,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12981",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CSF2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1112,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1193,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk 1/2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1249,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "16409",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD11b",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1400,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "19264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "B220",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1424,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12501",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD3",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1440,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "54485",
+      "tail_id": "12501",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "54485",
+      "tail_id": "19264",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "54485",
+      "tail_id": "16409",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "54485",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "54485",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "54485",
+      "tail_id": "18128",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "54485",
+      "tail_id": "12981",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "54485",
+      "tail_id": "14164",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "54485",
+      "tail_id": "22339",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "54485",
+      "tail_id": "13363",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "54485",
+      "tail_id": "11601",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "54485",
+      "tail_id": "16009",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "54485",
+      "tail_id": "16008",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "54485",
+      "tail_id": "16590",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "54485",
+      "tail_id": "12562",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "54485",
+      "tail_id": "18613",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

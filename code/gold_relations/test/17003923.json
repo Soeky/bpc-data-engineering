@@ -1,0 +1,644 @@
+{
+  "doc_id": "17003923",
+  "title": "Gene polymorphisms implicated in influencing susceptibility to venous and arterial thromboembolism: frequency distribution in a healthy German population.",
+  "body": "Evolvement and progression of cardiovascular diseases affecting the venous and arterial system are influenced by a multitude of environmental and hereditary factors. Many of these hereditary factors consist of defined gene polymorphisms, such as single nucleotide polymorphisms (SNPs) or insertion-deletion polymorphisms, which directly or indirectly affect the hemostatic system. The frequencies of individual hemostatic gene polymorphisms in different normal populations are well defined. However, descriptions of patterns of genetic variability of a larger extent of different factors of hereditary hypercoagulability in single populations are scarce. The aim of this study was i) to give a detailed description of the frequencies of factors of hereditary thrombophilia and their combinations in a German population (n = 282) and ii) to compare their distributions with those reported for other regions. Variants of coagulation factors [factor V 1691G>A (factor V Leiden), factor V 4070A>G (factor V HR2 haplotype), factor VII Arg353Gln, factor XIII Val34Leu, beta-fibrinogen -455G>A, prothrombin 20210G>A], coagulation inhibitors [tissue factor pathway inhibitor 536C>T, thrombomodulin 127G>A], fibrinolytic factors [angiotensin converting enzyme intron 16 insertion/deletion, factor VII-activating protease 1601G>A (FSAP Marburg I), plasminogen activator inhibitor 1-675 insertion/deletion (5G/4G), tissue plasminogen activator intron h deletion/insertion], and other factors implicated in influencing susceptibility to thromboembolic diseases [apolipoprotein E2/E3/E4, glycoprotein Ia 807C>T, methylenetetrahydrofolate reductase 677C>T] were included. The distribution of glycoprotein Ia 807C>T deviated significantly from the Hardy-Weinberg equilibrium, and a comparison with previously published data indicates marked region and ethnicity dependent differences in the genotype distributions of some other factors.",
+  "entities": [
+    {
+      "id": "D054556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "venous and arterial thromboembolism",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular diseases",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 185,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D019851",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hereditary hypercoagulability",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 746,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "C540694",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hereditary thrombophilia",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 903,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "2153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "factor V",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1095,
+          "length": 8
+        },
+        {
+          "text": "factor V Leiden",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1113,
+          "length": 15
+        },
+        {
+          "text": "factor V",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1131,
+          "length": 8
+        },
+        {
+          "text": "factor V",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1149,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1691|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1691G>A",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1104,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|4070|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "4070A>G",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1140,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2155",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "factor VII",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1174,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|353|Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg353Gln",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1185,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "2162",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "factor XIII",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1196,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|V|34|L",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Val34Leu",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1208,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2244",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-fibrinogen",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1218,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|-455|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-455G>A",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1234,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2147",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prothrombin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1243,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|20210|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "20210G>A",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1255,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7035",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tissue factor pathway inhibitor",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1290,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|536|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "536C>T",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1322,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "7056",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thrombomodulin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1330,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|127|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "127G>A",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1345,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin converting enzyme",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1376,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "3026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "factor VII-activating protease",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1436,
+          "length": 30
+        },
+        {
+          "text": "FSAP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1476,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1601|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1601G>A",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1467,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5054",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "plasminogen activator inhibitor 1",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1493,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL|675|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "675 insertion/deletion",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1527,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "5327",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tissue plasminogen activator",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1559,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D013923",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thromboembolic diseases",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1680,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "22915",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "apolipoprotein E2/E3/E4, glycoprotein Ia",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1705,
+          "length": 40
+        },
+        {
+          "text": "glycoprotein Ia",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1833,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|807|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "807C>T",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1746,
+          "length": 6
+        },
+        {
+          "text": "807C>T",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1849,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4524",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "methylenetetrahydrofolate reductase",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1754,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|677|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "677C>T",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1790,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5327",
+      "tail_id": "D054556",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1636",
+      "tail_id": "D054556",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|A|4070|G",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|G|1691|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D054556",
+      "tail_id": "2153",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D054556",
+      "tail_id": "c|INDEL|675|",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D054556",
+      "tail_id": "5054",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|G|1601|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D054556",
+      "tail_id": "3026",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|G|127|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D054556",
+      "tail_id": "7056",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|C|536|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D054556",
+      "tail_id": "7035",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|G|20210|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D054556",
+      "tail_id": "2147",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|G|-455|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D054556",
+      "tail_id": "2244",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D054556",
+      "tail_id": "p|SUB|V|34|L",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D054556",
+      "tail_id": "2162",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D054556",
+      "tail_id": "p|SUB|R|353|Q",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D054556",
+      "tail_id": "2155",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|C|677|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D054556",
+      "tail_id": "4524",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D054556",
+      "tail_id": "c|SUB|C|807|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D054556",
+      "tail_id": "22915",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "c|SUB|C|677|T",
+      "tail_id": "D013923",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R26",
+      "head_id": "4524",
+      "tail_id": "D013923",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R27",
+      "head_id": "c|SUB|C|807|T",
+      "tail_id": "D013923",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "22915",
+      "tail_id": "D013923",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

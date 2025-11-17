@@ -1,0 +1,722 @@
+{
+  "doc_id": "27974047",
+  "title": "FGFR1 and NTRK3 actionable alterations in \"Wild-Type\" gastrointestinal stromal tumors.",
+  "body": "BACKGROUND: About 10-15% of adult, and most pediatric, gastrointestinal stromal tumors (GIST) lack mutations in KIT, PDGFRA, SDHx, or RAS pathway components (KRAS, BRAF, NF1). The identification of additional mutated genes in this rare subset of tumors can have important clinical benefit to identify altered biological pathways and select targeted therapies. METHODS: We performed comprehensive genomic profiling (CGP) for coding regions in more than 300 cancer-related genes of 186 GISTs to assess for their somatic alterations. RESULTS: We identified 24 GIST lacking alterations in the canonical KIT/PDGFRA/RAS pathways, including 12 without SDHx alterations. These 24 patients were mostly adults (96%). The tumors had a 46% rate of nodal metastases. These 24 GIST were more commonly mutated at 7 genes: ARID1B, ATR, FGFR1, LTK, SUFU, PARK2 and ZNF217. Two tumors harbored FGFR1 gene fusions (FGFR1-HOOK3, FGFR1-TACC1) and one harbored an ETV6-NTRK3 fusion that responded to TRK inhibition. In an independent sample set, we identified 5 GIST cases lacking alterations in the KIT/PDGFRA/SDHx/RAS pathways, including two additional cases with FGFR1-TACC1 and ETV6-NTRK3 fusions. CONCLUSIONS: Using patient demographics, tumor characteristics, and CGP, we show that GIST lacking alterations in canonical genes occur in younger patients, frequently metastasize to lymph nodes, and most contain deleterious genomic alterations, including gene fusions involving FGFR1 and NTRK3. If confirmed in larger series, routine testing for these translocations may be indicated for this subset of GIST. Moreover, these findings can be used to guide personalized treatments for patients with GIST. Trial registration NCT 02576431. Registered October 12, 2015.",
+  "entities": [
+    {
+      "id": "2260",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 907,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 963,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 983,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 996,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1231,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1546,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4916",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NTRK3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 5
+        },
+        {
+          "text": "NTRK3",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1034,
+          "length": 5
+        },
+        {
+          "text": "NTRK3",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1252,
+          "length": 5
+        },
+        {
+          "text": "NTRK3",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1556,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D046152",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastrointestinal stromal tumors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 31
+        },
+        {
+          "text": "gastrointestinal stromal tumors",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 142,
+          "length": 31
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 175,
+          "length": 4
+        },
+        {
+          "text": "GISTs",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 571,
+          "length": 5
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 644,
+          "length": 4
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 850,
+          "length": 4
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1127,
+          "length": 4
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1353,
+          "length": 4
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1671,
+          "length": 4
+        },
+        {
+          "text": "GIST",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1765,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3815",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KIT",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 199,
+          "length": 3
+        },
+        {
+          "text": "KIT",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 686,
+          "length": 3
+        },
+        {
+          "text": "KIT",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1165,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5156",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDGFRA",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 204,
+          "length": 6
+        },
+        {
+          "text": "PDGFRA",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 690,
+          "length": 6
+        },
+        {
+          "text": "PDGFRA",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1169,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "6390",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SDHx",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 212,
+          "length": 4
+        },
+        {
+          "text": "SDHx",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 732,
+          "length": 4
+        },
+        {
+          "text": "SDHx",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1176,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3845",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAS",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 221,
+          "length": 3
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 245,
+          "length": 4
+        },
+        {
+          "text": "RAS",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 697,
+          "length": 3
+        },
+        {
+          "text": "RAS",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1181,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "673",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 251,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4763",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 257,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 333,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 543,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 798,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 947,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1308,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 759,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1286,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1414,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1751,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nodal metastases",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 823,
+          "length": 16
+        },
+        {
+          "text": "metastasize to lymph nodes",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1435,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "57492",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ARID1B",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 894,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "545",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATR",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 902,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4058",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LTK",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 914,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "51684",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SUFU",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 919,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5071",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PARK2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 925,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7764",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ZNF217",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 935,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "84376",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HOOK3",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 989,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6867",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TACC1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1002,
+          "length": 5
+        },
+        {
+          "text": "TACC1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1237,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2120",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1029,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1247,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4914",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TRK",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1065,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "673",
+      "tail_id": "D046152",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3845",
+      "tail_id": "D046152",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "4916",
+      "tail_id": "4914",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2120",
+      "tail_id": "4914",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2120",
+      "tail_id": "4916",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009369",
+      "tail_id": "4914",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "4916",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "2120",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009369",
+      "tail_id": "6867",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009369",
+      "tail_id": "84376",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "2260",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "2260",
+      "tail_id": "6867",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "2260",
+      "tail_id": "84376",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D046152",
+      "tail_id": "4916",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D046152",
+      "tail_id": "2120",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D046152",
+      "tail_id": "6867",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D046152",
+      "tail_id": "7764",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D046152",
+      "tail_id": "5071",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D046152",
+      "tail_id": "51684",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D046152",
+      "tail_id": "4058",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "D046152",
+      "tail_id": "2260",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D046152",
+      "tail_id": "545",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D046152",
+      "tail_id": "57492",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "4763",
+      "tail_id": "D046152",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

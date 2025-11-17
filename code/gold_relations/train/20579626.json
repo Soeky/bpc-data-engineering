@@ -1,0 +1,279 @@
+{
+  "doc_id": "20579626",
+  "title": "Identification of a frameshift mutation in Osterix in a patient with recessive osteogenesis imperfecta.",
+  "body": "Osteogenesis imperfecta, or \"brittle bone disease,\" is a type I collagen-related condition associated with osteoporosis and increased risk of bone fractures. Using a combination of homozygosity mapping and candidate gene approach, we have identified a homozygous single base pair deletion (c.1052delA) in SP7/Osterix (OSX) in an Egyptian child with recessive osteogenesis imperfecta. The clinical findings from this patient include recurrent fractures, mild bone deformities, delayed tooth eruption, normal hearing, and white sclera. OSX encodes a transcription factor containing three Cys2-His2 zinc-finger DNA-binding domains at its C terminus, which, in mice, has been shown to be essential for bone formation. The frameshift caused by the c.1052delA deletion removes the last 81 amino acids of the protein, including the third zinc-finger motif. This finding adds another locus to the spectrum of genes associated with osteogenesis imperfecta and reveals that SP7/OSX also plays a key role in human bone development.",
+  "entities": [
+    {
+      "id": "121340",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Osterix",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 7
+        },
+        {
+          "text": "SP7",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 409,
+          "length": 3
+        },
+        {
+          "text": "Osterix",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 413,
+          "length": 7
+        },
+        {
+          "text": "OSX",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 422,
+          "length": 3
+        },
+        {
+          "text": "OSX",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 638,
+          "length": 3
+        },
+        {
+          "text": "SP7",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1068,
+          "length": 3
+        },
+        {
+          "text": "OSX",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1072,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 520,
+          "length": 7
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1101,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "recessive osteogenesis imperfecta",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 33
+        },
+        {
+          "text": "Osteogenesis imperfecta",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 104,
+          "length": 23
+        },
+        {
+          "text": "brittle bone disease",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 133,
+          "length": 20
+        },
+        {
+          "text": "recessive osteogenesis imperfecta",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 453,
+          "length": 33
+        },
+        {
+          "text": "osteogenesis imperfecta",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1027,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "1278",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type I collagen",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 161,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D010024",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoporosis",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 211,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D050723",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bone fractures",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 246,
+          "length": 14
+        },
+        {
+          "text": "fractures",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 546,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs137853893",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "single base pair deletion",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 367,
+          "length": 25
+        },
+        {
+          "text": "c.1052delA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 394,
+          "length": 10
+        },
+        {
+          "text": "c.1052delA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 847,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001847",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bone deformities",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 562,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D014079",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tooth eruption",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 588,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 761,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1278",
+      "tail_id": "D050723",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "1278",
+      "tail_id": "D010024",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs137853893",
+      "tail_id": "D010013",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010013",
+      "tail_id": "1278",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010013",
+      "tail_id": "121340",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

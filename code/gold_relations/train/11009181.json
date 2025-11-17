@@ -1,0 +1,252 @@
+{
+  "doc_id": "11009181",
+  "title": "Apomorphine: an underutilized therapy for Parkinson's disease.",
+  "body": "Apomorphine was the first dopaminergic drug ever used to treat symptoms of Parkinson's disease. While powerful antiparkinsonian effects had been observed as early as 1951, the potential of treating fluctuating Parkinson's disease by subcutaneous administration of apomorphine has only recently become the subject of systematic study. A number of small scale clinical trials have unequivocally shown that intermittent subcutaneous apomorphine injections produce antiparkinsonian benefit close if not identical to that seen with levodopa and that apomorphine rescue injections can reliably revert off-periods even in patients with complex on-off motor swings. Continuous subcutaneous apomorphine infusions can reduce daily off-time by more than 50% in this group of patients, which appears to be a stronger effect than that generally seen with add-on therapy with oral dopamine agonists or COMT inhibitors. Extended follow-up studies of up to 8 years have demonstrated long-term persistence of apomorphine efficacy. In addition, there is convincing clinical evidence that monotherapy with continuous subcutaneous apomorphine infusions is associated with marked reductions of preexisting levodopa-induced dyskinesias. The main side effects of subcutaneous apomorphine treatment are related to cutaneous tolerability problems, whereas sedation and psychiatric complications play a lesser role. Given the marked degree of efficacy of subcutaneous apomorphine treatment in fluctuating Parkinson's disease, this approach seems to deserve more widespread clinical use.",
+  "entities": [
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Apomorphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "Apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 63,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 327,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 493,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 608,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 745,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1055,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1174,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1316,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1505,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 138,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 273,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1542,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopaminergic drug",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 89,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 590,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1248,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 678,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 827,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D018491",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine agonists",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 930,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D065098",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "COMT inhibitors",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 951,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1265,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychiatric complications",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 1407,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007980",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001058",
+      "tail_id": "D007980",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001058",
+      "tail_id": "D004409",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001058",
+      "tail_id": "D010300",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

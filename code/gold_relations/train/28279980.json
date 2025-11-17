@@ -1,0 +1,536 @@
+{
+  "doc_id": "28279980",
+  "title": "GLUT4 Is Not Necessary for Overload-Induced Glucose Uptake or Hypertrophic Growth in Mouse Skeletal Muscle.",
+  "body": "GLUT4 is necessary for acute insulin- and contraction-induced skeletal muscle glucose uptake, but its role in chronic muscle loading (overload)-induced glucose uptake is unknown. Our goal was to determine whether GLUT4 is required for overload-induced glucose uptake. Overload was induced in mouse plantaris muscle by unilateral synergist ablation. After 5 days, muscle weights and ex vivo [(3)H]-2-deoxy-d-glucose uptake were assessed. Overload-induced muscle glucose uptake and hypertrophic growth were not impaired in muscle-specific GLUT4 knockout mice, demonstrating that GLUT4 is not necessary for these processes. To assess which transporters mediate overload-induced glucose uptake, chemical inhibitors were used. The facilitative GLUT inhibitor cytochalasin B, but not the sodium-dependent glucose cotransport inhibitor phloridzin, prevented overload-induced uptake demonstrating that GLUTs mediate this effect. To assess which GLUT, hexose competition experiments were performed. Overload-induced [(3)H]-2-deoxy-d-glucose uptake was not inhibited by d-fructose, demonstrating that the fructose-transporting GLUT2, GLUT5, GLUT8, and GLUT12 do not mediate this effect. To assess additional GLUTs, immunoblots were performed. Overload increased GLUT1, GLUT3, GLUT6, and GLUT10 protein levels twofold to fivefold. Collectively, these results demonstrate that GLUT4 is not necessary for overload-induced muscle glucose uptake or hypertrophic growth and suggest that GLUT1, GLUT3, GLUT6, and/or GLUT10 mediate overload-induced glucose uptake.",
+  "entities": [
+    {
+      "id": "20528",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 108,
+          "length": 5
+        },
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 321,
+          "length": 5
+        },
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 645,
+          "length": 5
+        },
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 685,
+          "length": 5
+        },
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1473,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 186,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 260,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 360,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 569,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 783,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 907,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1524,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1639,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mouse",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 400,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 660,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 137,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003847",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "[(3)H]-2-deoxy-d-glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 498,
+          "length": 24
+        },
+        {
+          "text": "[(3)H]-2-deoxy-d-glucose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1115,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "170441,20525,20526,20527,20528,227659,353169,56017,56485",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 847,
+          "length": 4
+        },
+        {
+          "text": "GLUTs",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1002,
+          "length": 5
+        },
+        {
+          "text": "GLUT",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1045,
+          "length": 4
+        },
+        {
+          "text": "GLUTs",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1306,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003571",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cytochalasin B",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 862,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 890,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D010695",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phloridzin",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 937,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D006601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hexose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1051,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "d-fructose",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1168,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "20526",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT2",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1225,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "56485",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT5",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1232,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "56017",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT8",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1239,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "353169",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT12",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1250,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "20525",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1360,
+          "length": 5
+        },
+        {
+          "text": "GLUT1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1579,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20527",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT3",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1367,
+          "length": 5
+        },
+        {
+          "text": "GLUT3",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1586,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "227659",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT6",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1374,
+          "length": 5
+        },
+        {
+          "text": "GLUT6",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1593,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "170441",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT10",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1385,
+          "length": 6
+        },
+        {
+          "text": "GLUT10",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1607,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012964",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005947",
+      "tail_id": "D010695",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "56485",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "56017",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "353169",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "227659",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "227659",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "20528",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "20528",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "20528",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "20527",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "20527",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "20526",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "20525",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "20525",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "170441",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "170441",
+      "tail_id": "D003571",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

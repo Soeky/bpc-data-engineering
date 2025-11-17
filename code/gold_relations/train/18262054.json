@@ -1,0 +1,177 @@
+{
+  "doc_id": "18262054",
+  "title": "A family with two consecutive nonsense mutations in BMPR1A causing juvenile polyposis.",
+  "body": "We describe a novel germline mutation of BMPR1A in a family with juvenile polyposis and colon cancer. This mutation consists of two consecutive substitutions (735-6 TG>AT) that cause two nonsense mutations (Y245X, G246X), inherited in an autosomal dominant fashion, on one parental chromosome. This mutation caused protein truncation, and represents a novel case of consecutive nonsense mutations in human disease.",
+  "entities": [
+    {
+      "id": "657",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMPR1A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 6
+        },
+        {
+          "text": "BMPR1A",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 128,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C537702",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "juvenile polyposis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 18
+        },
+        {
+          "text": "juvenile polyposis",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 152,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D003110",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 175,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|TG|735_736|AT",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "735-6 TG>AT",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 246,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Y|245|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Y245X",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 294,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|246|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G246X",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 301,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 487,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|TG|735_736|AT",
+      "tail_id": "D003110",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|TG|735_736|AT",
+      "tail_id": "C537702",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|G|246|X",
+      "tail_id": "D003110",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|G|246|X",
+      "tail_id": "C537702",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "p|SUB|Y|245|X",
+      "tail_id": "p|SUB|G|246|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|SUB|Y|245|X",
+      "tail_id": "D003110",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "p|SUB|Y|245|X",
+      "tail_id": "C537702",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "657",
+      "tail_id": "D003110",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "657",
+      "tail_id": "C537702",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

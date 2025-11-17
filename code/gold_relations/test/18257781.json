@@ -1,0 +1,308 @@
+{
+  "doc_id": "18257781",
+  "title": "Co-inheritance of a PKD1 mutation and homozygous PKD2 variant: a potential modifier in autosomal dominant polycystic kidney disease.",
+  "body": "BACKGROUND: Autosomal dominant polycystic kidney disease (ADPKD), which is caused by mutations in polycystins 1 (PC1) and 2 (PC2), is one of the most commonly inherited renal diseases, affecting ~1 : 1000 Caucasians. MATERIALS AND METHODS: We screened Greek ADPKD patients with the denaturing gradient gel electrophoresis (DGGE) assay and direct sequencing. RESULTS: We identified a patient homozygous for a nucleotide change c.1445T > G, resulting in a novel homozygous substitution of the non-polar hydrophobic phenylalanine to the polar hydrophilic cysteine in exon 6 at codon 482 (p.F482C) of the PKD2 gene and a de-novo PKD1 splice-site variant IVS21-2delAG. We did not find this PKD2 variant in a screen of 280 chromosomes of healthy subjects, supporting its pathogenicity. The proband's parents did not have the PKD1 mutation. Real-time PCR of the PKD2 transcript from a skin biopsy revealed 20-fold higher expression in the patient than in a healthy subject and was higher in the patient's peripheral blood mononuclear cells (PBMCs) than in those of her heterozygote daughter and a healthy subject. The greater gene expression was also supported by Western blotting. Inner medullar collecting duct (IMCD) cells transfected with the mutant PKD2 mouse gene presented a perinuclear and diffuse cytoplasmic localization compared with the wild type ER localization. Patch-clamping of PBMCs from the p.F482C homozygous and heterozygous subjects revealed lower polycystin-2 channel function than in controls. CONCLUSIONS: We report for the first time a patient with ADPKD who is heterozygous for a de novo PKD1 variant and homozygous for a novel PKD2 mutation.",
+  "entities": [
+    {
+      "id": "5310",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PKD1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 4
+        },
+        {
+          "text": "polycystins 1",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 231,
+          "length": 13
+        },
+        {
+          "text": "PC1",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 246,
+          "length": 3
+        },
+        {
+          "text": "PKD1",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 758,
+          "length": 4
+        },
+        {
+          "text": "PKD1",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 952,
+          "length": 4
+        },
+        {
+          "text": "PKD1",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1740,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5311",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PKD2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 4
+        },
+        {
+          "text": "PC2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 258,
+          "length": 3
+        },
+        {
+          "text": "PKD2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 734,
+          "length": 4
+        },
+        {
+          "text": "PKD2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 818,
+          "length": 4
+        },
+        {
+          "text": "PKD2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 988,
+          "length": 4
+        },
+        {
+          "text": "polycystin-2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1595,
+          "length": 12
+        },
+        {
+          "text": "PKD2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1780,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007690",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant polycystic kidney disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 44
+        },
+        {
+          "text": "Autosomal dominant polycystic kidney disease",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 145,
+          "length": 44
+        },
+        {
+          "text": "ADPKD",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 191,
+          "length": 5
+        },
+        {
+          "text": "ADPKD",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 391,
+          "length": 5
+        },
+        {
+          "text": "ADPKD",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1700,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal diseases",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 302,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 397,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 516,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1065,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1121,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1687,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs75762896",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1445T > G",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 559,
+          "length": 11
+        },
+        {
+          "text": "phenylalanine to the polar hydrophilic cysteine in exon 6 at codon 482",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 646,
+          "length": 70
+        },
+        {
+          "text": "p.F482C",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 718,
+          "length": 7
+        },
+        {
+          "text": "p.F482C",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1535,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|IVS21-2|AG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS21-2delAG",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 783,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "18764",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PKD2",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1380,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1385,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL|IVS21-2|AG",
+      "tail_id": "D007690",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007690",
+      "tail_id": "5311",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007690",
+      "tail_id": "5310",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs75762896",
+      "tail_id": "D007690",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

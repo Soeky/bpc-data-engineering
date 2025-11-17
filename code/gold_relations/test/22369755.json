@@ -1,0 +1,861 @@
+{
+  "doc_id": "22369755",
+  "title": "Reciprocal effects of NNK and SLURP-1 on oncogene expression in target epithelial cells.",
+  "body": "AIMS: To elucidate how the nicotinic acetylcholine receptors expressed on bronchial and oral epithelial cells targeted by the tobacco nitrosamine (4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone) (NNK) facilitate carcinogenic transformation. MAIN METHODS: Since NNK-dependent transformation can be abolished by the nicotinergic secreted mammalian Ly-6/urokinase plasminogen activator receptor related protein-1 (SLURP-1), we compared effects of NNK and recombinant (r)SLURP-1 on the expression of genes related to tumorigenesis in human immortalized bronchial and oral epithelial cell lines BEP2D and Het-1A, respectively. KEY FINDINGS: NNK stimulated expression of oncogenic genes, including MYB and PIK3CA in BEP2D, ETS1, NRAS and SRC in Het-1A, and AKT1, KIT and RB1 in both cell types, which could be abolished in the presence of rSLURP-1. Other cancer-related genes whose upregulation by NNK was abolishable by rSLURP-1 were the growth factors EGF in BEP2D cells and HGF in Het-1A cells, and the transcription factors CDKN2A and STAT3 (Het-1A only). NNK also upregulated the anti-apoptotic BCL2 (Het-1A) and downregulated the pro-apoptotic TNF (Het-1A), BAX and CASP8 (BEP2D), all of which could be abolished, in part, by rSLURP-1. NNK decreased expression of the CTNNB1 gene encoding the intercellular adhesion molecule beta-catenin (BEP2D), as well as tumor suppressors CDKN3 and FOXD3 in BEP2D cells and SERPINB5 in Het-1A cells. These pro-oncogenic effects of NNK were abolished by rSLURP-1 that also upregulated RUNX3. SIGNIFICANCE: The obtained results identified target genes for both NNK and SLURP-1 and shed light on the molecular mechanism of their reciprocal effects on tumorigenic transformation of bronchial and oral epithelial cells.",
+  "entities": [
+    {
+      "id": "C016583",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NNK",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 3
+        },
+        {
+          "text": "4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 236,
+          "length": 46
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 285,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 350,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 533,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 725,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 981,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1143,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1325,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1557,
+          "length": 3
+        },
+        {
+          "text": "NNK",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1685,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "57152",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLURP-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 7
+        },
+        {
+          "text": "Ly-6/urokinase plasminogen activator receptor related protein-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 435,
+          "length": 63
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 500,
+          "length": 7
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 556,
+          "length": 7
+        },
+        {
+          "text": "rSLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 922,
+          "length": 8
+        },
+        {
+          "text": "rSLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1004,
+          "length": 8
+        },
+        {
+          "text": "rSLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1315,
+          "length": 8
+        },
+        {
+          "text": "rSLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1579,
+          "length": 8
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1693,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1136",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nicotinic acetylcholine receptors",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 116,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "4097",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "tobacco",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 215,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009602",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitrosamine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 223,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carcinogenic",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 301,
+          "length": 12
+        },
+        {
+          "text": "tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 602,
+          "length": 13
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 938,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1447,
+          "length": 5
+        },
+        {
+          "text": "tumorigenic",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1774,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 619,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_6E77",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 679,
+          "length": 5
+        },
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 799,
+          "length": 5
+        },
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1044,
+          "length": 5
+        },
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1262,
+          "length": 5
+        },
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1428,
+          "length": 5
+        },
+        {
+          "text": "BEP2D",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1484,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_3702",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 689,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 828,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1067,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1129,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1189,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1238,
+          "length": 6
+        },
+        {
+          "text": "Het-1A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1512,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4602",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MYB",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 781,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 789,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2113",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ETS1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 806,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4893",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NRAS",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 812,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6714",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SRC",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 821,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 840,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3815",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KIT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 846,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 854,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1037,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3082",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HGF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1060,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1111,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "6774",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1122,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL2",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1183,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1233,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BAX",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1247,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "841",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1255,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1499",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CTNNB1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1357,
+          "length": 6
+        },
+        {
+          "text": "beta-catenin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1414,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "1033",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN3",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1465,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "27022",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FOXD3",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1475,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5268",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SERPINB5",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1500,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "864",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RUNX3",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1610,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5268",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "27022",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1033",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009369",
+      "tail_id": "6774",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009369",
+      "tail_id": "1029",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009369",
+      "tail_id": "3082",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "1950",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "5925",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3815",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "207",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "6714",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "4893",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "2113",
+      "tail_id": "C016583",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "57152",
+      "tail_id": "864",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "57152",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C016583",
+      "tail_id": "864",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "C016583",
+      "tail_id": "5268",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "C016583",
+      "tail_id": "27022",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "C016583",
+      "tail_id": "1033",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "C016583",
+      "tail_id": "1499",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "C016583",
+      "tail_id": "841",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "C016583",
+      "tail_id": "581",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "C016583",
+      "tail_id": "7124",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "C016583",
+      "tail_id": "596",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "C016583",
+      "tail_id": "6774",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "C016583",
+      "tail_id": "1029",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "C016583",
+      "tail_id": "3082",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "C016583",
+      "tail_id": "1950",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "C016583",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "C016583",
+      "tail_id": "5290",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "C016583",
+      "tail_id": "4602",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "C016583",
+      "tail_id": "57152",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

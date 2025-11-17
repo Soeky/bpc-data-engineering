@@ -1,0 +1,570 @@
+{
+  "doc_id": "15754732",
+  "title": "Novel somatic MEN1 gene alterations in sporadic primary hyperparathyroidism and correlation with clinical characteristics.",
+  "body": "Primary hyperparathyroidism (pHPT) is a common endocrine disease that in more than 95% of cases is sporadic and only in some cases is caused by inherited disorders, isolated or as part of multiple endocrine neoplasia (MEN1 and 2). Somatic mutations of MEN1 gene have also been described in sporadic parathyroid tumors. In our study, we examined the presence of alterations in MEN1 gene in a series of 39 patients who had undergone surgery for sporadic pHPT (35 with parathyroid adenoma or hyperplasia, 4 with a carcinoma). A genotype-phenotype correlation was also analysed. After DNA extraction from paraffin-embedded tissues, we amplified by PCR and sequenced the exons 2-10 of the MEN1 gene. Somatic MEN1 mutations were detected in 6 of the 35 patients with a benign parathyroid lesion examined (17.1%), whereas no alterations were found in the carcinomas. Four novel MEN1 gene mutations were identified as follows: one frameshift mutation (222insT, exon 2), one frameshift deletion (912delTA, exon 5), one in-frame deletion (835del18, exon 4) and one missense mutation (P291A, exon 6). In addition, one missense mutation (L89R, exon 2) and one nonsense mutation (Q536X, exon 10) were previously reported. Moreover, two polymorphisms were also found: one allele carried a R171Q polymorphism (1/39 tumors), while a D418D polymorphism (GAC/GAT) was found in 15 and 8 tumors in hetero (CT) and homozygosity (TT), respectively. In no case (mutations and/or polymorphisms) did we find a genotype-phenotype correlation. In conclusion, our data demonstrate the presence of somatic alterations of the MEN1 tumor suppressor gene in about one fifth of benign sporadic parathyroid tumors. The absence of a genotype-phenotype correlation, however, suggests the involvement of other genetic/epigenetic factors for the full expression of the disease.",
+  "entities": [
+    {
+      "id": "4221",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MEN1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 375,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 499,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 807,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 826,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 994,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1719,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D049950",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary hyperparathyroidism",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 27
+        },
+        {
+          "text": "Primary hyperparathyroidism",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 123,
+          "length": 27
+        },
+        {
+          "text": "pHPT",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 152,
+          "length": 4
+        },
+        {
+          "text": "pHPT",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 575,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004700",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "endocrine disease",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 170,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited disorders",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 267,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D009377",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiple endocrine neoplasia",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 311,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D018761,D018813",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "MEN1 and 2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 341,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010282",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "parathyroid tumors",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 422,
+          "length": 18
+        },
+        {
+          "text": "parathyroid adenoma or hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 589,
+          "length": 34
+        },
+        {
+          "text": "parathyroid tumors",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1784,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 527,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 870,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002277",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carcinoma",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 634,
+          "length": 9
+        },
+        {
+          "text": "carcinomas",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 971,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010232",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paraffin",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 724,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010279",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "benign parathyroid lesion",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 886,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "c|INS|222|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "222insT",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1067,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|912|TA",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "912delTA",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1110,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|835|18",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "835del18",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1152,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|P|291|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P291A",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1197,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|89|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L89R",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1249,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q|536|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Q536X",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1290,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs607969",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R171Q",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1398,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1423,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1491,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1724,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs2071313",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D418D",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1440,
+          "length": 5
+        },
+        {
+          "text": "GAC/GAT",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1460,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2071313",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs607969",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|Q|536|X",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|Q|536|X",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "p|SUB|L|89|R",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|SUB|L|89|R",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "p|SUB|P|291|A",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "p|SUB|P|291|A",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|DEL|835|18",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "c|DEL|835|18",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "c|DEL|912|TA",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "c|DEL|912|TA",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "c|INS|222|T",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "c|INS|222|T",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D002277",
+      "tail_id": "4221",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D049950",
+      "tail_id": "rs2071313",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D049950",
+      "tail_id": "rs607969",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D049950",
+      "tail_id": "p|SUB|Q|536|X",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D049950",
+      "tail_id": "p|SUB|L|89|R",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D049950",
+      "tail_id": "p|SUB|P|291|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D049950",
+      "tail_id": "c|DEL|835|18",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D049950",
+      "tail_id": "c|DEL|912|TA",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D049950",
+      "tail_id": "c|INS|222|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "4221",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "4221",
+      "tail_id": "D010282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "4221",
+      "tail_id": "D010279",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "4221",
+      "tail_id": "D049950",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "doc_id": "25263533",
+  "title": "CD25(+) Bcl6(low) T follicular helper cells provide help to maturing B cells in germinal centers of human tonsil.",
+  "body": "The majority of CXCR5(+) PD1(+) CD4(+) T follicular helper (Tfh) cells (   >90%) are CD25(-) Bcl6(hi) , while a small subpopulation (   <10%) are CD25(+) Bcl6(low) but do not express FoxP3 and are not T regulatory cells. We purified T:B-cell conjugates from tonsils and found they were enriched for the CD25(+) Bcl6(low) Tfh-cell subpopulation. In response to IL-2, these CD25(+) Tfh cells increased expression of costimulatory molecules ICOS or OX40, upregulated transcription factor cMaf, produced cytokines IL-21, IL-17, and IL-10, and raised the levels of antiapoptotic protein Bcl2. Conjugates formed with CD25(+) BCl6(low) Tfh cells included B cells expressing higher levels of activation-induced cytidine deaminase (AID), memory marker CD45RO, surface IgG or IgA, and MHC class II compared to B-cell conjugates including CD25(-) Bcl6(hi) Tfh cells. While IL-2 suppresses early Tfh-cell differentiation, Tfh-cell recognition of antigen-presenting B cells and signaling through the T-cell receptor likely triggers expression of the high-affinity IL-2 receptor and responses to IL-2 including downregulation of Bcl6. CD25 expression on Tfh cells and local production of IL-2 in tonsil or lymph node may support B helper T-cell function during later stages of B-cell maturation and the development of immune memory.",
+  "entities": [
+    {
+      "id": "3559",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD25",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 199,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 260,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 417,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 486,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 725,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 942,
+          "length": 4
+        },
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1235,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "604",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 4
+        },
+        {
+          "text": "Bcl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 207,
+          "length": 4
+        },
+        {
+          "text": "Bcl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 268,
+          "length": 4
+        },
+        {
+          "text": "Bcl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 425,
+          "length": 4
+        },
+        {
+          "text": "BCl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 733,
+          "length": 4
+        },
+        {
+          "text": "Bcl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 950,
+          "length": 4
+        },
+        {
+          "text": "Bcl6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1229,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "643",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCR5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 130,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5133",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PD1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 139,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 146,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "50943",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FoxP3",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 297,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3558",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 474,
+          "length": 4
+        },
+        {
+          "text": "IL-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 976,
+          "length": 4
+        },
+        {
+          "text": "IL-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1196,
+          "length": 4
+        },
+        {
+          "text": "IL-2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1288,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "29851",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ICOS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 552,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7293",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "OX40",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 560,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4094",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cMaf",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 599,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "59067",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-21",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 624,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3605",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 631,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 642,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 696,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "57379",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "activation-induced cytidine deaminase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 798,
+          "length": 37
+        },
+        {
+          "text": "AID",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 837,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5788",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD45RO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 857,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3500",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IgG",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 873,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3493",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IgA",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 880,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3108",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MHC class II",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 889,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "6955",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "T-cell receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1101,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "3559,3560",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-2 receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1165,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "6955",
+      "tail_id": "604",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "6955",
+      "tail_id": "3559",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "604",
+      "tail_id": "3108",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "604",
+      "tail_id": "3493",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "604",
+      "tail_id": "3500",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "604",
+      "tail_id": "5788",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "604",
+      "tail_id": "57379",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3559",
+      "tail_id": "3108",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "3559",
+      "tail_id": "3493",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3559",
+      "tail_id": "3500",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "3559",
+      "tail_id": "5788",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "3559",
+      "tail_id": "57379",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "3559",
+      "tail_id": "596",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "3559",
+      "tail_id": "7293",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "3559",
+      "tail_id": "29851",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "3559",
+      "tail_id": "3586",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "3559",
+      "tail_id": "3605",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "3559",
+      "tail_id": "59067",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "3559",
+      "tail_id": "4094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "3558",
+      "tail_id": "6955",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "3558",
+      "tail_id": "604",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "3558",
+      "tail_id": "3586",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "3558",
+      "tail_id": "3605",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "3558",
+      "tail_id": "59067",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "3558",
+      "tail_id": "4094",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "3558",
+      "tail_id": "3559",
+      "type": "Bind",
+      "novel": "Novel"
+    }
+  ]
+}

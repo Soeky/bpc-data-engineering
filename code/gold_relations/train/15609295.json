@@ -1,0 +1,293 @@
+{
+  "doc_id": "15609295",
+  "title": "Compound heterozygosity for a novel nine-nucleotide deletion and the Asn45Ser missense mutation in the glycoprotein IX gene in a patient with Bernard-Soulier syndrome.",
+  "body": "Bernard-Soulier syndrome (BSS) is a rare inherited bleeding disorder due to quantitative or qualitative abnormalities in the platelet glycoprotein (GP) Ib/IX/V complex, the major von Willebrand factor receptor. The complex comprises four subunits, each encoded by a separate gene. Several mutations have been described for each of the subunits, except for GPV, as a cause of BSS. We describe here the genetic basis of the disorder in a child with BSS. Flow-cytometric analysis of the patient's platelets showed a markedly reduced surface expression of all three glycoproteins of the GPIb/IX/V complex. DNA sequencing analysis showed the patient to be a compound heterozygote for two mutations in the GPIX gene, a novel nine-nucleotide deletion starting at position 1952 of the gene that changes asparagine 86 for alanine and eliminates amino acids 87, 88, and 89 (arginine, threonine, and proline) and a previously reported point mutation that changes the codon asparagine (AAC) for serine (AGC) at residue 45. Her mother was heterozygous for the Asn45Ser mutation, and her father, for the nine-nucleotide deletion. Our findings suggest that the additive effects of both mutations in the GPIX gene are responsible for the BSS phenotype of the patient.",
+  "entities": [
+    {
+      "id": "rs5030764",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Asn45Ser",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 8
+        },
+        {
+          "text": "asparagine (AAC) for serine (AGC) at residue 45",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1130,
+          "length": 47
+        },
+        {
+          "text": "Asn45Ser",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1215,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2815",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein IX",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 15
+        },
+        {
+          "text": "GPIX",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 868,
+          "length": 4
+        },
+        {
+          "text": "GPIX",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1356,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 129,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 652,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 805,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1411,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D001606",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Bernard-Soulier syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 142,
+          "length": 24
+        },
+        {
+          "text": "Bernard-Soulier syndrome",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 168,
+          "length": 24
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 194,
+          "length": 3
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 543,
+          "length": 3
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 615,
+          "length": 3
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1390,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D025861",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited bleeding disorder",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 209,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "2811,2814,2815",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein (GP) Ib/IX/V",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 302,
+          "length": 25
+        },
+        {
+          "text": "glycoproteins",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 730,
+          "length": 13
+        },
+        {
+          "text": "GPIb/IX/V",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 751,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "7450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "von Willebrand factor",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 347,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "2814",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GPV",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 524,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1952|9",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "nine-nucleotide deletion starting at position 1952",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 887,
+          "length": 50
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|NRTP|86_89|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "changes asparagine 86 for alanine and eliminates amino acids 87, 88, and 89 (arginine, threonine, and proline)",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 955,
+          "length": 110
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2814",
+      "tail_id": "7450",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2814",
+      "tail_id": "D001606",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "7450",
+      "tail_id": "D001606",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "2815",
+      "tail_id": "7450",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "2815",
+      "tail_id": "D001606",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs5030764",
+      "tail_id": "D001606",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "p|SUB|NRTP|86_89|A",
+      "tail_id": "D001606",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "c|DEL|1952|9",
+      "tail_id": "D001606",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "doc_id": "20335448",
+  "title": "A novel point mutation in helix 10 of the human glucocorticoid receptor causes generalized glucocorticoid resistance by disrupting the structure of the ligand-binding domain.",
+  "body": "CONTEXT: Generalized glucocorticoid resistance syndrome is a rare familial or sporadic condition characterized by partial insensitivity to glucocorticoids, caused by mutations in the glucocorticoid receptor (GR) gene. Most of the reported cases are adults, demonstrating symptoms associated with mineralocorticoid and/or adrenal androgen excess caused by compensatively increased secretion of the adrenocorticotropic hormone. PATIENT: We identified a new 2-yr-old female case of generalized glucocorticoid resistance syndrome. The patient (TJ) presented with a generalized seizure associated with hypoglycemia and hypokalemia. She also had hypertension and premature pubarche, whereas dexamethasone effectively suppressed these clinical manifestations. RESULTS: The patient's GR gene had a heterozygotic mutation (G-->A) at nucleotide position 2141 (exon 8), which resulted in substitution of arginine by glutamine at amino acid position 714 in the ligand-binding domain (LBD) of the GR alpha. Molecular analysis revealed that the mutant receptor had significantly impaired transactivation activity with a 2-fold reduction in affinity to ligand. It showed attenuated transactivation of the activation function (AF)-2 and reduced binding to a p160 nuclear receptor coactivator. Computer-based structural analysis revealed that replacement of arginine by glutamine at position 714 transmitted a conformational change to the LBD and the AF-2 transactivation surface, resulting in a decreased binding affinity to ligand and to the LXXLL coactivator motif. CONCLUSIONS: Dexamethasone treatment is effective in controlling the premature pubarche, hypoglycemia, hypertension, and hypokalemia in this child case, wherein arginine 714 plays a key role in the proper formation of the ligand-binding pocket and the AF-2 surface of the GR alpha LBD.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 5
+        },
+        {
+          "text": "PATIENT",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 601,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 706,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 941,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2908",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 23
+        },
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 358,
+          "length": 23
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 383,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 951,
+          "length": 2
+        },
+        {
+          "text": "GR alpha",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1159,
+          "length": 8
+        },
+        {
+          "text": "GR alpha",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1999,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C564221",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glucocorticoid resistance",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 25
+        },
+        {
+          "text": "glucocorticoid resistance",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 196,
+          "length": 25
+        },
+        {
+          "text": "glucocorticoid resistance",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 666,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucocorticoids",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 314,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D008901",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mineralocorticoid",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 471,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D000728",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "androgen",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 504,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 748,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007003",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoglycemia",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 772,
+          "length": 12
+        },
+        {
+          "text": "hypoglycemia",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1816,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 789,
+          "length": 11
+        },
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1848,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 815,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1830,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "C567552",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "premature pubarche",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 832,
+          "length": 18
+        },
+        {
+          "text": "premature pubarche",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1796,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 860,
+          "length": 13
+        },
+        {
+          "text": "Dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1740,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|2141|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(G-->A) at nucleotide position 2141",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 988,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|R|714|Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine by glutamine at amino acid position 714",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1068,
+          "length": 48
+        },
+        {
+          "text": "arginine by glutamine at position 714",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1516,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "8648",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p160 nuclear receptor coactivator",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1417,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|R|714",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine 714",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1888,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|Allele|R|714",
+      "tail_id": "D007008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|Allele|R|714",
+      "tail_id": "D007003",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|Allele|R|714",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|Allele|R|714",
+      "tail_id": "C564221",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C567552",
+      "tail_id": "c|Allele|R|714",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C567552",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C567552",
+      "tail_id": "2908",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003907",
+      "tail_id": "D007008",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003907",
+      "tail_id": "D007003",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003907",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D006973",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C564221",
+      "tail_id": "D005938",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "C564221",
+      "tail_id": "c|SUB|R|714|Q",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C564221",
+      "tail_id": "c|SUB|G|2141|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "2908",
+      "tail_id": "D007008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "2908",
+      "tail_id": "D007003",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "2908",
+      "tail_id": "D012640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "2908",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "2908",
+      "tail_id": "C564221",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

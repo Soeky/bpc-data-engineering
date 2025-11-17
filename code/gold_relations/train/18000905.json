@@ -1,0 +1,144 @@
+{
+  "doc_id": "18000905",
+  "title": "Regional analysis on the occurrence of oral clefts in South America.",
+  "body": "The aim of this work was to search for unequal birth prevalence rates (BPRs) of cleft lip +/- cleft palate (CL/P), and cleft palate only (CPO), among different geographic areas in South America, and to analyze phenotypic characteristics and associated risk factors in each identified cluster. Included were 5,128 CL/P cases, 1,745 CPO cases, and 3,712 controls (like-sexed, non-malformed liveborn infant, born immediately after a malformed one, in the same hospital), over 4,199,630 consecutive births. They were ascertained between 1967 and 2004, in 190 maternity hospitals of the ECLAMC (Estudio Colaborativo Latinoamericano de Malformaciones Congenitas) network, in 102 cities of all 10 South American countries. Non-predefined geographical areas with significantly unusual cleft BPRs were identified with Kulldorf and Nagarwalla's spatial scan statistic, employing number of cases and births, and exact location of each hospital. Expected values were cleft BPRs registered for the entire ECLAMC hospital network. Syndromic and non-syndromic clefts were considered for cluster analysis, and phenotypic characterization, while only non-syndromic for risk factor analysis. Seven clusters for CL/P, and four for CPO, with unusual BPRs were identified. CL/P cases in high BPR areas were more severe than elsewhere in the sample, similar to a previous ECLAMC report on microtia. For CL/P, high BPR clusters were associated with high altitude above sea level, Amerindian ancestry, and low socioeconomic strata; low BPR clusters showed association with African Black ancestry. Advanced maternal age, a recognized risk factor for CPO, was also associated with the only identified geographic cluster for CPO.",
+  "entities": [
+    {
+      "id": "D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oral clefts",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 11
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 163,
+          "length": 12
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 188,
+          "length": 12
+        },
+        {
+          "text": "CPO",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 207,
+          "length": 3
+        },
+        {
+          "text": "CPO",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 400,
+          "length": 3
+        },
+        {
+          "text": "CPO",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1281,
+          "length": 3
+        },
+        {
+          "text": "CPO",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1694,
+          "length": 3
+        },
+        {
+          "text": "CPO",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1767,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002971",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cleft lip",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 149,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002971,D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "CL/P",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 177,
+          "length": 4
+        },
+        {
+          "text": "CL/P",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 382,
+          "length": 4
+        },
+        {
+          "text": "clefts",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1114,
+          "length": 6
+        },
+        {
+          "text": "CL/P",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1262,
+          "length": 4
+        },
+        {
+          "text": "CL/P",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1321,
+          "length": 4
+        },
+        {
+          "text": "CL/P",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1450,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D065817",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "microtia",
+          "passage_index": 1,
+          "passage_offset": 69,
+          "char_offset": 1436,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

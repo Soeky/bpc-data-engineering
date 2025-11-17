@@ -1,0 +1,430 @@
+{
+  "doc_id": "26937641",
+  "title": "Serum Amyloid A Induces Inflammation, Proliferation and Cell Death in Activated Hepatic Stellate Cells.",
+  "body": "Serum amyloid A (SAA) is an evolutionary highly conserved acute phase protein that is predominantly secreted by hepatocytes. However, its role in liver injury and fibrogenesis has not been elucidated so far. In this study, we determined the effects of SAA on hepatic stellate cells (HSCs), the main fibrogenic cell type of the liver. Serum amyloid A potently activated IkappaB kinase, c-Jun N-terminal kinase (JNK), Erk and Akt and enhanced NF-kappaB-dependent luciferase activity in primary human and rat HSCs. Serum amyloid A induced the transcription of MCP-1, RANTES and MMP9 in an NF-kappaB- and JNK-dependent manner. Blockade of NF-kappaB revealed cytotoxic effects of SAA in primary HSCs with signs of apoptosis such as caspase 3 and PARP cleavage and Annexin V staining. Serum amyloid A induced HSC proliferation, which depended on JNK, Erk and Akt activity. In primary hepatocytes, SAA also activated MAP kinases, but did not induce relevant cell death after NF-kappaB inhibition. In two models of hepatic fibrogenesis, CCl4 treatment and bile duct ligation, hepatic mRNA levels of SAA1 and SAA3 were strongly increased. In conclusion, SAA may modulate fibrogenic responses in the liver in a positive and negative fashion by inducing inflammation, proliferation and cell death in HSCs.",
+  "entities": [
+    {
+      "id": "20208,20210,6288",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Serum Amyloid A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "Serum amyloid A",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 104,
+          "length": 15
+        },
+        {
+          "text": "SAA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 121,
+          "length": 3
+        },
+        {
+          "text": "SAA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 356,
+          "length": 3
+        },
+        {
+          "text": "Serum amyloid A",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 438,
+          "length": 15
+        },
+        {
+          "text": "Serum amyloid A",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 616,
+          "length": 15
+        },
+        {
+          "text": "SAA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 779,
+          "length": 3
+        },
+        {
+          "text": "Serum amyloid A",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 883,
+          "length": 15
+        },
+        {
+          "text": "SAA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 995,
+          "length": 3
+        },
+        {
+          "text": "SAA",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1249,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008107",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver injury and fibrogenesis",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 250,
+          "length": 29
+        },
+        {
+          "text": "hepatic fibrogenesis",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1111,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "84351,9641",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IkappaB kinase",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 473,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "116554,5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-Jun N-terminal kinase",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 489,
+          "length": 23
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 514,
+          "length": 3
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 705,
+          "length": 3
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 944,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "116590,5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 520,
+          "length": 3
+        },
+        {
+          "text": "Erk",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 949,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "207,24185",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 528,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 957,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4790,81736",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 545,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 690,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 739,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1072,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 596,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 606,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24770,6347",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCP-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 661,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6352,81780",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RANTES",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 668,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4318,81687",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP9",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 679,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cytotoxic",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 758,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "25402,836",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase 3",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 831,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "142,25591",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PARP",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 845,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25673,308",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Annexin V",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 863,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "116554,116590,207,24185,5594,5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAP kinases",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1014,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "6351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCl4",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1133,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20208",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SAA1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1195,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20210",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SAA3",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1204,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6351",
+      "tail_id": "D008107",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "6351",
+      "tail_id": "20210",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "6351",
+      "tail_id": "20208",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008107",
+      "tail_id": "20210",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008107",
+      "tail_id": "20208",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "doc_id": "8002973",
+  "title": "Adrenoleukodystrophy gene encodes an 80 kDa membrane protein.",
+  "body": "An antibody against the synthetic C-terminal peptides deduced from the cDNA of the gene responsible for X-linked adrenoleukodystrophy (ALD) was produced to characterize the product of the ALD gene. The antibody reacted with the 80 kDa band protein in control fibroblasts, while no bands were detected in the fibroblasts from a patient with ALD (# 163), in which mRNA of the ALD gene was undetectable based on Northern blot analysis. The 293T cells transfected with the full-coding cDNA inserted in the expression vector produced a new 80 kDa protein, as detected by Western blot. In an immunocytological study, the staining was in a punctate pattern, in the normal fibroblasts. However, there was no punctate staining in the # 163 cells. These data thus indicate that the ALD gene encodes an 80 kDa membrane protein..",
+  "entities": [
+    {
+      "id": "215",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Adrenoleukodystrophy gene",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 25
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 250,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 436,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 834,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000326",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked adrenoleukodystrophy",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 166,
+          "length": 29
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 197,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 402,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 389,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0063",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "293T",
+          "passage_index": 1,
+          "passage_offset": 62,
+          "char_offset": 499,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000326",
+      "tail_id": "215",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

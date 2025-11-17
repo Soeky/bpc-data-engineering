@@ -1,0 +1,476 @@
+{
+  "doc_id": "18439803",
+  "title": "Acute effects of N-(2-propylpentanoyl)urea on hippocampal amino acid neurotransmitters in pilocarpine-induced seizure in rats.",
+  "body": "The present study aimed to investigate the anticonvulsant activity as well as the effects on the level of hippocampal amino acid neurotransmitters (glutamate, aspartate, glycine and GABA) of N-(2-propylpentanoyl)urea (VPU) in comparison to its parent compound, valproic acid (VPA). VPU was more potent than VPA, exhibiting the median effective dose (ED(50)) of 49 mg/kg in protecting rats against pilocarpine-induced seizure whereas the corresponding value for VPA was 322 mg/kg. In vivo microdialysis demonstrated that an intraperitoneal administration of pilocarpine induced a pronounced increment of hippocampal glutamate and aspartate whereas no significant change was observed on the level of glycine and GABA. Pretreatment with either VPU (50 and 100 mg/kg) or VPA (300 and 600 mg/kg) completely abolished pilocarpine-evoked increases in extracellular glutamate and aspartate. In addition, a statistically significant reduction was also observed on the level of GABA and glycine but less than a drastic reduction of glutamate and aspartate level. Based on the finding that VPU and VPA could protect the animals against pilocarpine-induced seizure it is suggested that the reduction of inhibitory amino acid neurotransmitters was comparatively minor and offset by a pronounced reduction of glutamate and aspartate. Therefore, like VPA, the finding that VPU could drastically reduce pilocarpine-induced increases in glutamate and aspartate should account, at least partly, for its anticonvulsant activity observed in pilocarpine-induced seizure in experimental animals. Some other mechanism than those being reported herein should be further investigated.",
+  "entities": [
+    {
+      "id": "C108761",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "N-(2-propylpentanoyl)urea",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 25
+        },
+        {
+          "text": "N-(2-propylpentanoyl)urea",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 318,
+          "length": 25
+        },
+        {
+          "text": "VPU",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 345,
+          "length": 3
+        },
+        {
+          "text": "VPU",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 409,
+          "length": 3
+        },
+        {
+          "text": "VPU",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 868,
+          "length": 3
+        },
+        {
+          "text": "VPU",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1206,
+          "length": 3
+        },
+        {
+          "text": "VPU",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1485,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010862",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pilocarpine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 524,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 684,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 939,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1252,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1514,
+          "length": 11
+        },
+        {
+          "text": "pilocarpine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1648,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 7
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 544,
+          "length": 7
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1272,
+          "length": 7
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1668,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 121,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 511,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 275,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 742,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 985,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1149,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1422,
+          "length": 9
+        },
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1547,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001224",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 286,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 756,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 999,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1163,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1436,
+          "length": 9
+        },
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1561,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005998",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 297,
+          "length": 7
+        },
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 825,
+          "length": 7
+        },
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1104,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005680",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 309,
+          "length": 4
+        },
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 837,
+          "length": 4
+        },
+        {
+          "text": "GABA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1095,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014635",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "valproic acid",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 388,
+          "length": 13
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 403,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 434,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 588,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 894,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1214,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1463,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014635",
+      "tail_id": "D001224",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014635",
+      "tail_id": "D018698",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014635",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C108761",
+      "tail_id": "D005680",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C108761",
+      "tail_id": "D005998",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C108761",
+      "tail_id": "D001224",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C108761",
+      "tail_id": "D018698",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C108761",
+      "tail_id": "D014635",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C108761",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C108761",
+      "tail_id": "D010862",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D012640",
+      "tail_id": "D014635",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D010862",
+      "tail_id": "D001224",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D010862",
+      "tail_id": "D018698",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D010862",
+      "tail_id": "D012640",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

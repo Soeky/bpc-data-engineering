@@ -1,0 +1,362 @@
+{
+  "doc_id": "16428827",
+  "title": "Daidzein activates choline acetyltransferase from MC-IXC cells and improves drug-induced amnesia.",
+  "body": "The choline acetyltransferase (ChAT) activator, which enhances cholinergic transmission via an augmentation of the enzymatic production of acetylcholine (ACh), is an important factor in the treatment of Alzheimer's disease (AD). Methanolic extracts from Pueraria thunbergiana exhibited an activation effect (46%) on ChAT in vitro. Via the sequential isolation of Pueraria thunbergiana, the active component was ultimately identified as daidzein (4',7-dihydroxy-isoflavone). In order to investigate the effects of daidzein from Pueraria thunbergiana on scopolamine-induced impairments of learning and memory, we conducted a series of in vivo tests. Administration of daidzein (4.5 mg/kg body weight) to mice was shown significantly to reverse scopolamine-induced amnesia, according to the results of a Y-maze test. Injections of scopolamine into mice resulted in impaired performance on Y-maze tests (a 37% decreases in alternation behavior). By way of contrast, mice treated with daidzein prior to the scopolamine injections were noticeably protected from this performance impairment (an approximately 12%-21% decrease in alternation behavior). These results indicate that daidzein might play a role in acetylcholine biosynthesis as a ChAT activator, and that it also ameliorates scopolamine-induced amnesia.",
+  "entities": [
+    {
+      "id": "C004742",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Daidzein",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "daidzein",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 534,
+          "length": 8
+        },
+        {
+          "text": "4',7-dihydroxy-isoflavone",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 544,
+          "length": 25
+        },
+        {
+          "text": "daidzein",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 611,
+          "length": 8
+        },
+        {
+          "text": "daidzein",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 764,
+          "length": 8
+        },
+        {
+          "text": "daidzein",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1078,
+          "length": 8
+        },
+        {
+          "text": "daidzein",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1271,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1103",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "choline acetyltransferase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 19,
+          "length": 25
+        },
+        {
+          "text": "choline acetyltransferase",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 102,
+          "length": 25
+        },
+        {
+          "text": "ChAT",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 129,
+          "length": 4
+        },
+        {
+          "text": "ChAT",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 414,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1398",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MC-IXC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "amnesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 860,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1398,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000109",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetylcholine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 237,
+          "length": 13
+        },
+        {
+          "text": "ACh",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 252,
+          "length": 3
+        },
+        {
+          "text": "acetylcholine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1301,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 301,
+          "length": 19
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 322,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D000432",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Methanolic",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 327,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 650,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 840,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 926,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1100,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1378,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007859|D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impairments of learning and memory",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 670,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 800,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 943,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1060,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12647",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ChAT",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1333,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000109",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012601",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012601",
+      "tail_id": "D007859|D008569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000432",
+      "tail_id": "1103",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "1103",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "1103",
+      "tail_id": "D000109",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "C004742",
+      "tail_id": "D000109",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C004742",
+      "tail_id": "D000647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C004742",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C004742",
+      "tail_id": "1103",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

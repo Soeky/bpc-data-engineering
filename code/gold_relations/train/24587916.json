@@ -1,0 +1,417 @@
+{
+  "doc_id": "24587916",
+  "title": "Antioxidant effects of bovine lactoferrin on dexamethasone-induced hypertension in rat.",
+  "body": "Dexamethasone- (Dex-) induced hypertension is associated with enhanced oxidative stress. Lactoferrin (LF) is an iron-binding glycoprotein with antihypertensive properties. In this study, we investigated the effect of chronic administration of LF on oxidative stress and hypertension upon Dex administration. Male Wistar rats were treated by Dex (30  u g/kg/day subcutaneously) or saline for 14 days. Oral bovine LF (30, 100, 300 mg/kg) was given from day 8 to 14 in a reversal study. In a prevention study, rats received 4 days of LF treatment followed by Dex and continued during the test period. Systolic blood pressure (SBP) was measured using tail-cuff method. Thymus weight was used as a marker of glucocorticoid activity. Plasma hydrogen peroxide (H2O2) concentration and ferric reducing antioxidant power (FRAP) value were determined. Dexamethasone significantly increased SBP and plasma H2O2 level and decreased thymus and body weights. LF lowered (P < 0.01) and dose dependently prevented (P < 0.001) Dex-induced hypertension. LF prevented body weight loss and significantly reduced the elevated plasma H2O2 and increased FRAP values. Chronic administration of LF strongly reduced the blood pressure and production of ROS and improved antioxidant capacity in Dex-induced hypertension, suggesting the role of inhibition of oxidative stress as another mechanism of antihypertensive action of LF.",
+  "entities": [
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Antioxidant",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9913",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "bovine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 6
+        },
+        {
+          "text": "bovine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 493,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "301034",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactoferrin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 11
+        },
+        {
+          "text": "Lactoferrin",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 177,
+          "length": 11
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 190,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 331,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 500,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 619,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1033,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1124,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1258,
+          "length": 2
+        },
+        {
+          "text": "LF",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1487,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 13
+        },
+        {
+          "text": "Dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 88,
+          "length": 13
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 104,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 376,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 429,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 644,
+          "length": 3
+        },
+        {
+          "text": "Dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 930,
+          "length": 13
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1098,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1356,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 118,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 358,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1110,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1368,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 408,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 595,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 200,
+          "length": 4
+        },
+        {
+          "text": "ferric",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 866,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11820",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 213,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 791,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006861",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hydrogen peroxide",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 823,
+          "length": 17
+        },
+        {
+          "text": "H2O2",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 842,
+          "length": 4
+        },
+        {
+          "text": "H2O2",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 983,
+          "length": 4
+        },
+        {
+          "text": "H2O2",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1200,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015431",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weight loss",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1142,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1315,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003907",
+      "tail_id": "D006861",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003907",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "301034",
+      "tail_id": "D017382",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "301034",
+      "tail_id": "D015431",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "301034",
+      "tail_id": "D006861",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "301034",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "301034",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007501",
+      "tail_id": "301034",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

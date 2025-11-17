@@ -1,0 +1,215 @@
+{
+  "doc_id": "17286451",
+  "title": "Retinoblastoma in India : microsatellite analysis and its application in genetic counseling.",
+  "body": "OBJECTIVES: This study was conducted with two objectives. The first was to estimate the frequency of loss of heterozygosity (LOH) of the RB1 gene as a mechanism in disease causation in tumors of patients from India. The second objective was to employ RB1 molecular deletion and microsatellite-based linkage analysis as laboratory tools, while counseling families with a history of retinoblastoma (RB). METHODS: DNA was extracted from peripheral blood and tumors of 54 RB patients and their relatives. Eight fluorescent microsatellite markers, both intragenic and flanking the RB1 gene, were used. After PCR amplification, samples were run on an ABI PRISM 310 genetic analyzer for LOH, deletion detection, and haplotype generation. RESULTS: LOH was found in conjunction with tumor formation in 72.9% of RB patients (39/54 patients; p=0.001; 95% CI 0.6028, 0.8417); however, we could not associate various other clinical parameters of RB patients with the presence or absence of RB1 LOH. Seven germline deletions (13% of RB patients) were identified, and the maternal allele was more frequently lost (p=0.01). A disease co-segregating haplotype was detected in two hereditary autosomal dominant cases. CONCLUSION: LOH of the RB1 gene could play an important role in tumor formation. Large deletions involving RB1 were observed, and a disease co-segregating haplotype was used for indirect genetic testing. This is the first report from India where molecular testing has been applied for RB families in conjunction with genetic counseling. In tertiary ophthalmic practice in India, there is an emerging trend towards the application of genetical knowledge in clinical practice.",
+  "entities": [
+    {
+      "id": "D012175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Retinoblastoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 14
+        },
+        {
+          "text": "retinoblastoma",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 474,
+          "length": 14
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 490,
+          "length": 2
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 561,
+          "length": 2
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 895,
+          "length": 2
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1026,
+          "length": 2
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1112,
+          "length": 2
+        },
+        {
+          "text": "RB",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1578,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "5925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 230,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 344,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 669,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1070,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1316,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1400,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 278,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 548,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 867,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1357,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 288,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 564,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 898,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 914,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1029,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1115,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5925",
+      "tail_id": "D012175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "5925",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "doc_id": "28075473",
+  "title": "Spirulina lipopolysaccharides inhibit tumor growth in a Toll-like receptor 4-dependent manner by altering the cytokine milieu from interleukin-17/interleukin-23 to interferon-g.",
+  "body": "Th17 cells and the cytokine they produce, interleukin (IL)-17, play an important role in tumor progression in humans and in mice. IL-6 and IL-23 are critical cytokines for the differentiation and propagation of Th17 cells, respectively. Bacterial lipopolysaccharides (LPS) are known to stimulate immune cells to produce such inflammatory cytokines. Contrary to Escherichia coli (E. coli) LPS, LPS from Spirulina has low toxicity and barely induces in vivo production of IL-6 and IL-23 in mice. We examined the antitumor effects of Spirulina LPS compared to E. coli LPS in an MH134 hepatoma model. Administration of Spirulina LPS suppressed tumor growth in C3H/HeN mice, but not in Toll-like receptor 4 (TLR4)-mutant C3H/HeJ mice, by reducing serum levels of IL-17 and IL-23, while increasing interferon (IFN)-g levels. The antitumor activity and IFN-g production were mediated by T cells. Moreover, in vitro experiments showed that Spirulina LPS impaired the antigen-presenting function that supports the generation of IL-17-producing cells in a toll-like receptor (TLR)4-dependent manner. Of note, injection of anti-IL-17 antibody in tumor-bearing C3H/HeN mice in the absence of Spirulina LPS markedly suppressed tumor growth and augmented IFN-g responses. Thus, our results support the notion that IFN-g and IL-17/IL-23 mutually regulate Th17 and Th1 responses in tumor-bearing hosts, and Spirulina LPS modulates the balance of the IFN-g-IL-17/IL-23 axis towards IFN-g production, which leads to tumor inhibition. Furthermore, Spirulina LPS effectively inhibited the spontaneous development of mammary tumors. This study has important implications for the exploitation of TLR-based immunomodulators for cancer immunotherapy.",
+  "entities": [
+    {
+      "id": "551299",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Spirulina",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 580,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 709,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 793,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1110,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1358,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1569,
+          "length": 9
+        },
+        {
+          "text": "Spirulina",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1707,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipopolysaccharides",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 19
+        },
+        {
+          "text": "lipopolysaccharides",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 425,
+          "length": 19
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 446,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 566,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 571,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 719,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 743,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 803,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1120,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1368,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1579,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1717,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 267,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 818,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1313,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1392,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1544,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1676,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1883,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "21898",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Toll-like receptor 4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 20
+        },
+        {
+          "text": "Toll-like receptor 4",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 859,
+          "length": 20
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 881,
+          "length": 4
+        },
+        {
+          "text": "toll-like receptor (TLR)4",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1224,
+          "length": 25
+        },
+        {
+          "text": "TLR",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1852,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16171",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin-17",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 131,
+          "length": 14
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 936,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1197,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1295,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1488,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1618,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "83430",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin-23",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 146,
+          "length": 14
+        },
+        {
+          "text": "IL-23",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 317,
+          "length": 5
+        },
+        {
+          "text": "IL-23",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 657,
+          "length": 5
+        },
+        {
+          "text": "IL-23",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 946,
+          "length": 5
+        },
+        {
+          "text": "IL-23",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1494,
+          "length": 5
+        },
+        {
+          "text": "IL-23",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1624,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interferon-g",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 164,
+          "length": 12
+        },
+        {
+          "text": "interferon (IFN)-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 970,
+          "length": 18
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1024,
+          "length": 5
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1419,
+          "length": 5
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1478,
+          "length": 5
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1612,
+          "length": 5
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1643,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16171,3605",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin (IL)-17",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 220,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 288,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 302,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 666,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 842,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 902,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1335,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 308,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 648,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "inflammatory cytokines",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 503,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "562",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Escherichia coli",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 539,
+          "length": 16
+        },
+        {
+          "text": "E. coli",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 557,
+          "length": 7
+        },
+        {
+          "text": "E. coli",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 735,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 598,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "CVCL_8111",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MH134",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 753,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatoma",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 759,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mammary tumors",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1774,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "D008070",
+      "tail_id": "D001943",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008070",
+      "tail_id": "21898",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008070",
+      "tail_id": "15978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008070",
+      "tail_id": "16171",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008070",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "21898",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "21898",
+      "tail_id": "83430",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "21898",
+      "tail_id": "16171",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "21898",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009369",
+      "tail_id": "83430",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D009369",
+      "tail_id": "16171",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

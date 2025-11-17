@@ -1,0 +1,651 @@
+{
+  "doc_id": "18672102",
+  "title": "GATA4 mutations in 486 Chinese patients with congenital heart disease.",
+  "body": "Recent studies have reported germline mutations in GATA4 gene in some types of congenital heart disease (CHD). However, the prevalence of GATA4 mutations in CHD and the correlation between the GATA4 genotype and CHD phenotype have not been extensively studied. We screened germline mutations in the coding exons and the flanking intron sequences of the GATA4 gene in 486 CHD patients by denaturing high-performance liquid chromatography (DHPLC), and confirmed the mutations by sequencing. Nine distinct mutations including one small deletion mutation (46delS), two small insertion mutations (118-119insA and 125-126insAA), and six non-synonymous mutations (A6V, P163S, E359K, P407Q, S429T and A442V) were identified in 12 of the 486 patients (nine with ventricular septal defect, two with Tetralogy of Fallot, and one with endocardial cushion defect). Of them, two patients carrying E359K mutation were from two generations in one family with ventricular septal defect (VSD). Interestingly, a nucleotide insertion of c.1146+25insA in exon 6 was detected in five VSD patients, but not in 486 normal healthy controls. Our findings are useful in understanding the prevalence of GATA4 mutations and the correlation between the GATA4 genotype and the CHD phenotype in Chinese patients.",
+  "entities": [
+    {
+      "id": "2626",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GATA4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 122,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 209,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 264,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 424,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1246,
+          "length": 5
+        },
+        {
+          "text": "GATA4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1294,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 446,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 804,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 936,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1137,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1342,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital heart disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 24
+        },
+        {
+          "text": "congenital heart disease",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 150,
+          "length": 24
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 176,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 228,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 283,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 442,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1317,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "|DEL|46|S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "46delS",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 623,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "|INS|118_119|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "118-119insA",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 663,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "|INS|125_126|AA",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "125-126insAA",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 679,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs199922907",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A6V",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 728,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs387906769",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P163S",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 733,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs368489876",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E359K",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 740,
+          "length": 5
+        },
+        {
+          "text": "E359K",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 954,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs115099192",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P407Q",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 747,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|429|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S429T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 754,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs146017816",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A442V",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 764,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006345",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ventricular septal defect",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 824,
+          "length": 25
+        },
+        {
+          "text": "ventricular septal defect",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1014,
+          "length": 25
+        },
+        {
+          "text": "VSD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1041,
+          "length": 3
+        },
+        {
+          "text": "VSD",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1133,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013771",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Tetralogy of Fallot",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 860,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D004694",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "endocardial cushion defect",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 894,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "c|INS|1146+25|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1146+25insA",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1088,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|INS|1146+25|A",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "2626",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2626",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2626",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2626",
+      "tail_id": "D006331",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs146017816",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs146017816",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs146017816",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "p|SUB|S|429|T",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "p|SUB|S|429|T",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "p|SUB|S|429|T",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "rs115099192",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "rs115099192",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "rs115099192",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "rs368489876",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "rs368489876",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "rs368489876",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "rs387906769",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "rs387906769",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "rs387906769",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "rs199922907",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "rs199922907",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "rs199922907",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "|INS|125_126|AA",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "|INS|125_126|AA",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "|INS|125_126|AA",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "|INS|118_119|A",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "|INS|118_119|A",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "|INS|118_119|A",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "|DEL|46|S",
+      "tail_id": "D004694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "|DEL|46|S",
+      "tail_id": "D013771",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "|DEL|46|S",
+      "tail_id": "D006345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D006331",
+      "tail_id": "rs146017816",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "D006331",
+      "tail_id": "p|SUB|S|429|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "D006331",
+      "tail_id": "rs115099192",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D006331",
+      "tail_id": "rs368489876",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "D006331",
+      "tail_id": "rs387906769",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "D006331",
+      "tail_id": "rs199922907",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D006331",
+      "tail_id": "|INS|125_126|AA",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "D006331",
+      "tail_id": "|INS|118_119|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "D006331",
+      "tail_id": "|DEL|46|S",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

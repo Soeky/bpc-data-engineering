@@ -1,0 +1,381 @@
+{
+  "doc_id": "18179903",
+  "title": "Mutation analysis of CHRNA1, CHRNB1, CHRND, and RAPSN genes in multiple pterygium syndrome/fetal akinesia patients.",
+  "body": "Multiple pterygium syndromes (MPS) comprise a group of multiple congenital anomaly disorders characterized by webbing (pterygia) of the neck, elbows, and/or knees and joint contractures (arthrogryposis). MPS are phenotypically and genetically heterogeneous but are traditionally divided into prenatally lethal and nonlethal (Escobar) types. Previously, we and others reported that recessive mutations in the embryonal acetylcholine receptor g subunit (CHRNG) can cause both lethal and nonlethal MPS, thus demonstrating that pterygia resulted from fetal akinesia. We hypothesized that mutations in acetylcholine receptor-related genes might also result in a MPS/fetal akinesia phenotype and so we analyzed 15 cases of lethal MPS/fetal akinesia without CHRNG mutations for mutations in the CHRNA1, CHRNB1, CHRND, and rapsyn (RAPSN) genes. No CHRNA1, CHRNB1, or CHRND mutations were detected, but a homozygous RAPSN frameshift mutation, c.1177-1178delAA, was identified in a family with three children affected with lethal fetal akinesia sequence. Previously, RAPSN mutations have been reported in congenital myasthenia. Functional studies were consistent with the hypothesis that whereas incomplete loss of rapsyn function may cause congenital myasthenia, more severe loss of function can result in a lethal fetal akinesia phenotype.",
+  "entities": [
+    {
+      "id": "1134",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHRNA1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 6
+        },
+        {
+          "text": "CHRNA1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 904,
+          "length": 6
+        },
+        {
+          "text": "CHRNA1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 956,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1140",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHRNB1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 6
+        },
+        {
+          "text": "CHRNB1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 912,
+          "length": 6
+        },
+        {
+          "text": "CHRNB1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 964,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1144",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHRND",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 5
+        },
+        {
+          "text": "CHRND",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 920,
+          "length": 5
+        },
+        {
+          "text": "CHRND",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 975,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5913",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAPSN",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 5
+        },
+        {
+          "text": "rapsyn",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 931,
+          "length": 6
+        },
+        {
+          "text": "RAPSN",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 939,
+          "length": 5
+        },
+        {
+          "text": "RAPSN",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1023,
+          "length": 5
+        },
+        {
+          "text": "RAPSN",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1173,
+          "length": 5
+        },
+        {
+          "text": "rapsyn",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1321,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C537377",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiple pterygium syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 27
+        },
+        {
+          "text": "Multiple pterygium syndromes",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 116,
+          "length": 28
+        },
+        {
+          "text": "MPS",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 146,
+          "length": 3
+        },
+        {
+          "text": "MPS",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 320,
+          "length": 3
+        },
+        {
+          "text": "MPS",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 611,
+          "length": 3
+        },
+        {
+          "text": "MPS",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 773,
+          "length": 3
+        },
+        {
+          "text": "MPS",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 840,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C536647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fetal akinesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 14
+        },
+        {
+          "text": "fetal akinesia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 663,
+          "length": 14
+        },
+        {
+          "text": "fetal akinesia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 777,
+          "length": 14
+        },
+        {
+          "text": "fetal akinesia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 844,
+          "length": 14
+        },
+        {
+          "text": "fetal akinesia sequence",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1136,
+          "length": 23
+        },
+        {
+          "text": "fetal akinesia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1422,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital anomaly disorders",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 180,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D003286",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "joint contractures",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 283,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D001176",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arthrogryposis",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 303,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "1146",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "embryonal acetylcholine receptor g subunit",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 524,
+          "length": 42
+        },
+        {
+          "text": "CHRNG",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 568,
+          "length": 5
+        },
+        {
+          "text": "CHRNG",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 867,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1177_1178|AA",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1177-1178delAA",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1050,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D020294",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital myasthenia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1211,
+          "length": 21
+        },
+        {
+          "text": "congenital myasthenia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1347,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL|1177_1178|AA",
+      "tail_id": "C536647",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "5913",
+      "tail_id": "D020294",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "5913",
+      "tail_id": "C536647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "1146",
+      "tail_id": "C537377",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "doc_id": "17345627",
+  "title": "Over-expression of BMP4 and BMP5 in a child with axial skeletal malformations and heterotopic ossification: a new syndrome.",
+  "body": "Bone morphogenetic proteins (BMPs) are a highly conserved class of signaling molecules that induce ectopic cartilage and bone formation in vivo. Dysregulated expression of bone morphogenetic protein 4 (BMP4) is found in the cells of patients who have fibrodysplasia ossificans progressiva (FOP), a genetic disorder of axial and appendicular skeletal malformation and progressive heterotopic ossification. Loss of function mutations in the bone morphogenetic protein 5 (bmp5) gene leading to under-expression of BMP5 cause the murine short ear syndrome, characterized by small malformed ears and a broad range of axial skeletal malformations. We found features reminiscent of both the short ear mouse and FOP in a child with malformed external ears, multiple malformations of the axial skeleton, and progressive heterotopic ossification in the neck and back. We examined BMP mRNA expression in transformed lymphocytes by semi-quantitative RT-PCR and protein expression by ELISA assays and immunohistochemistry. Elevated levels of BMP4 and BMP5 mRNA and protein were detected in the patient's cells while levels of BMP2 mRNA were unchanged. Our data suggest that dysregulated expression of BMP4 and BMP5 genes is associated with an array of human axial skeletal abnormalities similar to the short ear mouse and FOP.",
+  "entities": [
+    {
+      "id": "652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 19,
+          "length": 4
+        },
+        {
+          "text": "bone morphogenetic protein 4",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 296,
+          "length": 28
+        },
+        {
+          "text": "BMP4",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 326,
+          "length": 4
+        },
+        {
+          "text": "BMP4",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1153,
+          "length": 4
+        },
+        {
+          "text": "BMP4",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1312,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 4
+        },
+        {
+          "text": "bone morphogenetic protein 5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 563,
+          "length": 28
+        },
+        {
+          "text": "bmp5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 593,
+          "length": 4
+        },
+        {
+          "text": "BMP5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 635,
+          "length": 4
+        },
+        {
+          "text": "BMP5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1162,
+          "length": 4
+        },
+        {
+          "text": "BMP5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1321,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001848",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "axial skeletal malformations",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 28
+        },
+        {
+          "text": "axial and appendicular skeletal malformation",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 442,
+          "length": 44
+        },
+        {
+          "text": "axial skeletal malformations",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 736,
+          "length": 28
+        },
+        {
+          "text": "multiple malformations of the axial skeleton",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 873,
+          "length": 44
+        },
+        {
+          "text": "axial skeletal abnormalities",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1369,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D009999",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "heterotopic ossification",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 24
+        },
+        {
+          "text": "heterotopic ossification",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 503,
+          "length": 24
+        },
+        {
+          "text": "heterotopic ossification",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 935,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "649,650,652,653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bone morphogenetic proteins",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 124,
+          "length": 27
+        },
+        {
+          "text": "BMPs",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 153,
+          "length": 4
+        },
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 994,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001847,D002357",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ectopic cartilage and bone formation",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 223,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 357,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1205,
+          "length": 7
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1363,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009221",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fibrodysplasia ossificans progressiva",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 375,
+          "length": 37
+        },
+        {
+          "text": "FOP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 414,
+          "length": 3
+        },
+        {
+          "text": "FOP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 828,
+          "length": 3
+        },
+        {
+          "text": "FOP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1433,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 650,
+          "length": 6
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 818,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1423,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004427",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "short ear syndrome",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 657,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D004426",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malformed external ears",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 848,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "650",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP2",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1237,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R8",
+      "head_id": "653",
+      "tail_id": "D009221",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "653",
+      "tail_id": "D004427",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009999",
+      "tail_id": "653",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009999",
+      "tail_id": "652",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "652",
+      "tail_id": "D009221",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "652",
+      "tail_id": "D004427",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D001848",
+      "tail_id": "653",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D001848",
+      "tail_id": "652",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

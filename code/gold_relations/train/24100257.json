@@ -1,0 +1,251 @@
+{
+  "doc_id": "24100257",
+  "title": "Takotsubo syndrome (or apical ballooning syndrome) secondary to Zolmitriptan.",
+  "body": "Takotsubo syndrome (TS), also known as broken heart syndrome, is characterized by left ventricle apical ballooning with elevated cardiac biomarkers and electrocardiographic changes suggestive of an acute coronary syndrome (ie, ST-segment elevation, T wave inversions, and pathologic Q waves). We report a case of 54-year-old woman with medical history of mitral valve prolapse and migraines, who was admitted to the hospital for substernal chest pain and electrocardiogram demonstrated 1/2 mm ST-segment elevation in leads II, III, aVF, V5, and V6 and positive troponin I. Emergent coronary angiogram revealed normal coronary arteries with moderately reduced left ventricular ejection fraction with wall motion abnormalities consistent with TS. Detailed history obtained retrospectively revealed that the patient took zolmitriptan sparingly only when she had migraines. But before this event, she was taking zolmitriptan 2-3 times daily for several days because of a persistent migraine headache. She otherwise reported that she is quite active, rides horses, and does show jumping without any limitations in her physical activity. There was no evidence of any recent stress or status migrainosus. Extensive literature search revealed multiple cases of coronary artery vasospasm secondary to zolmitriptan, but none of the cases were associated with TS.",
+  "entities": [
+    {
+      "id": "D054549",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Takotsubo syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 18
+        },
+        {
+          "text": "apical ballooning syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 26
+        },
+        {
+          "text": "Takotsubo syndrome",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 78,
+          "length": 18
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 98,
+          "length": 2
+        },
+        {
+          "text": "broken heart syndrome",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 117,
+          "length": 21
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 819,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1427,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "C089750",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Zolmitriptan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 12
+        },
+        {
+          "text": "zolmitriptan",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 896,
+          "length": 12
+        },
+        {
+          "text": "zolmitriptan",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 986,
+          "length": 12
+        },
+        {
+          "text": "zolmitriptan",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1370,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D054058",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute coronary syndrome",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 276,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 403,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 883,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008945",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitral valve prolapse",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 433,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D008881",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "migraines",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 459,
+          "length": 9
+        },
+        {
+          "text": "migraines",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 937,
+          "length": 9
+        },
+        {
+          "text": "migraine headache",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1056,
+          "length": 17
+        },
+        {
+          "text": "status migrainosus",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1256,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D002637",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chest pain",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 518,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D009041",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "motion abnormalities",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 782,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9796",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "horses",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1130,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D003329",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "coronary artery vasospasm",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 1331,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003329",
+      "tail_id": "C089750",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C089750",
+      "tail_id": "D008881",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D054549",
+      "tail_id": "C089750",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

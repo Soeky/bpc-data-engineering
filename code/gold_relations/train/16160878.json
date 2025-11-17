@@ -1,0 +1,320 @@
+{
+  "doc_id": "16160878",
+  "title": "Behavioral effects of urotensin-II centrally administered in mice.",
+  "body": "Urotensin-II (U-II) receptors are widely distributed in the central nervous system. Intracerebroventricular (i.c.v.) injection of U-II causes hypertension and bradycardia and stimulates prolactin and thyrotropin secretion. However, the behavioral effects of centrally administered U-II have received little attention. In the present study, we tested the effects of i.c.v. injections of U-II on behavioral, metabolic, and endocrine responses in mice. Administration of graded doses of U-II (1-10,000 ng/mouse) provoked: (1) a dose-dependent reduction in the number of head dips in the hole-board test; (2) a dose-dependent reduction in the number of entries in the white chamber in the black-and-white compartment test, and in the number of entries in the central platform and open arms in the plus-maze test; and (3) a dose-dependent increase in the duration of immobility in the forced-swimming test and tail suspension test. Intracerebroventricular injection of U-II also caused an increase in: food intake at doses of 100 and 1,000 ng/mouse, water intake at doses of 100-10,000 ng/mouse, and horizontal locomotion activity at a dose of 10,000 ng/mouse. Whatever was the dose, the central administration of U-II had no effect on body temperature, nociception, apomorphine-induced penile erection and climbing behavior, and stress-induced plasma corticosterone level. Taken together, the present study demonstrates that the central injection of U-II at doses of 1-10,000 ng/mouse induces anxiogenic- and depressant-like effects in mouse. These data suggest that U-II may be involved in some aspects of psychiatric disorders.",
+  "entities": [
+    {
+      "id": "24111",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "urotensin-II",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 12
+        },
+        {
+          "text": "Urotensin-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 67,
+          "length": 12
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 81,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 197,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 348,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 453,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 551,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1031,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1276,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1513,
+          "length": 4
+        },
+        {
+          "text": "U-II",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1630,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 511,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 569,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1105,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1151,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1216,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1542,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1599,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 209,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D001919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 226,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "19109",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 253,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12640",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thyrotropin",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 267,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1329,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D003345",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "corticosterone",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1414,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anxiogenic",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1556,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressant",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1572,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychiatric disorders",
+          "passage_index": 1,
+          "passage_offset": 67,
+          "char_offset": 1670,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24111",
+      "tail_id": "D001919",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "24111",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "24111",
+      "tail_id": "12640",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "24111",
+      "tail_id": "19109",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "24111",
+      "tail_id": "D001523",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "24111",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "24111",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

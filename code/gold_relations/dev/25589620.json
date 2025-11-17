@@ -1,0 +1,598 @@
+{
+  "doc_id": "25589620",
+  "title": "Pharmacogenetic Analysis of INT 0144 Trial: Association of Polymorphisms with Survival and Toxicity in Rectal Cancer Patients Treated with 5-FU and Radiation.",
+  "body": "PURPOSE: We tested whether 18 polymorphisms in 16 genes (GSTP1, COX2, IL10, EGFR, EGF, FGFR4, CCDN1, VEGFR2, VEGF, CXCR2, IL8, MMP3, ICAM1, ERCC1, RAD51, and XRCC3) would predict disease-free survival (DFS), overall survival (OS), and toxicity in the INT0144 trial, which was designed to investigate different postoperative regimens of 5-fluorouracil (5-FU)-based chemoradiation (CRT) in locally advanced rectal cancers: Arm 1 consisted of bolus 5-FU followed by 5-FU protracted venous infusion (PVI) with radiotherapy; arm 2 was induction and concomitant PVI 5-FU with radiotherapy and arm 3 was induction and concomitant bolus 5-FU with radiotherapy. EXPERIMENTAL DESIGN: DNA from 746 stage II/III rectal patients enrolled in the Southwest Oncology Group (SWOG) S9304 phase III trial was analyzed. Genomic DNA was extracted from formalin-fixed, paraffin-embedded (FFPE) tumor tissue. The polymorphisms were analyzed using direct DNA-sequencing or polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP). RESULTS: GSTP1-Ile105Val (rs1695) was significantly associated with DFS and OS and its effect did not vary by treatment arm. The five-year DFS and OS were 53% and 58%, respectively, for G/G, 66% and 72% for G/A, and 57% and 66% for A/A patients. In arm 2, IL8-251A/A genotype (rs4073) was associated with a lower risk of toxicities (P = 0.04). The VEGFR2 H472Q Q/Q genotype (rs1870377) was associated with a higher risk of grade 3-5 proximal upper gastrointestinal tract (PUGIT) mucositis (P = 0.04) in arm 2. However, in arm 1, this genotype was associated with a lower risk of PUGIT mucositis (P = 0.004). CONCLUSION: rs1695 may be prognostic in patients with rectal cancer treated with adjuvant CRT. rs4073 and rs1870377 may exhibit different associations with toxicity, according to the 5-FU schedule.",
+  "entities": [
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Toxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 394,
+          "length": 8
+        },
+        {
+          "text": "toxicities",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1508,
+          "length": 10
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1951,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012004",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Rectal Cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 13
+        },
+        {
+          "text": "rectal cancers",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 564,
+          "length": 14
+        },
+        {
+          "text": "rectal cancer",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1849,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 866,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1423,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1835,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-FU",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 139,
+          "length": 4
+        },
+        {
+          "text": "5-fluorouracil",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 495,
+          "length": 14
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 511,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 605,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 622,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 719,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 788,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1978,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 216,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1196,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COX2",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 223,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL10",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 229,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1956",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 235,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 241,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR4",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 246,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCDN1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 253,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3791",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 260,
+          "length": 6
+        },
+        {
+          "text": "VEGFR2",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1535,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 268,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3579",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCR2",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 274,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL8",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 281,
+          "length": 3
+        },
+        {
+          "text": "IL8",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1443,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4314",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP3",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 286,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3383",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ICAM1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 292,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2067",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERCC1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 299,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5888",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAD51",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 306,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7517",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "XRCC3",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 317,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005557",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "formalin",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 990,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010232",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paraffin",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1006,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1031,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs1695",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ile105Val",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1202,
+          "length": 9
+        },
+        {
+          "text": "rs1695",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1213,
+          "length": 6
+        },
+        {
+          "text": "rs1695",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1807,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs4073",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-251A/A",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1446,
+          "length": 7
+        },
+        {
+          "text": "rs4073",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1464,
+          "length": 6
+        },
+        {
+          "text": "rs4073",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1890,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs1870377",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "H472Q",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1542,
+          "length": 5
+        },
+        {
+          "text": "rs1870377",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1562,
+          "length": 9
+        },
+        {
+          "text": "rs1870377",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1901,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D052016",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mucositis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1666,
+          "length": 9
+        },
+        {
+          "text": "mucositis",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1772,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs4073",
+      "tail_id": "D005472",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs1695",
+      "tail_id": "D012004",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs1870377",
+      "tail_id": "D052016",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1870377",
+      "tail_id": "D005472",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3791",
+      "tail_id": "D052016",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "3791",
+      "tail_id": "D005472",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "3576",
+      "tail_id": "D005472",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D012004",
+      "tail_id": "2950",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005472",
+      "tail_id": "D012004",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

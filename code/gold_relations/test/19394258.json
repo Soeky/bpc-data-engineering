@@ -1,0 +1,239 @@
+{
+  "doc_id": "19394258",
+  "title": "The first founder DGUOK mutation associated with hepatocerebral mitochondrial DNA depletion syndrome.",
+  "body": "Deoxyguanosine kinase (dGK) deficiency is a frequent cause of mitochondrial DNA depletion associated with a hepatocerebral phenotype. In this study, we describe a new splice site mutation in the DGUOK gene and the clinical, radiologic, and genetic features of these DGUOK patients. This new DGUOK homozygous mutation (c.444-62C>A) was identified in three patients from two North-African consanguineous families with combined respiratory chain deficiencies and mitochondrial DNA depletion in the liver. Brain MRIs are normal in DGUOK patients in the literature. Interestingly, we found subtentorial abnormal myelination and moderate hyperintensity in the bilateral pallidi in our patients. This new mutation creates a cryptic splice site in intron 3 (in position -62) and is predicted to result in a larger protein with an in-frame insertion of 20 amino acids. In silico analysis of the putative impact of the insertion shows serious clashes in protein conformation: this insertion disrupts the alpha5 helix of the dGK kinase domain, rendering the protein unable to bind purine deoxyribonucleosides. In addition, a common haplotype that segregated with the disease in both families was detected by haplotype reconstruction with 10 markers (microsatellites and SNPs), which span 4.6 Mb of DNA covering the DGUOK locus. In conclusion, we report a new DGUOK splice site mutation that provide insight into a critical protein domain (dGK kinase domain) and the first founder mutation in a North-African population.",
+  "entities": [
+    {
+      "id": "1716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DGUOK",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 5
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 297,
+          "length": 5
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 368,
+          "length": 5
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 393,
+          "length": 5
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 629,
+          "length": 5
+        },
+        {
+          "text": "dGK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1116,
+          "length": 3
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1406,
+          "length": 5
+        },
+        {
+          "text": "DGUOK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1450,
+          "length": 5
+        },
+        {
+          "text": "dGK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1530,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C580039",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatocerebral mitochondrial DNA depletion syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 51
+        },
+        {
+          "text": "Deoxyguanosine kinase (dGK) deficiency",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 102,
+          "length": 38
+        },
+        {
+          "text": "mitochondrial DNA depletion",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 164,
+          "length": 27
+        },
+        {
+          "text": "mitochondrial DNA depletion",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 562,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 374,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 457,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 635,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 781,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|444-62|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.444-62C>A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 420,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory chain deficiencies",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 527,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "subtentorial abnormal myelination",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 687,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "moderate hyperintensity",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 725,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D003853",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "deoxyribonucleosides",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1179,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1716",
+      "tail_id": "C580039",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1716",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|C|444-62|A",
+      "tail_id": "C580039",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|C|444-62|A",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "doc_id": "27090298",
+  "title": "Circulating Fatty Acid Synthase in pregnant women: Relationship to blood pressure, maternal metabolism and newborn parameters.",
+  "body": "The enzyme FASN (fatty acid synthase) is potentially related with hypertension and metabolic dysfunction. FASN is highly expressed in the human placenta. We aimed to investigate the relationship circulating FASN has with blood pressure, maternal metabolism and newborn parameters in healthy pregnant women. Circulating FASN was assessed in 115 asymptomatic pregnant women in the second trimester of gestation along with C-peptide, fasting glucose and insulin, post-load glucose lipids, HMW-adiponectin and blood pressure (the latter was assessed in each trimester of gestation). At birth, newborns and placentas were weighed. FASN expression was also able to be assessed in 80 placentas. Higher circulating FASN was associated with lower systolic blood pressure (SBP), with a more favourable metabolic phenotype (lower fasting glucose and insulin, post load glucose, HbAc1, HOMA-IR and C-peptide), and with lower placental and birth weight (all p < 0.05 to p < 0.001). Placental FASN expression related positively to circulating FASN (p < 0.005) and negatively to placental weight (p < 0.05). Our observations suggest a physiological role of placental FASN in human pregnancy. Future studies will clarify whether circulating FASN of placental origin does actually regulate placental and fetal growth, and (thereby) has a favourable influence on the pregnant mother's insulin sensitivity and blood pressure.",
+  "entities": [
+    {
+      "id": "2194",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fatty Acid Synthase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 19
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 138,
+          "length": 4
+        },
+        {
+          "text": "fatty acid synthase",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 144,
+          "length": 19
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 233,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 334,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 446,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 753,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 834,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1106,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1156,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1279,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1352,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 265,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 427,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 493,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1287,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 193,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolic dysfunction",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 210,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D002096",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "C-peptide",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 547,
+          "length": 9
+        },
+        {
+          "text": "C-peptide",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1013,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 566,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 597,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 954,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 985,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 578,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 966,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1494,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipids",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 605,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "57587",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HMW",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 613,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9370",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 617,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "3043",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HbAc1",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 994,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2194",
+      "tail_id": "D008659",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2194",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "2194",
+      "tail_id": "D002096",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2194",
+      "tail_id": "3043",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2194",
+      "tail_id": "3630",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "2194",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "57587",
+      "tail_id": "9370",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

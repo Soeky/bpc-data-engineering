@@ -1,0 +1,249 @@
+{
+  "doc_id": "15817013",
+  "title": "People aged over 75 in atrial fibrillation on warfarin: the rate of major hemorrhage and stroke in more than 500 patient-years of follow-up.",
+  "body": "OBJECTIVES: To determine the incidence of major hemorrhage and stroke in people aged 76 and older with atrial fibrillation on adjusted-dose warfarin who had been recently been admitted to hospital. DESIGN: A retrospective observational cohort study. SETTING: A major healthcare network involving four tertiary hospitals. PARTICIPANTS: Two hundred thirty-five patients aged 76 and older admitted to a major healthcare network between July 1, 2001, and June 30, 2002, with atrial fibrillation on warfarin were enrolled. MEASUREMENTS: Information regarding major bleeding episodes, strokes, and warfarin use was obtained from patients, relatives, primary physicians, and medical records. RESULTS: Two hundred twenty-eight patients (42% men) with a mean age of 81.1 (range 76-94) were included in the analysis. Total follow-up on warfarin was 530 years (mean 28 months). There were 53 major hemorrhages, for an annual rate of 10.0%, including 24 (45.3%) life-threatening and five (9.4%) fatal bleeds. The annual stroke rate after initiation of warfarin was 2.6%. CONCLUSION: The rate of major hemorrhage was high in this old, frail group, but excluding fatalities, resulted in no long-term sequelae, and the stroke rate on warfarin was low, demonstrating how effective warfarin treatment is.",
+  "entities": [
+    {
+      "id": "D001281",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 19
+        },
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 244,
+          "length": 19
+        },
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 612,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D014859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "warfarin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 281,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 635,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 733,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 967,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1181,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1360,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1406,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 10
+        },
+        {
+          "text": "hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 189,
+          "length": 10
+        },
+        {
+          "text": "bleeding",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 701,
+          "length": 8
+        },
+        {
+          "text": "hemorrhages",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1028,
+          "length": 11
+        },
+        {
+          "text": "bleeds",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1130,
+          "length": 6
+        },
+        {
+          "text": "hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1230,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 204,
+          "length": 6
+        },
+        {
+          "text": "strokes",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 720,
+          "length": 7
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1149,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1345,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 113,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 500,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 764,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 860,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 874,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020521",
+      "tail_id": "D014859",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014859",
+      "tail_id": "D006470",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001281",
+      "tail_id": "D014859",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

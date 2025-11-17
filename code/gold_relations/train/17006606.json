@@ -1,0 +1,421 @@
+{
+  "doc_id": "17006606",
+  "title": "A polymorphism of C-to-T substitution at -31 IL1B is associated with the risk of advanced gastric adenocarcinoma in a Japanese population.",
+  "body": "Proinflammatory cytokine gene polymorphisms have been demonstrated to associate with gastric cancer risk, of which IL1B-31T/C and -511C/T changes have been well investigated due to the possibility that they may alter the IL1B transcription. The signal transduction target upon interleukin 1 beta (IL1beta) stimulation, the nuclear factor of kappa B (NFkappaB) activation, supports cancer development, signal transduction in which is mediated by FS-7 cell-associated cell surface antigen (FAS) signaling. Based on recent papers describing the prognostic roles of the polymorphisms and the NFkappaB functions on cancer development, we sought to determine if Japanese gastric cancer patients were affected by the IL1B -31/-511 and FAS-670 polymorphisms. A case-control study was conducted on incident gastric adenocarcinoma patients (n=271) and age-gender frequency-matched control subjects (n=271). We observed strong linkage disequilibrium between the T allele at -511 and the C allele at -31 and between the C allele at -511 and the T allele at -31 in IL1B in both the cases and controls (R (2)=0.94). Neither IL1B-31, -511 nor FAS-670 polymorphisms showed significantly different risks of gastric adenocarcinoma. Though FAS-670 polymorphisms did not show any significant difference, the proportion of subjects with IL1B-31TT (or IL1B-511CC) increased according to stage (trend P=0.019). In particular, subjects with stage IV had a two times higher probability of having either IL1B-31TT (or IL1B-511CC) genotype compared with stage I subjects. These observations suggest that IL1B-31TT and IL1B-511CC are associated with disease progression.",
+  "entities": [
+    {
+      "id": "rs1143627",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C-to-T substitution at -31",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 26
+        },
+        {
+          "text": "-31T/C",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 258,
+          "length": 6
+        },
+        {
+          "text": "C allele at -31",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1115,
+          "length": 15
+        },
+        {
+          "text": "T allele at -31",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1172,
+          "length": 15
+        },
+        {
+          "text": "-31TT",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1459,
+          "length": 5
+        },
+        {
+          "text": "-31TT",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1621,
+          "length": 5
+        },
+        {
+          "text": "-31TT",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1720,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL1B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 4
+        },
+        {
+          "text": "Proinflammatory cytokine",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 139,
+          "length": 24
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 254,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 360,
+          "length": 4
+        },
+        {
+          "text": "interleukin 1 beta",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 416,
+          "length": 18
+        },
+        {
+          "text": "IL1beta",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 436,
+          "length": 7
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 849,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1191,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1249,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1455,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1469,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1617,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1631,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1716,
+          "length": 4
+        },
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1730,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013274",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric adenocarcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 22
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 224,
+          "length": 14
+        },
+        {
+          "text": "gastric cancer",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 804,
+          "length": 14
+        },
+        {
+          "text": "gastric adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 937,
+          "length": 22
+        },
+        {
+          "text": "gastric adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1329,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "rs1143634",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-511C/T",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 269,
+          "length": 7
+        },
+        {
+          "text": "T allele at -511",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1090,
+          "length": 16
+        },
+        {
+          "text": "C allele at -511",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1147,
+          "length": 16
+        },
+        {
+          "text": "-511CC",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1473,
+          "length": 6
+        },
+        {
+          "text": "-511CC",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1635,
+          "length": 6
+        },
+        {
+          "text": "-511CC",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1734,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear factor of kappa B",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 462,
+          "length": 25
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 489,
+          "length": 8
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 727,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 520,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 749,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "355",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FS-7 cell-associated cell surface antigen",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 584,
+          "length": 41
+        },
+        {
+          "text": "FAS",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 627,
+          "length": 3
+        },
+        {
+          "text": "FAS",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 867,
+          "length": 3
+        },
+        {
+          "text": "FAS",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1267,
+          "length": 3
+        },
+        {
+          "text": "FAS",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1360,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 819,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 960,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1143634",
+      "tail_id": "rs1143627",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4790",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "3553",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "3553",
+      "tail_id": "4790",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "3553",
+      "tail_id": "D013274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D013274",
+      "tail_id": "rs1143634",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs1143627",
+      "tail_id": "D013274",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "doc_id": "15184369",
+  "title": "Ca2+ dependence of the Ca2+-selective TRPV6 channel.",
+  "body": "Microfluorimetry and patch-clamp experiments were performed on TRPV6-expressing HEK cells to determine whether this Ca(2+)-sensing Ca(2+) channel is constitutively active. Intact cells loaded with fura-2 had an elevated intracellular free Ca(2+) concentration ((i)), which decreased to the same level such as in non-transfected cells if external Ca(2+) was chelated by EGTA. Whole cell recordings from non-transfected HEK cells and cells expressing human TRPV6 revealed the presence of a basal inward current in both types of cells when the internal solution contained 0.1 mm EGTA and 100 nm (i) or if the cytosolic Ca(2+) buffering remained undisturbed in perforated patch-clamp experiments. If recombinantly expressed TRPV6 forms open channels, one would expect Ca(2+)-induced current inhibition, because TRPV6 is negatively regulated by internal Ca(2+). However, dialyzing solutions with high  such as 1 microm into TRPV6-expressing cells did not block the basal inward current, which was not different from the recordings from non-transfected cells. In contrast, dialyzing 0.5 mm EGTA into TRPV6-expressing cells readily activated Ca(2+) inward currents, which were undetectable in non-transfected cells. Interestingly, monovalent cations permeated the TRPV6 channels under conditions where no Ca(2+) permeation was detectable, indicating that divalent cations block TRPV6 channels from the extracellular side. Like human TRPV6, the truncated human TRPV6(Delta695-725), which lacks the C-terminal domain required for Ca(2+)-calmodulin binding, does not form constitutive active channels, whereas the human TRPV6(D542A), carrying a point mutation in the presumed pore region, does not function as a channel. In summary, no constitutive open TRPV6 channels were detected in patch-clamp experiments from transfected HEK cells. However, channel activity is highly regulated by intracellular and extracellular divalent cations.",
+  "entities": [
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 4
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 169,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 184,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 292,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 399,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 669,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 817,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 902,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1188,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1351,
+          "length": 6
+        },
+        {
+          "text": "Ca(2+)",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1574,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "55503",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TRPV6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 116,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 508,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 773,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 860,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 972,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1147,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1310,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1424,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1479,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1506,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1663,
+          "length": 5
+        },
+        {
+          "text": "TRPV6",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1797,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_M624",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HEK",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 133,
+          "length": 3
+        },
+        {
+          "text": "HEK",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 471,
+          "length": 3
+        },
+        {
+          "text": "HEK",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1870,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016257",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fura-2",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 250,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004533",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "EGTA",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 422,
+          "length": 4
+        },
+        {
+          "text": "EGTA",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 629,
+          "length": 4
+        },
+        {
+          "text": "EGTA",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1137,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 502,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1473,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1500,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1657,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|695-725|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Delta695-725",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1512,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D|542|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D542A",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1669,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016257",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|DEL|695-725|",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004533",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004533",
+      "tail_id": "55503",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "55503",
+      "tail_id": "D002118",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

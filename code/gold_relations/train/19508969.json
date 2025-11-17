@@ -1,0 +1,690 @@
+{
+  "doc_id": "19508969",
+  "title": "Hypomorphic mutations in meckelin (MKS3/TMEM67) cause nephronophthisis with liver fibrosis (NPHP11).",
+  "body": "BACKGROUND: Nephronophthisis (NPHP), a rare recessive cystic kidney disease, is the most frequent genetic cause of chronic renal failure in children and young adults. Mutations in nine genes (NPHP1-9) have been identified. NPHP can be associated with retinal degeneration (Senior-Loken syndrome), brainstem and cerebellar anomalies (Joubert syndrome), or liver fibrosis. METHODS: To identify a causative gene for the subset of patients with associated liver fibrosis, the authors performed a genome wide linkage search in a consanguineous family with three affected patients using 50K SNP microarrays and homozygosity mapping. RESULTS: The authors obtained a significant maximum parametric LOD (logarithm of odds) score of Z(max) = 3.72 on chromosome 8q22 and identified a homozygous missense mutation in the gene MKS3/TMEM67. When examining a worldwide cohort of 62 independent patients with NPHP and associated liver fibrosis we identified altogether four novel mutations (p.W290L, p.C615R, p.G821S, and p.G821R) in five of them. Mutations of MKS3/TMEM67, found recently in Meckel-Gruber syndrome (MKS) type 3 and Joubert syndrome (JBTS) type 6, are predominantly truncating mutations. In contrast, the mutations detected here in patients with NPHP and associated liver fibrosis are exclusively missense mutations. This suggests that they may represent hypomorphic alleles, leading to a milder phenotype compared with the more severe MKS or JBTS phenotype. Additionally, mutation analysis for MKS3/TMEM67 in 120 patients with JBTS yielded seven different (four novel) mutations in five patients, four of whom also presented with congenital liver fibrosis. CONCLUSIONS: Hypomorphic MKS3/TMEM67 mutations cause NPHP with liver fibrosis (NPHP11). This is the first report of MKS3 mutations in patients with no vermian agenesis and without neurological signs. Thus NPHP, JBTS, and MKS represent allelic disorders.",
+  "entities": [
+    {
+      "id": "91147",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "meckelin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 8
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 4
+        },
+        {
+          "text": "TMEM67",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 6
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 915,
+          "length": 4
+        },
+        {
+          "text": "TMEM67",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 920,
+          "length": 6
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1146,
+          "length": 4
+        },
+        {
+          "text": "TMEM67",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1151,
+          "length": 6
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1596,
+          "length": 4
+        },
+        {
+          "text": "TMEM67",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1601,
+          "length": 6
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1784,
+          "length": 4
+        },
+        {
+          "text": "TMEM67",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1789,
+          "length": 6
+        },
+        {
+          "text": "MKS3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1875,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "OMIM:613550",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephronophthisis with liver fibrosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 36
+        },
+        {
+          "text": "NPHP11",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 6
+        },
+        {
+          "text": "NPHP with liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1812,
+          "length": 24
+        },
+        {
+          "text": "NPHP11",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1838,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C537699",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Nephronophthisis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 113,
+          "length": 16
+        },
+        {
+          "text": "NPHP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 131,
+          "length": 4
+        },
+        {
+          "text": "NPHP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 324,
+          "length": 4
+        },
+        {
+          "text": "NPHP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 994,
+          "length": 4
+        },
+        {
+          "text": "NPHP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1347,
+          "length": 4
+        },
+        {
+          "text": "NPHP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1964,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D052177",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cystic kidney disease",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 155,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D007676",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic renal failure",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 216,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "23322,261734,27031,27130,284086,4867,80184,84662,9657",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NPHP1-9",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 293,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012162",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinal degeneration",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 352,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C537580",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Senior-Loken syndrome",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 374,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D002526",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebellar anomalies",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 412,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C536293",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Joubert syndrome",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 434,
+          "length": 16
+        },
+        {
+          "text": "JBTS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1544,
+          "length": 4
+        },
+        {
+          "text": "JBTS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1629,
+          "length": 4
+        },
+        {
+          "text": "JBTS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1970,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008103",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 456,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 553,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1014,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1367,
+          "length": 14
+        },
+        {
+          "text": "liver fibrosis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1743,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 528,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 667,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 980,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1333,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1615,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1689,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1893,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs267607117",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.W290L",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1076,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs201893408",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.C615R",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1085,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs267607116",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.G821S",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1094,
+          "length": 7
+        },
+        {
+          "text": "p.G821R",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1107,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C536132",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Meckel-Gruber syndrome (MKS) type 3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1177,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "C537689",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Joubert syndrome (JBTS) type 6",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1217,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "C536133",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "MKS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1537,
+          "length": 3
+        },
+        {
+          "text": "MKS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1980,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "allelic disorders",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1994,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C537689",
+      "tail_id": "rs267607116",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C537689",
+      "tail_id": "rs201893408",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C537689",
+      "tail_id": "rs267607117",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C536132",
+      "tail_id": "rs267607116",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C536132",
+      "tail_id": "rs201893408",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C536132",
+      "tail_id": "rs267607117",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs267607116",
+      "tail_id": "C537699",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs267607116",
+      "tail_id": "C536133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "rs267607116",
+      "tail_id": "C536293",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "rs267607116",
+      "tail_id": "D008103",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "rs201893408",
+      "tail_id": "C537699",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "rs201893408",
+      "tail_id": "C536133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "rs201893408",
+      "tail_id": "C536293",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "rs201893408",
+      "tail_id": "D008103",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "rs267607117",
+      "tail_id": "C537699",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "rs267607117",
+      "tail_id": "C536133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "rs267607117",
+      "tail_id": "C536293",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "rs267607117",
+      "tail_id": "D008103",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "OMIM:613550",
+      "tail_id": "rs267607116",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "OMIM:613550",
+      "tail_id": "rs201893408",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "OMIM:613550",
+      "tail_id": "rs267607117",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "91147",
+      "tail_id": "C537689",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "91147",
+      "tail_id": "C536132",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "91147",
+      "tail_id": "C537699",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "91147",
+      "tail_id": "C536133",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "91147",
+      "tail_id": "C536293",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R26",
+      "head_id": "91147",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "91147",
+      "tail_id": "OMIM:613550",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

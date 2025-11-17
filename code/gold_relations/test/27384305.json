@@ -1,0 +1,499 @@
+{
+  "doc_id": "27384305",
+  "title": "Male 11b-HSD1 Knockout Mice Fed Trans-Fats and Fructose Are Not Protected From Metabolic Syndrome or Nonalcoholic Fatty Liver Disease.",
+  "body": "Nonalcoholic fatty liver disease (NAFLD) defines a spectrum of conditions from simple steatosis to nonalcoholic steatohepatitis (NASH) and cirrhosis and is regarded as the hepatic manifestation of the metabolic syndrome. Glucocorticoids can promote steatosis by stimulating lipolysis within adipose tissue, free fatty acid delivery to liver and hepatic de novo lipogenesis. Glucocorticoids can be reactivated in liver through 11b-hydroxysteroid dehydrogenase type 1 (11b-HSD1) enzyme activity. Inhibition of 11b-HSD1 has been suggested as a potential treatment for NAFLD. To test this, male mice with global (11b-HSD1 knockout [KO]) and liver-specific (LKO) 11b-HSD1 loss of function were fed the American Lifestyle Induced Obesity Syndrome (ALIOS) diet, known to recapitulate the spectrum of NAFLD, and metabolic and liver phenotypes assessed. Body weight, muscle and adipose tissue masses, and parameters of glucose homeostasis showed that 11b-HSD1KO and LKO mice were not protected from systemic metabolic disease. Evaluation of hepatic histology, triglyceride content, and blinded NAFLD activity score assessment indicated that levels of steatosis were similar between 11b-HSD1KO, LKO, and control mice. Unexpectedly, histological analysis revealed significantly increased levels of immune foci present in livers of 11b-HSD1KO but not LKO or control mice, suggestive of a transition to NASH. This was endorsed by elevated hepatic expression of key immune cell and inflammatory markers. These data indicate that 11b-HSD1-deficient mice are not protected from metabolic disease or hepatosteatosis in the face of a NAFLD-inducing diet. However, global deficiency of 11b-HSD1 did increase markers of hepatic inflammation and suggests a critical role for 11b-HSD1 in restraining the transition to NASH.",
+  "entities": [
+    {
+      "id": "15483",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "11b-HSD1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 5,
+          "length": 8
+        },
+        {
+          "text": "11b-hydroxysteroid dehydrogenase type 1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 561,
+          "length": 39
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 602,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 643,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 744,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 793,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1077,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1308,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1455,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1650,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1802,
+          "length": 8
+        },
+        {
+          "text": "11b-HSD1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1889,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 726,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1096,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1337,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1489,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1669,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D044242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Trans-Fats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D005632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Fructose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Metabolic Syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 18
+        },
+        {
+          "text": "metabolic syndrome",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 336,
+          "length": 18
+        },
+        {
+          "text": "metabolic disease",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1134,
+          "length": 17
+        },
+        {
+          "text": "metabolic disease",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1697,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D065626",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Nonalcoholic Fatty Liver Disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 32
+        },
+        {
+          "text": "Nonalcoholic fatty liver disease",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 135,
+          "length": 32
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 169,
+          "length": 5
+        },
+        {
+          "text": "nonalcoholic steatohepatitis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 234,
+          "length": 28
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 264,
+          "length": 4
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 700,
+          "length": 5
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 928,
+          "length": 5
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1220,
+          "length": 5
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1525,
+          "length": 4
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1751,
+          "length": 5
+        },
+        {
+          "text": "NASH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1931,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005234",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "steatosis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 221,
+          "length": 9
+        },
+        {
+          "text": "steatosis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 384,
+          "length": 9
+        },
+        {
+          "text": "steatosis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1277,
+          "length": 9
+        },
+        {
+          "text": "hepatosteatosis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1718,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cirrhosis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 274,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Glucocorticoids",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 356,
+          "length": 15
+        },
+        {
+          "text": "Glucocorticoids",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 509,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D005230",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "free fatty acid",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 442,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1045,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triglyceride",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1186,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1603,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008107",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatic inflammation",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1835,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005947",
+      "tail_id": "15483",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005947",
+      "tail_id": "D008659",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "15483",
+      "tail_id": "D008107",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "15483",
+      "tail_id": "D065626",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005234",
+      "tail_id": "D005230",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005938",
+      "tail_id": "15483",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005938",
+      "tail_id": "D005230",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D044242",
+      "tail_id": "D065626",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D044242",
+      "tail_id": "D008659",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005632",
+      "tail_id": "D065626",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D005632",
+      "tail_id": "D008659",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

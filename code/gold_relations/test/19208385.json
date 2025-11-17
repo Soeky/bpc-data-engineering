@@ -1,0 +1,278 @@
+{
+  "doc_id": "19208385",
+  "title": "Osteogenesis imperfecta type III with intracranial hemorrhage and brachydactyly associated with mutations in exon 49 of COL1A2.",
+  "body": "Osteogenesis imperfecta (OI) is a heritable bone disorder characterized by fractures with minimal trauma. Intracranial hemorrhage has been reported in a small number of OI patients. Here we describe three patients, a boy (aged 15 years) and two girls (aged 17 and 7 years) with OI type III who suffered intracranial hemorrhage and in addition had brachydactyly and nail hypoplasia. In all of these patients, OI was caused by glycine mutations affecting exon 49 of the COL1A2 gene, which codes for the most carboxy-terminal part of the triple-helical domain of the collagen type I alpha 2 chain. These observations suggest that mutations in this region of the collagen type I alpha 2 chain carry a high risk of abnormal limb development and intracranial bleeding.",
+  "entities": [
+    {
+      "id": "C536044",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Osteogenesis imperfecta type III",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 32
+        },
+        {
+          "text": "OI type III",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 406,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D020300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intracranial hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 23
+        },
+        {
+          "text": "Intracranial hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 234,
+          "length": 23
+        },
+        {
+          "text": "intracranial hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 431,
+          "length": 23
+        },
+        {
+          "text": "intracranial bleeding",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 868,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D059327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brachydactyly",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 13
+        },
+        {
+          "text": "brachydactyly",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 475,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "1278",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COL1A2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 120,
+          "length": 6
+        },
+        {
+          "text": "COL1A2",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 596,
+          "length": 6
+        },
+        {
+          "text": "collagen type I alpha 2",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 692,
+          "length": 23
+        },
+        {
+          "text": "collagen type I alpha 2",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 787,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D010013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Osteogenesis imperfecta",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 128,
+          "length": 23
+        },
+        {
+          "text": "OI",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 153,
+          "length": 2
+        },
+        {
+          "text": "OI",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 297,
+          "length": 2
+        },
+        {
+          "text": "OI",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 536,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D001847",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bone disorder",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 172,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D050723",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fractures",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 203,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014947",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "trauma",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 226,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 300,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 333,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 526,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009260",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nail hypoplasia",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 493,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009140",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "abnormal limb development",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 838,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1278",
+      "tail_id": "D009140",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1278",
+      "tail_id": "D020300",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1278",
+      "tail_id": "D010013",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "1278",
+      "tail_id": "C536044",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D059327",
+      "tail_id": "1278",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

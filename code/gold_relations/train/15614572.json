@@ -1,0 +1,547 @@
+{
+  "doc_id": "15614572",
+  "title": "Effects of the antidepressant trazodone, a 5-HT 2A/2C receptor antagonist, on dopamine-dependent behaviors in rats.",
+  "body": "RATIONALE: 5-Hydroxytryptamine, via stimulation of 5-HT 2C receptors, exerts a tonic inhibitory influence on dopaminergic neurotransmission, whereas activation of 5-HT 2A receptors enhances stimulated DAergic neurotransmission. The antidepressant trazodone is a 5-HT 2A/2C receptor antagonist. OBJECTIVES: To evaluate the effect of trazodone treatment on behaviors dependent on the functional status of the nigrostriatal DAergic system. METHODS: The effect of pretreatment with trazodone on dexamphetamine- and apomorphine-induced oral stereotypies, on catalepsy induced by haloperidol and apomorphine (0.05 mg/kg, i.p.), on ergometrine-induced wet dog shake (WDS) behavior and fluoxetine-induced penile erections was studied in rats. We also investigated whether trazodone induces catalepsy in rats. RESULTS: Trazodone at 2.5-20 mg/kg i.p. did not induce catalepsy, and did not antagonize apomorphine (1.5 and 3 mg/kg) stereotypy and apomorphine (0.05 mg/kg)-induced catalepsy. However, pretreatment with 5, 10 and 20 mg/kg i.p. trazodone enhanced dexamphetamine stereotypy, and antagonized haloperidol catalepsy, ergometrine-induced WDS behavior and fluoxetine-induced penile erections. Trazodone at 30, 40 and 50 mg/kg i.p. induced catalepsy and antagonized apomorphine and dexamphetamine stereotypies. CONCLUSIONS: Our results indicate that trazodone at 2.5-20 mg/kg does not block pre- and postsynaptic striatal D2 DA receptors, while at 30, 40 and 50 mg/kg it blocks postsynaptic striatal D2 DA receptors. Furthermore, at 5, 10 and 20 mg/kg, trazodone blocks 5-HT 2A and 5-HT 2C receptors. We suggest that trazodone (5, 10 and 20 mg/kg), by blocking the 5-HT 2C receptors, releases the nigrostriatal DAergic neurons from tonic inhibition caused by 5-HT, and thereby potentiates dexamphetamine stereotypy and antagonizes haloperidol catalepsy.",
+  "entities": [
+    {
+      "id": "D014196",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "trazodone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 363,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 448,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 594,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 880,
+          "length": 9
+        },
+        {
+          "text": "Trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 926,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1146,
+          "length": 9
+        },
+        {
+          "text": "Trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1305,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1461,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1664,
+          "length": 9
+        },
+        {
+          "text": "trazodone",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1728,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "25187,29595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "5-HT 2A/2C receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 19
+        },
+        {
+          "text": "5-HT 2A/2C receptor",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 378,
+          "length": 19
+        },
+        {
+          "text": "5-HT 2A and 5-HT 2C receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1681,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 845,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 911,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-Hydroxytryptamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 127,
+          "length": 19
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1870,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25187",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "5-HT 2C receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 167,
+          "length": 17
+        },
+        {
+          "text": "5-HT 2C receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1776,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "29595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "5-HT 2A receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 279,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D003913",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamphetamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 607,
+          "length": 14
+        },
+        {
+          "text": "dexamphetamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1165,
+          "length": 14
+        },
+        {
+          "text": "dexamphetamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1393,
+          "length": 14
+        },
+        {
+          "text": "dexamphetamine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1900,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 627,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 706,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1006,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1051,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1377,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009062",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oral stereotypies",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 647,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D002375",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 669,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 898,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 972,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1084,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1220,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1351,
+          "length": 9
+        },
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1954,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 690,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1208,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1942,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D004874",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ergometrine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 741,
+          "length": 11
+        },
+        {
+          "text": "ergometrine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1231,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D005473",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 794,
+          "length": 10
+        },
+        {
+          "text": "fluoxetine",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1268,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "D2 DA receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1533,
+          "length": 15
+        },
+        {
+          "text": "D2 DA receptors",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1611,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012701",
+      "tail_id": "25187",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002375",
+      "tail_id": "D006220",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002375",
+      "tail_id": "D001058",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001058",
+      "tail_id": "D009062",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003913",
+      "tail_id": "D009062",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014196",
+      "tail_id": "24318",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014196",
+      "tail_id": "D005473",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D014196",
+      "tail_id": "D004874",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D014196",
+      "tail_id": "D006220",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D014196",
+      "tail_id": "D002375",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D014196",
+      "tail_id": "D009062",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D014196",
+      "tail_id": "D001058",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D014196",
+      "tail_id": "D003913",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D014196",
+      "tail_id": "29595",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D014196",
+      "tail_id": "25187",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

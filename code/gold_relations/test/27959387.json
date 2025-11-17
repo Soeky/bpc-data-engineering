@@ -1,0 +1,693 @@
+{
+  "doc_id": "27959387",
+  "title": "Long-term exposure of MCF-7 breast cancer cells to ethanol stimulates oncogenic features.",
+  "body": "Alcohol consumption is a risk factor for breast cancer. Little is known regarding the mechanism, although it is assumed that acetaldehyde or estrogen mediated pathways play a role. We previously showed that long-term exposure to 2.5 mM ethanol (blood alcohol ~0.012%) of MCF-12A, a human normal epithelial breast cell line, induced epithelial mesenchymal transition (EMT) and oncogenic transformation. In this study, we investigated in the human breast cancer cell line MCF-7, whether a similar exposure to ethanol at concentrations ranging up to peak blood levels in heavy drinkers would increase malignant progression. Short-term (1-week) incubation to ethanol at as low as 1-5 mM (corresponding to blood alcohol concentration of ~0.0048-0.024%) upregulated the stem cell related proteins Oct4 and Nanog, but they were reduced after exposure at 25 mM. Long-term (4-week) exposure to 25 mM ethanol upregulated the Oct4 and Nanog proteins, as well as the malignancy marker Ceacam6. DNA microarray analysis in cells exposed for 1 week showed upregulated expression of metallothionein genes, particularly MT1X. Long-term exposure upregulated expression of some malignancy related genes (STEAP4, SERPINA3, SAMD9, GDF15, KRT15, ITGB6, TP63, and PGR, as well as the CEACAM, interferon related, and HLA gene families). Some of these findings were validated by RT-PCR. A similar treatment also modulated numerous microRNAs (miRs) including one regulator of Oct4 as well as miRs involved in oncogenesis and/or malignancy, with only a few estrogen-induced miRs. Long-term 25 mM ethanol also induced a 5.6-fold upregulation of anchorage-independent growth, an indicator of malignant-like features. Exposure to acetaldehyde resulted in little or no effect comparable to that of ethanol. The previously shown alcohol induction of oncogenic transformation of normal breast cells is now complemented by the current results suggesting alcohol's potential involvement in malignant progression of breast cancer.",
+  "entities": [
+    {
+      "id": "CVCL_0031",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MCF-7",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 5
+        },
+        {
+          "text": "MCF-7",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 560,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 131,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 536,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2070,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D000431",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ethanol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 326,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 597,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 745,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 981,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1659,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1857,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Alcohol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 90,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 341,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 797,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1887,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2010,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000079",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetaldehyde",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 215,
+          "length": 12
+        },
+        {
+          "text": "acetaldehyde",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1790,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D004967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 231,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1620,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "CVCL_3744",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MCF-12A",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 361,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 372,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 530,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5460",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Oct4",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 881,
+          "length": 4
+        },
+        {
+          "text": "Oct4",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1005,
+          "length": 4
+        },
+        {
+          "text": "Oct4",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1540,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "79923",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nanog",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 890,
+          "length": 5
+        },
+        {
+          "text": "Nanog",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1014,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignancy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1045,
+          "length": 10
+        },
+        {
+          "text": "malignancy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1249,
+          "length": 10
+        },
+        {
+          "text": "malignancy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1592,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "4680",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ceacam6",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1063,
+          "length": 7
+        },
+        {
+          "text": "CEACAM",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1351,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4501",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "metallothionein",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1157,
+          "length": 15
+        },
+        {
+          "text": "MT1X",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1193,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "79689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STEAP4",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1275,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SERPINA3",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1283,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "54809",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SAMD9",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1293,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9518",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GDF15",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1300,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3866",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KRT15",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1307,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3694",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ITGB6",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1314,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "8626",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TP63",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1321,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5241",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PGR",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1331,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "282617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interferon",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1359,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "3123",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HLA",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1383,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3123",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3123",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "282617",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "282617",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5241",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "5241",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "8626",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "8626",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3694",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "3694",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3866",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "3866",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "9518",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "9518",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "54809",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "54809",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "12",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "12",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "79689",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "79689",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D009369",
+      "tail_id": "4680",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "79923",
+      "tail_id": "D000438",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "5460",
+      "tail_id": "D000438",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D000438",
+      "tail_id": "D001943",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "D000438",
+      "tail_id": "D000431",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "D000431",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "D000431",
+      "tail_id": "4501",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "D000431",
+      "tail_id": "4680",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "D000431",
+      "tail_id": "79923",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "D000431",
+      "tail_id": "5460",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D000431",
+      "tail_id": "D001943",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

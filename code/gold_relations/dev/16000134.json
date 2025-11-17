@@ -1,0 +1,238 @@
+{
+  "doc_id": "16000134",
+  "title": "Successful therapy with argatroban for superior mesenteric vein thrombosis in a patient with congenital antithrombin deficiency.",
+  "body": "A 38-year-old woman was admitted with superior mesenteric vein (SMV) thrombosis, which was refractory to anticoagulation therapy. The plasma antithrombin activity was decreased and hardly compensated by concentrated antithrombin preparation due to high consumption rate. However, successful anticoagulation was achieved by administration of direct thrombin inhibitor, argatroban. Family studies of antithrombin activity revealed that she had type I congenital antithrombin deficiency. A novel heterozygous mutation in the gene for antithrombin (single nucleotide T insertion at 7916 and 7917, Glu 272 to stop in exon 4) was identified. Argatroban administration would be effective in the treatment of congenital antithrombin deficiency with SMV thrombosis.",
+  "entities": [
+    {
+      "id": "C031942",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "argatroban",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 10
+        },
+        {
+          "text": "argatroban",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 497,
+          "length": 10
+        },
+        {
+          "text": "Argatroban",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 765,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D020246",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vein thrombosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 15
+        },
+        {
+          "text": "superior mesenteric vein (SMV) thrombosis",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 167,
+          "length": 41
+        },
+        {
+          "text": "SMV thrombosis",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 870,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 7
+        },
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 143,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D020152",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital antithrombin deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 34
+        },
+        {
+          "text": "congenital antithrombin deficiency",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 830,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "462",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "antithrombin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 270,
+          "length": 12
+        },
+        {
+          "text": "antithrombin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 345,
+          "length": 12
+        },
+        {
+          "text": "antithrombin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 527,
+          "length": 12
+        },
+        {
+          "text": "antithrombin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 660,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "2147",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thrombin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 477,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D025861",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type I congenital antithrombin deficiency",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 571,
+          "length": 41
+        }
+      ]
+    },
+    {
+      "id": "c|INS|7916_7917|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "nucleotide T insertion at 7916 and 7917",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 681,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E|272|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Glu 272 to stop",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 722,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2147",
+      "tail_id": "C031942",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D020246",
+      "tail_id": "462",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C031942",
+      "tail_id": "D020246",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C031942",
+      "tail_id": "D020152",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D025861",
+      "tail_id": "p|SUB|E|272|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D025861",
+      "tail_id": "c|INS|7916_7917|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "462",
+      "tail_id": "D025861",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

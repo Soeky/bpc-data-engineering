@@ -1,0 +1,449 @@
+{
+  "doc_id": "28346429",
+  "title": "Deletion of endothelial cell-specific liver kinase B1 increases angiogenesis and tumor growth via vascular endothelial growth factor.",
+  "body": "Liver kinase B1 (LKB1) is a serine/threonine protein kinase ubiquitously expressed in mammalian cells. It was first identified in Peutz-Jeghers syndrome as a tumor suppressor gene. Whether endothelial LKB1 regulates angiogenesis and tumor growth is unknown. In this study, we generated endothelial cell-specific LKB1-knockout (LKB1(endo-/-)) mice by crossbreeding vascular endothelial-cadherin-Cre mice with LKB1(flox/flox) mice. Vascular endothelial growth factor (VEGF) level was highly co-stained in endothelial cells but not in macrophages in LKB1(endo-/-) mice. Consistently, LKB1(endo-/-) mouse tissues including the lung, skin, kidney and liver showed increased vascular permeability. Tumors implanted in LKB1(endo-/-) mice but not macrophage-specific LKB1-knockout mice grew faster and showed enhanced vascular permeability and increased angiogenesis as compared with those implanted in wild-type mice. Injection of VEGF-neutralizing antibody but not the isotype-matched control antibody decreased endothelial-cell angiogenesis and tumor growth in vivo. Furthermore, LKB1 deletion enhanced mouse retinal and cell angiogenesis, and knockdown of VEGF by small-interfering RNA decreased endothelial cell proliferation and migration. Re-expression of LKB1 or knockdown of VEGF receptor 2 decreased the overproliferation and -migration observed in LKB1(endo-/-) cells. Mechanistically, LKB1 could bind to the VEGF transcription factor, specificity protein 1 (Sp1), which then inhibited the binding of Sp1 to the VEGF promoter to reduce VEGF expression. Endothelial LKB1 may regulate endothelial angiogenesis and tumor growth by modulating Sp1-mediated VEGF expression.",
+  "entities": [
+    {
+      "id": "20869",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "liver kinase B1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 15
+        },
+        {
+          "text": "Liver kinase B1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 134,
+          "length": 15
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 151,
+          "length": 4
+        },
+        {
+          "text": "serine/threonine protein kinase",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 162,
+          "length": 31
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 335,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 446,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 461,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 542,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 681,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 715,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 846,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 893,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1209,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1389,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1485,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1523,
+          "length": 4
+        },
+        {
+          "text": "LKB1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1702,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 292,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 367,
+          "length": 5
+        },
+        {
+          "text": "Tumors",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 826,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1174,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1749,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "22339",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 34
+        },
+        {
+          "text": "Vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 564,
+          "length": 34
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 600,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1058,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1286,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1546,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1649,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1673,
+          "length": 4
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1789,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010580",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Peutz-Jeghers syndrome",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 264,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 476,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 532,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 558,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 695,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 729,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 860,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 907,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1039,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1232,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial-cadherin",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 498,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "16542",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF receptor 2",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1410,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "20683",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "specificity protein 1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1573,
+          "length": 21
+        },
+        {
+          "text": "Sp1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1596,
+          "length": 3
+        },
+        {
+          "text": "Sp1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1638,
+          "length": 3
+        },
+        {
+          "text": "Sp1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1776,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "16542",
+      "tail_id": "20869",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "22339",
+      "tail_id": "20683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "22339",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009369",
+      "tail_id": "20683",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "20869",
+      "tail_id": "D010580",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "20869",
+      "tail_id": "20683",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "20869",
+      "tail_id": "22339",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "20869",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

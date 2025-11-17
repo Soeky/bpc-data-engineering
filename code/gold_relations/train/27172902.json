@@ -1,0 +1,548 @@
+{
+  "doc_id": "27172902",
+  "title": "Cisplatin induces tolerogenic dendritic cells in response to TLR agonists via the abundant production of IL-10, thereby promoting Th2- and Tr1-biased T-cell immunity.",
+  "body": "Although many advantageous roles of cisplatin (cis-diamminedichloroplatinum (II), CDDP) have been reported in cancer therapy, the immunomodulatory roles of cisplatin in the phenotypic and functional alterations of dendritic cells (DCs) are poorly understood. Here, we investigated the effect of cisplatin on the functionality of DCs and the changes in signaling pathways activated upon toll-like receptor (TLR) stimulation. Cisplatin-treated DCs down-regulated the expression of cell surface molecules (CD80, CD86, MHC class I and II) and up-regulated endocytic capacity in a dose-dependent manner. Upon stimulation with various TLR agonists, cisplatin-treated DCs showed markedly increased IL-10 production through activation of the p38 MAPK and NF-kappaB signaling pathways without altering the levels of TNF-alpha and IL-12p70, indicating the cisplatin-mediated induction of tolerogenic DCs. This effect was dependent on the production of IL-10 from DCs, as neither DCs isolated from IL-10-/- mice nor IL-10-neutralized DCs generated tolerogenic DCs. Interestingly, DCs that were co-treated with cisplatin and lipopolysaccharide (LPS) exhibited a decreased immunostimulatory capacity for inducing the proliferation of Th1- and Th17-type T cells; instead, these DCs contributed to Th2-type T cell immunity. Furthermore, in vitro and in vivo investigations revealed a unique T cell population, IL-10-producing CD3+CD4+LAG-3+CD49b+CD25-Foxp3- Tr1 cells, that was significantly increased without altering the Foxp3+ regulatory T cell population. Taken together, our results suggest that cisplatin induces immune-suppressive tolerogenic DCs in TLR agonist-induced inflammatory conditions via abundant IL-10 production, thereby skewing Th cell differentiation towards Th2 and Tr1 cells. This relationship may provide cancer cells with an opportunity to evade the immune system.",
+  "entities": [
+    {
+      "id": "D002945",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Cisplatin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 203,
+          "length": 9
+        },
+        {
+          "text": "cis-diamminedichloroplatinum",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 214,
+          "length": 28
+        },
+        {
+          "text": "CDDP",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 249,
+          "length": 4
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 323,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 462,
+          "length": 9
+        },
+        {
+          "text": "Cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 591,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 810,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1013,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1266,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1753,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "13982",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TLR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 3
+        },
+        {
+          "text": "toll-like receptor",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 553,
+          "length": 18
+        },
+        {
+          "text": "TLR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 573,
+          "length": 3
+        },
+        {
+          "text": "TLR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 796,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 858,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1109,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1154,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1172,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1562,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1866,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 277,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1981,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12519",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD80",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 670,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12524",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD86",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 676,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14961,14972",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MHC class I and II",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 682,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 901,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "18033",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 914,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 974,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16185",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-12p70",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 988,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1163,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1280,
+          "length": 18
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1300,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12501",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD3",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1578,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12504",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1582,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16768",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LAG-3",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1586,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16398",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD49b",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1592,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16184",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1598,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20371",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Foxp3",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1603,
+          "length": 5
+        },
+        {
+          "text": "Foxp3",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1675,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "TLR agonist",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1809,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1829,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "16153",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "16153",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "16153",
+      "tail_id": "18033",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "16153",
+      "tail_id": "26416",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "13982",
+      "tail_id": "18033",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "13982",
+      "tail_id": "26416",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "13982",
+      "tail_id": "16153",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002945",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002945",
+      "tail_id": "D007249",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D002945",
+      "tail_id": "D008070",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D002945",
+      "tail_id": "18033",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002945",
+      "tail_id": "26416",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D002945",
+      "tail_id": "16153",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D002945",
+      "tail_id": "12524",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D002945",
+      "tail_id": "12519",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D002945",
+      "tail_id": "13982",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

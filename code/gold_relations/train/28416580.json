@@ -1,0 +1,580 @@
+{
+  "doc_id": "28416580",
+  "title": "A TSPO ligand attenuates brain injury after intracerebral hemorrhage.",
+  "body": "Intracerebral hemorrhage (ICH) is a devastating disease without effective treatment. After ICH, the immediate infiltration of leukocytes and activation of microglia are accompanied by a rapid up-regulation of the 18-kDa translocator protein (TSPO). TSPO ligands have shown anti-inflammatory and neuroprotective properties in models of CNS injury. In this study, we determined the impact of a TSPO ligand, etifoxine, on brain injury and inflammation in 2 mouse models of ICH. TSPO was up-regulated in Iba1(+) cells from brains of patients with ICH and in CD11b(+)CD45(int) cells from mice subjected to collagenase-induced ICH. Etifoxine significantly reduced neurodeficits and perihematomal brain edema after ICH induction by injection of either autologous blood or collagenase. In collagenase-induced ICH mice, the protection of etifoxine was associated with reduced leukocyte infiltration into the brain and microglial production of IL-6 and TNF-a. Etifoxine improved blood-brain barrier integrity and diminished cell death. Notably, the protective effect of etifoxine was abolished in mice depleted of microglia by using a colony-stimulating factor 1 receptor inhibitor. These results indicate that the TSPO ligand etifoxine attenuates brain injury and inflammation after ICH. TSPO may be a viable therapeutic target that requires further investigations in ICH.-Li, M., Ren, H., Sheth, K. N., Shi, F.-D., Liu, Q. A TSPO ligand attenuates brain injury after intracerebral hemorrhage.",
+  "entities": [
+    {
+      "id": "12257",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TSPO",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 2,
+          "length": 4
+        },
+        {
+          "text": "translocator protein",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 290,
+          "length": 20
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 312,
+          "length": 4
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 319,
+          "length": 4
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 462,
+          "length": 4
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1275,
+          "length": 4
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1349,
+          "length": 4
+        },
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1487,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brain injury",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 12
+        },
+        {
+          "text": "brain injury",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 489,
+          "length": 12
+        },
+        {
+          "text": "neurodeficits",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 728,
+          "length": 13
+        },
+        {
+          "text": "brain injury",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1308,
+          "length": 12
+        },
+        {
+          "text": "brain injury",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1510,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 24
+        },
+        {
+          "text": "Intracerebral hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 70,
+          "length": 24
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 96,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 161,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 540,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 613,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 691,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 778,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 871,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1344,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1429,
+          "length": 3
+        },
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1529,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 348,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 506,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1325,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002493",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "CNS injury",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 405,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C002125",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 475,
+          "length": 9
+        },
+        {
+          "text": "Etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 696,
+          "length": 9
+        },
+        {
+          "text": "etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 899,
+          "length": 9
+        },
+        {
+          "text": "Etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1020,
+          "length": 9
+        },
+        {
+          "text": "etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1130,
+          "length": 9
+        },
+        {
+          "text": "etifoxine",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1287,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 524,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 653,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 875,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1157,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "706",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TSPO",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 545,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Iba1",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 570,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 599,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "16409",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD11b",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 624,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "19264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD45",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 632,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D017364",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "collagenase",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 671,
+          "length": 11
+        },
+        {
+          "text": "collagenase",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 835,
+          "length": 11
+        },
+        {
+          "text": "collagenase",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 851,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brain edema",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 760,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1004,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-a",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1013,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "colony-stimulating factor 1 receptor",
+          "passage_index": 1,
+          "passage_offset": 70,
+          "char_offset": 1195,
+          "length": 36
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017364",
+      "tail_id": "D002543",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002543",
+      "tail_id": "199",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "706",
+      "tail_id": "D002543",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "706",
+      "tail_id": "199",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "12257",
+      "tail_id": "D002493",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "12257",
+      "tail_id": "D002543",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "12257",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "12257",
+      "tail_id": "D001927",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "12257",
+      "tail_id": "C002125",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "C002125",
+      "tail_id": "12978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C002125",
+      "tail_id": "21926",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C002125",
+      "tail_id": "16193",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C002125",
+      "tail_id": "D001929",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C002125",
+      "tail_id": "D002543",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C002125",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C002125",
+      "tail_id": "D001927",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

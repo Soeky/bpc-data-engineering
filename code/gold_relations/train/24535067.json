@@ -1,0 +1,303 @@
+{
+  "doc_id": "24535067",
+  "title": "Prevention of etomidate-induced myoclonus: which is superior: Fentanyl, midazolam, or a combination? A Retrospective comparative study.",
+  "body": "BACKGROUND: In this retrospective comparative study, we aimed to compare the effectiveness of fentanyl, midazolam, and a combination of fentanyl and midazolam to prevent etomidate-induced myoclonus. MATERIAL AND METHODS: This study was performed based on anesthesia records. Depending on the drugs that would be given before the induction of anesthesia with etomidate, the patients were separated into 4 groups: no pretreatment (Group NP), fentanyl 1 ug.kg-1 (Group F), midazolam 0.03 mg.kg-1 (Group M), and midazolam 0.015 mg.kg-1 + fentanyl 0.5 ug.kg-1 (Group FM). Patients who received the same anesthetic procedure were selected: 2 minutes after intravenous injections of the pretreatment drugs, anesthesia is induced with 0.3 mg.kg-1 etomidate injected intravenously over a period of 20-30 seconds. Myoclonic movements are evaluated, which were observed and graded according to clinical severity during the 2 minutes after etomidate injection. The severity of pain due to etomidate injection, mean arterial pressure, heart rate, and adverse effects were also evaluated. RESULTS: Study results showed that myoclonus incidence was 85%, 40%, 70%, and 25% in Group NP, Group F, Group M, and Group FM, respectively, and were significantly lower in Group F and Group FM. CONCLUSIONS: We conclude that pretreatment with fentanyl or combination of fentanyl and midazolam was effective in preventing etomidate-induced myoclonus.",
+  "entities": [
+    {
+      "id": "D005045",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etomidate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 306,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 494,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 875,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1064,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1113,
+          "length": 9
+        },
+        {
+          "text": "etomidate",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1532,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009207",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myoclonus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 9
+        },
+        {
+          "text": "myoclonus",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 324,
+          "length": 9
+        },
+        {
+          "text": "myoclonus",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1246,
+          "length": 9
+        },
+        {
+          "text": "myoclonus",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1550,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005283",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Fentanyl",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 230,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 272,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 576,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 670,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1454,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1481,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008874",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "midazolam",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 9
+        },
+        {
+          "text": "midazolam",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 240,
+          "length": 9
+        },
+        {
+          "text": "midazolam",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 285,
+          "length": 9
+        },
+        {
+          "text": "midazolam",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 606,
+          "length": 9
+        },
+        {
+          "text": "midazolam",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 644,
+          "length": 9
+        },
+        {
+          "text": "midazolam",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1494,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 509,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 703,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Myoclonic movements",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 940,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1101,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008874",
+      "tail_id": "D009207",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008874",
+      "tail_id": "D005045",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005283",
+      "tail_id": "D008874",
+      "type": "Comparison",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005283",
+      "tail_id": "D009207",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005283",
+      "tail_id": "D005045",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D010146",
+      "tail_id": "D005045",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009069",
+      "tail_id": "D005045",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005045",
+      "tail_id": "D009207",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "doc_id": "16840830",
+  "title": "Two novel mutations in the MEN1 gene in subjects with multiple endocrine neoplasia-1.",
+  "body": "Multiple endocrine neoplasia type 1 (MEN1) is characterized by parathyroid, enteropancreatic endocrine and pituitary adenomas as well as germline mutation of the MEN1 gene. We describe 2 families with MEN1 with novel mutations in the MEN1 gene. One family was of Turkish origin, and the index patient had primary hyperparathyroidism (PHPT) plus a prolactinoma; three relatives had PHPT only. The index patient in the second family was a 46-yr-old woman of Chinese origin living in Taiwan. This patient presented with a complaint of epigastric pain and watery diarrhea over the past 3 months, and had undergone subtotal parathyroidectomy and enucleation of pancreatic islet cell tumor about 10 yr before. There was also a prolactinoma. Sequence analysis of the MEN1 gene from leukocyte genomic DNA revealed heterozygous mutations in both probands. The Turkish patient and her affected relatives all had a heterozygous A to G transition at codon 557 (AAG-->GAG) of exon 10 of MEN1 that results in a replacement of lysine by glutamic acid. The Chinese index patient and one of her siblings had a heterozygous mutation at codon 418 of exon 9 (GAC-->TAT) that results in a substitution of aspartic acid by tyrosine. In conclusion, we have identified 2 novel missense mutations in the MEN1 gene.",
+  "entities": [
+    {
+      "id": "4221",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MEN1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 248,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 287,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 320,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 846,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1060,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1365,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018761",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiple endocrine neoplasia-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 30
+        },
+        {
+          "text": "Multiple endocrine neoplasia type 1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 86,
+          "length": 35
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 123,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C535650,D010911",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "enteropancreatic endocrine and pituitary adenomas",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 162,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 379,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 488,
+          "length": 7
+        },
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 533,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 580,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 945,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1141,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D049950",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary hyperparathyroidism",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 391,
+          "length": 27
+        },
+        {
+          "text": "PHPT",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 420,
+          "length": 4
+        },
+        {
+          "text": "PHPT",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 467,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prolactinoma",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 433,
+          "length": 12
+        },
+        {
+          "text": "prolactinoma",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 807,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 629,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003967",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diarrhea",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 645,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007516",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pancreatic islet cell tumor",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 742,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|K|557|E",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A to G transition at codon 557 (AAG-->GAG)",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1003,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|K||E",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "lysine by glutamic acid",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1098,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D|418|Y",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "mutation at codon 418 of exon 9 (GAC-->TAT)",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1192,
+          "length": 43
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D||Y",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "aspartic acid by tyrosine",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1270,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D018761",
+      "tail_id": "p|SUB|D||Y",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018761",
+      "tail_id": "p|SUB|D|418|Y",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018761",
+      "tail_id": "p|SUB|K||E",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018761",
+      "tail_id": "p|SUB|K|557|E",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4221",
+      "tail_id": "D018761",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

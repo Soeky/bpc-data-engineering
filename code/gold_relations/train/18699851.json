@@ -1,0 +1,177 @@
+{
+  "doc_id": "18699851",
+  "title": "Integrated genomic and expression profiling in mantle cell lymphoma: identification of gene-dosage regulated candidate genes.",
+  "body": "Mantle cell lymphoma (MCL) is characterized by the t(11;14)(q13;q32) translocation and several other cytogenetic aberrations, including heterozygous loss of chromosomal arms 1p, 6q, 11q and 13q and/or gains of 3q and 8q. The common intervals of chromosomal imbalance have been narrowed down using array-comparative genomic hybridization (CGH). However, the chromosomal intervals still contain many genes potentially involved in MCL pathogeny. Combined analysis of tiling-resolution array-CGH with gene expression profiling on 11 MCL tumours enabled the identification of genomic alterations and their corresponding gene expression profiles. Only subsets of genes located within given cytogenetic anomaly-intervals showed a concomitant change in mRNA expression level. The genes that showed consistent correlation between DNA copy number and RNA expression levels are likely to be important in MCL pathology. Besides several 'anonymous genes', we also identified various fully annotated genes, whose gene products are involved in cyclic adenosine monophosphate-regulated pathways (PRKACB), DNA damage repair, maintenance of chromosome stability and prevention of rereplication (ATM, ERCC5, FBXO5), energy metabolism (such as genes that are involved in the synthesis of proteins encoded by the mitochondrial genome) and signal transduction (ARHGAP29). Deregulation of these gene products may interfere with the signalling pathways that are involved in MCL tumour development and maintenance.",
+  "entities": [
+    {
+      "id": "D020522",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mantle cell lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 20
+        },
+        {
+          "text": "Mantle cell lymphoma",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 126,
+          "length": 20
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 148,
+          "length": 3
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 554,
+          "length": 3
+        },
+        {
+          "text": "MCL tumours",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 655,
+          "length": 11
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1019,
+          "length": 3
+        },
+        {
+          "text": "MCL tumour",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1576,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclic adenosine monophosphate",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1155,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "5567",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PRKACB",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1206,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "472",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATM",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1303,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2073",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERCC5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1308,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "26271",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FBXO5",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1315,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ARHGAP29",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1465,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020522",
+      "tail_id": "2073",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D020522",
+      "tail_id": "472",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D020522",
+      "tail_id": "5567",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D020522",
+      "tail_id": "9411",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D020522",
+      "tail_id": "26271",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

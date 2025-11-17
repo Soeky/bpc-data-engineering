@@ -1,0 +1,330 @@
+{
+  "doc_id": "21666969",
+  "title": "Roles of G1359A polymorphism of the cannabinoid receptor gene (CNR1) on weight loss and adipocytokines after a hypocaloric diet.",
+  "body": "BACKGROUND: A intragenic biallelic polymorphism (1359 G/A) of the CB1 gene resulting in the substitution of the G to A at nucleotide position 1359 in codon 435 (Thr), was reported as a common polymorphism in Caucasian populations. Intervention studies with this polymorphism have not been realized. OBJECTIVE: We decided to investigate the role of the polymorphism (G1359A) of CB1 receptor gene on adipocytokines response and weight loss secondary to a lifestyle modification (Mediterranean hypocaloric diet and exercise) in obese patients. DESIGN: A population of 94 patients with obesity was analyzed. Before and after 3 months on a hypocaloric diet, an anthropometric evaluation, an assessment of nutritional intake and a biochemical analysis were performed. The statistical analysis was performed for the combined G1359A and A1359A as a group and wild type G1359G as second group, with a dominant model. Results: Forty seven patients (50%) had the genotype G1359G (wild type group) and 47 (50%) patients G1359A (41 patients, 43.6%) or A1359A (6 patients, 6.4%) (mutant type group) had the genotype. In wild and mutant type groups, weight, body mass index, fat mass, waist circumference and systolic blood pressure decreased. In mutant type group, resistin (4.15 1.7 ng/ml vs. 3.90 2.1 ng/ml: P < 0.05), leptin (78.4 69 ng/ml vs 66.2 32 ng/ml: P < 0.05) and IL-6 (1.40 1.9 pg/ml vs 0.81 1.5 pg/ml: P < 0.05) levels decreased after dietary treatment. CONCLUSION: The novel finding of this study is the association of the mutant allele (A1359) with a decrease of resistin, leptin and interleukin-6 secondary to weight loss.",
+  "entities": [
+    {
+      "id": "rs1049353",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G1359A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 6
+        },
+        {
+          "text": "1359 G/A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 178,
+          "length": 8
+        },
+        {
+          "text": "G to A at nucleotide position 1359",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 241,
+          "length": 34
+        },
+        {
+          "text": "codon 435 (Thr)",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 279,
+          "length": 15
+        },
+        {
+          "text": "G1359A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 495,
+          "length": 6
+        },
+        {
+          "text": "G1359A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 947,
+          "length": 6
+        },
+        {
+          "text": "A1359A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 958,
+          "length": 6
+        },
+        {
+          "text": "G1359G",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 990,
+          "length": 6
+        },
+        {
+          "text": "G1359G",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1090,
+          "length": 6
+        },
+        {
+          "text": "G1359A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1137,
+          "length": 6
+        },
+        {
+          "text": "A1359A",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1168,
+          "length": 6
+        },
+        {
+          "text": "A1359",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1667,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1268",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cannabinoid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 20
+        },
+        {
+          "text": "CNR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 4
+        },
+        {
+          "text": "CB1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 195,
+          "length": 3
+        },
+        {
+          "text": "CB1 receptor",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 506,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D015431",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weight loss",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 11
+        },
+        {
+          "text": "weight loss",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 555,
+          "length": 11
+        },
+        {
+          "text": "weight loss",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1741,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 654,
+          "length": 5
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 711,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 660,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 697,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1058,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1128,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1148,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1178,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "56729",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "resistin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1380,
+          "length": 8
+        },
+        {
+          "text": "resistin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1693,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3952",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leptin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1436,
+          "length": 6
+        },
+        {
+          "text": "leptin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1703,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1490,
+          "length": 4
+        },
+        {
+          "text": "interleukin-6",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1714,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3569",
+      "tail_id": "D015431",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3952",
+      "tail_id": "D015431",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "56729",
+      "tail_id": "D015431",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "1268",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "1268",
+      "tail_id": "D015431",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs1049353",
+      "tail_id": "D015431",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

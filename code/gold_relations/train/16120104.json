@@ -1,0 +1,197 @@
+{
+  "doc_id": "16120104",
+  "title": "A single-nucleotide polymorphism in the 5'-untranslated region of the hPER2 gene is associated with diurnal preference.",
+  "body": "The PERIOD2 (PER2) gene is a key component of the molecular mechanism that generates circadian rhythms in mammals. A missense mutation in the human PER2 gene has previously been linked to advanced sleep phase syndrome (ASPS). We have investigated three other single-nucleotide polymorphisms in the hPER2 gene, one downstream of the transcription start site (C-1228T), one in exon 2 in the 5'-untranslated region (5'-UTR) (C111G), and one missense mutation (G3853A) causing a glycine to glutamine substitution in the predicted protein. Subjects selected from a group of 484 volunteers for extreme morning or evening preference, or intermediate diurnal preference were genotyped with regard to the three polymorphisms (n=35 for each group). Whereas allele frequencies for the other two polymorphisms did not differ significantly between any of the groups, the 111G allele frequency was significantly higher in subjects with extreme morning preference (0.14) than in subjects with extreme evening preference (0.03) (Fisher's exact test, two-sided P value=0.031, odds ratio=5.67). No significant difference in 111G allele frequency was observed between either of these groups and subjects with intermediate diurnal preference. Computer prediction indicated that the C111G polymorphism, which occurs 12 bases upstream from the translation start codon, might alter the secondary structure of the transcript. The PER2 111G allele associates with morning preference and is a potential candidate allele for ASPS.",
+  "entities": [
+    {
+      "id": "8864",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hPER2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 5
+        },
+        {
+          "text": "PERIOD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 124,
+          "length": 7
+        },
+        {
+          "text": "PER2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 133,
+          "length": 4
+        },
+        {
+          "text": "PER2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 268,
+          "length": 4
+        },
+        {
+          "text": "hPER2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 418,
+          "length": 5
+        },
+        {
+          "text": "PER2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1526,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 262,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C565789",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "advanced sleep phase syndrome",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 308,
+          "length": 29
+        },
+        {
+          "text": "ASPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 339,
+          "length": 4
+        },
+        {
+          "text": "ASPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1618,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|-1228|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C-1228T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 478,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|111|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C111G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 542,
+          "length": 5
+        },
+        {
+          "text": "C111G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1382,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|3853|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G3853A",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 577,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G||Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "glycine to glutamine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 595,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|G|111",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "111G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 978,
+          "length": 4
+        },
+        {
+          "text": "111G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1226,
+          "length": 4
+        },
+        {
+          "text": "111G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1531,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|Allele|G|111",
+      "tail_id": "C565789",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "8864",
+      "tail_id": "C565789",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

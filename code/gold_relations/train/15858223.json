@@ -1,0 +1,436 @@
+{
+  "doc_id": "15858223",
+  "title": "Valproic acid I: time course of lipid peroxidation biomarkers, liver toxicity, and valproic acid metabolite levels in rats.",
+  "body": "A single dose of valproic acid (VPA), which is a widely used antiepileptic drug, is associated with oxidative stress in rats, as recently demonstrated by elevated levels of 15-F(2t)-isoprostane (15-F(2t)-IsoP). To determine whether there was a temporal relationship between VPA-associated oxidative stress and hepatotoxicity, adult male Sprague-Dawley rats were treated ip with VPA (500 mg/kg) or 0.9% saline (vehicle) once daily for 2, 4, 7, 10, or 14 days. Oxidative stress was assessed by determining plasma and liver levels of 15-F(2t)-IsoP, lipid hydroperoxides (LPO), and thiobarbituric acid reactive substances (TBARs). Plasma and liver 15-F(2t)-IsoP were elevated and reached a plateau after day 2 of VPA treatment compared to control. Liver LPO levels were not elevated until day 7 of treatment (1.8-fold versus control, p < 0.05). Liver and plasma TBARs were not increased until 14 days (2-fold vs. control, p < 0.05). Liver toxicity was evaluated based on serum levels of alpha-glutathione S-transferase (alpha-GST) and by histology. Serum alpha-GST levels were significantly elevated by day 4, which corresponded to hepatotoxicity as shown by the increasing incidence of inflammation of the liver capsule, necrosis, and steatosis throughout the study. The liver levels of beta-oxidation metabolites of VPA were decreased by day 14, while the levels of 4-ene-VPA and (E)-2,4-diene-VPA were not elevated throughout the study. Overall, these findings indicate that VPA treatment results in oxidative stress, as measured by levels of 15-F(2t)-IsoP, which precedes the onset of necrosis, steatosis, and elevated levels of serum alpha-GST.",
+  "entities": [
+    {
+      "id": "D014635",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Valproic acid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "valproic acid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 13
+        },
+        {
+          "text": "valproic acid",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 141,
+          "length": 13
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 156,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 398,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 502,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 833,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1438,
+          "length": 3
+        },
+        {
+          "text": "VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1598,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D056486",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver toxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 434,
+          "length": 14
+        },
+        {
+          "text": "Liver toxicity",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1053,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1252,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 118,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 244,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 476,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000927",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antiepileptic drug",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 185,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "C075750",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "15-F(2t)-isoprostane",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 297,
+          "length": 20
+        },
+        {
+          "text": "15-F(2t)-IsoP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 319,
+          "length": 13
+        },
+        {
+          "text": "15-F(2t)-IsoP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 655,
+          "length": 13
+        },
+        {
+          "text": "15-F(2t)-IsoP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 768,
+          "length": 13
+        },
+        {
+          "text": "15-F(2t)-IsoP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1666,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D008054",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid hydroperoxides",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 670,
+          "length": 20
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 692,
+          "length": 3
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 874,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D017392",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thiobarbituric acid reactive substances",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 702,
+          "length": 39
+        },
+        {
+          "text": "TBARs",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 743,
+          "length": 5
+        },
+        {
+          "text": "TBARs",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 982,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24421",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha-glutathione S-transferase",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1107,
+          "length": 31
+        },
+        {
+          "text": "alpha-GST",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1140,
+          "length": 9
+        },
+        {
+          "text": "alpha-GST",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1175,
+          "length": 9
+        },
+        {
+          "text": "alpha-GST",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1759,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006505",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation of the liver capsule",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1307,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D009336",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "necrosis",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1342,
+          "length": 8
+        },
+        {
+          "text": "necrosis",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1709,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005234",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "steatosis",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1356,
+          "length": 9
+        },
+        {
+          "text": "steatosis",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1719,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C045022",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "4-ene-VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1488,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C556631",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "2,4-diene-VPA",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1506,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24421",
+      "tail_id": "D006505",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "24421",
+      "tail_id": "D005234",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "24421",
+      "tail_id": "D009336",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C075750",
+      "tail_id": "D014635",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D056486",
+      "tail_id": "24421",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014635",
+      "tail_id": "D005234",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014635",
+      "tail_id": "D009336",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D014635",
+      "tail_id": "24421",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D014635",
+      "tail_id": "D056486",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

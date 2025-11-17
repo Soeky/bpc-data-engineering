@@ -1,0 +1,130 @@
+{
+  "doc_id": "15686794",
+  "title": "Acute low back pain during intravenous administration of amiodarone: a report of two cases.",
+  "body": "Amiodarone represents an effective antiarrhythmic drug for cardioversion of recent-onset atrial fibrillation (AF) and maintenance of sinus rhythm. We briefly describe two patients suffering from recent-onset atrial fibrillation, who experienced an acute devastating low back pain a few minutes after initiation of intravenous amiodarone loading. Notably, this side effect has not been ever reported in the medical literature. Clinicians should be aware of this reaction since prompt termination of parenteral administration leads to complete resolution.",
+  "entities": [
+    {
+      "id": "D017116",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "low back pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 13
+        },
+        {
+          "text": "low back pain",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 358,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D000638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amiodarone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 10
+        },
+        {
+          "text": "Amiodarone",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 92,
+          "length": 10
+        },
+        {
+          "text": "amiodarone",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 418,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000889",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antiarrhythmic drug",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 127,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D001281",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 181,
+          "length": 19
+        },
+        {
+          "text": "AF",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 202,
+          "length": 2
+        },
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 300,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 263,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017116",
+      "tail_id": "D000638",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000889",
+      "tail_id": "D001281",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000638",
+      "tail_id": "D001281",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

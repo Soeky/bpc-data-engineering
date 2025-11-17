@@ -1,0 +1,198 @@
+{
+  "doc_id": "17351238",
+  "title": "A dramatic drop in blood pressure following prehospital GTN administration.",
+  "body": "A male in his sixties with no history of cardiac chest pain awoke with chest pain following an afternoon sleep. The patient did not self medicate. The patient's observations were within normal limits, he was administered oxygen via a face mask and glyceryl trinitrate (GTN). Several minutes after the GTN the patient experienced a sudden drop in blood pressure and heart rate, this was rectified by atropine sulphate and a fluid challenge. There was no further deterioration in the patient's condition during transport to hospital. There are very few documented case like this in the prehospital scientific literature. The cause appears to be the Bezold-Jarish reflex, stimulation of the ventricular walls which in turn decreases sympathetic outflow from the vasomotor centre. Prehospital care providers who are managing any patient with a syncopal episode that fails to recover within a reasonable time frame should consider the Bezold-Jarisch reflex as the cause and manage the patient accordingly.",
+  "entities": [
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "drop in blood pressure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 22
+        },
+        {
+          "text": "drop in blood pressure",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 414,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D005996",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GTN",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 3
+        },
+        {
+          "text": "glyceryl trinitrate",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 324,
+          "length": 19
+        },
+        {
+          "text": "GTN",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 345,
+          "length": 3
+        },
+        {
+          "text": "GTN",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 377,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002637",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chest pain",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 125,
+          "length": 10
+        },
+        {
+          "text": "chest pain",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 147,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 192,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 227,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 385,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 558,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 901,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1056,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 297,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001285",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "atropine sulphate",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 475,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D013575",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "syncopal episode",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 916,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002637",
+      "tail_id": "D010100",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002637",
+      "tail_id": "D005996",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007022",
+      "tail_id": "D001285",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007022",
+      "tail_id": "D005996",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

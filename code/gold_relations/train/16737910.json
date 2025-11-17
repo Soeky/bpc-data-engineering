@@ -1,0 +1,145 @@
+{
+  "doc_id": "16737910",
+  "title": "Identification of the nuclear localization motif in the ETV6 (TEL) protein.",
+  "body": "ETV6, or Translocation-Ets-Leukemia (TEL), is an ETS family transcriptional repressor that is essential for establishing hematopoiesis in neonatal bone marrow, and is frequently a target of chromosomal translocations in human cancer. ETV6 is predominantly a nuclear phosphoprotein that represses transcription by binding directly to the promoters of target genes. The nuclear localization mechanism of ETV6, however, is not well understood. In this report, we provide evidence that a nuclear localization signal (NLS) exists in the C-terminal region of ETV6. ETV6 proteins with mutations outside of amino acids 332-452 localize to the nucleus, whereas proteins with mutations within amino acids 332-452 remain in the cytoplasm. Furthermore, when a fragment of ETV6 comprised of amino acids 332-452 was fused to cytoplasmic beta-galactosidase protein, the fusion protein was able to enter the nucleus. These results strongly indicate that residues 332-452 mediate nuclear localization of ETV6.",
+  "entities": [
+    {
+      "id": "2120",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ETV6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 4
+        },
+        {
+          "text": "TEL",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 3
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 76,
+          "length": 4
+        },
+        {
+          "text": "Translocation-Ets-Leukemia",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 85,
+          "length": 26
+        },
+        {
+          "text": "TEL",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 113,
+          "length": 3
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 310,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 478,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 629,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 635,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 836,
+          "length": 4
+        },
+        {
+          "text": "ETV6",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1063,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 296,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 302,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2720",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-galactosidase",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 899,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "2120",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2720",
+      "tail_id": "2120",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

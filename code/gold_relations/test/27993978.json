@@ -1,0 +1,221 @@
+{
+  "doc_id": "27993978",
+  "title": "CenpH regulates meiotic G2/M transition by modulating the APC/CCdh1-cyclin B1 pathway in oocytes.",
+  "body": "Meiotic resumption (G2/M transition) and progression through meiosis I (MI) are two key stages for producing fertilization-competent eggs. Here, we report that CenpH, a component of the kinetochore inner plate, is responsible for G2/M transition in meiotic mouse oocytes. Depletion of CenpH by morpholino injection decreased cyclin B1 levels, resulting in attenuation of maturation-promoting factor (MPF) activation, and severely compromised meiotic resumption. CenpH protects cyclin B1 from destruction by competing with the action of APC/C(Cdh1) Impaired G2/M transition after CenpH depletion could be rescued by expression of exogenous cyclin B1. Unexpectedly, blocking CenpH did not affect spindle organization and meiotic cell cycle progression after germinal vesicle breakdown. Our findings reveal a novel role of CenpH in regulating meiotic G2/M transition by acting via the APC/C(Cdh1)-cyclin B1 pathway.",
+  "entities": [
+    {
+      "id": "26886",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CenpH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 258,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 383,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 560,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 677,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 771,
+          "length": 5
+        },
+        {
+          "text": "CenpH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 918,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "56371",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "APC/CCdh1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 9
+        },
+        {
+          "text": "APC/C",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 634,
+          "length": 5
+        },
+        {
+          "text": "Cdh1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 640,
+          "length": 4
+        },
+        {
+          "text": "APC/C",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 980,
+          "length": 5
+        },
+        {
+          "text": "Cdh1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 986,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "268697",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin B1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 9
+        },
+        {
+          "text": "cyclin B1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 423,
+          "length": 9
+        },
+        {
+          "text": "maturation-promoting factor",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 469,
+          "length": 27
+        },
+        {
+          "text": "MPF",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 498,
+          "length": 3
+        },
+        {
+          "text": "cyclin B1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 575,
+          "length": 9
+        },
+        {
+          "text": "cyclin B1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 737,
+          "length": 9
+        },
+        {
+          "text": "cyclin B1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 992,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 355,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D060172",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morpholino",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 392,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D060172",
+      "tail_id": "268697",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "268697",
+      "tail_id": "56371",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "26886",
+      "tail_id": "56371",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "26886",
+      "tail_id": "D060172",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "26886",
+      "tail_id": "268697",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "doc_id": "24902786",
+  "title": "Testosterone ameliorates streptozotocin-induced memory impairment in male rats.",
+  "body": "AIM: To study the effects of testosterone on streptozotocin (STZ)-induced memory impairment in male rats. METHODS: Adult male Wistar rats were intracerebroventricularly (icv) infused with STZ (750 ug) on d 1 and d 3, and a passive avoidance task was assessed 2 weeks after the first injection of STZ. Castration surgery was performed in another group of rats, and the passive avoidance task was assessed 4 weeks after the operation. Testosterone (1 mg.kg(-1).d(-1), sc), the androgen receptor antagonist flutamide (10 mg.kg(-1).d(-1), ip), the estrogen receptor antagonist tamoxifen (1 mg.kg(-1).d(-1), ip) or the aromatase inhibitor letrozole (4 mg.kg(-1).d(-1), ip) were administered for 6 d after the first injection of STZ. RESULTS: STZ administration and castration markedly decreased both STL1 (the short memory) and STL2 (the long memory) in passive avoidance tests. Testosterone replacement almost restored the STL1 and STL2 in castrated rats, and significantly prolonged the STL1 and STL2 in STZ-treated rats. Administration of flutamide, letrozole or tamoxifen significantly impaired the memory in intact rats, and significantly attenuated the testosterone replacement in improving STZ- and castration-induced memory impairment. CONCLUSION: Testosterone administration ameliorates STZ- and castration-induced memory impairment in male Wistar rats.",
+  "entities": [
+    {
+      "id": "D013739",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Testosterone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 109,
+          "length": 12
+        },
+        {
+          "text": "Testosterone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 513,
+          "length": 12
+        },
+        {
+          "text": "Testosterone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 954,
+          "length": 12
+        },
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1234,
+          "length": 12
+        },
+        {
+          "text": "Testosterone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1331,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozotocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 14
+        },
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 125,
+          "length": 14
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 141,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 268,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 376,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 803,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 817,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1081,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1272,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1371,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory impairment",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 17
+        },
+        {
+          "text": "memory impairment",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 154,
+          "length": 17
+        },
+        {
+          "text": "memory impairment",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1300,
+          "length": 17
+        },
+        {
+          "text": "memory impairment",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1399,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 180,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 213,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 434,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1026,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1093,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1195,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1432,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 555,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D005485",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "flutamide",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 584,
+          "length": 9
+        },
+        {
+          "text": "flutamide",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1117,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "2099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "estrogen receptor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 624,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D013629",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tamoxifen",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 653,
+          "length": 9
+        },
+        {
+          "text": "tamoxifen",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1141,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "25147",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aromatase",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 694,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C067431",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "letrozole",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 714,
+          "length": 9
+        },
+        {
+          "text": "letrozole",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1128,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "369068",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STL1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 875,
+          "length": 4
+        },
+        {
+          "text": "STL1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 999,
+          "length": 4
+        },
+        {
+          "text": "STL1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1064,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "369140",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STL2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 903,
+          "length": 4
+        },
+        {
+          "text": "STL2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1008,
+          "length": 4
+        },
+        {
+          "text": "STL2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1073,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C067431",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "25147",
+      "tail_id": "C067431",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013629",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2099",
+      "tail_id": "D013629",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005485",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "367",
+      "tail_id": "D005485",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D013311",
+      "tail_id": "369140",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D013311",
+      "tail_id": "369068",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D013311",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D013739",
+      "tail_id": "369140",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D013739",
+      "tail_id": "369068",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D013739",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D013739",
+      "tail_id": "D013311",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

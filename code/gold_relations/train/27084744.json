@@ -1,0 +1,652 @@
+{
+  "doc_id": "27084744",
+  "title": "NOTCH1 and SOX10 are Essential for Proliferation and Radiation Resistance of Cancer Stem-Like Cells in Adenoid Cystic Carcinoma.",
+  "body": "PURPOSE: Although the existence of cancer stem cells (CSC) in adenoid cystic carcinoma (ACC) has been proposed, lack of assays for their propagation and uncertainty about molecular markers prevented their characterization. Our objective was to isolate CSC from ACC and provide insight into signaling pathways that support their propagation. EXPERIMENTAL DESIGN: To isolate CSC from ACC and characterize them, we used ROCK inhibitor-supplemented cell culture, immunomagnetic cell sorting, andin vitro/in vivoassays for CSC viability and tumorigenicity. RESULTS: We identified in ACC CD133-positive CSC that expressed NOTCH1 and SOX10, formed spheroids, and initiated tumors in nude mice. CD133(+)ACC cells produced activated NOTCH1 (N1ICD) and generated CD133(-)cells that expressed JAG1 as well as neural differentiation factors NR2F1, NR2F2, and p27Kip1. Knockdowns of NOTCH1, SOX10, and their common effector FABP7 had negative effects on each other, inhibited spheroidogenesis, and induced cell death pointing at their essential roles in CSC maintenance. Downstream effects of FABP7 knockdown included suppression of a broad spectrum of genes involved in proliferation, ribosome biogenesis, and metabolism. Among proliferation-linked NOTCH1/FABP7 targets, we identified SKP2 and its substrate p27Kip1. A g-secretase inhibitor, DAPT, selectively depleted CD133(+)cells, suppressed N1ICD and SKP2, induced p27Kip1, inhibited ACC growthin vivo, and sensitized CD133(+)cells to radiation. CONCLUSIONS: These results establish in the majority of ACC the presence of a previously uncharacterized population of CD133(+)cells with neural stem properties, which are driven by SOX10, NOTCH1, and FABP7. Sensitivity of these cells to Notch inhibition and their dependence on SKP2 offer new opportunities for targeted ACC therapies.",
+  "entities": [
+    {
+      "id": "4851",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NOTCH1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "NOTCH1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 745,
+          "length": 6
+        },
+        {
+          "text": "NOTCH1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 853,
+          "length": 6
+        },
+        {
+          "text": "N1ICD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 861,
+          "length": 5
+        },
+        {
+          "text": "NOTCH1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 999,
+          "length": 6
+        },
+        {
+          "text": "NOTCH1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1366,
+          "length": 6
+        },
+        {
+          "text": "N1ICD",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1512,
+          "length": 5
+        },
+        {
+          "text": "NOTCH1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1806,
+          "length": 6
+        },
+        {
+          "text": "Notch",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1855,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6663",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOX10",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 5
+        },
+        {
+          "text": "SOX10",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 756,
+          "length": 5
+        },
+        {
+          "text": "SOX10",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1007,
+          "length": 5
+        },
+        {
+          "text": "SOX10",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1799,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 164,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 795,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D003528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Adenoid Cystic Carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 24
+        },
+        {
+          "text": "adenoid cystic carcinoma",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 191,
+          "length": 24
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 217,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 390,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 511,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 707,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 824,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1555,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1673,
+          "length": 3
+        },
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1938,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6093",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ROCK",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 546,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "8842",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 711,
+          "length": 5
+        },
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 816,
+          "length": 5
+        },
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 882,
+          "length": 5
+        },
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1486,
+          "length": 5
+        },
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1589,
+          "length": 5
+        },
+        {
+          "text": "CD133",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1736,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 810,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "JAG1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 911,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7025",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NR2F1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 958,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NR2F2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 965,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27Kip1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 976,
+          "length": 7
+        },
+        {
+          "text": "p27Kip1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1425,
+          "length": 7
+        },
+        {
+          "text": "p27Kip1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1536,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2173",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP7",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1040,
+          "length": 5
+        },
+        {
+          "text": "FABP7",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1209,
+          "length": 5
+        },
+        {
+          "text": "FABP7",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1373,
+          "length": 5
+        },
+        {
+          "text": "FABP7",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1818,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6502",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SKP2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1402,
+          "length": 4
+        },
+        {
+          "text": "SKP2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1522,
+          "length": 4
+        },
+        {
+          "text": "SKP2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1896,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "55851",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "g-secretase",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1436,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C419410",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "DAPT",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1459,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "8842",
+      "tail_id": "6663",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "8842",
+      "tail_id": "4851",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C419410",
+      "tail_id": "8842",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C419410",
+      "tail_id": "6502",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C419410",
+      "tail_id": "1027",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C419410",
+      "tail_id": "D003528",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "55851",
+      "tail_id": "8842",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "55851",
+      "tail_id": "C419410",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "55851",
+      "tail_id": "6502",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "55851",
+      "tail_id": "1027",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "55851",
+      "tail_id": "D003528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "55851",
+      "tail_id": "4851",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "6502",
+      "tail_id": "1027",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "6502",
+      "tail_id": "D003528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "2173",
+      "tail_id": "D003528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "6663",
+      "tail_id": "2173",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "6663",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "6663",
+      "tail_id": "D003528",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D009369",
+      "tail_id": "6093",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D009369",
+      "tail_id": "8842",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "D003528",
+      "tail_id": "6093",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "D003528",
+      "tail_id": "8842",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D003528",
+      "tail_id": "1027",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D003528",
+      "tail_id": "7026",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D003528",
+      "tail_id": "7025",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "D003528",
+      "tail_id": "182",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "4851",
+      "tail_id": "C419410",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "4851",
+      "tail_id": "2173",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "4851",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "4851",
+      "tail_id": "D003528",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

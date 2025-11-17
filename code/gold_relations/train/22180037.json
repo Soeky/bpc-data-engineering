@@ -1,0 +1,243 @@
+{
+  "doc_id": "22180037",
+  "title": "Genetic polymorphism of the glutathione-S-transferase P1 gene (GSTP1) and susceptibility to prostate cancer in the Kashmiri population.",
+  "body": "Glutathione-S-transferase P1 (GSTP1) is a critical enzyme of the phase II detoxification pathway. One of the common functional polymorphisms of GSTP1 is A > G at nucleotide 313, which results in an amino acid substitution (Ile105Val) at the substrate binding site of GSTP1 and reduces catalytic activity of GSTP1. To investigate the GSTP1 Ile105Val genotype frequency in prostate cancer cases in the Kashmiri population, we designed a case-control study, in which 50 prostate cancer cases and 45 benign prostate hyperplasia cases were studied for GSTP1 Ile105Val polymorphism, compared to 80 controls taken from the general population, employing the PCR-RFLP technique. We found the frequency of the three different genotypes of GSTP1 Ile105Val in our ethnic Kashmir population, i.e., Ile/Ile, Ile/Val and Val/Val, to be 52.4, 33.3 and 14.3% among prostate cancer cases, 48.5, 37.5 and 14% among benign prostate hyperplasia cases and 73.8, 21.3 and 5% in the control population, respectively. There was a significant association between the GSTP1 Ile/Val genotype and the advanced age group among the cases. We conclude that GSTP1 Ile/Val polymorphism is involved in the risk of prostate cancer development in our population.",
+  "entities": [
+    {
+      "id": "2950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione-S-transferase P1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 28
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 5
+        },
+        {
+          "text": "Glutathione-S-transferase P1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 136,
+          "length": 28
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 166,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 280,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 403,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 443,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 469,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 683,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 865,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1177,
+          "length": 5
+        },
+        {
+          "text": "GSTP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1261,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 507,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 603,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 984,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1315,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs1695",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A > G at nucleotide 313",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 289,
+          "length": 23
+        },
+        {
+          "text": "Ile105Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 359,
+          "length": 9
+        },
+        {
+          "text": "Ile105Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 475,
+          "length": 9
+        },
+        {
+          "text": "Ile105Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 689,
+          "length": 9
+        },
+        {
+          "text": "Ile105Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 871,
+          "length": 9
+        },
+        {
+          "text": "Ile/Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1183,
+          "length": 7
+        },
+        {
+          "text": "Ile/Val",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1267,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "benign prostate hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 632,
+          "length": 27
+        },
+        {
+          "text": "benign prostate hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1032,
+          "length": 27
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1695",
+      "tail_id": "D011470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs1695",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2950",
+      "tail_id": "D011470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2950",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

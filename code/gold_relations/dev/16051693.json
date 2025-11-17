@@ -1,0 +1,307 @@
+{
+  "doc_id": "16051693",
+  "title": "Polymorphism of the PEMT gene and susceptibility to nonalcoholic fatty liver disease (NAFLD).",
+  "body": "Phosphatidylethanolamine N-methyltransferase (PEMT) catalyzes phosphatidylcholine synthesis. PEMT knockout mice have fatty livers, and it is possible that, in humans, nonalcoholic fatty liver disease (NAFLD) might be associated with PEMT gene polymorphisms. DNA samples from 59 humans without fatty liver and from 28 humans with NAFLD were genotyped for a single nucleotide polymorphism in exon 8 of PEMT, which leads to a V175M substitution. V175M is a loss of function mutation, as determined by transiently transfecting McArdle-RH7777 cells with constructs of wild-type PEMT open reading frame or the V175M mutant. Met/Met at residue 175 (loss of function SNP) occurred in 67.9% of the NAFLD subjects and in only 40.7% of control subjects (P<0.03). For the first time we report that a polymorphism of the human PEMT gene (V175M) is associated with diminished activity and may confer susceptibility to NAFLD.",
+  "entities": [
+    {
+      "id": "10400",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PEMT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 4
+        },
+        {
+          "text": "Phosphatidylethanolamine N-methyltransferase",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 94,
+          "length": 44
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 140,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 327,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 494,
+          "length": 4
+        },
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 908,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D065626",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nonalcoholic fatty liver disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 32
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 5
+        },
+        {
+          "text": "nonalcoholic fatty liver disease",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 261,
+          "length": 32
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 295,
+          "length": 5
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 423,
+          "length": 5
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 783,
+          "length": 5
+        },
+        {
+          "text": "NAFLD",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 998,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010713",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phosphatidylcholine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 156,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "18618",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 187,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 201,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005234",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fatty livers",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 211,
+          "length": 12
+        },
+        {
+          "text": "fatty liver",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 387,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 253,
+          "length": 6
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 372,
+          "length": 6
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 411,
+          "length": 6
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 902,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs7946",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V175M",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 517,
+          "length": 5
+        },
+        {
+          "text": "V175M",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 537,
+          "length": 5
+        },
+        {
+          "text": "V175M",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 698,
+          "length": 5
+        },
+        {
+          "text": "Met/Met at residue 175",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 712,
+          "length": 22
+        },
+        {
+          "text": "V175M",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 919,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0444",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "McArdle-RH7777",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 617,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "25511",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PEMT",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 667,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "18618",
+      "tail_id": "D005234",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "25511",
+      "tail_id": "D065626",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D065626",
+      "tail_id": "rs7946",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "10400",
+      "tail_id": "D010713",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "10400",
+      "tail_id": "D065626",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

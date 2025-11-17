@@ -1,0 +1,63 @@
+{
+  "doc_id": "6086495",
+  "title": "Localisation of the Becker muscular dystrophy gene on the short arm of the X chromosome by linkage to cloned DNA sequences.",
+  "body": "A linkage study in 30 Becker muscular dystrophy (BMD) kindreds using three cloned DNA sequences from the X chromosome which demonstrate restriction fragment length polymorphisms (RFLPs), suggests that the BMD gene is located on the short arm of the X chromosome, in the p21 region. The genes for Becker and Duchenne dystrophies must therefore be closely linked, if not allelic, and any future DNA probes found to be of practical use in one disorder should be equally applicable to the other. The linkage analysis also provides data on the frequency of recombination along the short arm of the X chromosome, and across the centromeric region..",
+  "entities": [
+    {
+      "id": "1756",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Becker muscular dystrophy gene",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 30
+        },
+        {
+          "text": "BMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 329,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020388",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Becker muscular dystrophy",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 146,
+          "length": 25
+        },
+        {
+          "text": "BMD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 173,
+          "length": 3
+        },
+        {
+          "text": "Becker and Duchenne dystrophies",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 420,
+          "length": 31
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1756",
+      "tail_id": "D020388",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

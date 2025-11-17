@@ -1,0 +1,177 @@
+{
+  "doc_id": "7018927",
+  "title": "Pituitary response to luteinizing hormone-releasing hormone during haloperidol-induced hyperprolactinemia.",
+  "body": "The effects of a 6-hour infusion with haloperidol on serum prolactin and luteinizing hormone (LH) levels was studied in a group of male subjects. Five hours after starting the infusions, a study of the pituitary responses to LH-releasing hormone (LH-RH) was carried out. Control patients received infusions of 0.9% NaCl solution. During the course of haloperidol infusions, significant hyperprolactinemia was found, together with an abolished pituitary response to LH-RH, as compared with responses of control subjects.",
+  "entities": [
+    {
+      "id": "2796",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "luteinizing hormone-releasing hormone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 37
+        },
+        {
+          "text": "LH-releasing hormone",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 332,
+          "length": 20
+        },
+        {
+          "text": "LH-RH",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 354,
+          "length": 5
+        },
+        {
+          "text": "LH-RH",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 572,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 145,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 458,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006966",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 493,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "5617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 166,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "1081",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "luteinizing hormone",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 180,
+          "length": 19
+        },
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 201,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 386,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012965",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NaCl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 422,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1081",
+      "tail_id": "2796",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2796",
+      "tail_id": "D006220",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006966",
+      "tail_id": "2796",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006220",
+      "tail_id": "D006966",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

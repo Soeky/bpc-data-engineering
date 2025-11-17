@@ -1,0 +1,1171 @@
+{
+  "doc_id": "17397547",
+  "title": "Regulatory network of inflammation downstream of proteinase-activated receptors.",
+  "body": "BACKGROUND: Protease-activated receptors (PAR) are present in the urinary bladder, and their expression is altered in response to inflammation. PARs are a unique class of G protein-coupled that carry their own ligands, which remain cryptic until unmasked by proteolytic cleavage. Although the canonical signal transduction pathway downstream of PAR activation and coupling with various G proteins is known and leads to the rapid transcription of genes involved in inflammation, the effect of PAR activation on the downstream transcriptome is unknown. We have shown that intravesical administration of PAR-activating peptides leads to an inflammatory reaction characterized by edema and granulocyte infiltration. Moreover, the inflammatory response to intravesical instillation of known pro-inflammatory stimuli such as E. coli lipopolysaccharide (LPS), substance P (SP), and antigen was strongly attenuated by PAR1- and to a lesser extent by PAR2-deficiency. RESULTS: Here, cDNA array experiments determined inflammatory genes whose expression is dependent on PAR1 activation. For this purpose, we compared the alteration in gene expression in wild type and PAR1-/- mice induced by classical pro-inflammatory stimuli (LPS, SP, and antigen). 75 transcripts were considered to be dependent on PAR-1 activation and further annotated in silico by Ingenuity Pathways Analysis (IPA) and gene ontology (GO). Selected transcripts were target validated by quantitative PCR (Q-PCR). Among PAR1-dependent transcripts, the following have been implicated in the inflammatory process: b2m, ccl7, cd200, cd63, cdbpd, cfl1, dusp1, fkbp1a, fth1, hspb1, marcksl1, mmp2, myo5a, nfkbia, pax1, plaur, ppia, ptpn1, ptprcap, s100a10, sim2, and tnfaip2. However, a balanced response to signals of injury requires a transient cellular activation of a panel of genes together with inhibitory systems that temper the overwhelming inflammation. In this context, the activation of genes such as dusp1 and nfkbia seems to counter-balance the inflammatory response to PAR activation by limiting prolonged activation of p38 MAPK and increased cytokine production. In contrast, transcripts such as arf6 and dcnt1 that are involved in the mechanism of PAR re-sensitization would tend to perpetuate the inflammatory reaction in response to common pro-inflammatory stimuli. CONCLUSION: The combination of cDNA array results and genomic networks reveals an overriding participation of PAR1 in bladder inflammation, provides a working model for the involvement of downstream signaling, and evokes testable hypotheses regarding the transcriptome downstream of PAR1 activation. It remains to be determined whether or not mechanisms targeting PAR1 gene silencing or PAR1 blockade will ameliorate the clinical manifestation of cystitis.",
+  "entities": [
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 211,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 545,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 718,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 807,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 871,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1089,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1277,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1630,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1984,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2093,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2349,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2397,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "14062,14063",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "proteinase-activated receptors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 30
+        },
+        {
+          "text": "Protease-activated receptors",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 93,
+          "length": 28
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 123,
+          "length": 3
+        },
+        {
+          "text": "PARs",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 225,
+          "length": 4
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 426,
+          "length": 3
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 573,
+          "length": 3
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 682,
+          "length": 3
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2118,
+          "length": 3
+        },
+        {
+          "text": "PAR",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2299,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 757,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "562",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "E. coli",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 900,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 908,
+          "length": 18
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 928,
+          "length": 3
+        },
+        {
+          "text": "LPS",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1299,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013373",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "substance P",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 934,
+          "length": 11
+        },
+        {
+          "text": "SP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 947,
+          "length": 2
+        },
+        {
+          "text": "SP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1304,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "14062",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 991,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1141,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1239,
+          "length": 4
+        },
+        {
+          "text": "PAR-1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1372,
+          "length": 5
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1560,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2529,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2702,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2783,
+          "length": 4
+        },
+        {
+          "text": "PAR1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2806,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14063",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAR2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1023,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1247,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12010",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "b2m",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1652,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "20306",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ccl7",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1657,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17470",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cd200",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1663,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12512",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cd63",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1670,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cdbpd",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1676,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12631",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cfl1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1683,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "19252",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dusp1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1689,
+          "length": 5
+        },
+        {
+          "text": "dusp1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2047,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "14225",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fkbp1a",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1696,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "14319",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fth1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1704,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "15507",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hspb1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1710,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17357",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "marcksl1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1717,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "17390",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mmp2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1727,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17918",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myo5a",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1733,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "18035",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nfkbia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1740,
+          "length": 6
+        },
+        {
+          "text": "nfkbia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2057,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "18503",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pax1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1748,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18793",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "plaur",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1754,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "268373",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ppia",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1761,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "19246",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ptpn1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1767,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "19265",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ptprcap",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1774,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "20194",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "s100a10",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1783,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "20465",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "sim2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1792,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21928",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tnfaip2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1802,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2169,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "11845",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "arf6",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2246,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "13426",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dcnt1",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2255,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bladder inflammation",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2537,
+          "length": 20
+        },
+        {
+          "text": "cystitis",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 2866,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "13426",
+      "tail_id": "14063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "13426",
+      "tail_id": "14062",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "11845",
+      "tail_id": "14063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "11845",
+      "tail_id": "14062",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "18035",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "18035",
+      "tail_id": "14063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "19252",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "19252",
+      "tail_id": "14063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "14063",
+      "tail_id": "D004487",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "14063",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "14063",
+      "tail_id": "D013373",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "14063",
+      "tail_id": "D008070",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "14062",
+      "tail_id": "D004487",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "14062",
+      "tail_id": "D003556",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "14062",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "14062",
+      "tail_id": "21928",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "14062",
+      "tail_id": "20465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "14062",
+      "tail_id": "20194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "14062",
+      "tail_id": "19265",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "14062",
+      "tail_id": "19246",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "14062",
+      "tail_id": "268373",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "14062",
+      "tail_id": "18793",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "14062",
+      "tail_id": "18503",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "14062",
+      "tail_id": "18035",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "14062",
+      "tail_id": "17918",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "14062",
+      "tail_id": "17390",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "14062",
+      "tail_id": "17357",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "14062",
+      "tail_id": "15507",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "14062",
+      "tail_id": "14319",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "14062",
+      "tail_id": "14225",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "14062",
+      "tail_id": "19252",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "14062",
+      "tail_id": "12631",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "14062",
+      "tail_id": "12512",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "14062",
+      "tail_id": "17470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "14062",
+      "tail_id": "20306",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "14062",
+      "tail_id": "12010",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "14062",
+      "tail_id": "D013373",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "14062",
+      "tail_id": "D008070",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D007249",
+      "tail_id": "13426",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "D007249",
+      "tail_id": "11845",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "D007249",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "D007249",
+      "tail_id": "21928",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "D007249",
+      "tail_id": "20465",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R43",
+      "head_id": "D007249",
+      "tail_id": "20194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R44",
+      "head_id": "D007249",
+      "tail_id": "19265",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R45",
+      "head_id": "D007249",
+      "tail_id": "19246",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R46",
+      "head_id": "D007249",
+      "tail_id": "268373",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R47",
+      "head_id": "D007249",
+      "tail_id": "18793",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R48",
+      "head_id": "D007249",
+      "tail_id": "18503",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R49",
+      "head_id": "D007249",
+      "tail_id": "18035",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R50",
+      "head_id": "D007249",
+      "tail_id": "17918",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R51",
+      "head_id": "D007249",
+      "tail_id": "17390",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R52",
+      "head_id": "D007249",
+      "tail_id": "17357",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R53",
+      "head_id": "D007249",
+      "tail_id": "15507",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R54",
+      "head_id": "D007249",
+      "tail_id": "14319",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R55",
+      "head_id": "D007249",
+      "tail_id": "14225",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R56",
+      "head_id": "D007249",
+      "tail_id": "19252",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R57",
+      "head_id": "D007249",
+      "tail_id": "12631",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R58",
+      "head_id": "D007249",
+      "tail_id": "12512",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R59",
+      "head_id": "D007249",
+      "tail_id": "17470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R60",
+      "head_id": "D007249",
+      "tail_id": "20306",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R61",
+      "head_id": "D007249",
+      "tail_id": "12010",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R62",
+      "head_id": "D007249",
+      "tail_id": "D013373",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R63",
+      "head_id": "D007249",
+      "tail_id": "D008070",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R64",
+      "head_id": "D007249",
+      "tail_id": "14063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R65",
+      "head_id": "D007249",
+      "tail_id": "14062",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

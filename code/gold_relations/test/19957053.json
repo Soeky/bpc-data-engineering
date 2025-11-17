@@ -1,0 +1,219 @@
+{
+  "doc_id": "19957053",
+  "title": "Phenylephrine but not ephedrine reduces frontal lobe oxygenation following anesthesia-induced hypotension.",
+  "body": "BACKGROUND: Vasopressor agents are used to correct anesthesia-induced hypotension. We describe the effect of phenylephrine and ephedrine on frontal lobe oxygenation (S(c)O(2)) following anesthesia-induced hypotension. METHODS: Following induction of anesthesia by fentanyl (0.15 mg kg(-1)) and propofol (2.0 mg kg(-1)), 13 patients received phenylephrine (0.1 mg iv) and 12 patients received ephedrine (10 mg iv) to restore mean arterial pressure (MAP). Heart rate (HR), MAP, stroke volume (SV), cardiac output (CO), and frontal lobe oxygenation (S(c)O(2)) were registered. RESULTS: Induction of anesthesia was followed by a decrease in MAP, HR, SV, and CO concomitant with an elevation in S(c)O(2). After administration of phenylephrine, MAP increased (51 +/- 12 to 81 +/- 13 mmHg; P < 0.001; mean +/- SD). However, a 14% (from 70 +/- 8% to 60 +/- 7%) reduction in S(c)O(2) (P < 0.05) followed with no change in CO (3.7 +/- 1.1 to 3.4 +/- 0.9 l min(-1)). The administration of ephedrine led to a similar increase in MAP (53 +/- 9 to 79 +/- 8 mmHg; P < 0.001), restored CO (3.2 +/- 1.2 to 5.0 +/- 1.3 l min(-1)), and preserved S(c)O(2). CONCLUSIONS: The utilization of phenylephrine to correct hypotension induced by anesthesia has a negative impact on S(c)O(2) while ephedrine maintains frontal lobe oxygenation potentially related to an increase in CO.",
+  "entities": [
+    {
+      "id": "D010656",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Phenylephrine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "phenylephrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 216,
+          "length": 13
+        },
+        {
+          "text": "phenylephrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 448,
+          "length": 13
+        },
+        {
+          "text": "phenylephrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 831,
+          "length": 13
+        },
+        {
+          "text": "phenylephrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1276,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D004809",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ephedrine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 9
+        },
+        {
+          "text": "ephedrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 234,
+          "length": 9
+        },
+        {
+          "text": "ephedrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 499,
+          "length": 9
+        },
+        {
+          "text": "ephedrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1085,
+          "length": 9
+        },
+        {
+          "text": "ephedrine",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1375,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 177,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 312,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1301,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D005283",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 371,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D015742",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 401,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 430,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 481,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 583,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004809",
+      "tail_id": "D007022",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007022",
+      "tail_id": "D015742",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007022",
+      "tail_id": "D005283",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010656",
+      "tail_id": "D004809",
+      "type": "Comparison",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010656",
+      "tail_id": "D007022",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

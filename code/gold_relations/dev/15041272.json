@@ -1,0 +1,354 @@
+{
+  "doc_id": "15041272",
+  "title": "A first Taiwanese Chinese family of type 2B von Willebrand disease with R1306W mutation.",
+  "body": "Clinical, laboratory and genetic defect of a Taiwanese family with type 2B von Willebrand disease (VWD) were studied. The proband was a 55-year-old woman who gave birth to two daughters and one son aged 30, 29 and 27, respectively. All had abnormal mucocutaneous bleedings since their childhood. In proband, PT, PTT and platelet count were normal; template bleeding time was 14 min; VIII:C was 51%, von Willebrand factor antigen (VWF:Ag), 42% and von Willerand factor ristocetin-cofactor (VWF:RCo, 15%); ristocetin-induced platelet aggregation (RIPA) at 0.3 and 0.6 mg/ml of ristocetin was 16% and 68%, respectively. The enhanced response to ristocetin was identified to be in plasma, not in platelet itself, by mixing studies. Analysis of von Willebrand factor (VWF) multimer of plasma but not of platelets showed absence of high-molecular weight (HMW) multimer. All three children had similar laboratory findings. Exon 28 of VWF gene was amplified using polymerase chain reaction (PCR) and sequenced. The proband and three children were all found to be heterozygous for C to T transition at nucleotide 3916 resulting in Arg 1306 Trp (R1306W) substitution. This mutation in the glycoprotein Ib (GPIb)-binding site has been found to increase the affinity of plasma VWF for platelets, and thus cause loss of HMW multimers and often thrombocytopenia. In conclusion, a first report of type 2B VWD in a Taiwanese Chinese family who show R1306W mutation in VWF gene was described.",
+  "entities": [
+    {
+      "id": "D056728",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2B von Willebrand disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 30
+        },
+        {
+          "text": "type 2B von Willebrand disease",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 156,
+          "length": 30
+        },
+        {
+          "text": "type 2B VWD",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1471,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "rs61749384",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R1306W",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 6
+        },
+        {
+          "text": "C to T transition at nucleotide 3916",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1161,
+          "length": 36
+        },
+        {
+          "text": "Arg 1306 Trp",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1211,
+          "length": 12
+        },
+        {
+          "text": "R1306W",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1225,
+          "length": 6
+        },
+        {
+          "text": "R1306W",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1522,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genetic defect",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 114,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D014842",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "VWD",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 188,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 237,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bleedings",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 352,
+          "length": 9
+        },
+        {
+          "text": "bleeding",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 446,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VIII",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 472,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "von Willebrand factor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 488,
+          "length": 21
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 519,
+          "length": 3
+        },
+        {
+          "text": "von Willerand factor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 536,
+          "length": 20
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 578,
+          "length": 3
+        },
+        {
+          "text": "von Willebrand factor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 829,
+          "length": 21
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 852,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1016,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1354,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1541,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012310",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ristocetin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 557,
+          "length": 10
+        },
+        {
+          "text": "ristocetin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 664,
+          "length": 10
+        },
+        {
+          "text": "ristocetin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 731,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001791",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ristocetin-induced platelet aggregation",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 593,
+          "length": 39
+        },
+        {
+          "text": "RIPA",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 634,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2811",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein Ib",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1268,
+          "length": 15
+        },
+        {
+          "text": "GPIb",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1285,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombocytopenia",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1420,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D056728",
+      "tail_id": "rs61749384",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D056728",
+      "tail_id": "7450",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2811",
+      "tail_id": "D013921",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2811",
+      "tail_id": "7450",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs61749384",
+      "tail_id": "D013921",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001791",
+      "tail_id": "D012310",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "7450",
+      "tail_id": "D013921",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "7450",
+      "tail_id": "D012310",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

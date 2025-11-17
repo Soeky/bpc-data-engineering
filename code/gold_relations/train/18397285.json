@@ -1,0 +1,254 @@
+{
+  "doc_id": "18397285",
+  "title": "L1503R is a member of group I mutation and has dominant-negative effect on secretion of full-length VWF multimers: an analysis of two patients with type 2A von Willebrand disease.",
+  "body": "Type 2A von Willebrand disease (VWD) is characterized by decreased platelet-dependent function of von Willebrand factor (VWF); this in turn is associated with an absence of high-molecular-weight multimers. Sequence analysis of the VWF gene from two unrelated type 2A VWD patients showed an identical, novel, heterozygous T-->G transversion at nucleotide 4508, resulting in the substitution of L1503R in the VWF A2 domain. This substitution, which was not found in 60 unrelated normal individuals, was introduced into a full-length VWF cDNA and subsequently expressed in 293T cells. Only trace amount of the mutant VWF protein was secreted but most of the same was retained in 293T cells. Co-transfection experiment of both wild-type and mutant plasmids indicated the dominant-negative mechanism of disease development; as more of mutant DNA was transfected, VWF secretion was impaired in the media, whereas more of VWF was stored in the cell lysates. Molecular dynamic simulations of structural changes induced by L1503R indicated that the mean value of all-atom root-mean-squared-deviation was shifted from those with wild type or another mutation L1503Q that has been reported to be a group II mutation, which is susceptible to ADAMTS13 proteolysis. Protein instability of L1503R may be responsible for its intracellular retention and perhaps the larger VWF multimers, containing more mutant VWF subunits, are likely to be mal-processed and retained within the cell.",
+  "entities": [
+    {
+      "id": "rs61750097",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L1503R",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "T-->G transversion at nucleotide 4508",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 501,
+          "length": 37
+        },
+        {
+          "text": "L1503R",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 573,
+          "length": 6
+        },
+        {
+          "text": "L1503R",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1194,
+          "length": 6
+        },
+        {
+          "text": "L1503Q",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1329,
+          "length": 6
+        },
+        {
+          "text": "L1503R",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1455,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "7450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VWF",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 3
+        },
+        {
+          "text": "von Willebrand factor",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 278,
+          "length": 21
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 301,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 411,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 587,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 711,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 794,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1038,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1095,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1536,
+          "length": 3
+        },
+        {
+          "text": "VWF",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1574,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 134,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 451,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D056728",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2A von Willebrand disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 148,
+          "length": 30
+        },
+        {
+          "text": "Type 2A von Willebrand disease",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 180,
+          "length": 30
+        },
+        {
+          "text": "type 2A VWD",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 439,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014842",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "VWD",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 212,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0063",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "293T",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 750,
+          "length": 4
+        },
+        {
+          "text": "293T",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 856,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11093",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADAMTS13",
+          "passage_index": 1,
+          "passage_offset": 180,
+          "char_offset": 1410,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "11093",
+      "tail_id": "7450",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D056728",
+      "tail_id": "7450",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs61750097",
+      "tail_id": "D056728",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

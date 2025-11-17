@@ -1,0 +1,323 @@
+{
+  "doc_id": "16252083",
+  "title": "Polymorphisms of the DNA mismatch repair gene HMSH2 in breast cancer occurence and progression.",
+  "body": "The response of the cell to DNA damage and its ability to maintain genomic stability by DNA repair are crucial in preventing cancer initiation and progression. Therefore, polymorphism of DNA repair genes may affect the process of carcinogenesis. The importance of genetic variability of the components of mismatch repair (MMR) genes is well documented in colorectal cancer, but little is known about its role in breast cancer. hMSH2 is one of the crucial proteins of MMR. We performed a case-control study to test the association between two polymorphisms in the hMSH2 gene: an A --> G transition at 127 position producing an Asn --> Ser substitution at codon 127 (the Asn127Ser polymorphism) and a G --> A transition at 1032 position resulting in a Gly --> Asp change at codon 322 (the Gly322Asp polymorphism) and breast cancer risk and cancer progression. Genotypes were determined in DNA from peripheral blood lymphocytes of 150 breast cancer patients and 150 age-matched women (controls) by restriction fragment length polymorphism and allele-specific PCR. We did not observe any correlation between studied polymorphisms and breast cancer progression evaluated by node-metastasis, tumor size and Bloom-Richardson grading. A strong association between breast cancer occurrence and the Gly/Gly phenotype of the Gly322Asp polymorphism (odds ratio 8.39; 95% confidence interval 1.44-48.8) was found. Therefore, MMR may play a role in the breast carcinogenesis and the Gly322Asp polymorphism of the hMSH2 gene may be considered as a potential marker in breast cancer.",
+  "entities": [
+    {
+      "id": "4436",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mismatch repair",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 15
+        },
+        {
+          "text": "HMSH2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 5
+        },
+        {
+          "text": "mismatch repair",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 401,
+          "length": 15
+        },
+        {
+          "text": "MMR",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 418,
+          "length": 3
+        },
+        {
+          "text": "hMSH2",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 523,
+          "length": 5
+        },
+        {
+          "text": "MMR",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 563,
+          "length": 3
+        },
+        {
+          "text": "hMSH2",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 659,
+          "length": 5
+        },
+        {
+          "text": "MMR",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1508,
+          "length": 3
+        },
+        {
+          "text": "hMSH2",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1595,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 508,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 911,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1028,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1226,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1352,
+          "length": 13
+        },
+        {
+          "text": "breast carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1535,
+          "length": 21
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1649,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer initiation",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 221,
+          "length": 17
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 934,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1282,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D063646",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 326,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 451,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "rs17217772",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A --> G transition at 127 position",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 674,
+          "length": 34
+        },
+        {
+          "text": "Asn --> Ser substitution at codon 127",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 722,
+          "length": 37
+        },
+        {
+          "text": "Asn127Ser",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 765,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs4987188",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G --> A transition at 1032 position",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 795,
+          "length": 35
+        },
+        {
+          "text": "Gly --> Asp change at codon 322",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 846,
+          "length": 31
+        },
+        {
+          "text": "Gly322Asp",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 883,
+          "length": 9
+        },
+        {
+          "text": "Gly322Asp",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1410,
+          "length": 9
+        },
+        {
+          "text": "Gly322Asp",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1565,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1042,
+          "length": 8
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1071,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001943",
+      "tail_id": "rs4987188",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs17217772",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs17217772",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4436",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "4436",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "4436",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

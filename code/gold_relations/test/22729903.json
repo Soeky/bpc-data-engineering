@@ -1,0 +1,289 @@
+{
+  "doc_id": "22729903",
+  "title": "Contribution of STAT4 gene single-nucleotide polymorphism to systemic lupus erythematosus in the Polish population.",
+  "body": "The STAT4 has been found to be a susceptible gene in the development of systemic lupus erythematosus (SLE) in various populations. There are evident population differences in the context of clinical manifestations of SLE, therefore we investigated the prevalence of the STAT4 G > C (rs7582694) polymorphism in patients with SLE (n = 253) and controls (n = 521) in a sample of the Polish population. We found that patients with the STAT4 C/G and CC genotypes exhibited a 1.583-fold increased risk of SLE incidence (95 % CI = 1.168-2.145, p = 0.003), with OR for the C/C versus C/G and G/G genotypes was 1.967 (95 % CI = 1.152-3.358, p = 0.0119). The OR for the STAT4 C allele frequency showed a 1.539-fold increased risk of SLE (95 % CI = 1.209-1.959, p = 0.0004). We also observed an increased frequency of STAT4 C/C and C/G genotypes in SLE patients with renal symptoms OR = 2.259 (1.365-3.738, p = 0.0014), (p (corr) = 0.0238) and in SLE patients with neurologic manifestations OR = 2.867 (1.467-5.604, p = 0.0016), (p (corr) = 0.0272). Moreover, we found a contribution of STAT4 C/C and C/G genotypes to the presence of the anti-snRNP Ab OR = 3.237 (1.667-6.288, p = 0.0003), (p (corr) = 0.0051) and the presence of the anti-Scl-70 Ab OR = 2.665 (1.380-5.147, p = 0.0028), (p (corr) = 0.0476). Our studies confirmed an association of the STAT4 C (rs7582694) variant with the development of SLE and occurrence of some clinical manifestations of the disease.",
+  "entities": [
+    {
+      "id": "6775",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 120,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 386,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 547,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 776,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 923,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1192,
+          "length": 5
+        },
+        {
+          "text": "STAT4",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1457,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 28
+        },
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 188,
+          "length": 28
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 218,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 333,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 440,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 615,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 839,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 954,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1052,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1509,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs7582694",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G > C",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 392,
+          "length": 5
+        },
+        {
+          "text": "rs7582694",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 399,
+          "length": 9
+        },
+        {
+          "text": "rs7582694",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1466,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 426,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 529,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 958,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1056,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal symptoms",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 972,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "57819",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "snRNP",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1248,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7150",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Scl-70",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1344,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7150",
+      "tail_id": "6775",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "6775",
+      "tail_id": "57819",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "6775",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs7582694",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008180",
+      "tail_id": "6775",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008180",
+      "tail_id": "rs7582694",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

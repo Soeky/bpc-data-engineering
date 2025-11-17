@@ -1,0 +1,220 @@
+{
+  "doc_id": "18681856",
+  "title": "Expanding clinical spectrum of non-autoimmune hyperthyroidism due to an activating germline mutation, p.M453T, in the thyrotropin receptor gene.",
+  "body": "OBJECTIVE: To describe clinical and genetic features of a Thai family with non-autoimmune hyperthyroidism (NAH) caused by an activating germline mutation in the thyrotropin receptor (TSHR) gene. PATIENTS: Three affected individuals from the same family (a father and his two children) were studied. Clinical and imaging findings were reviewed and compared. GENETIC ANALYSIS: Genomic DNA was extracted from peripheral blood leukocytes and mutation analysis of the entire coding sequence of the TSHR gene was performed in both children and their parents by direct DNA sequencing. RESULTS: A heterozygous germline T to C transition in exon 10 of the TSHR gene (c.1358T-->C) resulting in the substitution of methionine (ATG) by threonine (ACG) at codon 453 (p.M453T) was identified in the father and his two children. They presented with different clinical severity and variable age of onset. In addition to hyperthyroidism, ventriculomegaly and bilateral shortening of the fifth metacarpal bones and the middle phalanges of the fifth fingers were consistently found in all affected individuals. CONCLUSIONS: Ventriculomegaly and bilateral shortening of the fifth metacarpal bones and the middle phalanges of the fifth fingers might be characteristic features of NAH because of an activating TSHR germline mutation. In addition, the shortening of the middle phalanges of the fifth fingers has never been previously described, expanding the phenotypic spectrum of the disease.",
+  "entities": [
+    {
+      "id": "C563786",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "non-autoimmune hyperthyroidism",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 30
+        },
+        {
+          "text": "non-autoimmune hyperthyroidism",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 220,
+          "length": 30
+        },
+        {
+          "text": "NAH",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 252,
+          "length": 3
+        },
+        {
+          "text": "NAH",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1404,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs121908864",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.M453T",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 7
+        },
+        {
+          "text": "T to C",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 756,
+          "length": 6
+        },
+        {
+          "text": "c.1358T-->C",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 803,
+          "length": 11
+        },
+        {
+          "text": "methionine (ATG) by threonine (ACG) at codon 453",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 849,
+          "length": 48
+        },
+        {
+          "text": "p.M453T",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 899,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "7253",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thyrotropin receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 118,
+          "length": 20
+        },
+        {
+          "text": "thyrotropin receptor",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 306,
+          "length": 20
+        },
+        {
+          "text": "TSHR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 328,
+          "length": 4
+        },
+        {
+          "text": "TSHR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 638,
+          "length": 4
+        },
+        {
+          "text": "TSHR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 792,
+          "length": 4
+        },
+        {
+          "text": "TSHR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1433,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 340,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006980",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperthyroidism",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1049,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D006849",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ventriculomegaly",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1066,
+          "length": 16
+        },
+        {
+          "text": "Ventriculomegaly",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1250,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D006849",
+      "tail_id": "rs121908864",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006980",
+      "tail_id": "rs121908864",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "7253",
+      "tail_id": "D006849",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "7253",
+      "tail_id": "D006980",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C563786",
+      "tail_id": "7253",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C563786",
+      "tail_id": "rs121908864",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

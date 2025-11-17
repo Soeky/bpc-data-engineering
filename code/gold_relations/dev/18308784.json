@@ -1,0 +1,344 @@
+{
+  "doc_id": "18308784",
+  "title": "Ginsenoside Rg1 restores the impairment of learning induced by chronic morphine administration in rats.",
+  "body": "Rg1, as a ginsenoside extracted from Panax ginseng, could ameliorate spatial learning impairment. Previous studies have demonstrated that Rg1 might be a useful agent for the prevention and treatment of the adverse effects of morphine. The aim of this study was to investigate the effect of Rg1 on learning impairment by chronic morphine administration and the mechanism responsible for this effect. Male rats were subcutaneously injected with morphine (10 mg/kg) twice a day at 12 hour intervals for 10 days, and Rg1 (30 mg/kg) was intraperitoneally injected 2 hours after the second injection of morphine once a day for 10 days. Spatial learning capacity was assessed in the Morris water maze. The results showed that rats treated with Morphine/Rg1 decreased escape latency and increased the time spent in platform quadrant and entering frequency. By implantation of electrodes and electrophysiological recording in vivo, the results showed that Rg1 restored the long-term potentiation (LTP) impaired by morphine in both freely moving and anaesthetised rats. The electrophysiological recording in vitro showed that Rg1 restored the LTP in slices from the rats treated with morphine, but not changed LTP in the slices from normal saline- or morphine/Rg1-treated rats; this restoration could be inhibited by N-methyl-D-aspartate (NMDA) receptor antagonist MK801. We conclude that Rg1 may significantly improve the spatial learning capacity impaired by chonic morphine administration and restore the morphine-inhibited LTP. This effect is NMDA receptor dependent.",
+  "entities": [
+    {
+      "id": "C035054",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ginsenoside Rg1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 104,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 242,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 394,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 617,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 850,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1051,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1220,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1354,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1483,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007859",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impairment of learning",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 22
+        },
+        {
+          "text": "learning impairment",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 181,
+          "length": 19
+        },
+        {
+          "text": "learning impairment",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 401,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D009020",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 329,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 432,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 547,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 701,
+          "length": 8
+        },
+        {
+          "text": "Morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 841,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1109,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1278,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1345,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1562,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1602,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 508,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 823,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1158,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1260,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1366,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D036145",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ginsenoside",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 114,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "4054",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Panax ginseng",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 141,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "24408",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-methyl-D-aspartate (NMDA) receptor",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1411,
+          "length": 36
+        },
+        {
+          "text": "NMDA receptor",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1641,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D016291",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MK801",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1459,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24408",
+      "tail_id": "D016291",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C035054",
+      "tail_id": "24408",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C035054",
+      "tail_id": "D009020",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C035054",
+      "tail_id": "D007859",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D016291",
+      "tail_id": "C035054",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007859",
+      "tail_id": "D009020",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

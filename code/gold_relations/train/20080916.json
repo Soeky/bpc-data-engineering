@@ -1,0 +1,178 @@
+{
+  "doc_id": "20080916",
+  "title": "Promoter insertion/deletion in the IRF5 gene is highly associated with susceptibility to systemic lupus erythematosus in distinct populations, but exerts a modest effect on gene expression in peripheral blood mononuclear cells.",
+  "body": "OBJECTIVE: We examined the genetic association of the promoter insertion/deletion (indel) in IRF5 gene with systemic lupus erythematosus (SLE) in distinct populations and assessed its role in gene expression. METHODS: Four IRF5 polymorphisms were genotyped in 1488 SLE patients and 1466 controls. Gene expression was analyzed by quantitative real-time PCR using RNA from peripheral blood mononuclear cells (PBMC). RESULTS: The promoter indel and rs2070197 had independent genetic effects, which accounted for the association of rs2004640 and rs10954213. Gene expression analysis revealed that rs10954213 exerted the greatest influence on IRF5 transcript levels. CONCLUSION: We corroborated the association of the promoter indel with SLE in 5 different populations and revealed that rs10954213 is the main single-nucleotide polymorphism responsible for altered IRF5 expression in PBMC.",
+  "entities": [
+    {
+      "id": "3663",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRF5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 321,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 451,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 866,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 1088,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 28
+        },
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 336,
+          "length": 28
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 366,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 493,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 961,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 497,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs2070197",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2070197",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 674,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2004640",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2004640",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 756,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs10954213",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs10954213",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 770,
+          "length": 10
+        },
+        {
+          "text": "rs10954213",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 821,
+          "length": 10
+        },
+        {
+          "text": "rs10954213",
+          "passage_index": 1,
+          "passage_offset": 228,
+          "char_offset": 1010,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2004640",
+      "tail_id": "rs10954213",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008180",
+      "tail_id": "3663",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008180",
+      "tail_id": "rs10954213",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

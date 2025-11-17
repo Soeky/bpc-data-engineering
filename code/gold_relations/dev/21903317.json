@@ -1,0 +1,504 @@
+{
+  "doc_id": "21903317",
+  "title": "Autosomal dominant mutation in the signal peptide of renin in a kindred with anemia, hyperuricemia, and CKD.",
+  "body": "Homozygous or compound heterozygous mutations in renin (REN) cause renal tubular dysgenesis, which is characterized by death in utero due to kidney failure and pulmonary hypoplasia. The phenotype resembles the fetopathy caused by angiotensin-converting enzyme inhibitor or angiotensin receptor blocker intake during pregnancy. Recently, heterozygous REN mutations were shown to result in early-onset hyperuricemia, anemia, and chronic kidney disease (CKD). To date, only 3 different heterozygous REN mutations have been published. We report mutation analysis of the REN gene in 39 kindreds with hyperuricemia and CKD who previously tested negative for mutations in the UMOD (uromodulin) and HNF1B (hepatocyte nuclear factor 1b) genes. We identified one kindred with a novel thymidine to cytosine mutation at position 28 in the REN complementary DNA, corresponding to a tryptophan to arginine substitution at amino acid 10, which is found within the signal sequence (c.28T>C; p.W10R). On this basis, we conclude that REN mutations are rare events in patients with CKD. Within the kindred, we found affected individuals over 4 generations who carried the novel REN mutation and were characterized by significant anemia, hyperuricemia, and CKD. Anemia was severe and disproportional to the degree of decreased kidney function. Because all heterozygous REN mutations that have been described are localized in the signal sequence, screening of the REN gene for patients with CKD with hyperuricemia and anemia may best be focused on sequencing of exon 1, which encodes the signal peptide.",
+  "entities": [
+    {
+      "id": "5972",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "renin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 5
+        },
+        {
+          "text": "renin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 158,
+          "length": 5
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 165,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 459,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 605,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 675,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 936,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1125,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1268,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1458,
+          "length": 3
+        },
+        {
+          "text": "REN",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1552,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000740",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 524,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1319,
+          "length": 6
+        },
+        {
+          "text": "Anemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1351,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1606,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D033461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperuricemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 13
+        },
+        {
+          "text": "hyperuricemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 509,
+          "length": 13
+        },
+        {
+          "text": "hyperuricemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 704,
+          "length": 13
+        },
+        {
+          "text": "hyperuricemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1327,
+          "length": 13
+        },
+        {
+          "text": "hyperuricemia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1588,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D051436",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "CKD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 104,
+          "length": 3
+        },
+        {
+          "text": "chronic kidney disease",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 536,
+          "length": 22
+        },
+        {
+          "text": "CKD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 560,
+          "length": 3
+        },
+        {
+          "text": "CKD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 722,
+          "length": 3
+        },
+        {
+          "text": "CKD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1172,
+          "length": 3
+        },
+        {
+          "text": "CKD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1346,
+          "length": 3
+        },
+        {
+          "text": "CKD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1579,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C537048",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal tubular dysgenesis",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 176,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 228,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D051437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "kidney failure",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 250,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D008171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pulmonary hypoplasia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 269,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C576203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fetopathy",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 319,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000806",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "angiotensin-converting enzyme inhibitor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 339,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "D057911",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "angiotensin receptor blocker",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 382,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "7369",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "UMOD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 778,
+          "length": 4
+        },
+        {
+          "text": "uromodulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 784,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "6928",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HNF1B",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 800,
+          "length": 5
+        },
+        {
+          "text": "hepatocyte nuclear factor 1b",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 807,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|28|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "thymidine to cytosine mutation at position 28",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 883,
+          "length": 45
+        },
+        {
+          "text": "c.28T>C",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1075,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|W|10|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "tryptophan to arginine substitution at amino acid 10",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 978,
+          "length": 52
+        },
+        {
+          "text": "p.W10R",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1084,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1158,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1565,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|W|10|R",
+      "tail_id": "D051436",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|W|10|R",
+      "tail_id": "D000740",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|W|10|R",
+      "tail_id": "D033461",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|T|28|C",
+      "tail_id": "D051436",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|T|28|C",
+      "tail_id": "D000740",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "c|SUB|T|28|C",
+      "tail_id": "D033461",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5972",
+      "tail_id": "C537048",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "5972",
+      "tail_id": "D051436",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "5972",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "5972",
+      "tail_id": "D033461",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "C576203",
+      "tail_id": "D057911",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "C576203",
+      "tail_id": "D000806",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

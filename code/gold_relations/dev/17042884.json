@@ -1,0 +1,566 @@
+{
+  "doc_id": "17042884",
+  "title": "Placebo-level incidence of extrapyramidal symptoms (EPS) with quetiapine in controlled studies of patients with bipolar mania.",
+  "body": "OBJECTIVES: To evaluate extrapyramidal symptoms (EPS), including akathisia, with quetiapine in patients with bipolar mania. METHODS: Data were analyzed from four similarly designed, randomized, double-blind, 3- to 12-week studies. Two studies evaluated quetiapine monotherapy (up to 800 mg/day) (n = 209) versus placebo (n = 198), with lithium or haloperidol monotherapy as respective active controls. Two studies evaluated quetiapine (up to 800 mg/day) in combination with a mood stabilizer (lithium or divalproex, QTP + Li/DVP) (n = 196) compared to placebo and mood stabilizer (PBO + Li/DVP) (n = 203). Extrapyramidal symptoms were evaluated using the Simpson-Angus Scale (SAS), the Barnes Akathisia Rating Scale (BARS), adverse event reports and anticholinergic drug usage. RESULTS: The incidence of EPS-related adverse events, including akathisia, was no different with quetiapine monotherapy (12.9%) than with placebo (13.1%). Similarly, EPS-related adverse events with QTP + Li/DVP (21.4%) were no different than with PBO + Li/DVP (19.2%). Adverse events related to EPS occurred in 59.6% of patients treated with haloperidol (n = 99) monotherapy, whereas 26.5% of patients treated with lithium (n = 98) monotherapy experienced adverse events related to EPS. The incidence of akathisia was low and similar with quetiapine monotherapy (3.3%) and placebo (6.1%), and with QTP + Li/DVP (3.6%) and PBO + Li/DVP (4.9%). Lithium was associated with a significantly higher incidence (p < 0.05) of tremor (18.4%) than quetiapine (5.6%); cerebellar tremor, which is a known adverse effect of lithium, may have contributed to the elevated rate of tremor in patients receiving lithium therapy. Haloperidol induced a significantly higher incidence (p < 0.001) of akathisia (33.3% versus 5.9%), tremor (30.3% versus 7.8%), and extrapyramidal syndrome (35.4% versus 5.9%) than quetiapine. No significant differences were observed between quetiapine and placebo on SAS and BARS scores. Anticholinergic use was low and similar with quetiapine or placebo. CONCLUSIONS: In bipolar mania, the incidence of EPS, including akathisia, with quetiapine therapy is similar to that with placebo.",
+  "entities": [
+    {
+      "id": "D001480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "extrapyramidal symptoms",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 23
+        },
+        {
+          "text": "EPS",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 3
+        },
+        {
+          "text": "extrapyramidal symptoms",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 151,
+          "length": 23
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 176,
+          "length": 3
+        },
+        {
+          "text": "Extrapyramidal symptoms",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 733,
+          "length": 23
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 931,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1071,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1200,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1387,
+          "length": 3
+        },
+        {
+          "text": "extrapyramidal syndrome",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1947,
+          "length": 23
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2220,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C069541",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "quetiapine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 208,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 380,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 551,
+          "length": 10
+        },
+        {
+          "text": "QTP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 643,
+          "length": 3
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1002,
+          "length": 10
+        },
+        {
+          "text": "QTP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1103,
+          "length": 3
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1444,
+          "length": 10
+        },
+        {
+          "text": "QTP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1503,
+          "length": 3
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1643,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1996,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2057,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2149,
+          "length": 10
+        },
+        {
+          "text": "quetiapine",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2251,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 222,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1225,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1298,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1780,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001714",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bipolar mania",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 112,
+          "length": 13
+        },
+        {
+          "text": "bipolar mania",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 236,
+          "length": 13
+        },
+        {
+          "text": "bipolar mania",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2188,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D017109",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 192,
+          "length": 9
+        },
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 969,
+          "length": 9
+        },
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1409,
+          "length": 9
+        },
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1884,
+          "length": 9
+        },
+        {
+          "text": "akathisia",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2235,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008094",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 463,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 620,
+          "length": 7
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 649,
+          "length": 2
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 714,
+          "length": 2
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1109,
+          "length": 2
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1158,
+          "length": 2
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1320,
+          "length": 7
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1509,
+          "length": 2
+        },
+        {
+          "text": "Li",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1533,
+          "length": 2
+        },
+        {
+          "text": "Lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1548,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1716,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1799,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 474,
+          "length": 11
+        },
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1247,
+          "length": 11
+        },
+        {
+          "text": "Haloperidol",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1816,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014635",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "divalproex",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 631,
+          "length": 10
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 652,
+          "length": 3
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 717,
+          "length": 3
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1112,
+          "length": 3
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1161,
+          "length": 3
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1512,
+          "length": 3
+        },
+        {
+          "text": "DVP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1536,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018680",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anticholinergic drug",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 877,
+          "length": 20
+        },
+        {
+          "text": "Anticholinergic",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 2104,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D014202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tremor",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1623,
+          "length": 6
+        },
+        {
+          "text": "tremor",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1673,
+          "length": 6
+        },
+        {
+          "text": "tremor",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1770,
+          "length": 6
+        },
+        {
+          "text": "tremor",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1915,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014202",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006220",
+      "tail_id": "D017109",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006220",
+      "tail_id": "D014202",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001480",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001480",
+      "tail_id": "D006220",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

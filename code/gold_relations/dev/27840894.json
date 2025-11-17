@@ -1,0 +1,538 @@
+{
+  "doc_id": "27840894",
+  "title": "Seven novel and six de novo PHEX gene mutations in patients with hypophosphatemic rickets.",
+  "body": "Inactivating mutations in phosphate-regulating gene with homologies to endopeptidase on the X chromosome (PHEX) have been identified as a cause of X-linked hypophosphatemic rickets (XLH; OMIM 307800). In the present study, we enrolled 43 patients from 18 unrelated families clinically diagnosed with hypophosphatemic rickets and 250 healthy controls. For each available individual, all 22 exons with their exon-intron boundaries of the PHEX gene were directly sequenced. The levels of serum fibroblast growth factor 23 (FGF23) were measured as well. Sequencing analysis detected 17 different PHEX gene mutations, and 7 of these were identified as novel: 3 missense mutations, including c.304G>A (p.Gly102Arg) in exon 3, c.229T>C (p.Cys77Arg) in exon 3 and c.824T>C (p.Leu275Pro) in exon 7; 2 deletion mutations, including c.528delT (p.Glu177LysfsX44) in exon 5 and c.1234delA (p.Ser412ValfsX12) in exon 11; and 2 alternative splicing mutations, including c.436_436+1delAG in intron 4 at splicing donor sites and c.1483-1G>C in intron 13 at splicing acceptor sites. Moreover, 6 mutations were proven to be de novo in 6 sporadic cases and the probands were all females. No mutations were found in the 250 healthy controls. The serum levels of FGF23 varied widely among the patients with XLH, and no significant difference was found when compared with those of the healthy controls. On the whole, the findings of this study provide new insight into the spectrum of PHEX mutations and provide potential evidence of a critical domain in PHEX protein. In addition, the finding of an overlap of the serum FGF23 levels between the patients with XLH and the healthy controls indicates its limited diagnostic value in XLH.",
+  "entities": [
+    {
+      "id": "5251",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PHEX",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 4
+        },
+        {
+          "text": "phosphate-regulating gene with homologies to endopeptidase on the X chromosome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 117,
+          "length": 78
+        },
+        {
+          "text": "PHEX",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 197,
+          "length": 4
+        },
+        {
+          "text": "PHEX",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 527,
+          "length": 4
+        },
+        {
+          "text": "PHEX",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 683,
+          "length": 4
+        },
+        {
+          "text": "PHEX",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1553,
+          "length": 4
+        },
+        {
+          "text": "PHEX",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1623,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 329,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1362,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1714,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D063730",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypophosphatemic rickets",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 24
+        },
+        {
+          "text": "hypophosphatemic rickets",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 391,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D053098",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked hypophosphatemic rickets",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 238,
+          "length": 33
+        },
+        {
+          "text": "XLH",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 273,
+          "length": 3
+        },
+        {
+          "text": "OMIM 307800",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 278,
+          "length": 11
+        },
+        {
+          "text": "XLH",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1376,
+          "length": 3
+        },
+        {
+          "text": "XLH",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1728,
+          "length": 3
+        },
+        {
+          "text": "XLH",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1799,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "8074",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibroblast growth factor 23",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 582,
+          "length": 27
+        },
+        {
+          "text": "FGF23",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 611,
+          "length": 5
+        },
+        {
+          "text": "FGF23",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1332,
+          "length": 5
+        },
+        {
+          "text": "FGF23",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1689,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|304|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.304G>A",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 777,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|102|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Gly102Arg",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 787,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|229|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.229T>C",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 811,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|C|77|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Cys77Arg",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 821,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|284|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.824T>C",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 847,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|275|P",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Leu275Pro",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 857,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|528|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.528delT",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 913,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E|177|K|44",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Glu177LysfsX44",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 924,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1234|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1234delA",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 956,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|412|V|12",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ser412ValfsX12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 968,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|436_436+1|AG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.436_436+1delAG",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1046,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1483-1|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1483-1G>C",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1103,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D053098",
+      "tail_id": "c|SUB|G|1483-1|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D053098",
+      "tail_id": "c|SUB|G|304|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D053098",
+      "tail_id": "c|SUB|T|229|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D053098",
+      "tail_id": "c|SUB|T|284|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D053098",
+      "tail_id": "c|DEL|436_436+1|AG",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D053098",
+      "tail_id": "p|SUB|S|412|V|12",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D053098",
+      "tail_id": "c|DEL|1234|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D053098",
+      "tail_id": "p|SUB|E|177|K|44",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D053098",
+      "tail_id": "c|DEL|528|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D053098",
+      "tail_id": "p|SUB|L|275|P",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D053098",
+      "tail_id": "p|SUB|C|77|R",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D053098",
+      "tail_id": "p|SUB|G|102|R",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D063730",
+      "tail_id": "c|SUB|G|1483-1|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D063730",
+      "tail_id": "c|SUB|G|304|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D063730",
+      "tail_id": "c|SUB|T|229|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D063730",
+      "tail_id": "c|SUB|T|284|C",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D063730",
+      "tail_id": "c|DEL|436_436+1|AG",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D063730",
+      "tail_id": "p|SUB|S|412|V|12",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D063730",
+      "tail_id": "c|DEL|1234|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D063730",
+      "tail_id": "p|SUB|E|177|K|44",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D063730",
+      "tail_id": "c|DEL|528|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D063730",
+      "tail_id": "p|SUB|L|275|P",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D063730",
+      "tail_id": "p|SUB|C|77|R",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D063730",
+      "tail_id": "p|SUB|G|102|R",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "5251",
+      "tail_id": "D053098",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "5251",
+      "tail_id": "D063730",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

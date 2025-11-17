@@ -1,0 +1,349 @@
+{
+  "doc_id": "19565319",
+  "title": "Adenosine A(2A) receptor gene (ADORA2A) variants may increase autistic symptoms and anxiety in autism spectrum disorder.",
+  "body": "Autism spectrum disorders (ASDs) are heterogeneous disorders presenting with increased rates of anxiety. The adenosine A(2A) receptor gene (ADORA2A) is associated with panic disorder and is located on chromosome 22q11.23. Its gene product, the adenosine A(2A) receptor, is strongly expressed in the caudate nucleus, which also is involved in ASD. As autistic symptoms are increased in individuals with 22q11.2 deletion syndrome, and large 22q11.2 deletions and duplications have been observed in ASD individuals, in this study, 98 individuals with ASD and 234 control individuals were genotyped for eight single-nucleotide polymorphisms in ADORA2A. Nominal association with the disorder was observed for rs2236624-CC, and phenotypic variability in ASD symptoms was influenced by rs3761422, rs5751876 and rs35320474. In addition, association of ADORA2A variants with anxiety was replicated for individuals with ASD. Findings point toward a possible mediating role of ADORA2A variants on phenotypic expression in ASD that need to be replicated in a larger sample.",
+  "entities": [
+    {
+      "id": "135",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Adenosine A(2A) receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 24
+        },
+        {
+          "text": "ADORA2A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 7
+        },
+        {
+          "text": "adenosine A(2A) receptor",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 230,
+          "length": 24
+        },
+        {
+          "text": "ADORA2A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 261,
+          "length": 7
+        },
+        {
+          "text": "adenosine A(2A) receptor",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 365,
+          "length": 24
+        },
+        {
+          "text": "ADORA2A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 761,
+          "length": 7
+        },
+        {
+          "text": "ADORA2A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 965,
+          "length": 7
+        },
+        {
+          "text": "ADORA2A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1087,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D001321",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autistic symptoms",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 17
+        },
+        {
+          "text": "autistic symptoms",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 471,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anxiety",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 217,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 987,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000067877",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autism spectrum disorder",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 24
+        },
+        {
+          "text": "Autism spectrum disorders",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 121,
+          "length": 25
+        },
+        {
+          "text": "ASDs",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 148,
+          "length": 4
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 463,
+          "length": 3
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 617,
+          "length": 3
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 669,
+          "length": 3
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 869,
+          "length": 3
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1031,
+          "length": 3
+        },
+        {
+          "text": "ASD",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1132,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016584",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "panic disorder",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 289,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D004062",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "22q11.2 deletion syndrome",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 523,
+          "length": 25
+        },
+        {
+          "text": "22q11.2 deletions",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 560,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "rs2236624",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2236624",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 825,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs3761422",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs3761422",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 900,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs5751876",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs5751876",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 911,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs35320474",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs35320474",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 925,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs35320474",
+      "tail_id": "D001321",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs5751876",
+      "tail_id": "D001321",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs3761422",
+      "tail_id": "D001321",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000067877",
+      "tail_id": "rs2236624",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001008",
+      "tail_id": "rs35320474",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001008",
+      "tail_id": "rs5751876",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001008",
+      "tail_id": "rs3761422",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "135",
+      "tail_id": "D016584",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "135",
+      "tail_id": "D000067877",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "135",
+      "tail_id": "D001008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "135",
+      "tail_id": "D001321",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "doc_id": "18991055",
+  "title": "Association between polymorphisms in SLC30A8, HHEX, CDKN2A/B, IGF2BP2, FTO, WFS1, CDKAL1, KCNQ1 and type 2 diabetes in the Korean population.",
+  "body": "According to recent genome-wide association studies, a number of single nucleotide polymorphisms (SNPs) are reported to be associated with type 2 diabetes mellitus (T2DM). The aim of the present study was to investigate the association among the polymorphisms of SLC30A8, HHEX, CDKN2A/B, IGF2BP2, FTO, WFS1, CDKAL1 and KCNQ1 and the risk of T2DM in the Korean population. This study was based on a multicenter case-control study, including 908 patients with T2DM and 502 non-diabetic controls. We genotyped rs13266634, rs1111875, rs10811661, rs4402960, rs8050136, rs734312, rs7754840 and rs2237892 and measured the body weight, body mass index and fasting plasma glucose in all patients and controls. The strongest association was found in a variant of CDKAL1 [rs7754840, odds ratio (OR) = 1.77, 95% CI = 1.50-2.10, p = 5.0 x 10(-11)]. The G allele of rs1111875 (OR = 1.43, 95% CI = 1.18-1.72, p = 1.8 x 10(-4)) in HHEX), the T allele of rs10811661 (OR = 1.47, 95% CI = 1.23-1.75, p = 2.1 x 10(-5)) in CDKN2A/B) and the C allele of rs2237892 (OR = 1.31, 95% CI = 1.10-1.56, p = 0.003) in KCNQ1 showed significant associations with T2DM. Rs13266634 (OR = 1.19, 95% CI = 1.00-1.42, p = 0.045) in SLC30A8 showed a nominal association with the risk of T2DM, whereas SNPs in IGF2BP2, FTO and WFS1 were not associated. In conclusion, we have shown that SNPs in HHEX, CDKN2A/B, CDKAL1, KCNQ1 and SLC30A8 confer a risk of T2DM in the Korean population.",
+  "entities": [
+    {
+      "id": "169026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLC30A8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 7
+        },
+        {
+          "text": "SLC30A8",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 405,
+          "length": 7
+        },
+        {
+          "text": "SLC30A8",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1336,
+          "length": 7
+        },
+        {
+          "text": "SLC30A8",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1531,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3087",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HHEX",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 4
+        },
+        {
+          "text": "HHEX",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 414,
+          "length": 4
+        },
+        {
+          "text": "HHEX",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1057,
+          "length": 4
+        },
+        {
+          "text": "HHEX",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1497,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1029,1030",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN2A/B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 8
+        },
+        {
+          "text": "CDKN2A/B",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 420,
+          "length": 8
+        },
+        {
+          "text": "CDKN2A/B",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1144,
+          "length": 8
+        },
+        {
+          "text": "CDKN2A/B",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1503,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10644",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGF2BP2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 7
+        },
+        {
+          "text": "IGF2BP2",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 430,
+          "length": 7
+        },
+        {
+          "text": "IGF2BP2",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1412,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "79068",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FTO",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 3
+        },
+        {
+          "text": "FTO",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 439,
+          "length": 3
+        },
+        {
+          "text": "FTO",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1421,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "7466",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "WFS1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 4
+        },
+        {
+          "text": "WFS1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 444,
+          "length": 4
+        },
+        {
+          "text": "WFS1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1429,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "54901",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKAL1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 6
+        },
+        {
+          "text": "CDKAL1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 450,
+          "length": 6
+        },
+        {
+          "text": "CDKAL1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 895,
+          "length": 6
+        },
+        {
+          "text": "CDKAL1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1513,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3784",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KCNQ1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 5
+        },
+        {
+          "text": "KCNQ1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 461,
+          "length": 5
+        },
+        {
+          "text": "KCNQ1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1230,
+          "length": 5
+        },
+        {
+          "text": "KCNQ1",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1521,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 281,
+          "length": 24
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 307,
+          "length": 4
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 483,
+          "length": 4
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 600,
+          "length": 4
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1273,
+          "length": 4
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1390,
+          "length": 4
+        },
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1556,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 586,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 820,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 617,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs13266634",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs13266634",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 649,
+          "length": 10
+        },
+        {
+          "text": "Rs13266634",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1279,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs1111875",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1111875",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 661,
+          "length": 9
+        },
+        {
+          "text": "rs1111875",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 994,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs10811661",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs10811661",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 672,
+          "length": 10
+        },
+        {
+          "text": "rs10811661",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1080,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs4402960",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs4402960",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 684,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs8050136",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs8050136",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 695,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs734312",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs734312",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 706,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs7754840",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs7754840",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 716,
+          "length": 9
+        },
+        {
+          "text": "rs7754840",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 903,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2237892",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2237892",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 730,
+          "length": 9
+        },
+        {
+          "text": "rs2237892",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1174,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 805,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs13266634",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2237892",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs10811661",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1111875",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003924",
+      "tail_id": "169026",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003924",
+      "tail_id": "3784",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003924",
+      "tail_id": "54901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003924",
+      "tail_id": "3087",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "rs7754840",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

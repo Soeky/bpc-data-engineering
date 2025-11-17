@@ -1,0 +1,643 @@
+{
+  "doc_id": "18162529",
+  "title": "Hypothalamic prolactin receptor messenger ribonucleic acid levels, prolactin signaling, and hyperprolactinemic inhibition of pulsatile luteinizing hormone secretion are dependent on estradiol.",
+  "body": "Hyperprolactinemia can reduce fertility and libido. Although central prolactin actions are thought to contribute to this, the mechanisms are poorly understood. We first tested whether chronic hyperprolactinemia inhibited two neuroendocrine parameters necessary for female fertility: pulsatile LH secretion and the estrogen-induced LH surge. Chronic hyperprolactinemia induced by the dopamine antagonist sulpiride caused a 40% reduction LH pulse frequency in ovariectomized rats, but only in the presence of chronic low levels of estradiol. Sulpiride did not affect the magnitude of a steroid-induced LH surge or the percentage of GnRH neurons activated during the surge. Estradiol is known to influence expression of the long form of prolactin receptors (PRL-R) and components of prolactin's signaling pathway. To test the hypothesis that estrogen increases PRL-R expression and sensitivity to prolactin, we next demonstrated that estradiol greatly augments prolactin-induced STAT5 activation. Lastly, we measured PRL-R and suppressor of cytokine signaling (SOCS-1 and -3 and CIS, which reflect the level of prolactin signaling) mRNAs in response to sulpiride and estradiol. Sulpiride induced only SOCS-1 in the medial preoptic area, where GnRH neurons are regulated, but in the arcuate nucleus and choroid plexus, PRL-R, SOCS-3, and CIS mRNA levels were also induced. Estradiol enhanced these effects on SOCS-3 and CIS. Interestingly, estradiol also induced PRL-R, SOCS-3, and CIS mRNA levels independently. These data show that GnRH pulse frequency is inhibited by chronic hyperprolactinemia in a steroid-dependent manner. They also provide evidence for estradiol-dependent and brain region-specific regulation of PRL-R expression and signaling responses by prolactin.",
+  "entities": [
+    {
+      "id": "24684",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 18
+        },
+        {
+          "text": "prolactin receptors",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 927,
+          "length": 19
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 948,
+          "length": 5
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1051,
+          "length": 5
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1207,
+          "length": 5
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1508,
+          "length": 5
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1652,
+          "length": 5
+        },
+        {
+          "text": "PRL-R",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1909,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012313",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ribonucleic acid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "24683",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 262,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 973,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1087,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1151,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1301,
+          "length": 9
+        },
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1953,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006966",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperprolactinemic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 18
+        },
+        {
+          "text": "Hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 193,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 385,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 542,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1768,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007986",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "luteinizing hormone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 135,
+          "length": 19
+        },
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 486,
+          "length": 2
+        },
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 524,
+          "length": 2
+        },
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 629,
+          "length": 2
+        },
+        {
+          "text": "LH",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 793,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D004958",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "estradiol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 182,
+          "length": 9
+        },
+        {
+          "text": "estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 722,
+          "length": 9
+        },
+        {
+          "text": "Estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 864,
+          "length": 9
+        },
+        {
+          "text": "estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1124,
+          "length": 9
+        },
+        {
+          "text": "estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1357,
+          "length": 9
+        },
+        {
+          "text": "Estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1562,
+          "length": 9
+        },
+        {
+          "text": "estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1629,
+          "length": 9
+        },
+        {
+          "text": "estradiol",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1849,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D004967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 507,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1032,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 576,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D013469",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sulpiride",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 596,
+          "length": 9
+        },
+        {
+          "text": "Sulpiride",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 733,
+          "length": 9
+        },
+        {
+          "text": "sulpiride",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1343,
+          "length": 9
+        },
+        {
+          "text": "Sulpiride",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1368,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 666,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013256",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 777,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1792,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "24918",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT5",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1169,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "252971,83681,89829",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "suppressor of cytokine signaling",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1217,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "252971,89829",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOCS-1 and -3",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1251,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "83681",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CIS",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1269,
+          "length": 3
+        },
+        {
+          "text": "CIS",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1527,
+          "length": 3
+        },
+        {
+          "text": "CIS",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1609,
+          "length": 3
+        },
+        {
+          "text": "CIS",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1671,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "252971",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOCS-1",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1391,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "89829",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOCS-3",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1515,
+          "length": 6
+        },
+        {
+          "text": "SOCS-3",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1598,
+          "length": 6
+        },
+        {
+          "text": "SOCS-3",
+          "passage_index": 1,
+          "passage_offset": 193,
+          "char_offset": 1659,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "83681",
+      "tail_id": "24683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "89829",
+      "tail_id": "24683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "252971",
+      "tail_id": "24683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "24683",
+      "tail_id": "24918",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004967",
+      "tail_id": "24683",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004967",
+      "tail_id": "24684",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004967",
+      "tail_id": "D007986",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004958",
+      "tail_id": "83681",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004958",
+      "tail_id": "89829",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D004958",
+      "tail_id": "24918",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D004958",
+      "tail_id": "24683",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D004958",
+      "tail_id": "24684",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D013256",
+      "tail_id": "D007986",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D006966",
+      "tail_id": "D013256",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D006966",
+      "tail_id": "D013469",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D013469",
+      "tail_id": "83681",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D013469",
+      "tail_id": "89829",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D013469",
+      "tail_id": "252971",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D013469",
+      "tail_id": "24684",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D013469",
+      "tail_id": "D007986",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D004298",
+      "tail_id": "D013469",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

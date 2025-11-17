@@ -1,0 +1,625 @@
+{
+  "doc_id": "25305591",
+  "title": "VPAC2 (vasoactive intestinal peptide receptor type 2) receptor deficient mice develop exacerbated experimental autoimmune encephalomyelitis with increased Th1/Th17 and reduced Th2/Treg responses.",
+  "body": "Vasoactive intestinal peptide (VIP) and pituitary adenylyl cyclase-activating polypeptide (PACAP) are two structurally-related neuropeptides with widespread expression in the central and peripheral nervous systems. Although these peptides have been repeatedly shown to exert potent anti-inflammatory actions when administered in animal models of inflammatory disease, mice deficient in VIP and PACAP were recently shown to exhibit different phenotypes (ameliorated and exacerbated, respectively) in response to experimental autoimmune encephalomyelitis (EAE). Therefore, elucidating what are the specific immunoregulatory roles played by each of their receptor subtypes (VPAC1, VPAC2, and PAC1) is critical. In this study, we found that mice with a genetic deletion of VIPR2, encoding the VPAC2 receptor, exhibited exacerbated (MOG35-55)-induced EAE compared to wild type mice, characterized by enhanced clinical and histopathological features, increased proinflammatory cytokines (TNF-alpha, IL-6, IFN-gamma (Th1), and IL-17 (Th17)) and reduced anti-inflammatory cytokines (IL-10, TGFbeta, and IL-4 (Th2)) in the CNS and lymph nodes. Moreover, the abundance and proliferative index of lymph node, thymus and CNS CD4(+)CD25(+)FoxP3(+) Tregs were strikingly reduced in VPAC2-deficient mice with EAE. Finally, the in vitro suppressive activity of lymph node and splenic Tregs from VPAC2-deficient mice was impaired. Overall, our results demonstrate critical protective roles for PACAP and the VPAC2 receptor against autoimmunity, promoting the expansion and maintenance of the Treg pool.",
+  "entities": [
+    {
+      "id": "22355",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VPAC2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "vasoactive intestinal peptide receptor type 2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 7,
+          "length": 45
+        },
+        {
+          "text": "VPAC2",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 874,
+          "length": 5
+        },
+        {
+          "text": "VIPR2",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 965,
+          "length": 5
+        },
+        {
+          "text": "VPAC2 receptor",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 985,
+          "length": 14
+        },
+        {
+          "text": "VPAC2",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1464,
+          "length": 5
+        },
+        {
+          "text": "VPAC2",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1575,
+          "length": 5
+        },
+        {
+          "text": "VPAC2 receptor",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1687,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 564,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 933,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1068,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1480,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1591,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004681",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "experimental autoimmune encephalomyelitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 41
+        },
+        {
+          "text": "experimental autoimmune encephalomyelitis",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 707,
+          "length": 41
+        },
+        {
+          "text": "EAE",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 750,
+          "length": 3
+        },
+        {
+          "text": "EAE",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1042,
+          "length": 3
+        },
+        {
+          "text": "EAE",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1490,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "22353",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vasoactive intestinal peptide",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 196,
+          "length": 29
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 227,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 582,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "11516",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "pituitary adenylyl cyclase-activating polypeptide",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 236,
+          "length": 49
+        },
+        {
+          "text": "PACAP",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 287,
+          "length": 5
+        },
+        {
+          "text": "PACAP",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 590,
+          "length": 5
+        },
+        {
+          "text": "PACAP",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1673,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 483,
+          "length": 12
+        },
+        {
+          "text": "inflammatory disease",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 542,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "22354",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VPAC1",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 867,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11517",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAC1",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 885,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4340",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MOG35-55",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1024,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "15978,16171,16193,21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "proinflammatory cytokines",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1151,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1178,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1189,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN-gamma",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1195,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16171",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1216,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16153,16189,21803",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "anti-inflammatory cytokines",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1242,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "16153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1271,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "21803",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFbeta",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1278,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "16189",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-4",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1291,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12504",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1409,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16184",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD25",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1415,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20371",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FoxP3",
+          "passage_index": 1,
+          "passage_offset": 196,
+          "char_offset": 1422,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "20371",
+      "tail_id": "22355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "16184",
+      "tail_id": "22355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "12504",
+      "tail_id": "22355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4340",
+      "tail_id": "D004681",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "4340",
+      "tail_id": "22355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "11516",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "11516",
+      "tail_id": "D004681",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "22353",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004681",
+      "tail_id": "20371",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D004681",
+      "tail_id": "16184",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D004681",
+      "tail_id": "12504",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D004681",
+      "tail_id": "21803",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D004681",
+      "tail_id": "16189",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D004681",
+      "tail_id": "16153",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D004681",
+      "tail_id": "21926",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D004681",
+      "tail_id": "16193",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D004681",
+      "tail_id": "16171",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D004681",
+      "tail_id": "15978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D004681",
+      "tail_id": "22353",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "22355",
+      "tail_id": "21803",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "22355",
+      "tail_id": "16189",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "22355",
+      "tail_id": "16153",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "22355",
+      "tail_id": "21926",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "22355",
+      "tail_id": "16193",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "22355",
+      "tail_id": "16171",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "22355",
+      "tail_id": "15978",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "22355",
+      "tail_id": "D004681",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

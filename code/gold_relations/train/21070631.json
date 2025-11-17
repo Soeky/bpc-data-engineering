@@ -1,0 +1,433 @@
+{
+  "doc_id": "21070631",
+  "title": "The dopamine b-hydroxylase -1021C/T polymorphism is associated with the risk of Alzheimer's disease in the Epistasis Project.",
+  "body": "BACKGROUND: The loss of noradrenergic neurones of the locus coeruleus is a major feature of Alzheimer's disease (AD). Dopamine b-hydroxylase (DBH) catalyses the conversion of dopamine to noradrenaline. Interactions have been reported between the low-activity -1021T allele (rs1611115) of DBH and polymorphisms of the pro-inflammatory cytokine genes, IL1A and IL6, contributing to the risk of AD. We therefore examined the associations with AD of the DBH -1021T allele and of the above interactions in the Epistasis Project, with 1757 cases of AD and 6294 elderly controls. METHODS: We genotyped eight single nucleotide polymorphisms (SNPs) in the three genes, DBH, IL1A and IL6. We used logistic regression models and synergy factor analysis to examine potential interactions and associations with AD. RESULTS: We found that the presence of the -1021T allele was associated with AD: odds ratio = 1.2 (95% confidence interval: 1.06-1.4, p = 0.005). This association was nearly restricted to men < 75 years old: odds ratio = 2.2 (1.4-3.3, 0.0004). We also found an interaction between the presence of DBH -1021T and the -889TT genotype (rs1800587) of IL1A: synergy factor = 1.9 (1.2-3.1, 0.005). All these results were consistent between North Europe and North Spain. CONCLUSIONS: Extensive, previous evidence (reviewed here) indicates an important role for noradrenaline in the control of inflammation in the brain. Thus, the -1021T allele with presumed low activity may be associated with misregulation of inflammation, which could contribute to the onset of AD. We suggest that such misregulation is the predominant mechanism of the association we report here.",
+  "entities": [
+    {
+      "id": "1621",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dopamine b-hydroxylase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 22
+        },
+        {
+          "text": "Dopamine b-hydroxylase",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 244,
+          "length": 22
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 268,
+          "length": 3
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 414,
+          "length": 3
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 576,
+          "length": 3
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 786,
+          "length": 3
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1225,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs1611115",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-1021C/T",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 8
+        },
+        {
+          "text": "-1021T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 385,
+          "length": 6
+        },
+        {
+          "text": "rs1611115",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 400,
+          "length": 9
+        },
+        {
+          "text": "-1021T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 580,
+          "length": 6
+        },
+        {
+          "text": "-1021T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 971,
+          "length": 6
+        },
+        {
+          "text": "-1021T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1229,
+          "length": 6
+        },
+        {
+          "text": "-1021T",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1551,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 218,
+          "length": 19
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 239,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 518,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 566,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 669,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 924,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1005,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1685,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 301,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "noradrenaline",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 313,
+          "length": 13
+        },
+        {
+          "text": "noradrenaline",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1482,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 447,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1514,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1632,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "3552",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL1A",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 476,
+          "length": 4
+        },
+        {
+          "text": "IL1A",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 791,
+          "length": 4
+        },
+        {
+          "text": "IL1A",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1275,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL6",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 485,
+          "length": 3
+        },
+        {
+          "text": "IL6",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 800,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1116,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs1800587",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-889TT",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1244,
+          "length": 6
+        },
+        {
+          "text": "rs1800587",
+          "passage_index": 1,
+          "passage_offset": 126,
+          "char_offset": 1261,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004298",
+      "tail_id": "D009638",
+      "type": "Conversion",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009638",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "3569",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "3552",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007249",
+      "tail_id": "3569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007249",
+      "tail_id": "3552",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs1611115",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs1611115",
+      "tail_id": "D000544",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000544",
+      "tail_id": "D009638",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "1621",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "1621",
+      "tail_id": "D009638",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "1621",
+      "tail_id": "3569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "1621",
+      "tail_id": "3552",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "1621",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "1621",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

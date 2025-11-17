@@ -1,0 +1,272 @@
+{
+  "doc_id": "19681452",
+  "title": "Bilateral haemorrhagic infarction of the globus pallidus after cocaine and alcohol intoxication.",
+  "body": "Cocaine is a risk factor for both ischemic and haemorrhagic stroke. We present the case of a 31-year-old man with bilateral ischemia of the globus pallidus after excessive alcohol and intranasal cocaine use. Drug-related globus pallidus infarctions are most often associated with heroin. Bilateral basal ganglia infarcts after the use of cocaine, without concurrent heroin use, have never been reported. In our patient, transient cardiac arrhythmia or respiratory dysfunction related to cocaine and/or ethanol use were the most likely causes of cerebral hypoperfusion.",
+  "entities": [
+    {
+      "id": "D002543,D020520",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "haemorrhagic infarction of the globus pallidus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 46
+        }
+      ]
+    },
+    {
+      "id": "D003042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 7
+        },
+        {
+          "text": "Cocaine",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 97,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 292,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 435,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 584,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000431",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alcohol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 269,
+          "length": 7
+        },
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 599,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002544,D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic and haemorrhagic stroke",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 131,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 202,
+          "length": 3
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 508,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002545",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemia of the globus pallidus",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 221,
+          "length": 31
+        },
+        {
+          "text": "cerebral hypoperfusion",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 642,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D020520",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "globus pallidus infarctions",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 318,
+          "length": 27
+        },
+        {
+          "text": "basal ganglia infarcts",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 395,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D003932",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "heroin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 377,
+          "length": 6
+        },
+        {
+          "text": "heroin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 463,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 527,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D012131",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory dysfunction",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 549,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000431",
+      "tail_id": "D002545",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000431",
+      "tail_id": "D012131",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000431",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000431",
+      "tail_id": "D020520",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D020520",
+      "tail_id": "D003932",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003042",
+      "tail_id": "D002545",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003042",
+      "tail_id": "D012131",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003042",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D003042",
+      "tail_id": "D020520",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

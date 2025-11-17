@@ -1,0 +1,164 @@
+{
+  "doc_id": "20143913",
+  "title": "Large deletion involving exon 5 of the arylsulfatase B gene caused apparent homozygosity in a mucopolysaccharidosis type VI patient.",
+  "body": "Apparent homozygosity for the mutation p.R315X present on exon 5 of the arylsulfatase B (ARSB) gene in a mucopolysaccharidosis type VI patient was solved in this study by further testing for a second mutation. Patient cDNA analysis revealed that the entire exon 5 of the ARSB gene was lacking; this new mutation was identified as c.899-1142del. As the genomic DNA sequencing excluded the presence of splicing mutations, polymerase chain reaction analysis was performed for polymorphisms listed in the NCBI SNP database for the ARSB gene. This allowed the mutation at the genomic DNA level to be identified as g.99367-102002del; this gross deletion, involving the entire exon 5 of the gene and parts of introns 4 and 5 led to a frameshift starting at amino acid 300 and resulting in a protein with 39% amino acids different from the normal enzyme. We stress that extensive DNA analysis needs to be performed in case of apparent homozygosity to avoid potential errors in genetic counseling.",
+  "entities": [
+    {
+      "id": "411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "arylsulfatase B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 15
+        },
+        {
+          "text": "arylsulfatase B",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 205,
+          "length": 15
+        },
+        {
+          "text": "ARSB",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 222,
+          "length": 4
+        },
+        {
+          "text": "ARSB",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 404,
+          "length": 4
+        },
+        {
+          "text": "ARSB",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 660,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009087",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mucopolysaccharidosis type VI",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 29
+        },
+        {
+          "text": "mucopolysaccharidosis type VI",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 238,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 124,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 268,
+          "length": 7
+        },
+        {
+          "text": "Patient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 343,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|315|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.R315X",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 172,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|899_1142|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.899-1142del",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 463,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "g|DEL|99367_102002|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.99367-102002del",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 742,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "g|DEL|99367_102002|",
+      "tail_id": "D009087",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009087",
+      "tail_id": "411",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009087",
+      "tail_id": "p|SUB|R|315|X",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009087",
+      "tail_id": "c|DEL|899_1142|",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

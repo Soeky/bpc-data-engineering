@@ -1,0 +1,151 @@
+{
+  "doc_id": "18399341",
+  "title": "Clinical comparison of cardiorespiratory effects during unilateral and conventional spinal anaesthesia.",
+  "body": "BACKGROUND: Spinal anaesthesia is widely employed in clinical practice but has the main drawback of post-spinal block hypotension. Efforts must therefore continue to be made to obviate this setback OBJECTIVE: To evaluate the cardiovascular and respiratory changes during unilateral and conventional spinal anaesthesia. METHODS: With ethical approval, we studied 74 American Society of Anesthesiologists (ASA), physical status class 1 and 2 patients scheduled for elective unilateral lower limb surgery. Patients were randomly allocated into one of two groups: lateral and conventional spinal anaesthesia groups. In the lateral position with operative side down, patients recived 10 mg (2mls) of 0.5% hyperbaric bupivacaine through a 25-gauge spinal needle. Patients in the unilateral group were maintained in the lateral position for 15 minutes following spinal injection while those in the conventional group were turned supine immediately after injection. Blood pressure, heart rate, respiratory rate and oxygen saturation were monitored over 1 hour. RESULTS: Three patients (8.1%) in the unilateral group and 5 (13.5%) in the conventional group developed hypotension, P= 0.71. Four (10.8%) patients in the conventional group and 1 (2.7%) in the unilateral group, P= 0.17 required epinephrine infusion to treat hypotension. Patients in the conventional group had statistically significant greater fall in the systolic blood pressures at 15, 30 and 45 minutes when compared to the baseline (P= 0.003, 0.001 and 0.004). The mean respiratory rate and oxygen saturations in the two groups were similar. CONCLUSION: Compared to conventional spinal anaesthesia, unilateral spinal anaesthesia was associated with fewer cardiovascular perturbations. Also, the type of spinal block instituted affected neither the respiratory rate nor the arterial oxygen saturation.",
+  "entities": [
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 222,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1262,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1417,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 544,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 607,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 766,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 861,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1172,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1297,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1430,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002045",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 815,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1111,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1654,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1945,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D004837",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "epinephrine",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1387,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004837",
+      "tail_id": "D007022",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

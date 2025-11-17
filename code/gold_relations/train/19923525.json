@@ -1,0 +1,387 @@
+{
+  "doc_id": "19923525",
+  "title": "Nimodipine prevents memory impairment caused by nitroglycerin-induced hypotension in adult mice.",
+  "body": "BACKGROUND: Hypotension and a resultant decrease in cerebral blood flow have been implicated in the development of cognitive dysfunction. We tested the hypothesis that nimodipine (NIMO) administered at the onset of nitroglycerin (NTG)-induced hypotension would preserve long-term associative memory. METHODS: The passive avoidance (PA) paradigm was used to assess memory retention. For PA training, latencies (seconds) were recorded for entry from a suspended platform into a Plexiglas tube where a shock was automatically delivered. Latencies were recorded 48 h later for a testing trial. Ninety-six Swiss-Webster mice (30-35 g, 6-8 wk), were randomized into 6 groups 1) saline (control), 2) NTG immediately after learning, 3) NTG 3 h after learning, 4) NTG and NIMO, 5) vehicle, and 6) NIMO alone. The extent of hypotension and changes in brain tissue oxygenation (PbtO(2)) and in cerebral blood flow were studied in a separate group of animals. RESULTS: All groups exhibited similar training latencies (17.0 +/- 4.6 s). Mice subjected to hypotensive episodes showed a significant decrease in latency time (178 +/- 156 s) compared with those injected with saline, NTG + NIMO, or delayed NTG (580 +/- 81 s, 557 +/- 67 s, and 493 +/- 146 s, respectively). A Kruskal-Wallis 1-way analysis of variance indicated a significant difference among the 4 treatment groups (H = 15.34; P < 0.001). In a separate group of mice not subjected to behavioral studies, the same dose of NTG (n = 3) and NTG + NIMO (n = 3) caused mean arterial blood pressure to decrease from 85.9 +/- 3.8 mm Hg sem to 31.6 +/- 0.8 mm Hg sem and from 86.2 +/- 3.7 mm Hg sem to 32.6 +/- 0.2 mm Hg sem, respectively. Mean arterial blood pressure in mice treated with NIMO alone decreased from 88.1 +/- 3.8 mm Hg to 80.0 +/- 2.9 mm Hg. The intergroup difference was statistically significant (P < 0.05). PbtO(2) decreased from 51.7 +/- 4.5 mm Hg sem to 33.8 +/- 5.2 mm Hg sem in the NTG group and from 38.6 +/- 6.1 mm Hg sem to 25.4 +/- 2.0 mm Hg sem in the NTG + NIMO groups, respectively. There were no significant differences among groups. CONCLUSION: In a PA retention paradigm, the injection of NTG immediately after learning produced a significant impairment of long-term associative memory in mice, whereas delayed induced hypotension had no effect. NIMO attenuated the disruption in consolidation of long-term memory caused by NTG but did not improve latency in the absence of hypotension. The observed effect of NIMO may have been attributable to the preservation of calcium homeostasis during hypotension, because there were no differences in the PbtO(2) indices among groups.",
+  "entities": [
+    {
+      "id": "D009553",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Nimodipine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "nimodipine",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 265,
+          "length": 10
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 277,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 860,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 885,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1269,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1589,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1827,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2123,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2416,
+          "length": 4
+        },
+        {
+          "text": "NIMO",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2580,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory impairment",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D005996",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitroglycerin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 13
+        },
+        {
+          "text": "nitroglycerin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 312,
+          "length": 13
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 327,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 790,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 825,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 852,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1263,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1286,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1567,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1583,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2042,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2117,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2259,
+          "length": 3
+        },
+        {
+          "text": "NTG",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2494,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 11
+        },
+        {
+          "text": "Hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 109,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 340,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 911,
+          "length": 11
+        },
+        {
+          "text": "hypotensive",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1138,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2389,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2544,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2662,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 712,
+          "length": 4
+        },
+        {
+          "text": "Mice",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1120,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1508,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1809,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2359,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive dysfunction",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 212,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2635,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005996",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005996",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009553",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009553",
+      "tail_id": "D007022",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009553",
+      "tail_id": "D005996",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009553",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

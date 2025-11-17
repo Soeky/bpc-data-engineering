@@ -1,0 +1,470 @@
+{
+  "doc_id": "18483878",
+  "title": "Exaggerated expression of inflammatory mediators in vasoactive intestinal polypeptide knockout (VIP-/-) mice with cyclophosphamide (CYP)-induced cystitis.",
+  "body": "Vasoactive intestinal polypeptide (VIP) is an immunomodulatory neuropeptide distributed in micturition pathways. VIP(-/-) mice exhibit altered bladder function and neurochemical properties in micturition pathways after cyclophosphamide (CYP)-induced cystitis. Given VIP's role as an anti-inflammatory mediator, we hypothesized that VIP(-/-) mice would exhibit enhanced inflammatory mediator expression after cystitis. A mouse inflammatory cytokine and receptor RT2 profiler array was used to determine regulated transcripts in the urinary bladder of wild type (WT) and VIP(-/-) mice with or without CYP-induced cystitis (150 mg/kg; i.p.; 48 h). Four binary comparisons were made: WT control versus CYP treatment (48 h), VIP(-/-) control versus CYP treatment (48 h), WT control versus VIP(-/-) control, and WT with CYP treatment (48 h) versus VIP(-/-) with CYP treatment (48 h). The genes presented represent (1) greater than 1.5-fold change in either direction and (2) the p value is less than 0.05 for the comparison being made. Several regulated genes were validated using enzyme-linked immunoassays including IL-1beta and CXCL1. CYP treatment significantly (p < or = 0.001) increased expression of CXCL1 and IL-1beta in the urinary bladder of WT and VIP(-/-) mice, but expression in VIP(-/-) mice with CYP treatment was significantly (p < or = 0.001) greater (4.2- to 13-fold increase) than that observed in WT urinary bladder (3.6- to 5-fold increase). The data suggest that in VIP(-/-) mice with bladder inflammation, inflammatory mediators are increased above that observed in WT with CYP. This shift in balance may contribute to increased bladder dysfunction in VIP(-/-) mice with bladder inflammation and altered neurochemical expression in micturition pathways.",
+  "entities": [
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 443,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 524,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 581,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1678,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "22353",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vasoactive intestinal polypeptide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 33
+        },
+        {
+          "text": "VIP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 3
+        },
+        {
+          "text": "Vasoactive intestinal polypeptide",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 155,
+          "length": 33
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 190,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 268,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 421,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 487,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 724,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 875,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 939,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 997,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1408,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1441,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1637,
+          "length": 3
+        },
+        {
+          "text": "VIP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1824,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 104,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 277,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 496,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 575,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 733,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1417,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1450,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1646,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1833,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003520",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 16
+        },
+        {
+          "text": "CYP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 132,
+          "length": 3
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 374,
+          "length": 16
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 392,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 754,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 853,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 899,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 969,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1011,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1287,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1460,
+          "length": 3
+        },
+        {
+          "text": "CYP",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1746,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cystitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 145,
+          "length": 8
+        },
+        {
+          "text": "cystitis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 405,
+          "length": 8
+        },
+        {
+          "text": "cystitis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 563,
+          "length": 8
+        },
+        {
+          "text": "cystitis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 766,
+          "length": 8
+        },
+        {
+          "text": "bladder inflammation",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1656,
+          "length": 20
+        },
+        {
+          "text": "bladder inflammation",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1843,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "16176",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1267,
+          "length": 8
+        },
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1366,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "14825",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL1",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1280,
+          "length": 5
+        },
+        {
+          "text": "CXCL1",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1356,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001745",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bladder dysfunction",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1801,
+          "length": 19
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003520",
+      "tail_id": "16176",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003520",
+      "tail_id": "14825",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003520",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003520",
+      "tail_id": "D003556",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "22353",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "22353",
+      "tail_id": "D003556",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "22353",
+      "tail_id": "D003520",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

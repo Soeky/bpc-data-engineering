@@ -1,0 +1,716 @@
+{
+  "doc_id": "27014915",
+  "title": "NF-kB functions as a molecular link between tumor cells and Th1/Tc1 T cells in the tumor microenvironment to exert radiation-mediated tumor suppression.",
+  "body": "Radiation modulates both tumor cells and immune cells in the tumor microenvironment to exert its anti-tumor activity; however, the molecular connection between tumor cells and immune cells that mediates radiation-exerted tumor suppression activity in the tumor microenvironment is largely unknown. We report here that radiation induces rapid activation of the p65/p50 and p50/p50 NF-kB complexes in human soft tissue sarcoma (STS) cells. Radiation-activated p65/p50 and p50/p50 bind to the TNFa promoter to activate its transcription in STS cells. Radiation-induced TNFa induces tumor cell death in an autocrine manner. A sublethal dose of Smac mimetic BV6 induces cIAP1 and cIAP2 degradation to increase tumor cell sensitivity to radiation-induced cell death in vitro and to enhance radiation-mediated suppression of STS xenografts in vivo. Inhibition of caspases, RIP1, or RIP3 blocks radiation/TNFa-induced cell death, whereas inhibition of RIP1 blocks TNFa-induced caspase activation, suggesting that caspases and RIP1 act sequentially to mediate the non-compensatory cell death pathways. Furthermore, we determined in a syngeneic sarcoma mouse model that radiation up-regulates IRF3, IFNb, and the T cell chemokines CCL2 and CCL5 in the tumor microenvironment, which are associated with activation and increased infiltration of Th1/Tc1 T cells in the tumor microenvironment. Moreover, tumor-infiltrating T cells are in their active form since both the perforin and FasL pathways are activated in irradiated tumor tissues. Consequently, combined BV6 and radiation completely suppressed tumor growth in vivo. Therefore, radiation-induced NF-kB functions as a molecular link between tumor cells and immune cells in the tumor microenvironment for radiation-mediated tumor suppression.",
+  "entities": [
+    {
+      "id": "4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kB",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 517,
+          "length": 3
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 525,
+          "length": 3
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 529,
+          "length": 3
+        },
+        {
+          "text": "NF-kB",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 533,
+          "length": 5
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 615,
+          "length": 3
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 623,
+          "length": 3
+        },
+        {
+          "text": "p50",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 627,
+          "length": 3
+        },
+        {
+          "text": "NF-kB",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1794,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 134,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 178,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 214,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 255,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 313,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 374,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 408,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 732,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 858,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1395,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1509,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1543,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1665,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1743,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1838,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1874,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1920,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5970",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p65",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 513,
+          "length": 3
+        },
+        {
+          "text": "p65",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 611,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 552,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012509",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "soft tissue sarcoma",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 558,
+          "length": 19
+        },
+        {
+          "text": "STS",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 579,
+          "length": 3
+        },
+        {
+          "text": "STS",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 690,
+          "length": 3
+        },
+        {
+          "text": "STS",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 971,
+          "length": 3
+        },
+        {
+          "text": "sarcoma",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1288,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 643,
+          "length": 4
+        },
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 719,
+          "length": 4
+        },
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1050,
+          "length": 4
+        },
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1109,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "56616",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smac",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 793,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C582180",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "BV6",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 806,
+          "length": 3
+        },
+        {
+          "text": "BV6",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1703,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "329",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cIAP1",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 818,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "330",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cIAP2",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 828,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "836",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspases",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1009,
+          "length": 8
+        },
+        {
+          "text": "caspase",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1122,
+          "length": 7
+        },
+        {
+          "text": "caspases",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1158,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "8737",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RIP1",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1019,
+          "length": 4
+        },
+        {
+          "text": "RIP1",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1097,
+          "length": 4
+        },
+        {
+          "text": "RIP1",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1171,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11035",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RIP3",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1028,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1296,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "54131",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRF3",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1336,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "15977",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFNb",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1342,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20296,20304",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chemokines",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1363,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "20296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL2",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1374,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20304",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1383,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18646",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "perforin",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1610,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "14103",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FasL",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 1623,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "8737",
+      "tail_id": "836",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C582180",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "330",
+      "tail_id": "C582180",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "330",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "329",
+      "tail_id": "C582180",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "329",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "56616",
+      "tail_id": "330",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "56616",
+      "tail_id": "329",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "56616",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009369",
+      "tail_id": "14103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "18646",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "7124",
+      "tail_id": "11035",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "7124",
+      "tail_id": "8737",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "7124",
+      "tail_id": "836",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "7124",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "7124",
+      "tail_id": "D012509",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "4790",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "4790",
+      "tail_id": "7124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "4790",
+      "tail_id": "D012509",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "4790",
+      "tail_id": "4790",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "5970",
+      "tail_id": "7124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "5970",
+      "tail_id": "D012509",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "5970",
+      "tail_id": "4790",
+      "type": "Bind",
+      "novel": "No"
+    }
+  ]
+}

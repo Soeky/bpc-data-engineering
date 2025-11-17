@@ -1,0 +1,343 @@
+{
+  "doc_id": "28584052",
+  "title": "Mutations in N-acetylglucosamine (O-GlcNAc) transferase in patients with X-linked intellectual disability.",
+  "body": "N-Acetylglucosamine (O-GlcNAc) transferase (OGT) regulates protein O-GlcNAcylation, an essential and dynamic post-translational modification. The O-GlcNAc modification is present on numerous nuclear and cytosolic proteins and has been implicated in essential cellular functions such as signaling and gene expression. Accordingly, altered levels of protein O-GlcNAcylation have been associated with developmental defects and neurodegeneration. However, mutations in the OGT gene have not yet been functionally confirmed in humans. Here, we report on two hemizygous mutations in OGT in individuals with X-linked intellectual disability (XLID) and dysmorphic features: one missense mutation (p.Arg284Pro) and one mutation leading to a splicing defect (c.463-6T>G). Both mutations reside in the tetratricopeptide repeats of OGT that are essential for substrate recognition. We observed slightly reduced levels of OGT protein and reduced levels of its opposing enzyme O-GlcNAcase in both patient-derived fibroblasts, but global O-GlcNAc levels appeared to be unaffected. Our data suggest that mutant cells attempt to maintain global O-GlcNAcylation by down-regulating O-GlcNAcase expression. We also found that the c.463-6T>G mutation leads to aberrant mRNA splicing, but no stable truncated protein was detected in the corresponding patient-derived fibroblasts. Recombinant OGT bearing the p.Arg284Pro mutation was prone to unfolding and exhibited reduced glycosylation activity against a complex array of glycosylation substrates and proteolytic processing of the transcription factor host cell factor 1, which is also encoded by an XLID-associated gene. We conclude that defects in O-GlcNAc homeostasis and host cell factor 1 proteolysis may play roles in mediation of XLID in individuals with OGT mutations.",
+  "entities": [
+    {
+      "id": "8473",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-acetylglucosamine (O-GlcNAc) transferase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 42
+        },
+        {
+          "text": "N-Acetylglucosamine (O-GlcNAc) transferase",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 107,
+          "length": 42
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 151,
+          "length": 3
+        },
+        {
+          "text": "O-GlcNAcylation",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 174,
+          "length": 15
+        },
+        {
+          "text": "O-GlcNAc",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 253,
+          "length": 8
+        },
+        {
+          "text": "O-GlcNAcylation",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 463,
+          "length": 15
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 576,
+          "length": 3
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 684,
+          "length": 3
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 927,
+          "length": 3
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1016,
+          "length": 3
+        },
+        {
+          "text": "O-GlcNAc",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1130,
+          "length": 8
+        },
+        {
+          "text": "O-GlcNAcylation",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1235,
+          "length": 15
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1477,
+          "length": 3
+        },
+        {
+          "text": "O-GlcNAc",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1787,
+          "length": 8
+        },
+        {
+          "text": "OGT",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1899,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 8
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 629,
+          "length": 6
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1090,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1436,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D038901",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked intellectual disability",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 32
+        },
+        {
+          "text": "X-linked intellectual disability",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 708,
+          "length": 32
+        },
+        {
+          "text": "XLID",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 742,
+          "length": 4
+        },
+        {
+          "text": "XLID",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1737,
+          "length": 4
+        },
+        {
+          "text": "XLID",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1874,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003147",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "developmental defects",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 505,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegeneration",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 531,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "rs1114167891",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Arg284Pro",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 796,
+          "length": 11
+        },
+        {
+          "text": "p.Arg284Pro",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1493,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T463-6|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.463-6T>G",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 856,
+          "length": 10
+        },
+        {
+          "text": "c.463-6T>G",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1317,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10724",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "O-GlcNAcase",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1070,
+          "length": 11
+        },
+        {
+          "text": "O-GlcNAcase",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1270,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "3054",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "host cell factor 1",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1689,
+          "length": 18
+        },
+        {
+          "text": "host cell factor 1",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1812,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|T463-6|G",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3054",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs1114167891",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "8473",
+      "tail_id": "D019636",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "8473",
+      "tail_id": "D003147",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "8473",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

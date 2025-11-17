@@ -1,0 +1,239 @@
+{
+  "doc_id": "18631865",
+  "title": "mToR inhibitors-induced proteinuria: mechanisms, significance, and management.",
+  "body": "Massive urinary protein excretion has been observed after conversion from calcineurin inhibitors to mammalian target of rapamycin (mToR) inhibitors, especially sirolimus, in renal transplant recipients with chronic allograft nephropathy. Because proteinuria is a major predictive factor of poor transplantation outcome, many studies focused on this adverse event during the past years. Whether proteinuria was due to sirolimus or only a consequence of calcineurin inhibitors withdrawal remained unsolved until high range proteinuria has been observed during sirolimus therapy in islet transplantation and in patients who received sirolimus de novo. Podocyte injury and focal segmental glomerulosclerosis have been related to mToR inhibition in some patients, but the pathways underlying these lesions remain hypothetic. We discuss herein the possible mechanisms and the significance of mToR blockade-induced proteinuria.",
+  "entities": [
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mToR inhibitors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "mammalian target of rapamycin (mToR) inhibitors",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 179,
+          "length": 47
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 325,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 473,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 600,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 987,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D065095",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcineurin inhibitors",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 153,
+          "length": 22
+        },
+        {
+          "text": "calcineurin inhibitors",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 531,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D020123",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sirolimus",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 239,
+          "length": 9
+        },
+        {
+          "text": "sirolimus",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 496,
+          "length": 9
+        },
+        {
+          "text": "sirolimus",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 637,
+          "length": 9
+        },
+        {
+          "text": "sirolimus",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 709,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D051436",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic allograft nephropathy",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 286,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 687,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 828,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 764,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "2475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mToR",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 804,
+          "length": 4
+        },
+        {
+          "text": "mToR",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 965,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020123",
+      "tail_id": "D051436",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D065095",
+      "tail_id": "D051436",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D065095",
+      "tail_id": "D020123",
+      "type": "Comparison",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D065095",
+      "tail_id": "D011507",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "2475",
+      "tail_id": "D011507",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005921",
+      "tail_id": "2475",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D011507",
+      "tail_id": "D020123",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

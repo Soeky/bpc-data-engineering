@@ -1,0 +1,301 @@
+{
+  "doc_id": "24671324",
+  "title": "Necrotising fasciitis after bortezomib and dexamethasone-containing regimen in an elderly patient of Waldenstrom macroglobulinaemia.",
+  "body": "Bortezomib and high-dose dexamethasone-containing regimens are considered to be generally tolerable with few severe bacterial infections in patients with B-cell malignancies. However, information is limited concerning the safety of the regimen in elderly patients. We report a case of a 76-year-old man with Waldenstrom macroglobulinaemia who suffered necrotising fasciitis without neutropenia after the combination treatment with bortezomib, high-dose dexamethasone and rituximab. Despite immediate intravenous antimicrobial therapy, he succumbed 23 h after the onset. Physicians should recognise the possibility of fatal bacterial infections related to bortezomib plus high-dose dexamethasone in elderly patients, and we believe this case warrants further investigation.",
+  "entities": [
+    {
+      "id": "D019115",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Necrotising fasciitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 21
+        },
+        {
+          "text": "necrotising fasciitis",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 485,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D000069286",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bortezomib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 10
+        },
+        {
+          "text": "Bortezomib",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 133,
+          "length": 10
+        },
+        {
+          "text": "bortezomib",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 564,
+          "length": 10
+        },
+        {
+          "text": "bortezomib",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 788,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 158,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 586,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 814,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 273,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 388,
+          "length": 8
+        },
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 432,
+          "length": 3
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 839,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Waldenstrom macroglobulinaemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 30
+        },
+        {
+          "text": "Waldenstrom macroglobulinaemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 441,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D001424",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bacterial infections",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 249,
+          "length": 20
+        },
+        {
+          "text": "bacterial infections",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 756,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignancies",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 294,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009503",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neutropenia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 515,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000069283",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "rituximab",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 604,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001424",
+      "tail_id": "D003907",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001424",
+      "tail_id": "D000069286",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000069283",
+      "tail_id": "D008258",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003907",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003907",
+      "tail_id": "D000069283",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003907",
+      "tail_id": "D008258",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000069286",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000069286",
+      "tail_id": "D000069283",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000069286",
+      "tail_id": "D008258",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000069286",
+      "tail_id": "D003907",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D019115",
+      "tail_id": "D003907",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D019115",
+      "tail_id": "D000069286",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

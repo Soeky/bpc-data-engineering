@@ -1,0 +1,917 @@
+{
+  "doc_id": "30442153",
+  "title": "Ca2+-dependent endoplasmic reticulum stress correlation with astrogliosis involves upregulation of KCa3.1 and inhibition of AKT/mTOR signaling.",
+  "body": "BACKGROUND: The intermediate-conductance Ca2+-activated K+ channel KCa3.1 was recently shown to control the phenotype switch of reactive astrogliosis (RA) in Alzheimer's disease (AD). METHODS: KCa3.1 channels expression and cell localization in the brains of AD patients and APP/PS1 mice model were measured by immunoblotting and immunostaining. APP/PS1 mice and KCa3.1-/-/APP/PS1 mice were subjected to Morris water maze test to evaluate the spatial memory deficits. Glia activation and neuron loss was measured by immunostaining. Fluo-4AM was used to measure cytosolic Ca2+ level in beta-amyloid (Abeta) induced reactive astrocytes in vitro. RESULTS: KCa3.1 expression was markedly associated with endoplasmic reticulum (ER) stress and unfolded protein response (UPR) in both Abeta-stimulated primary astrocytes and brain lysates of AD patients and APP/PS1 AD mice. The KCa3.1 channel was shown to regulate store-operated Ca2+ entry (SOCE) through an interaction with the Ca2+ channel Orai1 in primary astrocytes. Gene deletion or pharmacological blockade of KCa3.1 protected against SOCE-induced Ca2+ overload and ER stress via the protein kinase B (AKT) signaling pathway in astrocytes. Importantly, gene deletion or blockade of KCa3.1 restored AKT/mechanistic target of rapamycin signaling both in vivo and in vitro. Consistent with these in vitro data, expression levels of the ER stress markers 78-kDa glucose-regulated protein and CCAAT/enhancer-binding protein homologous protein, as well as that of the RA marker glial fibrillary acidic protein were increased in APP/PS1 AD mouse model. Elimination of KCa3.1 in KCa3.1-/-/APP/PS1 mice corrected these abnormal responses. Moreover, glial activation and neuroinflammation were attenuated in the hippocampi of KCa3.1-/-/APP/PS1 mice, as compared with APP/PS1 mice. In addition, memory deficits and neuronal loss in APP/PS1 mice were reversed in KCa3.1-/-/APP/PS1 mice. CONCLUSIONS: Overall, these results suggest that KCa3.1 is involved in the regulation of Ca2+ homeostasis in astrocytes and attenuation of the UPR and ER stress, thus contributing to memory deficits and neuronal loss.",
+  "entities": [
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1118,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005911",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "astrogliosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 12
+        },
+        {
+          "text": "reactive astrogliosis",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 272,
+          "length": 21
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 295,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1657,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "16534,3783",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KCa3.1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 6
+        },
+        {
+          "text": "intermediate-conductance Ca2+-activated K+ channel",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 160,
+          "length": 50
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 337,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 797,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2119,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11651,207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 124,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2475,56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 128,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16534",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 211,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 507,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1016,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1205,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1377,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1756,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1766,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1911,
+          "length": 6
+        },
+        {
+          "text": "KCa3.1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2046,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 302,
+          "length": 19
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 323,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 403,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 979,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1003,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1725,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 406,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 982,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "11820,351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 419,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 490,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 517,
+          "length": 3
+        },
+        {
+          "text": "Abeta",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 922,
+          "length": 5
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 995,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1717,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1776,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1921,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1952,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2016,
+          "length": 3
+        },
+        {
+          "text": "APP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2056,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5663",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 423,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 494,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 521,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 999,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1721,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1780,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1925,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1956,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2020,
+          "length": 3
+        },
+        {
+          "text": "PS1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2060,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 427,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 498,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 525,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1006,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1728,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1784,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1929,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1960,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2024,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2064,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory deficits",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 595,
+          "length": 15
+        },
+        {
+          "text": "memory deficits",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1979,
+          "length": 15
+        },
+        {
+          "text": "memory deficits",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2253,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuron loss",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 632,
+          "length": 11
+        },
+        {
+          "text": "neuronal loss",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1999,
+          "length": 13
+        },
+        {
+          "text": "neuronal loss",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2273,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C409648",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Fluo-4AM",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 676,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000069285",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 715,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1068,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1243,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 2159,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-amyloid",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 729,
+          "length": 12
+        },
+        {
+          "text": "Abeta",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 743,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "109305",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Orai1",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1131,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "protein kinase B",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1279,
+          "length": 16
+        },
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1297,
+          "length": 3
+        },
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1393,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mechanistic target of rapamycin",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1397,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "14828",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "78-kDa glucose-regulated protein",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1546,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "13198",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCAAT/enhancer-binding protein homologous protein",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1583,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "id": "14580",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glial fibrillary acidic protein",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1667,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuroinflammation",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1856,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "14580",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "109305",
+      "tail_id": "16534",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009422",
+      "tail_id": "D000069285",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009422",
+      "tail_id": "5663",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009422",
+      "tail_id": "351",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009422",
+      "tail_id": "16534",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000069285",
+      "tail_id": "351",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000069285",
+      "tail_id": "D008569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "5663",
+      "tail_id": "D008569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "351",
+      "tail_id": "D008569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D005911",
+      "tail_id": "14580",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "56717",
+      "tail_id": "D005911",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "11651",
+      "tail_id": "D005911",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "16534",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "16534",
+      "tail_id": "14580",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "16534",
+      "tail_id": "13198",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "16534",
+      "tail_id": "14828",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "16534",
+      "tail_id": "D000069285",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "16534",
+      "tail_id": "D008569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "16534",
+      "tail_id": "D005911",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "16534",
+      "tail_id": "56717",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "16534",
+      "tail_id": "11651",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D002118",
+      "tail_id": "109305",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R31",
+      "head_id": "D002118",
+      "tail_id": "D005911",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D002118",
+      "tail_id": "56717",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D002118",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "D002118",
+      "tail_id": "16534",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

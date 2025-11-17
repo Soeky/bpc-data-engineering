@@ -1,0 +1,468 @@
+{
+  "doc_id": "19058010",
+  "title": "Effect of green tea and vitamin E combination in isoproterenol induced myocardial infarction in rats.",
+  "body": "The present study was aimed to investigate the combined effects of green tea and vitamin E on heart weight, body weight, serum marker enzymes, lipid peroxidation, endogenous antioxidants and membrane bound ATPases in isoproterenol (ISO)-induced myocardial infarction in rats. Adult male albino rats, treated with ISO (200 mg/kg, s.c.) for 2 days at an interval of 24 h caused a significant (P<0.05) elevation of heart weight, serum marker enzymes, lipid peroxidation and Ca+2 ATPase level whereas there was a significant (P<0.05) decrease in body weight, endogenous antioxidants, Na+/ K+ ATPase and Mg+2 ATPase levels. Administration of green tea (100 mg/kg/day, p.o.) and vitamin E (100 mg/kg/day, p.o.) together for 30 consecutive days and challenged with ISO on the day 29th and 30th, showed a significant (P<0.05) decrease in heart weight, serum marker enzymes, lipid peroxidation, Ca+2 ATPase and a significant increase in the body weight, endogenous antioxidants, Na+/K+ ATPase and Mg+2 ATPase when compared with ISO treated group and green tea or vitamin E alone treated groups. These findings indicate the synergistic protective effect of green tea and vitamin E during ISO induced myocardial infarction in rats.",
+  "entities": [
+    {
+      "id": "D010936",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "green tea",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 9
+        },
+        {
+          "text": "green tea",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 169,
+          "length": 9
+        },
+        {
+          "text": "green tea",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 739,
+          "length": 9
+        },
+        {
+          "text": "green tea",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1143,
+          "length": 9
+        },
+        {
+          "text": "green tea",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1249,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014810",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vitamin E",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 183,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 775,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1156,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1263,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 319,
+          "length": 13
+        },
+        {
+          "text": "ISO",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 334,
+          "length": 3
+        },
+        {
+          "text": "ISO",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 415,
+          "length": 3
+        },
+        {
+          "text": "ISO",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 860,
+          "length": 3
+        },
+        {
+          "text": "ISO",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1121,
+          "length": 3
+        },
+        {
+          "text": "ISO",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1280,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 347,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1292,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 372,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 396,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1317,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 245,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 550,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 968,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antioxidants",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 276,
+          "length": 12
+        },
+        {
+          "text": "antioxidants",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 668,
+          "length": 12
+        },
+        {
+          "text": "antioxidants",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1058,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000252",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca+2 ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 573,
+          "length": 11
+        },
+        {
+          "text": "Ca+2 ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 988,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000254",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Na+/ K+ ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 682,
+          "length": 14
+        },
+        {
+          "text": "Na+/K+ ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1072,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D017301",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Mg+2 ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 701,
+          "length": 11
+        },
+        {
+          "text": "Mg+2 ATPase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1090,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014810",
+      "tail_id": "D000975",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014810",
+      "tail_id": "D000252",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014810",
+      "tail_id": "D000254",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D014810",
+      "tail_id": "D017301",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D014810",
+      "tail_id": "D008055",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014810",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014810",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D010936",
+      "tail_id": "D014810",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D010936",
+      "tail_id": "D000975",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D010936",
+      "tail_id": "D000252",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D010936",
+      "tail_id": "D000254",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D010936",
+      "tail_id": "D017301",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D010936",
+      "tail_id": "D008055",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D010936",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D010936",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D007545",
+      "tail_id": "D000975",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D007545",
+      "tail_id": "D000252",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D007545",
+      "tail_id": "D000254",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D007545",
+      "tail_id": "D017301",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D007545",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D007545",
+      "tail_id": "D009203",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

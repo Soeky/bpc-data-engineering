@@ -1,0 +1,539 @@
+{
+  "doc_id": "28487437",
+  "title": "Hypoglycemic Effect of Combined Ghrelin and Glucagon Receptor Blockade.",
+  "body": "Glucagon receptor (GcgR) blockade has been proposed as an alternative to insulin monotherapy for treating type 1 diabetes since deletion or inhibition of GcgRs corrects hyperglycemia in models of diabetes. The factors regulating glycemia in a setting devoid of insulin and glucagon function remain unclear but may include the hormone ghrelin. Not only is ghrelin release controlled by glucose but also ghrelin has many actions that can raise or reduce falls in blood glucose level. Here, we tested the hypothesis that ghrelin rises to prevent hypoglycemia in the absence of glucagon function. Both GcgR knockout (Gcgr(-/-)) mice and db/db mice that were administered GcgR monoclonal antibody displayed lower blood glucose levels accompanied by elevated plasma ghrelin levels. Although treatment with the pancreatic b-cell toxin streptozotocin induced hyperglycemia and raised plasma ghrelin levels in wild-type mice, hyperglycemia was averted in similarly treated Gcgr(-/-) mice and the plasma ghrelin level was further increased. Notably, administration of a ghrelin receptor antagonist further reduced blood glucose levels into the markedly hypoglycemic range in overnight-fasted, streptozotocin-treated Gcgr(-/-) mice. A lowered blood glucose level also was observed in overnight-fasted, streptozotocin-treated ghrelin receptor-null mice that were administered GcgR monoclonal antibody. These data suggest that when glucagon activity is blocked in the setting of type 1 diabetes, the plasma ghrelin level rises, preventing hypoglycemia.",
+  "entities": [
+    {
+      "id": "58991",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ghrelin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 590,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 832,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 955,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1066,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1566,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "14527",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Glucagon Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 17
+        },
+        {
+          "text": "GcgR",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 670,
+          "length": 4
+        },
+        {
+          "text": "Gcgr",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 685,
+          "length": 4
+        },
+        {
+          "text": "GcgR",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 739,
+          "length": 4
+        },
+        {
+          "text": "Gcgr",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1036,
+          "length": 4
+        },
+        {
+          "text": "Gcgr",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1278,
+          "length": 4
+        },
+        {
+          "text": "GcgR",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1436,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2642",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Glucagon receptor",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 72,
+          "length": 17
+        },
+        {
+          "text": "GcgR",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 91,
+          "length": 4
+        },
+        {
+          "text": "GcgRs",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 226,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 145,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 333,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003922",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 178,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1538,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D006943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperglycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 241,
+          "length": 13
+        },
+        {
+          "text": "hyperglycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 923,
+          "length": 13
+        },
+        {
+          "text": "hyperglycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 989,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 268,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001786",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 301,
+          "length": 8
+        },
+        {
+          "text": "blood glucose",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 533,
+          "length": 13
+        },
+        {
+          "text": "blood glucose",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 780,
+          "length": 13
+        },
+        {
+          "text": "blood glucose",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1176,
+          "length": 13
+        },
+        {
+          "text": "blood glucose",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1304,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "2641",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucagon",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 345,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "51738",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 406,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 427,
+          "length": 7
+        },
+        {
+          "text": "ghrelin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 474,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 457,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007003",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoglycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 615,
+          "length": 12
+        },
+        {
+          "text": "hypoglycemia",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1598,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "14526",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucagon",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 646,
+          "length": 8
+        },
+        {
+          "text": "glucagon",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1491,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 696,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 711,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 983,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1046,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1288,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1408,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 900,
+          "length": 14
+        },
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1255,
+          "length": 14
+        },
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1363,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "208188",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ghrelin receptor",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1132,
+          "length": 16
+        },
+        {
+          "text": "ghrelin receptor",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1386,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "14526",
+      "tail_id": "D007003",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "14526",
+      "tail_id": "58991",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "3630",
+      "tail_id": "D003922",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "58991",
+      "tail_id": "D007003",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D013311",
+      "tail_id": "58991",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D013311",
+      "tail_id": "D006943",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "2642",
+      "tail_id": "D006943",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "2642",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D001786",
+      "tail_id": "14527",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D001786",
+      "tail_id": "208188",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D001786",
+      "tail_id": "D013311",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "51738",
+      "tail_id": "D001786",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "51738",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

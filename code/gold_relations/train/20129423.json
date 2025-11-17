@@ -1,0 +1,178 @@
+{
+  "doc_id": "20129423",
+  "title": "Fatal carbamazepine induced fulminant eosinophilic (hypersensitivity) myocarditis: emphasis on anatomical and histological characteristics, mechanisms and genetics of drug hypersensitivity and differential diagnosis.",
+  "body": "The most severe adverse reactions to carbamazepine have been observed in the haemopoietic system, the liver and the cardiovascular system. A frequently fatal, although exceptionally rare side effect of carbamazepine is necrotizing eosinophilic (hypersensitivity) myocarditis. We report a case of hypersensitivity myocarditis secondary to administration of carbamazepine. Acute hypersensitivity myocarditis was not suspected clinically, and the diagnosis was made post-mortem. Histology revealed diffuse infiltration of the myocardium by eosinophils and lymphocytes with myocyte damage. Clinically, death was due to cardiogenic shock. To best of our knowledge this is the second case of fatal carbamazepine induced myocarditis reported in English literature.",
+  "entities": [
+    {
+      "id": "D002220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbamazepine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 254,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 419,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 573,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 909,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006967",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypersensitivity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 16
+        },
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 462,
+          "length": 16
+        },
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 513,
+          "length": 16
+        },
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 594,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009205",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocarditis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 11
+        },
+        {
+          "text": "myocarditis",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 480,
+          "length": 11
+        },
+        {
+          "text": "myocarditis",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 530,
+          "length": 11
+        },
+        {
+          "text": "myocarditis",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 611,
+          "length": 11
+        },
+        {
+          "text": "myocarditis",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 931,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D004342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "drug hypersensitivity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 167,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 815,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012770",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiogenic shock",
+          "passage_index": 1,
+          "passage_offset": 217,
+          "char_offset": 832,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002220",
+      "tail_id": "D006967",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002220",
+      "tail_id": "D009205",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

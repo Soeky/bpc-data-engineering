@@ -1,0 +1,320 @@
+{
+  "doc_id": "16412238",
+  "title": "Peroxisomal proliferator activated receptor-gamma deficiency in a Canadian kindred with familial partial lipodystrophy type 3 (FPLD3).",
+  "body": "BACKGROUND: Familial partial lipodystrophy (Dunnigan) type 3 (FPLD3, Mendelian Inheritance in Man [MIM] 604367) results from heterozygous mutations in PPARG encoding peroxisomal proliferator-activated receptor-gamma. Both dominant-negative and haploinsufficiency mechanisms have been suggested for this condition. METHODS: We present a Canadian FPLD3 kindred with an affected mother who had loss of fat on arms and legs, but no increase in facial, neck, suprascapular or abdominal fat. She had profound insulin resistance, diabetes, severe hypertriglyceridemia and relapsing pancreatitis, while her pre-pubescent daughter had normal fat distribution but elevated plasma triglycerides and C-peptide and depressed high-density lipoprotein cholesterol. RESULTS: The mother and daughter were each heterozygous for PPARG nonsense mutation Y355X, whose protein product in vitro was transcriptionally inactive with no dominant-negative activity against the wild-type receptor. In addition the mutant protein appeared to be markedly unstable. CONCLUSION: Taken together with previous studies of human PPARG mutations, these findings suggest that PPAR-gamma deficiency due either to haploinsufficiency or to substantial activity loss due to dominant negative interference of the normal allele product's function can each contribute to the FPLD3 phenotype.",
+  "entities": [
+    {
+      "id": "5468",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Peroxisomal proliferator activated receptor-gamma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 49
+        },
+        {
+          "text": "PPARG",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 286,
+          "length": 5
+        },
+        {
+          "text": "peroxisomal proliferator-activated receptor-gamma",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 301,
+          "length": 49
+        },
+        {
+          "text": "PPARG",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 945,
+          "length": 5
+        },
+        {
+          "text": "PPARG",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1228,
+          "length": 5
+        },
+        {
+          "text": "PPAR-gamma",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1273,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D052496",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "familial partial lipodystrophy type 3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 37
+        },
+        {
+          "text": "FPLD3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 127,
+          "length": 5
+        },
+        {
+          "text": "Familial partial lipodystrophy (Dunnigan) type 3",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 147,
+          "length": 48
+        },
+        {
+          "text": "FPLD3",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 197,
+          "length": 5
+        },
+        {
+          "text": "Mendelian Inheritance in Man [MIM] 604367",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 204,
+          "length": 41
+        },
+        {
+          "text": "FPLD3",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 480,
+          "length": 5
+        },
+        {
+          "text": "FPLD3",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1465,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 638,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 658,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D015228",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertriglyceridemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 675,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D010195",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pancreatitis",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 710,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triglycerides",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 805,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D002096",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "C-peptide",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 823,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008076",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "high-density lipoprotein cholesterol",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 847,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Y|355|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Y355X",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 969,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1222,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002096",
+      "tail_id": "p|SUB|Y|355|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D052496",
+      "tail_id": "p|SUB|Y|355|X",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "5468",
+      "tail_id": "D052496",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "5468",
+      "tail_id": "D010195",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "5468",
+      "tail_id": "D015228",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "5468",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007333",
+      "tail_id": "5468",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007333",
+      "tail_id": "p|SUB|Y|355|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "p|SUB|Y|355|X",
+      "tail_id": "D008076",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "p|SUB|Y|355|X",
+      "tail_id": "D010195",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "p|SUB|Y|355|X",
+      "tail_id": "D015228",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "p|SUB|Y|355|X",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "p|SUB|Y|355|X",
+      "tail_id": "D014280",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "doc_id": "16755009",
+  "title": "Pharmacological evidence for the potential of Daucus carota in the management of cognitive dysfunctions.",
+  "body": "The present study was aimed at investigating the effects of Daucus carota seeds on cognitive functions, total serum cholesterol levels and brain cholinesterase activity in mice. The ethanolic extract of Daucus carota seeds (DCE) was administered orally in three doses (100, 200, 400 mg/kg) for seven successive days to different groups of young and aged mice. Elevated plus maze and passive avoidance apparatus served as the exteroceptive behavioral models for testing memory. Diazepam-, scopolamine- and ageing-induced amnesia served as the interoceptive behavioral models. DCE (200, 400 mg/kg, p.o.) showed significant improvement in memory scores of young and aged mice. The extent of memory improvement evoked by DCE was 23% at the dose of 200 mg/kg and 35% at the dose of 400 mg/kg in young mice using elevated plus maze. Similarly, significant improvements in memory scores were observed using passive avoidance apparatus and aged mice. Furthermore, DCE reversed the amnesia induced by scopolamine (0.4 mg/kg, i.p.) and diazepam (1 mg/kg, i.p.). Daucus carota extract (200, 400 mg/kg, p.o.) reduced significantly the brain acetylcholinesterase activity and cholesterol levels in young and aged mice. The extent of inhibition of brain cholinesterase activity evoked by DCE at the dose of 400 mg/kg was 22% in young and 19% in aged mice. There was a remarkable reduction in total cholesterol level as well, to the extent of 23% in young and 21% in aged animals with this dose of DCE. Therefore, DCE may prove to be a useful remedy for the management of cognitive dysfunctions on account of its multifarious beneficial effects such as, memory improving property, cholesterol lowering property and anticholinesterase activity.",
+  "entities": [
+    {
+      "id": "4039",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Daucus carota",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 13
+        },
+        {
+          "text": "Daucus carota",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 165,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive dysfunctions",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 22
+        },
+        {
+          "text": "cognitive dysfunctions",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1662,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 221,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1268,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1489,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1771,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "12038",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cholinesterase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 250,
+          "length": 14
+        },
+        {
+          "text": "cholinesterase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1345,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 277,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 459,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 773,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 901,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1042,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1305,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1441,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010936",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "extract of Daucus carota seeds",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 297,
+          "length": 30
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 329,
+          "length": 3
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 680,
+          "length": 3
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 822,
+          "length": 3
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1061,
+          "length": 3
+        },
+        {
+          "text": "Daucus carota extract",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1157,
+          "length": 21
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1379,
+          "length": 3
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1588,
+          "length": 3
+        },
+        {
+          "text": "DCE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1604,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Diazepam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 582,
+          "length": 8
+        },
+        {
+          "text": "diazepam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1131,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 593,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1097,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 625,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1078,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "11423",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "acetylcholinesterase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1234,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "12038",
+      "tail_id": "D010936",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010936",
+      "tail_id": "D003072",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010936",
+      "tail_id": "11423",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010936",
+      "tail_id": "D002784",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010936",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D010936",
+      "tail_id": "D000647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D010936",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003975",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D012601",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

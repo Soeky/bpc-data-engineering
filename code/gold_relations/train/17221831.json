@@ -1,0 +1,317 @@
+{
+  "doc_id": "17221831",
+  "title": "The G51S purine nucleoside phosphorylase polymorphism is associated with cognitive decline in Alzheimer's disease patients.",
+  "body": "Alzheimer's disease (AD) is a polygenic and multifactorial complex disease, whose etiopathology is still unclear, however several genetic factors have shown to increase the risk of developing the disease. Purine nucleotides and nucleosides play an important role in the brain. Besides their role in neurotransmission and neuromodulation, they are involved in trophic factor release, apoptosis, and inflammatory responses. These mediators may also have a pivotal role in the control of neurodegenerative processes associated with AD. In this report the distribution of the exonic G/A single nucleotide polymorphism (SNP) in purine nucleoside phosphorylase (PNP) gene, resulting in the amino acid substitution serine to glycine at position 51 (G51S), was investigated in a large population of AD patients (n=321) and non-demented control (n=208). The PNP polymorphism distribution was not different between patients and controls. The polymorphism distribution was also analyzed in AD patients stratified according to differential progressive rate of cognitive decline during a 2-year follow-up. An increased representation of the PNP AA genotype was observed in AD patients with fast cognitive deterioration in comparison with that from patients with slow deterioration rate. Our findings suggest that the G51S PNP polymorphism is associated with a faster rate of cognitive decline in AD patients, highlighting the important role of purine metabolism in the progression of this neurodegenerative disorder.",
+  "entities": [
+    {
+      "id": "rs1049564",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G51S",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 4
+        },
+        {
+          "text": "G/A",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 703,
+          "length": 3
+        },
+        {
+          "text": "serine to glycine at position 51",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 832,
+          "length": 32
+        },
+        {
+          "text": "G51S",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 866,
+          "length": 4
+        },
+        {
+          "text": "G51S",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1428,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4860",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "purine nucleoside phosphorylase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 31
+        },
+        {
+          "text": "purine nucleoside phosphorylase",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 747,
+          "length": 31
+        },
+        {
+          "text": "PNP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 780,
+          "length": 3
+        },
+        {
+          "text": "PNP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 973,
+          "length": 3
+        },
+        {
+          "text": "PNP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1252,
+          "length": 3
+        },
+        {
+          "text": "PNP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1433,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive decline",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 17
+        },
+        {
+          "text": "cognitive decline",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1172,
+          "length": 17
+        },
+        {
+          "text": "cognitive deterioration",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1306,
+          "length": 23
+        },
+        {
+          "text": "cognitive decline",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1486,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 124,
+          "length": 19
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 145,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 653,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 915,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1103,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1284,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1507,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 918,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1029,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1106,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1287,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1359,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1510,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 522,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegenerative disorder",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1600,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4860",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019636",
+      "tail_id": "4860",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019636",
+      "tail_id": "rs1049564",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003072",
+      "tail_id": "4860",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs1049564",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs1049564",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

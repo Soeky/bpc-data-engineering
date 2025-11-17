@@ -1,0 +1,218 @@
+{
+  "doc_id": "16200390",
+  "title": "A genetic analysis of serotonergic biosynthetic and metabolic enzymes in migraine using a DNA pooling approach.",
+  "body": "Migraine is a common debilitating primary headache disorder with significant mental, physical and social health implications. The brain neurotransmitter 5-hydroxytryptamine (5-HT; serotonin) is involved in nociceptive pathways and has been implicated in the pathophysiology of migraine. With few genetic studies investigating biosynthetic and metabolic enzymes governing the rate of 5-HT activity and their relationship to migraine, it was the objective of this study to assess genetic variants within the human tryptophan hydroxylase (TPH), amino acid decarboxylase (AADC) and monoamine oxidase A (MAOA) genes in migraine susceptibility. This objective was undertaken using a high-throughput DNA pooling experimental design, which proved to be a very accurate, sensitive and specific method of estimating allele frequencies for single nucleotide polymorphism, insertion deletion and variable number tandem repeat loci. Application of DNA pooling to a wide array of genetic loci provides greater scope in the assessment of population-based genetic association study designs. Despite the application of this high-throughput genotyping method, negative results from the two-stage DNA pooling design used to screen loci within the TPH, AADC and MAOA genes did not support their role in migraine susceptibility.",
+  "entities": [
+    {
+      "id": "D008881",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "migraine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 8
+        },
+        {
+          "text": "Migraine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 112,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 389,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 535,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 726,
+          "length": 8
+        },
+        {
+          "text": "migraine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1395,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D020773",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "headache disorder",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 154,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D018377",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "neurotransmitter",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 248,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-hydroxytryptamine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 265,
+          "length": 19
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 286,
+          "length": 4
+        },
+        {
+          "text": "serotonin",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 292,
+          "length": 9
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 495,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 618,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7166",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tryptophan hydroxylase",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 624,
+          "length": 22
+        },
+        {
+          "text": "TPH",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 648,
+          "length": 3
+        },
+        {
+          "text": "TPH",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1340,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1644",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "amino acid decarboxylase",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 654,
+          "length": 24
+        },
+        {
+          "text": "AADC",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 680,
+          "length": 4
+        },
+        {
+          "text": "AADC",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1345,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4128",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "monoamine oxidase A",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 690,
+          "length": 19
+        },
+        {
+          "text": "MAOA",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 711,
+          "length": 4
+        },
+        {
+          "text": "MAOA",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1354,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012701",
+      "tail_id": "D008881",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

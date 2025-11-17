@@ -1,0 +1,347 @@
+{
+  "doc_id": "25983002",
+  "title": "Inhibition of LDHA suppresses tumor progression in prostate cancer.",
+  "body": "A key hallmark of cancer cells is their altered metabolism, known as Warburg effect. Lactate dehydrogenase A (LDHA) executes the final step of aerobic glycolysis and has been reported to be involved in the tumor progression. However, the function of LDHA in prostate cancer has not been studied. In current study, we observed overexpression of LDHA in the clinical prostate cancer samples compared with benign prostate hyperplasia tissues as demonstrated by immunohistochemistry and real-time qPCR. Attenuated expression of LDHA by siRNA or inhibition of LDHA activities by FX11 inhibited cell proliferation, migration, invasion, and promoted cell apoptosis of PC-3 and DU145 cells. Mechanistically, decreased Warburg effect as demonstrated by reduced glucose consumption and lactate secretion and reduced expression of MMP-9, PLAU, and cathepsin B were found after LDHA knockdown or FX11 treatment in PC-3 and DU145 cells. Taken together, our study revealed the oncogenic role of LDHA in prostate cancer and suggested that LDHA might be a potential therapeutic target.",
+  "entities": [
+    {
+      "id": "3939",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LDHA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 4
+        },
+        {
+          "text": "Lactate dehydrogenase A",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 153,
+          "length": 23
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 178,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 318,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 412,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 592,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 623,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 934,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1049,
+          "length": 4
+        },
+        {
+          "text": "LDHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1092,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 86,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 274,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 326,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 433,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1057,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D011470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "benign prostate hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 471,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "C547455",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "FX11",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 642,
+          "length": 4
+        },
+        {
+          "text": "FX11",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 952,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0035",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "PC-3",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 729,
+          "length": 4
+        },
+        {
+          "text": "PC-3",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 970,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0105",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "DU145",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 738,
+          "length": 5
+        },
+        {
+          "text": "DU145",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 979,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 820,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D019344",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 844,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP-9",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 888,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5328",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PLAU",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 895,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1508",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cathepsin B",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 905,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C547455",
+      "tail_id": "1508",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C547455",
+      "tail_id": "5328",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C547455",
+      "tail_id": "4318",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "3939",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3939",
+      "tail_id": "1508",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "3939",
+      "tail_id": "5328",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "3939",
+      "tail_id": "4318",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "3939",
+      "tail_id": "C547455",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "3939",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

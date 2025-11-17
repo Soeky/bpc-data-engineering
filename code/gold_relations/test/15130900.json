@@ -1,0 +1,249 @@
+{
+  "doc_id": "15130900",
+  "title": "Urinary bladder cancer in Wegener's granulomatosis: risks and relation to cyclophosphamide.",
+  "body": "OBJECTIVE: To assess and characterise the risk of bladder cancer, and its relation to cyclophosphamide, in patients with Wegener's granulomatosis. METHODS: In the population based, nationwide Swedish Inpatient Register a cohort of 1065 patients with Wegener's granulomatosis, 1969-95, was identified. Through linkage with the Swedish Cancer Register, all subjects in this cohort diagnosed with bladder cancer were identified. Nested within the cohort, a matched case-control study was performed to estimate the association between cyclophosphamide and bladder cancer using odds ratios (ORs) as relative risk. In the cohort the cumulative risk of bladder cancer after Wegener's granulomatosis, and the relative prevalence of a history of bladder cancer at the time of diagnosis of Wegener's granulomatosis, were also estimated. RESULTS: The median cumulative doses of cyclophosphamide among cases (n = 11) and controls (n = 25) were 113 g and 25 g, respectively. The risk of bladder cancer doubled for every 10 g increment in cyclophosphamide (OR = 2.0, 95% confidence interval (CI) 0.8 to 4.9). Treatment duration longer than 1 year was associated with an eightfold increased risk (OR = 7.7, 95% CI 0.9 to 69). The absolute risk for bladder cancer in the cohort reached 10% 16 years after diagnosis of Wegener's granulomatosis, and a history of bladder cancer was (non-significantly) twice as common as expected at the time of diagnosis of Wegener's granulomatosis. CONCLUSION: The results indicate a dose-response relationship between cyclophosphamide and the risk of bladder cancer, high cumulative risks in the entire cohort, and also the possibility of risk factors operating even before Wegener's granulomatosis.",
+  "entities": [
+    {
+      "id": "D001749",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Urinary bladder cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 22
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 142,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 486,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 644,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 738,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 829,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1066,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1325,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1437,
+          "length": 14
+        },
+        {
+          "text": "bladder cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1661,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D014890",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 213,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 342,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 759,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 872,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1394,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1532,
+          "length": 24
+        },
+        {
+          "text": "Wegener's granulomatosis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1784,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D003520",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 178,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 623,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 959,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1117,
+          "length": 16
+        },
+        {
+          "text": "cyclophosphamide",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1628,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 199,
+          "length": 8
+        },
+        {
+          "text": "Inpatient",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 292,
+          "length": 9
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 328,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cancer",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 426,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003520",
+      "tail_id": "D014890",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003520",
+      "tail_id": "D001749",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

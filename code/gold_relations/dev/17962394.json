@@ -1,0 +1,185 @@
+{
+  "doc_id": "17962394",
+  "title": "Skewed X inactivation in an X linked nystagmus family resulted from a novel, p.R229G, missense mutation in the FRMD7 gene.",
+  "body": "AIMS: This study aimed to identify the underlying genetic defect of a large Turkish X linked nystagmus (NYS) family. METHODS: Both Xp11 and Xq26 loci were tested by linkage analysis. The 12 exons and intron-exon junctions of the FRMD7 gene were screened by direct sequencing. X chromosome inactivation analysis was performed by enzymatic predigestion of DNA with a methylation-sensitive enzyme, followed by PCR of the polymorphic CAG repeat of the androgen receptor gene. RESULTS: The family contained 162 individuals, among whom 28 had NYS. Linkage analysis confirmed the Xq26 locus. A novel missense c.686C>G mutation, which causes the substitution of a conserved arginine at amino acid position 229 by glycine (p.R229G) in exon 8 of the FRMD7 gene, was observed. This change was not documented in 120 control individuals. The clinical findings in a female who was homozygous for the mutation were not different from those of affected heterozygous females. Skewed X inactivation was remarkable in the affected females of the family. CONCLUSIONS: A novel p.R229G mutation in the FRMD7 gene causes the NYS phenotype, and skewed X inactivation influences the manifestation of the disease in X linked NYS females.",
+  "entities": [
+    {
+      "id": "C580539",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X linked nystagmus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 18
+        },
+        {
+          "text": "X linked nystagmus",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 207,
+          "length": 18
+        },
+        {
+          "text": "NYS",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 227,
+          "length": 3
+        },
+        {
+          "text": "NYS",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 660,
+          "length": 3
+        },
+        {
+          "text": "NYS",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1225,
+          "length": 3
+        },
+        {
+          "text": "X linked NYS",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1313,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs137852212",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.R229G",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 7
+        },
+        {
+          "text": "c.686C>G",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 725,
+          "length": 8
+        },
+        {
+          "text": "arginine at amino acid position 229 by glycine",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 789,
+          "length": 46
+        },
+        {
+          "text": "p.R229G",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 837,
+          "length": 7
+        },
+        {
+          "text": "p.R229G",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1179,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "90167",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FRMD7",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 5
+        },
+        {
+          "text": "FRMD7",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 352,
+          "length": 5
+        },
+        {
+          "text": "FRMD7",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 863,
+          "length": 5
+        },
+        {
+          "text": "FRMD7",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1203,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genetic defect",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 173,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||CAG|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "CAG repeat",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 553,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 571,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C580539",
+      "tail_id": "90167",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C580539",
+      "tail_id": "rs137852212",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

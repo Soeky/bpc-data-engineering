@@ -1,0 +1,396 @@
+{
+  "doc_id": "20854438",
+  "title": "SLURP1 mutation-impaired T-cell activation in a family with mal de Meleda.",
+  "body": "BACKGROUND: Mal de Meleda (MDM) is palmoplantar erythrokeratoderma with an autosomal recessive inheritance and is caused by a mutation in the gene encoding SLURP-1 (lymphocyte antigen 6/urokinase-type plasminogen activator receptor related protein-1). SLURP-1 is an allosteric agonist to the nicotinic acetylcholine receptor (nAchR) and it regulates epidermal homeostasis. In addition, murine studies have shown that nAchR signalling is important for the regulation of T-cell function. Among the family members, patients with the homozygous SLURP1 (previously known as ARS component B) mutation are prone to melanoma and viral infection, which might link to defective T-cell function as well as a derangement of epidermal homeostasis. OBJECTIVES: To investigate the association of the SLURP1 gene mutation with T-cell activation in a Taiwanese family with MDM. To test that SLURP-1 is essential for T-cell activation. METHODS: Human peripheral blood mononuclear cells (PBMCs) were isolated from a Taiwanese MDM family bearing the G to A substitution in nucleotide 256 in the SLURP1 gene, corresponding to a glycine to arginine substitution at amino acid 86 (G86R) in the SLURP-1 protein. PBMCs from homozygotes and wild-type controls were stimulated with anti-CD3/anti-CD28 antibodies and the level of T-cell activation was determined by the stimulation index. RESULTS: PBMCs with the heterozygous and homozygous SLURP-1 G86R mutation had defective T-cell activation. This was restored by the addition of 0 5 ug mL(-1) recombinant human SLURP-1 protein. CONCLUSIONS: Patients with MDM with the homozygous SLURP-1 G86R mutation may have an impaired T-cell activation. The presence of wild-type SLURP-1 is essential for normal T-cell activation.",
+  "entities": [
+    {
+      "id": "57152",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLURP1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 231,
+          "length": 7
+        },
+        {
+          "text": "lymphocyte antigen 6",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 240,
+          "length": 20
+        },
+        {
+          "text": "urokinase-type plasminogen activator receptor related protein-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 261,
+          "length": 63
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 327,
+          "length": 7
+        },
+        {
+          "text": "SLURP1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 616,
+          "length": 6
+        },
+        {
+          "text": "SLURP1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 860,
+          "length": 6
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 949,
+          "length": 7
+        },
+        {
+          "text": "SLURP1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1150,
+          "length": 6
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1246,
+          "length": 7
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1488,
+          "length": 7
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1612,
+          "length": 7
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1680,
+          "length": 7
+        },
+        {
+          "text": "SLURP-1",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1768,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007645",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mal de Meleda",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 13
+        },
+        {
+          "text": "Mal de Meleda",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 87,
+          "length": 13
+        },
+        {
+          "text": "MDM",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 102,
+          "length": 3
+        },
+        {
+          "text": "MDM",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 931,
+          "length": 3
+        },
+        {
+          "text": "MDM",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1082,
+          "length": 3
+        },
+        {
+          "text": "MDM",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1656,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C563781",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "palmoplantar erythrokeratoderma",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 110,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "1137",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nicotinic acetylcholine receptor",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 367,
+          "length": 32
+        },
+        {
+          "text": "nAchR",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 401,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 461,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11441",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nAchR",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 492,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 587,
+          "length": 8
+        },
+        {
+          "text": "Human",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1002,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1606,
+          "length": 5
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1642,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008545",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "melanoma",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 683,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014777",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "viral infection",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 696,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs28937888",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G to A substitution in nucleotide 256",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1105,
+          "length": 37
+        },
+        {
+          "text": "glycine to arginine substitution at amino acid 86",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1182,
+          "length": 49
+        },
+        {
+          "text": "G86R",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1233,
+          "length": 4
+        },
+        {
+          "text": "G86R",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1496,
+          "length": 4
+        },
+        {
+          "text": "G86R",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1688,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "915",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD3",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1335,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "940",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD28",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1344,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007645",
+      "tail_id": "rs28937888",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007645",
+      "tail_id": "57152",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014777",
+      "tail_id": "rs28937888",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008545",
+      "tail_id": "rs28937888",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "57152",
+      "tail_id": "D014777",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "57152",
+      "tail_id": "D008545",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "57152",
+      "tail_id": "1137",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

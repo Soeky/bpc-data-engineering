@@ -1,0 +1,652 @@
+{
+  "doc_id": "21042587",
+  "title": "Familial glucocorticoid receptor haploinsufficiency by non-sense mediated mRNA decay, adrenal hyperplasia and apparent mineralocorticoid excess.",
+  "body": "Primary glucocorticoid resistance (OMIM 138040) is a rare hereditary disease that causes a generalized partial insensitivity to glucocorticoid action, due to genetic alterations of the glucocorticoid receptor (GR). Investigation of adrenal incidentalomas led to the discovery of a family (eight affected individuals spanning three generations), prone to cortisol resistance, bilateral adrenal hyperplasia, arterial hypertension and hypokalemia. This phenotype exacerbated over time, cosegregates with the first heterozygous nonsense mutation p.R469[R,X] reported to date for the GR, replacing an arginine (CGA) by a stop (TGA) at amino-acid 469 in the second zinc finger of the DNA-binding domain of the receptor. In vitro, this mutation leads to a truncated 50-kDa GR lacking hormone and DNA binding capacity, devoid of hormone-dependent nuclear translocation and transactivation properties. In the proband's fibroblasts, we provided evidence for the lack of expression of the defective allele in vivo. The absence of detectable mutated GR mRNA was accompanied by a 50% reduction in wild type GR transcript and protein. This reduced GR expression leads to a significantly below-normal induction of glucocorticoid-induced target genes, FKBP5 in fibroblasts. We demonstrated that the molecular mechanisms of glucocorticoid signaling dysfunction involved GR haploinsufficiency due to the selective degradation of the mutated GR transcript through a nonsense-mediated mRNA Decay that was experimentally validated on emetine-treated propositus' fibroblasts. GR haploinsufficiency leads to hypertension due to illicit occupation of renal mineralocorticoid receptor by elevated cortisol rather than to increased mineralocorticoid production reported in primary glucocorticoid resistance. Indeed, apparent mineralocorticoid excess was demonstrated by a decrease in urinary tetrahydrocortisone-tetrahydrocortisol ratio in affected patients, revealing reduced glucocorticoid degradation by renal activity of the 11b-hydroxysteroid dehydrogenase type 2, a GR regulated gene. We propose thus that GR haploinsufficiency compromises glucocorticoid sensitivity and may represent a novel genetic cause of subclinical hypercortisolism, incidentally revealed bilateral adrenal hyperplasia and mineralocorticoid-independent hypertension.",
+  "entities": [
+    {
+      "id": "2908",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 23
+        },
+        {
+          "text": "glucocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 330,
+          "length": 23
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 355,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 724,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 911,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1183,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1239,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1279,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1498,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1568,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1699,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2191,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2231,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D000312",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adrenal hyperplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 19
+        },
+        {
+          "text": "bilateral adrenal hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 520,
+          "length": 29
+        },
+        {
+          "text": "bilateral adrenal hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2387,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "C537422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "apparent mineralocorticoid excess",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 33
+        },
+        {
+          "text": "apparent mineralocorticoid excess",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1935,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "C564221",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glucocorticoid resistance",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 153,
+          "length": 25
+        },
+        {
+          "text": "glucocorticoid resistance",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1900,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "OMIM:138040",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "OMIM 138040",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 180,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hereditary disease",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 203,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 273,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1344,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1452,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2096,
+          "length": 14
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2265,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "C538238",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adrenal incidentalomas",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 377,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "C535280",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cortisol resistance",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 499,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 560,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1730,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2451,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 577,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|469|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.R469[R,X]",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 687,
+          "length": 11
+        },
+        {
+          "text": "arginine (CGA) by a stop (TGA) at amino-acid 469",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 741,
+          "length": 48
+        }
+      ]
+    },
+    {
+      "id": "2289",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FKBP5",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1381,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004640",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "emetine",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1658,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4306",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mineralocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1778,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D006854",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cortisol",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1817,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008901",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mineralocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1851,
+          "length": 17
+        },
+        {
+          "text": "mineralocorticoid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2421,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D013761",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tetrahydrocortisone",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2011,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D013760",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tetrahydrocortisol",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2031,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2068,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3291",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "11b-hydroxysteroid dehydrogenase type 2",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2148,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "D003480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypercortisolism",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 2347,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C564221",
+      "tail_id": "D005938",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3291",
+      "tail_id": "2908",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "4306",
+      "tail_id": "D006854",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005938",
+      "tail_id": "D003480",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005938",
+      "tail_id": "3291",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005938",
+      "tail_id": "2289",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000312",
+      "tail_id": "D005938",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D006973",
+      "tail_id": "D006854",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D006973",
+      "tail_id": "4306",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "p|SUB|R|469|X",
+      "tail_id": "D000312",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "p|SUB|R|469|X",
+      "tail_id": "C538238",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "p|SUB|R|469|X",
+      "tail_id": "C535280",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "p|SUB|R|469|X",
+      "tail_id": "D007008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "p|SUB|R|469|X",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C537422",
+      "tail_id": "D013760",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C537422",
+      "tail_id": "D013761",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "2908",
+      "tail_id": "C564221",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "2908",
+      "tail_id": "D003480",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "2908",
+      "tail_id": "4306",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "2908",
+      "tail_id": "D005938",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "2908",
+      "tail_id": "2289",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "2908",
+      "tail_id": "D000312",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "2908",
+      "tail_id": "C538238",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "2908",
+      "tail_id": "C535280",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "2908",
+      "tail_id": "D007008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "2908",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "2908",
+      "tail_id": "C537422",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

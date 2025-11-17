@@ -1,0 +1,296 @@
+{
+  "doc_id": "16364460",
+  "title": "Microinjection of ritanserin into the CA1 region of hippocampus improves scopolamine-induced amnesia in adult male rats.",
+  "body": "The effect of ritanserin (5-HT2 antagonist) on scopolamine (muscarinic cholinergic antagonist)-induced amnesia in Morris water maze (MWM) was investigated. Rats were divided into eight groups and bilaterally cannulated into CA1 region of the hippocampus. One week later, they received repeatedly vehicles (saline, DMSO, saline+DMSO), scopolamine (2 microg/0.5 microl saline/side; 30 min before training), ritanserin (2, 4 and 8 microg/0.5 microl DMSO/side; 20 min before training) and scopolamine (2 microg/0.5 microl; 30 min before ritanserin injection)+ritanserin (4 microg/0.5 microl DMSO) through cannulae each day. Animals were tested for four consecutive days (4 trial/day) in MWM during which the position of hidden platform was unchanged. In the fifth day, the platform was elevated above the water surface in another position to evaluate the function of motor, motivational and visual systems. The results showed a significant increase in escape latencies and traveled distances to find platform in scopolamine-treated group as compared to saline group. Ritanserin-treated rats (4 microg/0.5 microl/side) showed a significant decrease in the mentioned parameters as compared to DMSO-treated group. However, scopolamine and ritanserin co-administration resulted in a significant decrease in escape latencies and traveled distances as compared to the scopolamine-treated rats. Our findings show that microinjection of ritanserin into the CA1 region of the hippocampus improves the scopolamine-induced amnesia.",
+  "entities": [
+    {
+      "id": "D016713",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ritanserin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 135,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 526,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 654,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 676,
+          "length": 10
+        },
+        {
+          "text": "Ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1184,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1353,
+          "length": 10
+        },
+        {
+          "text": "ritanserin",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1546,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 168,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 455,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 606,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1129,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1337,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1479,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1609,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "amnesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 224,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1629,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 115,
+          "length": 4
+        },
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 277,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1203,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1499,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "29595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "5-HT2",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 147,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "25229",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "muscarinic cholinergic",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 181,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D004121",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "DMSO",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 435,
+          "length": 4
+        },
+        {
+          "text": "DMSO",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 448,
+          "length": 4
+        },
+        {
+          "text": "DMSO",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 567,
+          "length": 4
+        },
+        {
+          "text": "DMSO",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 708,
+          "length": 4
+        },
+        {
+          "text": "DMSO",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1308,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016713",
+      "tail_id": "29595",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D016713",
+      "tail_id": "D000647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D016713",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012601",
+      "tail_id": "25229",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D012601",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

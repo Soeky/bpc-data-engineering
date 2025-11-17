@@ -1,0 +1,82 @@
+{
+  "doc_id": "20949073",
+  "title": "Alternative splicing at a NAGNAG acceptor site as a novel phenotype modifier.",
+  "body": "Approximately 30% of alleles causing genetic disorders generate premature termination codons (PTCs), which are usually associated with severe phenotypes. However, bypassing the deleterious stop codon can lead to a mild disease outcome. Splicing at NAGNAG tandem splice sites has been reported to result in insertion or deletion (indel) of three nucleotides. We identified such a mechanism as the origin of the mild to asymptomatic phenotype observed in cystic fibrosis patients homozygous for the E831X mutation (2623G>T) in the CFTR gene. Analyses performed on nasal epithelial cell mRNA detected three distinct isoforms, a considerably more complex situation than expected for a single nucleotide substitution. Structure-function studies and in silico analyses provided the first experimental evidence of an indel of a stop codon by alternative splicing at a NAGNAG acceptor site. In addition to contributing to proteome plasticity, alternative splicing at a NAGNAG tandem site can thus remove a disease-causing UAG stop codon. This molecular study reveals a naturally occurring mechanism where the effect of either modifier genes or epigenetic factors could be suspected. This finding is of importance for genetic counseling as well as for deciding appropriate therapeutic strategies.",
+  "entities": [
+    {
+      "id": "D003550",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cystic fibrosis",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 531,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 547,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs397508387",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E831X",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 575,
+          "length": 5
+        },
+        {
+          "text": "2623G>T",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 591,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1080",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CFTR",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 607,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003550",
+      "tail_id": "1080",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003550",
+      "tail_id": "rs397508387",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

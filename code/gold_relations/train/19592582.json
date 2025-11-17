@@ -1,0 +1,347 @@
+{
+  "doc_id": "19592582",
+  "title": "Matriptase-2 mutations in iron-refractory iron deficiency anemia patients provide new insights into protease activation mechanisms.",
+  "body": "Mutations leading to abrogation of matriptase-2 proteolytic activity in humans are associated with an iron-refractory iron deficiency anemia (IRIDA) due to elevated hepcidin levels. Here we describe two novel heterozygous mutations within the matriptase-2 (TMPRSS6) gene of monozygotic twin girls exhibiting an IRIDA phenotype. The first is the frameshift mutation (P686fs) caused by the insertion of the four nucleotides CCCC in exon 16 (2172_2173insCCCC) that is predicted to terminate translation before the catalytic serine. The second mutation is the di-nucleotide substitution c.467C>A and c.468C>T in exon 3 that causes the missense mutation A118D in the SEA domain of the extracellular stem region of matriptase-2. Functional analysis of both variant matriptase-2 proteases has revealed that they lead to ineffective suppression of hepcidin transcription. We also demonstrate that the A118D SEA domain mutation causes an intra-molecular structural imbalance that impairs matriptase-2 activation. Collectively, these results extend the pattern of TMPRSS6 mutations associated with IRIDA and functionally demonstrate that mutations affecting protease regions other than the catalytic domain may have a profound impact in the regulatory role of matriptase-2 during iron deficiency.",
+  "entities": [
+    {
+      "id": "164656",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Matriptase-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 167,
+          "length": 12
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 375,
+          "length": 12
+        },
+        {
+          "text": "TMPRSS6",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 389,
+          "length": 7
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 841,
+          "length": 12
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 891,
+          "length": 12
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1111,
+          "length": 12
+        },
+        {
+          "text": "TMPRSS6",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1186,
+          "length": 7
+        },
+        {
+          "text": "matriptase-2",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1382,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018798",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "iron deficiency anemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 22
+        },
+        {
+          "text": "iron deficiency",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1402,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 8
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 204,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C562385",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "iron-refractory iron deficiency anemia",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 234,
+          "length": 38
+        },
+        {
+          "text": "IRIDA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 274,
+          "length": 5
+        },
+        {
+          "text": "IRIDA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 443,
+          "length": 5
+        },
+        {
+          "text": "IRIDA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1220,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "57817",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hepcidin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 297,
+          "length": 8
+        },
+        {
+          "text": "hepcidin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 972,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|FS|P|686||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P686fs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 498,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|INS||CCCC",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "insertion of the four nucleotides CCCC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 520,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "c|INS|2172_2173|CCCC",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "2172_2173insCCCC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 571,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|467|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.467C>A",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 715,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|468|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.468C>T",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 728,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|118|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A118D",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 781,
+          "length": 5
+        },
+        {
+          "text": "A118D",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1025,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "57817",
+      "tail_id": "C562385",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C562385",
+      "tail_id": "p|SUB|A|118|D",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C562385",
+      "tail_id": "c|SUB|C|468|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C562385",
+      "tail_id": "c|SUB|C|467|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C562385",
+      "tail_id": "c|INS|2172_2173|CCCC",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C562385",
+      "tail_id": "c|INS||CCCC",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C562385",
+      "tail_id": "p|FS|P|686||",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007501",
+      "tail_id": "D018798",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "164656",
+      "tail_id": "57817",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "164656",
+      "tail_id": "C562385",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "164656",
+      "tail_id": "D018798",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

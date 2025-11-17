@@ -1,0 +1,438 @@
+{
+  "doc_id": "17059986",
+  "title": "A novel splicing mutation in SLC12A3 associated with Gitelman syndrome and idiopathic intracranial hypertension.",
+  "body": "We report a case of Gitelman syndrome (GS) in a dizygotic twin who presented at 12 years of age with growth delay, metabolic alkalosis, hypomagnesemia and hypokalemia with inappropriate kaliuresis, and idiopathic intracranial hypertension with bilateral papilledema (pseudotumor cerebri). The patient, her twin sister, and her mother also presented with cerebral cavernous malformations. Based on the early onset and normocalciuria, Bartter syndrome was diagnosed first. However, mutation analysis showed that the proband is a compound heterozygote for 2 mutations in SLC12A3: a substitution of serine by leucine at amino acid position 555 (p.Ser555Leu) and a novel guanine to cytosine transition at the 5' splice site of intron 22 (c.2633+1G>C), providing the molecular diagnosis of GS. These mutations were not detected in 200 normal chromosomes and cosegregated within the family. Analysis of complementary DNA showed that the heterozygous nucleotide change c.2633+1G>C caused the appearance of 2 RNA molecules, 1 normal transcript and 1 skipping the entire exon 22 (r.2521_2634del). Supplementation with potassium and magnesium improved clinical symptoms and resulted in catch-up growth, but vision remained impaired. Three similar associations of Bartter syndrome/GS with pseudotumor cerebri were found in the literature, suggesting that electrolyte abnormalities and secondary aldosteronism may have a role in idiopathic intracranial hypertension. This study provides further evidence for the phenotypical heterogeneity of GS and its association with severe manifestations in children. It also shows the independent segregation of familial cavernomatosis and GS.",
+  "entities": [
+    {
+      "id": "6559",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLC12A3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 7
+        },
+        {
+          "text": "SLC12A3",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 681,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D053579",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Gitelman syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 17
+        },
+        {
+          "text": "Gitelman syndrome",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 133,
+          "length": 17
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 152,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 897,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1382,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1642,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1778,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D011559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "idiopathic intracranial hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 36
+        },
+        {
+          "text": "idiopathic intracranial hypertension",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 315,
+          "length": 36
+        },
+        {
+          "text": "pseudotumor cerebri",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 380,
+          "length": 19
+        },
+        {
+          "text": "pseudotumor cerebri",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1390,
+          "length": 19
+        },
+        {
+          "text": "idiopathic intracranial hypertension",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1529,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "growth delay",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 214,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolic alkalosis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 228,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "C537153",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypomagnesemia",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 249,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 268,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010211",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bilateral papilledema",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 357,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 406,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebral cavernous malformations",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 467,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "D001477",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Bartter syndrome",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 546,
+          "length": 16
+        },
+        {
+          "text": "Bartter syndrome",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1365,
+          "length": 16
+        },
+        {
+          "text": "secondary aldosteronism",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1486,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "rs148038173",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "serine by leucine at amino acid position 555",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 708,
+          "length": 44
+        },
+        {
+          "text": "p.Ser555Leu",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 754,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "guanine to cytosine",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 779,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|2633+1|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2633+1G>C",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 846,
+          "length": 11
+        },
+        {
+          "text": "c.2633+1G>C",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1074,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "r|DEL|2521_2634|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "r.2521_2634del",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1183,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1221,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008274",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "magnesium",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1235,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014883",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "electrolyte abnormalities",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1456,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D006392",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "familial cavernomatosis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1750,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011188",
+      "tail_id": "D008274",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|G|2633+1|C",
+      "tail_id": "D011559",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|G|2633+1|C",
+      "tail_id": "D053579",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|G||C",
+      "tail_id": "D011559",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|G||C",
+      "tail_id": "D053579",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs148038173",
+      "tail_id": "D053579",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D011559",
+      "tail_id": "rs148038173",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D053579",
+      "tail_id": "D008274",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D053579",
+      "tail_id": "D011188",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "6559",
+      "tail_id": "D011559",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "6559",
+      "tail_id": "D053579",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

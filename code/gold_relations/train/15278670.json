@@ -1,0 +1,362 @@
+{
+  "doc_id": "15278670",
+  "title": "The effects of sevoflurane on lidocaine-induced convulsions.",
+  "body": "The influence of sevoflurane on lidocaine-induced convulsions was studied in cats. The convulsive threshold (mean +/- SD) was 41.4 +/- 6.5 mg. l(-1) with lidocaine infusion (6 mg.kg(-1).min(-1)), increasing significantly to 66.6 +/- 10.9 mg. l(-1) when the end-tidal concentration of sevoflurane was 0.8%. However, the threshold (61.6 +/- 8.7 mg. l(-1)) during 1.6% sevoflurane was not significant from that during 0.8% sevoflurane, indicating a celling effect. There was no significant difference in the convulsive threshold between sevoflurane and enflurane. The rise in blood pressure became less marked when higher concentrations of sevoflurane or enflurane were administered and the blood pressure at convulsions decreased significantly in 1.6% sevoflurane, and in 0.8% and 1.6% enflurane. However, there was no significant difference in the lidocaine concentrations measured when the systolic blood pressure became 70 mmHg. Apamin, a selective blocker of calcium-dependent potassium channels, was administered intracerebroventricularly in rats anesthetized with 0.8% sevoflurane to investigate the mechanism of the anticonvulsive effects. Apamin (10 ng) had a tendency to decrease the convulsive threshold (21.6 +/- 2.2 to 19.9 +/- 2.5 mg. l(-1)) but this was not statistically significant. It is suggested that sevoflurane reduces the convulsive effect of lidocaine toxicity but carries some risk due to circulatory depression.",
+  "entities": [
+    {
+      "id": "C009250",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sevoflurane",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 78,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 345,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 427,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 481,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 595,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 698,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 811,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1134,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1379,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008012",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lidocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 93,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 215,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 908,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1424,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "convulsions",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 11
+        },
+        {
+          "text": "convulsions",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 111,
+          "length": 11
+        },
+        {
+          "text": "convulsive",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 148,
+          "length": 10
+        },
+        {
+          "text": "convulsive",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 566,
+          "length": 10
+        },
+        {
+          "text": "convulsions",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 767,
+          "length": 11
+        },
+        {
+          "text": "convulsive",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1252,
+          "length": 10
+        },
+        {
+          "text": "convulsive",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1403,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9685",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "cats",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 138,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004737",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "enflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 611,
+          "length": 9
+        },
+        {
+          "text": "enflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 713,
+          "length": 9
+        },
+        {
+          "text": "enflurane",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 845,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001030",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Apamin",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 991,
+          "length": 6
+        },
+        {
+          "text": "Apamin",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1206,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1022,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1040,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1106,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1434,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1484,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C009250",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C009250",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C009250",
+      "tail_id": "D008012",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002118",
+      "tail_id": "D011188",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001030",
+      "tail_id": "D011188",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001030",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001030",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008012",
+      "tail_id": "D012640",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

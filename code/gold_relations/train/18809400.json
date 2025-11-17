@@ -1,0 +1,376 @@
+{
+  "doc_id": "18809400",
+  "title": "Alpha-lipoic acid prevents mitochondrial damage and neurotoxicity in experimental chemotherapy neuropathy.",
+  "body": "The study investigates if alpha-lipoic acid is neuroprotective against chemotherapy induced neurotoxicity, if mitochondrial damage plays a critical role in toxic neurodegenerative cascade, and if neuroprotective effects of alpha-lipoic acid depend on mitochondria protection. We used an in vitro model of chemotherapy induced peripheral neuropathy that closely mimic the in vivo condition by exposing primary cultures of dorsal root ganglion (DRG) sensory neurons to paclitaxel and cisplatin, two widely used and highly effective chemotherapeutic drugs. This approach allowed investigating the efficacy of alpha-lipoic acid in preventing axonal damage and apoptosis and the function and ultrastructural morphology of mitochondria after exposure to toxic agents and alpha-lipoic acid. Our results demonstrate that both cisplatin and paclitaxel cause early mitochondrial impairment with loss of membrane potential and induction of autophagic vacuoles in neurons. Alpha-lipoic acid exerts neuroprotective effects against chemotherapy induced neurotoxicity in sensory neurons: it rescues the mitochondrial toxicity and induces the expression of frataxin, an essential mitochondrial protein with anti-oxidant and chaperone properties. In conclusion mitochondrial toxicity is an early common event both in paclitaxel and cisplatin induced neurotoxicity. Alpha-lipoic acid protects sensory neurons through its anti-oxidant and mitochondrial regulatory functions, possibly inducing the expression of frataxin. These findings suggest that alpha-lipoic acid might reduce the risk of developing peripheral nerve toxicity in patients undergoing chemotherapy and encourage further confirmatory clinical trials.",
+  "entities": [
+    {
+      "id": "D008063",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Alpha-lipoic acid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 17
+        },
+        {
+          "text": "alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 133,
+          "length": 17
+        },
+        {
+          "text": "alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 330,
+          "length": 17
+        },
+        {
+          "text": "alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 713,
+          "length": 17
+        },
+        {
+          "text": "alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 872,
+          "length": 17
+        },
+        {
+          "text": "Alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1068,
+          "length": 17
+        },
+        {
+          "text": "Alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1455,
+          "length": 17
+        },
+        {
+          "text": "alpha-lipoic acid",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1637,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial damage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 20
+        },
+        {
+          "text": "mitochondrial damage",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 217,
+          "length": 20
+        },
+        {
+          "text": "mitochondrial impairment",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 962,
+          "length": 24
+        },
+        {
+          "text": "mitochondrial toxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1195,
+          "length": 22
+        },
+        {
+          "text": "mitochondrial toxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1351,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 199,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1146,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1440,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D009410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxic neurodegenerative cascade",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 263,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D010523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "peripheral neuropathy",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 433,
+          "length": 21
+        },
+        {
+          "text": "peripheral nerve toxicity",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1691,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D017239",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paclitaxel",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 574,
+          "length": 10
+        },
+        {
+          "text": "paclitaxel",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 939,
+          "length": 10
+        },
+        {
+          "text": "paclitaxel",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1407,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002945",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 589,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 925,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1422,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D020833",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "axonal damage",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 745,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "2395",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "frataxin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1248,
+          "length": 8
+        },
+        {
+          "text": "frataxin",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1599,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1720,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002945",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002945",
+      "tail_id": "D028361",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D017239",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D017239",
+      "tail_id": "D028361",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010523",
+      "tail_id": "D002945",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D010523",
+      "tail_id": "D017239",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008063",
+      "tail_id": "2395",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008063",
+      "tail_id": "D020833",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008063",
+      "tail_id": "D010523",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008063",
+      "tail_id": "D009422",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008063",
+      "tail_id": "D020258",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D008063",
+      "tail_id": "D028361",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

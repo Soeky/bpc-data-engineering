@@ -1,0 +1,172 @@
+{
+  "doc_id": "18951540",
+  "title": "Repetitive transcranial magnetic stimulation for levodopa-induced dyskinesias in Parkinson's disease.",
+  "body": "In a placebo-controlled, single-blinded, crossover study, we assessed the effect of \"real\" repetitive transcranial magnetic stimulation (rTMS) versus \"sham\" rTMS (placebo) on peak dose dyskinesias in patients with Parkinson's disease (PD). Ten patients with PD and prominent dyskinesias had rTMS (1,800 pulses; 1 Hz rate) delivered over the motor cortex for 4 consecutive days twice, once real stimuli and once sham stimulation were used; evaluations were done at the baseline and 1 day after the end of each of the treatment series. Direct comparison between sham and real rTMS effects showed no significant difference in clinician-assessed dyskinesia severity. However, comparison with the baseline showed small but significant reduction in dyskinesia severity following real rTMS but not placebo. The major effect was on dystonia subscore. Similarly, in patient diaries, although both treatments caused reduction in subjective dyskinesia scores during the days of intervention, the effect was sustained for 3 days after the intervention for the real rTMS only. Following rTMS, no side effects and no adverse effects on motor function and PD symptoms were noted. The results suggest the existence of residual beneficial clinical aftereffects of consecutive daily applications of low-frequency rTMS on dyskinesias in PD. The effects may be further exploited for potential therapeutic uses.",
+  "entities": [
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyskinesias",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 11
+        },
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 287,
+          "length": 11
+        },
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 377,
+          "length": 11
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 744,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 845,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1032,
+          "length": 10
+        },
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1405,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 316,
+          "length": 19
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 337,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 360,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1243,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1420,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 302,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 346,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 959,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D004421",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dystonia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 926,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007980",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "doc_id": "19207031",
+  "title": "Growth hormone dose in growth hormone-deficient adults is not associated with IGF-1 gene polymorphisms.",
+  "body": "AIMS: Several SNPs and a microsatellite cytosine-adenine repeat promoter polymorphism of the IGF-1 gene have been reported to be associated with circulating IGF-1 serum concentrations. Variance in IGF-1 concentrations due to genetic variations may affect different response to growth hormone (GH) treatment, resulting in different individually required GH-doses in GH-deficient patients. The aim of this study was to test if the IGF-1 gene polymorphisms are associated with the GH-dose of GH-deficient adults. MATERIALS & METHODS: A total of nine tagging SNPs, five additionally selected SNPs and a cytosine-adenine repeat polymorphism were determined in 133 German adult patients (66 men, 67 women; mean age 45.4 years +/- 13.1 standard deviation; majority Caucasian) with GH-deficiency (GHD) of different origin, derived from the prospective Pfizer International Metabolic Study (KIMS) Pharmacogenetics Study. Patients received GH-treatment for 12 months with finished dose-titration of GH and centralized IGF-1 measurements. GH-dose after 1 year of treatment, IGF-1 concentrations, IGF-1-standard deviation score (SDS), the IGF-1:GH ratio and anthropometric data were analyzed by genotype. RESULTS: Except for rs1019731, which showed a significant difference of IGF-1-SDS by genotypes (p = 0.02), all polymorphisms showed no associations with the GH-doses, IGF-1 concentrations, IGF-1-SDS and IGF-1:GH ratio after adjusting for the confounding variables gender, age and BMI. CONCLUSION: IGF-1 gene polymorphisms were not associated with the responsiveness to exogenous GH in GHD. Therefore, genetic variations of the IGF-1 gene seem not to be major influencing factors of the GH-IGF-axis causing variable response to exogenous GH-treatment.",
+  "entities": [
+    {
+      "id": "2688",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Growth hormone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 14
+        },
+        {
+          "text": "growth hormone",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 381,
+          "length": 14
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 397,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 457,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 582,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1034,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1093,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1132,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1237,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1454,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1506,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1676,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1783,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1834,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D004393",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "growth hormone-deficient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 24
+        },
+        {
+          "text": "GH-deficient",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 469,
+          "length": 12
+        },
+        {
+          "text": "GH-deficient",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 593,
+          "length": 12
+        },
+        {
+          "text": "GH-deficiency",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 878,
+          "length": 13
+        },
+        {
+          "text": "GHD",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 893,
+          "length": 3
+        },
+        {
+          "text": "GHD",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1682,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3479",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGF-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 197,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 261,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 301,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 533,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1112,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1167,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1189,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1231,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1369,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1464,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1486,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1500,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1594,
+          "length": 5
+        },
+        {
+          "text": "IGF-1",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1724,
+          "length": 5
+        },
+        {
+          "text": "IGF",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1786,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 482,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 776,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 789,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 797,
+          "length": 5
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1016,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs1019731",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1019731",
+          "passage_index": 1,
+          "passage_offset": 104,
+          "char_offset": 1317,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3479",
+      "tail_id": "2688",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "2688",
+      "tail_id": "D004393",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

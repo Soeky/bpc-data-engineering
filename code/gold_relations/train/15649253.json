@@ -1,0 +1,199 @@
+{
+  "doc_id": "15649253",
+  "title": "Primary malignant lymphoma of the brain: frequent abnormalities and inactivation of p14 tumor suppressor gene.",
+  "body": "Ten primary central nervous system lymphomas (PCNSL, brain lymphomas) were examined for p14 gene exon 1beta deletion, mutation and methylation by Southern blot analysis, nucleotide analysis of polymerase chain reaction clones and Southern blot-based methylation assay. In Southern blot analysis, from the signal densities of the hybridized bands and their similarities to those of exons 2 and 3 in our previous quantitative study, we found that exon 1beta was homozygously deleted in four cases, hemizygously deleted in five cases and not deleted in one case. Thus, the same deletion patterns covered the entire p14 gene for all cases except for one case, which suggested the hemizygous deletion of exons 1beta and 2 and homozygous deletion of exon 3. In addition, although exon 1beta mutation is rare in various tumors, we detected a missense mutation (L50R) in one case with a hemizygous deletion. Methylation of the 5'CpG island of the p14 gene was not suggested for any case without homozygous deletion. Our observation of frequent p14 gene abnormalities (90%) and inactivation (40-60%) was in striking contrast to the same pathological subtype of systemic lymphoma in which p14 gene abnormalities and inactivation were infrequent, suggesting a difference in carcinogenesis between PCNSL and systemic lymphoma.",
+  "entities": [
+    {
+      "id": "D016543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Primary malignant lymphoma of the brain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 39
+        },
+        {
+          "text": "primary central nervous system lymphomas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 115,
+          "length": 40
+        },
+        {
+          "text": "PCNSL",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 157,
+          "length": 5
+        },
+        {
+          "text": "brain lymphomas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 164,
+          "length": 15
+        },
+        {
+          "text": "PCNSL",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1397,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11102",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p14",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 3
+        },
+        {
+          "text": "p14",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 199,
+          "length": 3
+        },
+        {
+          "text": "p14",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 723,
+          "length": 3
+        },
+        {
+          "text": "p14",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1050,
+          "length": 3
+        },
+        {
+          "text": "p14",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1147,
+          "length": 3
+        },
+        {
+          "text": "p14",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1290,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 924,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|50|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L50R",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 965,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lymphoma",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1263,
+          "length": 17
+        },
+        {
+          "text": "systemic lymphoma",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1407,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D063646",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1374,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016543",
+      "tail_id": "p|SUB|L|50|R",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D016543",
+      "tail_id": "11102",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008223",
+      "tail_id": "11102",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "11102",
+      "tail_id": "D063646",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "11102",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

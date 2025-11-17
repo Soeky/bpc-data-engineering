@@ -1,0 +1,479 @@
+{
+  "doc_id": "24055495",
+  "title": "Long-term oral galactose treatment prevents cognitive deficits in male Wistar rats treated intracerebroventricularly with streptozotocin.",
+  "body": "Basic and clinical research has demonstrated that dementia of sporadic Alzheimer's disease (sAD) type is associated with dysfunction of the insulin-receptor (IR) system followed by decreased glucose transport via glucose transporter GLUT4 and decreased glucose metabolism in brain cells. An alternative source of energy is d-galactose (the C-4-epimer of d-glucose) which is transported into the brain by insulin-independent GLUT3 transporter where it might be metabolized to glucose via the Leloir pathway. Exclusively parenteral daily injections of galactose induce memory deterioration in rodents and are used to generate animal aging model, but the effects of oral galactose treatment on cognitive functions have never been tested. We have investigated the effects of continuous daily oral galactose (200 mg/kg/day) treatment on cognitive deficits in streptozotocin-induced (STZ-icv) rat model of sAD, tested by Morris Water Maze and Passive Avoidance test, respectively. One month of oral galactose treatment initiated immediately after the STZ-icv administration, successfully prevented development of the STZ-icv-induced cognitive deficits. Beneficial effect of oral galactose was independent of the rat age and of the galactose dose ranging from 100 to 300 mg/kg/day. Additionally, oral galactose administration led to the appearance of galactose in the blood. The increase of galactose concentration in the cerebrospinal fluid was several times lower after oral than after parenteral administration of the same galactose dose. Oral galactose exposure might have beneficial effects on learning and memory ability and could be worth investigating for improvement of cognitive deficits associated with glucose hypometabolism in AD.",
+  "entities": [
+    {
+      "id": "D005690",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "galactose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 9
+        },
+        {
+          "text": "d-galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 461,
+          "length": 11
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 688,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 806,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 931,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1131,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1311,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1363,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1432,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1482,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1522,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1657,
+          "length": 9
+        },
+        {
+          "text": "galactose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1678,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive deficits",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 18
+        },
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 970,
+          "length": 18
+        },
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1265,
+          "length": 18
+        },
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1810,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1025,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1344,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozotocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 122,
+          "length": 14
+        },
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 992,
+          "length": 14
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1016,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1183,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1249,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003704",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dementia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 188,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 209,
+          "length": 19
+        },
+        {
+          "text": "sAD",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 230,
+          "length": 3
+        },
+        {
+          "text": "sAD",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1038,
+          "length": 3
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1871,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "24954",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin-receptor",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 278,
+          "length": 16
+        },
+        {
+          "text": "IR",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 296,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 329,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 351,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 391,
+          "length": 7
+        },
+        {
+          "text": "d-glucose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 492,
+          "length": 9
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 613,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25139",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT4",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 371,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24505",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 542,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25551",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT3",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 562,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory deterioration",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 705,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D018149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glucose hypometabolism",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1845,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24954",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003704",
+      "tail_id": "24954",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000544",
+      "tail_id": "24954",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000544",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D013311",
+      "tail_id": "D000544",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D013311",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D013311",
+      "tail_id": "D005690",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005947",
+      "tail_id": "D003704",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "25139",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005690",
+      "tail_id": "D018149",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D005690",
+      "tail_id": "D000544",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D005690",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D005690",
+      "tail_id": "25551",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D005690",
+      "tail_id": "D003072",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

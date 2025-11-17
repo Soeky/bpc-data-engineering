@@ -1,0 +1,777 @@
+{
+  "doc_id": "26270232",
+  "title": "Serum levels of chemokines CCL4 and CCL5 in cirrhotic patients indicate the presence of hepatocellular carcinoma.",
+  "body": "BACKGROUND: Most hepatocellular carcinomas (HCCs) are diagnosed at an advanced stage. The prognostic value of serum tumour markers alpha-fetoprotein (AFP) and des-gamma-carboxy prothrombin (DCP) is limited. The aim of our study is to evaluate the diagnostic value of serum growth factors, apoptotic and inflammatory mediators of cirrhotic patients with and without HCC. METHODS: Serum samples were collected from cirrhotic potential liver transplant patients (LTx) with (n=61) and without HCC (n=78) as well as from healthy controls (HCs; n=39). Serum concentrations of CRP, neopterin and IL-6 as markers of inflammation and thrombopoietin (TPO), GCSF, FGF basic and VEGF, HMGB1, CK-18 (M65) and CK18 fragment (M30) and a panel of proinflammatory chemokines (CCL2, CCL3, CCL4, CCL5, CXCL5 and IL-8) were measured. Chi square, Fisher exact, Mann-Whitney U-tests, ROC curve analysis and forward stepwise logistic regression analyses were applied. RESULTS: Patients with HCC had higher serum TPO and chemokines (P   <0.001 for TPO, CCL4, CCL5 and CXCL5) and lower CCL2 (P=0.008) levels than cirrhotic patients without HCC. Multivariate forward stepwise regression analysis for significant parameters showed that among the studied parameters CCL4 and CCL5 (P=0.001) are diagnostic markers of HCC. Serum levels of TPO and chemokines were lower, whereas M30 was significantly higher in cirrhotic patients than in HCs. CONCLUSIONS: High serum levels of inflammatory chemokines such as CCL4 and CCL5 in the serum of cirrhotic patients indicate the presence of HCC.",
+  "entities": [
+    {
+      "id": "3576,6347,6348,6351,6352,6374",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chemokines",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 10
+        },
+        {
+          "text": "proinflammatory chemokines",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 845,
+          "length": 26
+        },
+        {
+          "text": "chemokines",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1111,
+          "length": 10
+        },
+        {
+          "text": "chemokines",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1431,
+          "length": 10
+        },
+        {
+          "text": "chemokines",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1573,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "6351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 4
+        },
+        {
+          "text": "CCL4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 885,
+          "length": 4
+        },
+        {
+          "text": "CCL4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1143,
+          "length": 4
+        },
+        {
+          "text": "CCL4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1352,
+          "length": 4
+        },
+        {
+          "text": "CCL4",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1592,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6352",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 4
+        },
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 891,
+          "length": 4
+        },
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1149,
+          "length": 4
+        },
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1361,
+          "length": 4
+        },
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1601,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008103",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cirrhotic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 9
+        },
+        {
+          "text": "cirrhotic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 443,
+          "length": 9
+        },
+        {
+          "text": "cirrhotic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 527,
+          "length": 9
+        },
+        {
+          "text": "cirrhotic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1202,
+          "length": 9
+        },
+        {
+          "text": "cirrhotic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1494,
+          "length": 9
+        },
+        {
+          "text": "cirrhotic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1622,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 453,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 564,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1068,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1212,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1504,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1632,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatocellular carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 24
+        },
+        {
+          "text": "hepatocellular carcinomas",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 131,
+          "length": 25
+        },
+        {
+          "text": "HCCs",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 158,
+          "length": 4
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 479,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 603,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1082,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1229,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1402,
+          "length": 3
+        },
+        {
+          "text": "HCC",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1666,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumour",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 230,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha-fetoprotein",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 245,
+          "length": 17
+        },
+        {
+          "text": "AFP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 264,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2147",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "des-gamma-carboxy prothrombin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 273,
+          "length": 29
+        },
+        {
+          "text": "DCP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 304,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 417,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 722,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1560,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "1401",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CRP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 684,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D019798",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "neopterin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 689,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 703,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7066",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thrombopoietin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 739,
+          "length": 14
+        },
+        {
+          "text": "TPO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 755,
+          "length": 3
+        },
+        {
+          "text": "TPO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1103,
+          "length": 3
+        },
+        {
+          "text": "TPO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1138,
+          "length": 3
+        },
+        {
+          "text": "TPO",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1423,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1440",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GCSF",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 761,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2247",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGF basic",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 767,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 781,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3146",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HMGB1",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 787,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3875",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CK-18",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 794,
+          "length": 5
+        },
+        {
+          "text": "CK18",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 810,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6347",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 873,
+          "length": 4
+        },
+        {
+          "text": "CCL2",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1175,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6348",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL3",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 879,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6374",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 897,
+          "length": 5
+        },
+        {
+          "text": "CXCL5",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1158,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 907,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "2147",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009369",
+      "tail_id": "174",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "7066",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006528",
+      "tail_id": "7066",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006528",
+      "tail_id": "3576",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006528",
+      "tail_id": "6374",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D006528",
+      "tail_id": "6352",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D006528",
+      "tail_id": "6351",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D006528",
+      "tail_id": "6348",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D006528",
+      "tail_id": "6347",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3576",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "6374",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "6352",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "6351",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "6348",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "6347",
+      "tail_id": "D008103",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D019798",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D007249",
+      "tail_id": "3576",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D007249",
+      "tail_id": "6374",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D007249",
+      "tail_id": "6352",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "D007249",
+      "tail_id": "6351",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "D007249",
+      "tail_id": "6348",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D007249",
+      "tail_id": "6347",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "D007249",
+      "tail_id": "3569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "1401",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

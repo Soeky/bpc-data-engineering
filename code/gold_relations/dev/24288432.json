@@ -1,0 +1,482 @@
+{
+  "doc_id": "24288432",
+  "title": "Association of a FGFR-4 gene polymorphism with bronchopulmonary dysplasia and neonatal respiratory distress.",
+  "body": "BACKGROUND: Bronchopulmonary dysplasia (BPD) is the most common chronic lung disease of premature birth, characterized by impaired alveolar development and inflammation. Pathomechanisms contributing to BPD are poorly understood. However, it is assumed that genetic factors predispose to BPD and other pulmonary diseases of preterm neonates, such as neonatal respiratory distress syndrome (RDS). For association studies, genes upregulated during alveolarization are major candidates for genetic analysis, for example, matrix metalloproteinases (MMPs) and fibroblast growth factors (FGFs) and their receptors (FGFR). OBJECTIVE: Determining genetic risk variants in a Caucasian population of premature neonates with BPD and RDS. Methods. We genotyped 27 polymorphisms within 14 candidate genes via restriction fragment length polymorphism (RFLP): MMP-1, -2, -9, and -12, -16, FGF receptors 2 and 4, FGF-2, -3, -4, -7, and -18, Signal-Regulatory Protein a (SIRPA) and Thyroid Transcription Factor-1 (TTF-1). RESULTS: Five single nucleotide polymorphisms (SNPs) in MMP-9, MMP-12, FGFR-4, FGF-3, and FGF-7 are associated (P < 0.05) with RDS, defined as surfactant application within the first 24 hours after birth. One of them, in FGFR-4 (rs1966265), is associated with both RDS (P = 0.003) and BPD (P = 0.023). CONCLUSION: rs1966265 in FGF receptor 4 is a possible genetic key variant in alveolar diseases of preterm newborns.",
+  "entities": [
+    {
+      "id": "2264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR-4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 6
+        },
+        {
+          "text": "FGFR-4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1184,
+          "length": 6
+        },
+        {
+          "text": "FGFR-4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1334,
+          "length": 6
+        },
+        {
+          "text": "FGF receptor 4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1440,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001997",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bronchopulmonary dysplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 26
+        },
+        {
+          "text": "Bronchopulmonary dysplasia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 121,
+          "length": 26
+        },
+        {
+          "text": "BPD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 149,
+          "length": 3
+        },
+        {
+          "text": "BPD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 311,
+          "length": 3
+        },
+        {
+          "text": "BPD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 396,
+          "length": 3
+        },
+        {
+          "text": "BPD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 822,
+          "length": 3
+        },
+        {
+          "text": "BPD",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1398,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012127",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neonatal respiratory distress",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 29
+        },
+        {
+          "text": "neonatal respiratory distress syndrome",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 458,
+          "length": 38
+        },
+        {
+          "text": "RDS",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 498,
+          "length": 3
+        },
+        {
+          "text": "RDS",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 830,
+          "length": 3
+        },
+        {
+          "text": "RDS",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1240,
+          "length": 3
+        },
+        {
+          "text": "RDS",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1378,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung disease",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 181,
+          "length": 12
+        },
+        {
+          "text": "impaired alveolar development",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 231,
+          "length": 29
+        },
+        {
+          "text": "pulmonary diseases",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 410,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D047928",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "premature birth",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 197,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 265,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "4312,4313,4318,4321,4325",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "matrix metalloproteinases",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 626,
+          "length": 25
+        },
+        {
+          "text": "MMPs",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 653,
+          "length": 4
+        },
+        {
+          "text": "MMP-1, -2, -9, and -12, -16",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 953,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "2247,2248,2249,2252,8817",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibroblast growth factors",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 663,
+          "length": 25
+        },
+        {
+          "text": "FGFs",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 690,
+          "length": 4
+        },
+        {
+          "text": "FGF-2, -3, -4, -7, and -18",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1005,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "2263,2264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 717,
+          "length": 4
+        },
+        {
+          "text": "FGF receptors 2 and 4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 982,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "140885",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Signal-Regulatory Protein a",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1033,
+          "length": 27
+        },
+        {
+          "text": "SIRPA",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1062,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7080",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Thyroid Transcription Factor-1",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1073,
+          "length": 30
+        },
+        {
+          "text": "TTF-1",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1105,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP-9",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1169,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4321",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP-12",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1176,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGF-3",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1192,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2252",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGF-7",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1203,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs1966265",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs1966265",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1342,
+          "length": 9
+        },
+        {
+          "text": "rs1966265",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1427,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002282",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "alveolar diseases",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1492,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1966265",
+      "tail_id": "D002282",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs1966265",
+      "tail_id": "D001997",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs1966265",
+      "tail_id": "D012127",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4321",
+      "tail_id": "D012127",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4318",
+      "tail_id": "D012127",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "2252",
+      "tail_id": "D012127",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "2252",
+      "tail_id": "2264",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "2248",
+      "tail_id": "D012127",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "2248",
+      "tail_id": "2264",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "2264",
+      "tail_id": "D002282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "2264",
+      "tail_id": "D001997",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "2264",
+      "tail_id": "D012127",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

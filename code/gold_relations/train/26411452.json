@@ -1,0 +1,356 @@
+{
+  "doc_id": "26411452",
+  "title": "Putative Prostate Cancer Risk SNP in an Androgen Receptor-Binding Site of the Melanophilin Gene Illustrates Enrichment of Risk SNPs in Androgen Receptor Target Sites.",
+  "body": "Genome-wide association studies have identified genomic loci, whose single-nucleotide polymorphisms (SNPs) predispose to prostate cancer (PCa). However, the mechanisms of most of these variants are largely unknown. We integrated chromatin-immunoprecipitation-coupled sequencing and microarray expression profiling in TMPRSS2-ERG gene rearrangement positive DUCaP cells with the GWAS PCa risk SNPs catalog to identify disease susceptibility SNPs localized within functional androgen receptor-binding sites (ARBSs). Among the 48 GWAS index risk SNPs and 3,917 linked SNPs, 80 were found located in ARBSs. Of these, rs11891426:T>G in an intron of the melanophilin gene (MLPH) was within a novel putative auxiliary AR-binding motif, which is enriched in the neighborhood of canonical androgen-responsive elements. T>G exchange attenuated the transcriptional activity of the ARBS in an AR reporter gene assay. The expression of MLPH in primary prostate tumors was significantly lower in those with the G compared with the T allele and correlated significantly with AR protein. Higher melanophilin level in prostate tissue of patients with a favorable PCa risk profile points out a tumor-suppressive effect. These results unravel a hidden link between AR and a functional putative PCa risk SNP, whose allele alteration affects androgen regulation of its host gene MLPH.",
+  "entities": [
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Prostate Cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 288,
+          "length": 15
+        },
+        {
+          "text": "PCa",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 305,
+          "length": 3
+        },
+        {
+          "text": "PCa",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 550,
+          "length": 3
+        },
+        {
+          "text": "prostate tumors",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1106,
+          "length": 15
+        },
+        {
+          "text": "PCa",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1313,
+          "length": 3
+        },
+        {
+          "text": "PCa",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1442,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Androgen Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 17
+        },
+        {
+          "text": "Androgen Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 135,
+          "length": 17
+        },
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 640,
+          "length": 17
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 673,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 763,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 878,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1037,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1048,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1227,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1413,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "79083",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Melanophilin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 12
+        },
+        {
+          "text": "melanophilin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 815,
+          "length": 12
+        },
+        {
+          "text": "MLPH",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 834,
+          "length": 4
+        },
+        {
+          "text": "MLPH",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1090,
+          "length": 4
+        },
+        {
+          "text": "melanophilin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1246,
+          "length": 12
+        },
+        {
+          "text": "MLPH",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1525,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7113",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TMPRSS2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 484,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2078",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERG",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 492,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_2025",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "DUCaP",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 524,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs11891426",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs11891426",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 780,
+          "length": 10
+        },
+        {
+          "text": "T>G",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 791,
+          "length": 3
+        },
+        {
+          "text": "T>G",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 977,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000728",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "androgen",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 947,
+          "length": 8
+        },
+        {
+          "text": "androgen",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1488,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1287,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1343,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7113",
+      "tail_id": "2078",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs11891426",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000728",
+      "tail_id": "rs11891426",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "367",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "367",
+      "tail_id": "D000728",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "79083",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "79083",
+      "tail_id": "D000728",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "79083",
+      "tail_id": "367",
+      "type": "Bind",
+      "novel": "Novel"
+    }
+  ]
+}

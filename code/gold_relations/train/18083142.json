@@ -1,0 +1,507 @@
+{
+  "doc_id": "18083142",
+  "title": "Norepinephrine signaling through beta-adrenergic receptors is critical for expression of cocaine-induced anxiety.",
+  "body": "BACKGROUND: Cocaine is a widely abused psychostimulant that has both rewarding and aversive properties. While the mechanisms underlying cocaine's rewarding effects have been studied extensively, less attention has been paid to the unpleasant behavioral states induced by cocaine, such as anxiety. METHODS: In this study, we evaluated the performance of dopamine beta-hydroxylase knockout (Dbh -/-) mice, which lack norepinephrine (NE), in the elevated plus maze (EPM) to examine the contribution of noradrenergic signaling to cocaine-induced anxiety. RESULTS: We found that cocaine dose-dependently increased anxiety-like behavior in control (Dbh +/-) mice, as measured by a decrease in open arm exploration. The Dbh -/- mice had normal baseline performance in the EPM but were completely resistant to the anxiogenic effects of cocaine. Cocaine-induced anxiety was also attenuated in Dbh +/- mice following administration of disulfiram, a dopamine beta-hydroxylase (DBH) inhibitor. In experiments using specific adrenergic antagonists, we found that pretreatment with the beta-adrenergic receptor antagonist propranolol blocked cocaine-induced anxiety-like behavior in Dbh +/- and wild-type C57BL6/J mice, while the alpha(1) antagonist prazosin and the alpha(2) antagonist yohimbine had no effect. CONCLUSIONS: These results indicate that noradrenergic signaling via beta-adrenergic receptors is required for cocaine-induced anxiety in mice.",
+  "entities": [
+    {
+      "id": "D009638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Norepinephrine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 14
+        },
+        {
+          "text": "norepinephrine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 529,
+          "length": 14
+        },
+        {
+          "text": "NE",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 545,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "11554",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-adrenergic receptors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 25
+        },
+        {
+          "text": "beta-adrenergic receptor",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1186,
+          "length": 24
+        },
+        {
+          "text": "beta-adrenergic receptors",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1481,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D003042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 7
+        },
+        {
+          "text": "Cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 126,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 250,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 385,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 640,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 688,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 942,
+          "length": 7
+        },
+        {
+          "text": "Cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 951,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1242,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1523,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anxiety",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 402,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 656,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 723,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 967,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1258,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1539,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "13166",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dopamine beta-hydroxylase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 467,
+          "length": 25
+        },
+        {
+          "text": "Dbh",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 503,
+          "length": 3
+        },
+        {
+          "text": "Dbh",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 757,
+          "length": 3
+        },
+        {
+          "text": "Dbh",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 827,
+          "length": 3
+        },
+        {
+          "text": "Dbh",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 998,
+          "length": 3
+        },
+        {
+          "text": "dopamine beta-hydroxylase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1053,
+          "length": 25
+        },
+        {
+          "text": "DBH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1080,
+          "length": 3
+        },
+        {
+          "text": "Dbh",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1283,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 512,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 766,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 835,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1006,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1314,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1550,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004221",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "disulfiram",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1039,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D018674",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "adrenergic antagonists",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1126,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D011433",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1222,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "11549",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha(1)",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1330,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011224",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "prazosin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1350,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "11551",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha(2)",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1367,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D015016",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "yohimbine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1387,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "11551",
+      "tail_id": "D015016",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "11549",
+      "tail_id": "D011224",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011433",
+      "tail_id": "D001008",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011433",
+      "tail_id": "D003042",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004221",
+      "tail_id": "D001008",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "13166",
+      "tail_id": "D004221",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "11554",
+      "tail_id": "D011433",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "11554",
+      "tail_id": "D001008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D001008",
+      "tail_id": "13166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003042",
+      "tail_id": "D004221",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003042",
+      "tail_id": "13166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D003042",
+      "tail_id": "11554",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D003042",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D009638",
+      "tail_id": "11554",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D009638",
+      "tail_id": "D001008",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D009638",
+      "tail_id": "D003042",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

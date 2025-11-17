@@ -1,0 +1,157 @@
+{
+  "doc_id": "1671881",
+  "title": "Two distinct mutations at a single BamHI site in phenylketonuria.",
+  "body": "Classical phenylketonuria is an autosomal recessive disease caused by a deficiency of hepatic phenylalanine hydroxylase (PAH). The abolition of an invariant BamHI site located in the coding sequence of the PAH gene (exon 7) led to the recognition of two new point mutations at codon 272 and 273 (272gly----stop and 273ser----phe, respectively). Both mutations were detected in north eastern France or Belgium and occurred on the background of RFLP haplotype 7 alleles. The present study supports the view that the clinical heterogeneity in PKU is accounted for by the large variety of mutant genotypes associated with PAH deficiencies..",
+  "entities": [
+    {
+      "id": "D010661",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "phenylketonuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 15
+        },
+        {
+          "text": "Classical phenylketonuria",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 66,
+          "length": 25
+        },
+        {
+          "text": "PKU",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 606,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disease",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 98,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "OMIM:261600",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "deficiency of hepatic phenylalanine hydroxylase",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 138,
+          "length": 47
+        },
+        {
+          "text": "PAH deficiencies",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 684,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "5053",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 187,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 272,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs62514952",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "272gly----stop",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 362,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "rs62514953",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "273ser----phe",
+          "passage_index": 1,
+          "passage_offset": 66,
+          "char_offset": 381,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010661",
+      "tail_id": "rs62514952",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010661",
+      "tail_id": "rs62514953",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "5053",
+      "tail_id": "D010661",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "5053",
+      "tail_id": "OMIM:261600",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs62514952",
+      "tail_id": "OMIM:261600",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs62514953",
+      "tail_id": "OMIM:261600",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

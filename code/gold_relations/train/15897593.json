@@ -1,0 +1,611 @@
+{
+  "doc_id": "15897593",
+  "title": "Dexrazoxane protects against myelosuppression from the DNA cleavage-enhancing drugs etoposide and daunorubicin but not doxorubicin.",
+  "body": "PURPOSE: The anthracyclines daunorubicin and doxorubicin and the epipodophyllotoxin etoposide are potent DNA cleavage-enhancing drugs that are widely used in clinical oncology; however, myelosuppression and cardiac toxicity limit their use. Dexrazoxane (ICRF-187) is recommended for protection against anthracycline-induced cardiotoxicity. EXPERIMENTAL DESIGN: Because of their widespread use, the hematologic toxicity following coadministration of dexrazoxane and these three structurally different DNA cleavage enhancers was investigated: Sensitivity of human and murine blood progenitor cells to etoposide, daunorubicin, and doxorubicin +/- dexrazoxane was determined in granulocyte-macrophage colony forming assays. Likewise, in vivo, B6D2F1 mice were treated with etoposide, daunorubicin, and doxorubicin, with or without dexrazoxane over a wide range of doses: posttreatment, a full hematologic evaluation was done. RESULTS: Nontoxic doses of dexrazoxane reduced myelosuppression and weight loss from daunorubicin and etoposide in mice and antagonized their antiproliferative effects in the colony assay; however, dexrazoxane neither reduced myelosuppression, weight loss, nor the in vitro cytotoxicity from doxorubicin. CONCLUSION: Although our findings support the observation that dexrazoxane reduces neither hematologic activity nor antitumor activity from doxorubicin clinically, the potent antagonism of daunorubicin activity raises concern; a possible interference with anticancer efficacy certainly would call for renewed attention. Our data also suggest that significant etoposide dose escalation is perhaps possible by the use of dexrazoxane. Clinical trials in patients with brain metastases combining dexrazoxane and high doses of etoposide is ongoing with the aim of improving efficacy without aggravating hematologic toxicity. If successful, this represents an exciting mechanism for pharmacologic regulation of side effects from cytotoxic chemotherapy.",
+  "entities": [
+    {
+      "id": "D064730",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Dexrazoxane",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "Dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 373,
+          "length": 11
+        },
+        {
+          "text": "ICRF-187",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 386,
+          "length": 8
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 581,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 776,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 959,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1081,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1252,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1422,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1778,
+          "length": 11
+        },
+        {
+          "text": "dexrazoxane",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1851,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001855",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myelosuppression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 318,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1101,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1280,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D005047",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etoposide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 216,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 731,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 901,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1156,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1718,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1881,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003630",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "daunorubicin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 12
+        },
+        {
+          "text": "daunorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 160,
+          "length": 12
+        },
+        {
+          "text": "daunorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 742,
+          "length": 12
+        },
+        {
+          "text": "daunorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 912,
+          "length": 12
+        },
+        {
+          "text": "daunorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1139,
+          "length": 12
+        },
+        {
+          "text": "daunorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1548,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 177,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 760,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 930,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1346,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1499,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D018943",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anthracyclines",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 145,
+          "length": 14
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 434,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D011034",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "epipodophyllotoxin",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 197,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac toxicity",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 339,
+          "length": 16
+        },
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 456,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006402",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hematologic toxicity",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 530,
+          "length": 20
+        },
+        {
+          "text": "hematologic toxicity",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1957,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 688,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1810,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 698,
+          "length": 6
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 878,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1169,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015431",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weight loss",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1122,
+          "length": 11
+        },
+        {
+          "text": "weight loss",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1298,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cytotoxicity",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1328,
+          "length": 12
+        },
+        {
+          "text": "cytotoxic",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2082,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1830,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D015431",
+      "tail_id": "D003630",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D015431",
+      "tail_id": "D005047",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011034",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011034",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D018943",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D018943",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004317",
+      "tail_id": "D064420",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004317",
+      "tail_id": "D015431",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004317",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D004317",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003630",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D003630",
+      "tail_id": "D004317",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D005047",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D005047",
+      "tail_id": "D004317",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D001855",
+      "tail_id": "D003630",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D001855",
+      "tail_id": "D005047",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D064730",
+      "tail_id": "D015431",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D064730",
+      "tail_id": "D006402",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D064730",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D064730",
+      "tail_id": "D018943",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "D064730",
+      "tail_id": "D003630",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D064730",
+      "tail_id": "D005047",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D064730",
+      "tail_id": "D001855",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

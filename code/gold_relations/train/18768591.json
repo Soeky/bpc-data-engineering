@@ -1,0 +1,753 @@
+{
+  "doc_id": "18768591",
+  "title": "Serum- and glucocorticoid-inducible kinase 1 in doxorubicin-induced nephrotic syndrome.",
+  "body": "Doxorubicin-induced nephropathy leads to epithelial sodium channel (ENaC)-dependent volume retention and renal fibrosis. The aldosterone-sensitive serum- and glucocorticoid-inducible kinase SGK1 has been shown to participate in the stimulation of ENaC and to mediate renal fibrosis following mineralocorticoid and salt excess. The present study was performed to elucidate the role of SGK1 in the volume retention and fibrosis during nephrotic syndrome. To this end, doxorubicin (15 mug/g body wt) was injected intravenously into gene-targeted mice lacking SGK1 (sgk1(-/-)) and their wild-type littermates (sgk1(+/+)). Doxorubicin treatment resulted in heavy proteinuria (>100 mg protein/mg crea) in 15/44 of sgk1(+/+) and 15/44 of sgk1(-/-) mice leading to severe nephrotic syndrome with ascites, lipidemia, and hypoalbuminemia in both genotypes. Plasma aldosterone levels increased in nephrotic mice of both genotypes and was followed by increased SGK1 protein expression in sgk1(+/+) mice. Urinary sodium excretion reached signficantly lower values in sgk1(+/+) mice (15 +/- 5 mumol/mg crea) than in sgk1(-/-) mice (35 +/- 5 mumol/mg crea) and was associated with a significantly higher body weight gain in sgk1(+/+) compared with sgk1(-/-) mice (+6.6 +/- 0.7 vs. +4.1 +/- 0.8 g). During the course of nephrotic syndrome, serum urea concentrations increased significantly faster in sgk1(-/-) mice than in sgk1(+/+) mice leading to uremia and a reduced median survival in sgk1(-/-) mice (29 vs. 40 days in sgk1(+/+) mice). In conclusion, gene-targeted mice lacking SGK1 showed blunted volume retention, yet were not protected against renal fibrosis during experimental nephrotic syndrome.",
+  "entities": [
+    {
+      "id": "20393",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Serum- and glucocorticoid-inducible kinase 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 44
+        },
+        {
+          "text": "serum- and glucocorticoid-inducible kinase",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 235,
+          "length": 42
+        },
+        {
+          "text": "SGK1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 278,
+          "length": 4
+        },
+        {
+          "text": "SGK1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 472,
+          "length": 4
+        },
+        {
+          "text": "SGK1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 644,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 650,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 694,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 796,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 819,
+          "length": 4
+        },
+        {
+          "text": "SGK1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1037,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1064,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1142,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1190,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1297,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1321,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1472,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1495,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1561,
+          "length": 4
+        },
+        {
+          "text": "sgk1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1595,
+          "length": 4
+        },
+        {
+          "text": "SGK1",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1654,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 11
+        },
+        {
+          "text": "Doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 88,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 554,
+          "length": 11
+        },
+        {
+          "text": "Doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 706,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 521,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 852,
+          "length": 18
+        },
+        {
+          "text": "nephrotic",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 974,
+          "length": 9
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1392,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1758,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 108,
+          "length": 11
+        },
+        {
+          "text": "renal fibrosis",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 193,
+          "length": 14
+        },
+        {
+          "text": "renal fibrosis",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 355,
+          "length": 14
+        },
+        {
+          "text": "renal fibrosis",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1723,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 140,
+          "length": 6
+        },
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1088,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D016055",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "volume retention",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 172,
+          "length": 16
+        },
+        {
+          "text": "volume retention",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 484,
+          "length": 16
+        },
+        {
+          "text": "volume retention",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1674,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D000450",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aldosterone",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 213,
+          "length": 11
+        },
+        {
+          "text": "aldosterone",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 942,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008901",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mineralocorticoid",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 380,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D012492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 402,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fibrosis",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 505,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 631,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 829,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 984,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1074,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1152,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1200,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1331,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1482,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1505,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1571,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1605,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1641,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 746,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "crea",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 778,
+          "length": 4
+        },
+        {
+          "text": "crea",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1176,
+          "length": 4
+        },
+        {
+          "text": "crea",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1224,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001201",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ascites",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 876,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006949",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lipidemia",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 885,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D034141",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoalbuminemia",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 900,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D015430",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weight gain",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1282,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014508",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "urea",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1418,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "uremia",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1521,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014508",
+      "tail_id": "D014511",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014508",
+      "tail_id": "20393",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D015430",
+      "tail_id": "20393",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012964",
+      "tail_id": "D015430",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D012964",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D012964",
+      "tail_id": "D016055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012964",
+      "tail_id": "20393",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000450",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000450",
+      "tail_id": "20393",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000450",
+      "tail_id": "D009404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007674",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D007674",
+      "tail_id": "D008901",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "20393",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "20393",
+      "tail_id": "D016055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "20393",
+      "tail_id": "D005355",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "20393",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "20393",
+      "tail_id": "D004317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D004317",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D004317",
+      "tail_id": "D034141",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D004317",
+      "tail_id": "D006949",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D004317",
+      "tail_id": "D001201",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D004317",
+      "tail_id": "D011507",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D004317",
+      "tail_id": "D016055",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D004317",
+      "tail_id": "D009404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

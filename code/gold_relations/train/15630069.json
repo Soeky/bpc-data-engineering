@@ -1,0 +1,733 @@
+{
+  "doc_id": "15630069",
+  "title": "Glucose metabolism in patients with schizophrenia treated with atypical antipsychotic agents: a frequently sampled intravenous glucose tolerance test and minimal model analysis.",
+  "body": "BACKGROUND: While the incidence of new-onset diabetes mellitus may be increasing in patients with schizophrenia treated with certain atypical antipsychotic agents, it remains unclear whether atypical agents are directly affecting glucose metabolism or simply increasing known risk factors for diabetes. OBJECTIVE: To study the 2 drugs most clearly implicated (clozapine and olanzapine) and risperidone using a frequently sampled intravenous glucose tolerance test. DESIGN: A cross-sectional design in stable, treated patients with schizophrenia evaluated using a frequently sampled intravenous glucose tolerance test and the Bergman minimal model analysis. SETTING: Subjects were recruited from an urban community mental health clinic and were studied at a general clinical research center. Patients Fifty subjects signed informed consent and 41 underwent the frequently sampled intravenous glucose tolerance test. Thirty-six nonobese subjects with schizophrenia or schizoaffective disorder, matched by body mass index and treated with either clozapine, olanzapine, or risperidone, were included in the analysis. MAIN OUTCOME MEASURES: Fasting plasma glucose and fasting serum insulin levels, insulin sensitivity index, homeostasis model assessment of insulin resistance, and glucose effectiveness. RESULTS: The mean +/- SD duration of treatment with the identified atypical antipsychotic agent was 68.3 +/- 28.9 months (clozapine), 29.5 +/- 17.5 months (olanzapine), and 40.9 +/- 33.7 (risperidone). Fasting serum insulin concentrations differed among groups (F(33) = 3.35; P = .047) (clozapine>olanzapine>risperidone) with significant differences between clozapine and risperidone (t(33) = 2.32; P = .03) and olanzapine and risperidone (t(33) = 2.15; P = .04). There was a significant difference in insulin sensitivity index among groups (F(33) = 10.66; P<.001) (clozapine<olanzapine<risperidone), with subjects who received clozapine and olanzapine exhibiting significant insulin resistance compared with subjects who were treated with risperidone (clozapine vs risperidone, t(33) = -4.29; P<.001; olanzapine vs risperidone, t(33) = -3.62; P = .001 [P<.001]). The homeostasis model assessment of insulin resistance also differed significantly among groups (F(33) = 4.92; P = .01) (clozapine>olanzapine>risperidone) (clozapine vs risperidone, t(33) = 2.94; P = .006; olanzapine vs risperidone, t(33) = 2.42; P = .02). There was a significant difference among groups in glucose effectiveness (F(30) = 4.18; P = .02) (clozapine<olanzapine<risperidone) with significant differences between clozapine and risperidone (t(30) = -2.59; P = .02) and olanzapine and risperidone (t(30) = -2.34, P = .03). CONCLUSIONS: Both nonobese clozapine- and olanzapine-treated groups displayed significant insulin resistance and impairment of glucose effectiveness compared with risperidone-treated subjects. Patients taking clozapine and olanzapine must be examined for insulin resistance and its consequences.",
+  "entities": [
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 127,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 408,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 619,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 772,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1069,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1329,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1454,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2649,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3002,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 262,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 695,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 969,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3068,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 276,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 709,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1127,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D014150",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antipsychotic agents",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 20
+        },
+        {
+          "text": "antipsychotic agents",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 320,
+          "length": 20
+        },
+        {
+          "text": "antipsychotic agent",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1553,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 223,
+          "length": 17
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 471,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003024",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 538,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1221,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1599,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1764,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1835,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2043,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2105,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2230,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2462,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2497,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2696,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2767,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2902,
+          "length": 9
+        },
+        {
+          "text": "clozapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3084,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C076029",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 552,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1232,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1633,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1774,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1889,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2053,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2119,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2279,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2472,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2547,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2706,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2822,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2917,
+          "length": 10
+        },
+        {
+          "text": "olanzapine",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3098,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D018967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 568,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1247,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1665,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1785,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1849,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1904,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2064,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2217,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2243,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2293,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2483,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2510,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2561,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2717,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2781,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2837,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3038,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D011618",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizoaffective disorder",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1144,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D007328",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1355,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1693,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 1430,
+          "length": 18
+        },
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2153,
+          "length": 18
+        },
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2377,
+          "length": 18
+        },
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 2965,
+          "length": 18
+        },
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 178,
+          "char_offset": 3130,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011618",
+      "tail_id": "D018967",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011618",
+      "tail_id": "C076029",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011618",
+      "tail_id": "D003024",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018967",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C076029",
+      "tail_id": "D007333",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C076029",
+      "tail_id": "D018967",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C076029",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003024",
+      "tail_id": "D007333",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003024",
+      "tail_id": "D018967",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003024",
+      "tail_id": "C076029",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003024",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D012559",
+      "tail_id": "D018967",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D012559",
+      "tail_id": "C076029",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D012559",
+      "tail_id": "D003024",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D012559",
+      "tail_id": "D014150",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D014150",
+      "tail_id": "D003920",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D005947",
+      "tail_id": "D014150",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "doc_id": "19067809",
+  "title": "Hemodynamic parameters and heart rate variability during a tilt test in relation to gene polymorphism of renin-angiotensin and serotonin system.",
+  "body": "PURPOSE: The aim of the study was to evaluate the renin-angiotensin system and serotonin transporter gene polymorphisms in relation to hemodynamic parameters and heart rate variability during a head-up tilt test (HUT) in patients with vasovagal syncope. METHODS: DNA was collected from 191 patients (mean age 44+/-18 years, 61 men, 130 women). The following gene polymorphisms were determined in genomic DNA: angiotensin-converting enzyme insertion/deletion polymorphism (I/D ACE), angiotensinogen gene polymorphism (M 235), angiotensin II receptor type 1 (ATR1) polymorphism (A 11666C), and polymorphism of serotonin transporter gene (5HTTLPR).Heart rate variability during HUT was assessed in 5-minute intervals by low frequency, high frequency, standard deviation of the normal-to-normal (SDNN), and root mean square successive difference parameters. RESULTS: AA genotype of A 1166C polymorphism was associated with lower minimal systolic blood pressure (SBP) and diastolic blood pressure (DBP) during HUT compared with other genotypes (minimal SBP: AA 59.6+/-21,8, AC 79.9+/-22.7, CC 65.4+/-22.7 mmHg, P=0.007), (minimal DBP: AA 36.4+/-22.7, AC 52.3+/-22.9, CC 45.4+/-19.5 mmHg, P=0.007).AA genotype was also associated with higher SDNN compared to other genotypes in the early phase of HUT (SDNN in 5 minutes of tilt: AA 59.7+/-24.6, AC 50.6+/-20.6, CC 46.0+/-13.2, P=0.01) and at syncope occurrence (SDNN: AA 71.0+/-20.9, AC 58.2+/-17.9, CC 58+/-10, P=0.04) CONCLUSION: AA genotype of A 1166C polymorphism in the ATR1 gene may be associated with hypotension and decline in sympathetic tone during HUT. Its role in genetic predisposition to vasovagal syncope cannot be excluded.",
+  "entities": [
+    {
+      "id": "5972",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "renin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 5
+        },
+        {
+          "text": "renin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 195,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 11
+        },
+        {
+          "text": "angiotensin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 201,
+          "length": 11
+        },
+        {
+          "text": "angiotensinogen",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 627,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "serotonin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 127,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "6532",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "serotonin transporter",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 224,
+          "length": 21
+        },
+        {
+          "text": "serotonin transporter",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 753,
+          "length": 21
+        },
+        {
+          "text": "5HTTLPR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 781,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 366,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 435,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 472,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 481,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D019462",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vasovagal syncope",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 380,
+          "length": 17
+        },
+        {
+          "text": "vasovagal syncope",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1791,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin-converting enzyme",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 554,
+          "length": 29
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 621,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|M|235",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M 235",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 662,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin II receptor type 1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 670,
+          "length": 30
+        },
+        {
+          "text": "ATR1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 702,
+          "length": 4
+        },
+        {
+          "text": "ATR1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1664,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs5186",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A 11666C",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 722,
+          "length": 8
+        },
+        {
+          "text": "A 1166C",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1023,
+          "length": 7
+        },
+        {
+          "text": "A 1166C",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1636,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D013575",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1531,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1697,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "185",
+      "tail_id": "D019462",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "185",
+      "tail_id": "D007022",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013575",
+      "tail_id": "185",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013575",
+      "tail_id": "rs5186",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs5186",
+      "tail_id": "D019462",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs5186",
+      "tail_id": "D007022",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

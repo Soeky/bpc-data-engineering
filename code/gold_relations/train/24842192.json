@@ -1,0 +1,522 @@
+{
+  "doc_id": "24842192",
+  "title": "Chronic treatment with metformin suppresses toll-like receptor 4 signaling and attenuates left ventricular dysfunction following myocardial infarction.",
+  "body": "Acute treatment with metformin has a protective effect in myocardial infarction by suppression of inflammatory responses due to activation of AMP-activated protein kinase (AMPK). In the present study, the effect of chronic pre-treatment with metformin on cardiac dysfunction and toll-like receptor 4 (TLR4) activities following myocardial infarction and their relation with AMPK were assessed. Male Wistar rats were randomly assigned to one of 5 groups (n=6): normal control and groups were injected isoproterenol after chronic pre-treatment with 0, 25, 50, or 100mg/kg of metformin twice daily for 14 days. Isoproterenol (100mg/kg) was injected subcutaneously on the 13th and 14th days to induce acute myocardial infarction. Isoproterenol alone decreased left ventricular systolic pressure and myocardial contractility indexed as LVdp/dtmax and LVdp/dtmin. The left ventricular dysfunction was significantly lower in the groups treated with 25 and 50mg/kg of metformin. Metfromin markedly lowered isoproterenol-induced elevation in the levels of TLR4 mRNA, myeloid differentiation protein 88 (MyD88), tumor necrosis factor-alpha (TNF-a), and interleukin 6 (IL-6) in the heart tissues. Similar changes were also seen in the serum levels of TNF-a and IL-6. However, the lower doses of 25 and 50mg/kg were more effective than 100mg/kg. Phosphorylated AMPKa (p-AMPK) in the myocardium was significantly elevated by 25mg/kg of metformin, slightly by 50mg/kg, but not by 100mg/kg. Chronic pre-treatment with metformin reduces post-myocardial infarction cardiac dysfunction and suppresses inflammatory responses, possibly through inhibition of TLR4 activities. This mechanism can be considered as a target to protect infarcted myocardium.",
+  "entities": [
+    {
+      "id": "D008687",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "metformin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 173,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 394,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 725,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1112,
+          "length": 9
+        },
+        {
+          "text": "Metfromin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1123,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1575,
+          "length": 9
+        },
+        {
+          "text": "metformin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1655,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "29260",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "toll-like receptor 4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 20
+        },
+        {
+          "text": "toll-like receptor 4",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 431,
+          "length": 20
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 453,
+          "length": 4
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1199,
+          "length": 4
+        },
+        {
+          "text": "TLR4",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1790,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "left ventricular dysfunction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 28
+        },
+        {
+          "text": "left ventricular dysfunction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1014,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 129,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 210,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 480,
+          "length": 21
+        },
+        {
+          "text": "acute myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 849,
+          "length": 27
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1678,
+          "length": 21
+        },
+        {
+          "text": "infarcted myocardium",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1863,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 250,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1735,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "65248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMP-activated protein kinase",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 294,
+          "length": 28
+        },
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 324,
+          "length": 4
+        },
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 526,
+          "length": 4
+        },
+        {
+          "text": "AMPKa",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1501,
+          "length": 5
+        },
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1510,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac dysfunction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 407,
+          "length": 19
+        },
+        {
+          "text": "cardiac dysfunction",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1700,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 558,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 652,
+          "length": 13
+        },
+        {
+          "text": "Isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 760,
+          "length": 13
+        },
+        {
+          "text": "Isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 878,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1150,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "301059",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myeloid differentiation protein 88",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1210,
+          "length": 34
+        },
+        {
+          "text": "MyD88",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1246,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24835",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tumor necrosis factor-alpha",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1254,
+          "length": 27
+        },
+        {
+          "text": "TNF-a",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1283,
+          "length": 5
+        },
+        {
+          "text": "TNF-a",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1392,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24498",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin 6",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1295,
+          "length": 13
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1310,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1402,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "65248",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "65248",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007545",
+      "tail_id": "24835",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007545",
+      "tail_id": "24498",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007545",
+      "tail_id": "301059",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007545",
+      "tail_id": "D009203",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007545",
+      "tail_id": "29260",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "29260",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "29260",
+      "tail_id": "D006331",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "29260",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008687",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D008687",
+      "tail_id": "D006331",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D008687",
+      "tail_id": "65248",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D008687",
+      "tail_id": "24835",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D008687",
+      "tail_id": "24498",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D008687",
+      "tail_id": "301059",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D008687",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D008687",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D008687",
+      "tail_id": "D018487",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D008687",
+      "tail_id": "29260",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

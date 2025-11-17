@@ -1,0 +1,394 @@
+{
+  "doc_id": "17318851",
+  "title": "Interferon regulatory factor 6 (IRF6) and fibroblast growth factor receptor 1 (FGFR1) contribute to human tooth agenesis.",
+  "body": "Phenotypic characteristics expressed in syndromes give clues to the factors involved in the cause of isolated forms of the same defects. We investigated two genes responsible for craniofacial syndromes, FGFR1 and IRF6, in a collection of families with isolated tooth agenesis. Cheek swab samples were obtained for DNA analysis from 116 case/parent trios. Probands had at least one developmentally missing tooth, excluding third molars. In addition, we studied 89 cases and 50 controls from Ohio to replicate any positive findings. Genotyping was performed by kinetic polymerase chain-reaction or TaqMan assays. Linkage disequilibrium analysis and transmission distortion of the marker alleles were performed. The same variants in the IRF6 gene that are associated with isolated orofacial clefts are also associated with human tooth agenesis (rs861019, P = 0.058; rs17015215-V274I, P = 0.0006; rs7802, P = 0.004). Mutations in IRF6 cause Van der Woude and popliteal pterygium syndromes. The craniofacial phenotypic characteristics of these syndromes include oral clefts and preferential tooth agenesis of incisors and premolars, besides pits on the lower lips. Also it appears that preferential premolar agenesis is associated with FGFR1 (P = 0.014) and IRF6 (P = 0.002) markers. There were statistically significant data suggesting that IRF6 interacts not only with MSX1 (P = 0.001), but also with TGFA (P = 0.03).",
+  "entities": [
+    {
+      "id": "3664",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Interferon regulatory factor 6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 30
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 335,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 856,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1048,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1375,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1459,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2260",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibroblast growth factor receptor 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 35
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 325,
+          "length": 5
+        },
+        {
+          "text": "FGFR1",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1353,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 942,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000848",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tooth agenesis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 14
+        },
+        {
+          "text": "tooth agenesis",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 383,
+          "length": 14
+        },
+        {
+          "text": "tooth agenesis",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 948,
+          "length": 14
+        },
+        {
+          "text": "tooth agenesis",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1208,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D019465",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "craniofacial syndromes",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 301,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "C566121",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "orofacial clefts",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 900,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "rs861019",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs861019",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 964,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs17015215",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs17015215",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 985,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs2235371",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V274I",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 996,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs7802",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs7802",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1015,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C536528,C562509",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Van der Woude and popliteal pterygium syndromes",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1059,
+          "length": 47
+        },
+        {
+          "text": "pits on the lower lips",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1258,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oral clefts",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1179,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "4487",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MSX1",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1488,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7039",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFA",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1520,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D019465",
+      "tail_id": "2260",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019465",
+      "tail_id": "3664",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs7802",
+      "tail_id": "C566121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs7802",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "rs2235371",
+      "tail_id": "C566121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "rs2235371",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "rs17015215",
+      "tail_id": "C566121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "rs17015215",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "rs861019",
+      "tail_id": "C566121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "rs861019",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "2260",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "3664",
+      "tail_id": "7039",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "3664",
+      "tail_id": "4487",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "3664",
+      "tail_id": "C566121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "3664",
+      "tail_id": "D000848",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

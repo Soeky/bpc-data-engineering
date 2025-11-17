@@ -1,0 +1,825 @@
+{
+  "doc_id": "16786513",
+  "title": "McArdle disease: the mutation spectrum of PYGM in a large Italian cohort.",
+  "body": "Deficiency of the muscle isozyme of glycogen phosphorylase is causative of McArdle disease or Glycogen storage disease type V (GSD-V), the most common autosomal recessive disorder of glycogen metabolism. The typical clinical presentation is characterized by exercise intolerance with cramps, and recurrent myoglobinuria. To date, 46 mutations in the PYGM gene have been detected in GSD-V patients. We report the mutational spectrum in 68 Italian patients. We identified 30 different mutations in the PYGM gene, including 19 mutations that have not been reported previously. The novel mutations include: eight missense mutations (c.475G>A, p.G159R; c.689C>G, p.P230R; c.1094C>T, p.A365E; c.1151C>A, p.A384D; c.1182C>T, p.R428C; c.1471C>T, p.R491C; c.2444A>C, p.D815A; c.2477G>C, p.W826S), two nonsense mutations (c.1475G>A, p.W492X; c.1627A>T, p.K543X), five splice site mutations (c.855 +1G>C; c.1092 +1G>A; c. 1093-1G>T; c.1239 +1G>A; c.2380 +1G>A), and four deletions (c.715_717delGTC, p.V239del; c.304delA, p.N102DfsX4; c.1970_2177del, p.V657_G726; c.2113_2114delGG, p.G705RfsX16). Whereas we confirmed lack of direct correlation between the clinical phenotype and the genotype, we also found that the so-called 'common mutation' (p.R50X) accounted for about 43% of alleles in our cohort and that no population-related mutations are clearly identified in Italian patients.",
+  "entities": [
+    {
+      "id": "D006012",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "McArdle disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "Deficiency of the muscle isozyme of glycogen phosphorylase",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 74,
+          "length": 58
+        },
+        {
+          "text": "McArdle disease",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 149,
+          "length": 15
+        },
+        {
+          "text": "Glycogen storage disease type V",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 168,
+          "length": 31
+        },
+        {
+          "text": "GSD-V",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 201,
+          "length": 5
+        },
+        {
+          "text": "GSD-V",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 456,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5837",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PYGM",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 4
+        },
+        {
+          "text": "PYGM",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 424,
+          "length": 4
+        },
+        {
+          "text": "PYGM",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 574,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disorder",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 225,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D006003",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glycogen",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 257,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009120",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cramps",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 358,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009212",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myoglobinuria",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 380,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 462,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 520,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1440,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs760654579",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.475G>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 703,
+          "length": 8
+        },
+        {
+          "text": "p.G159R",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 713,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|689|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.689C>G",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 722,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|P|230|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.P230R",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 732,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|1094|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1094C>T",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 741,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|365|E",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.A365E",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 752,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|1151|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1151C>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 761,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|384|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.A384D",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 772,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs750700202",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1182C>T,",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 781,
+          "length": 10
+        },
+        {
+          "text": "p.R428C",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 792,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs759977194",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1471C>T",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 801,
+          "length": 9
+        },
+        {
+          "text": "p.R491C",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 812,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|2444|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2444A>C",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 821,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D|815|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.D815A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 832,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|2477|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2477G>C",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 841,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|W|826|S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.W826S",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 852,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1475|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1475G>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 886,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|W|492|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.W492X",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 897,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|1627|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1627A>T",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 906,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|K|543|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.K543X",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 917,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|855+1|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.855 +1G>C",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 955,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1092+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1092 +1G>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 968,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1093-1|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c. 1093-1G>T",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 982,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|1239+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1239 +1G>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 996,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|2380+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2380 +1G>A",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1010,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|715_717|GTC",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.715_717delGTC",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1045,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|239|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.V239del",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1062,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|304|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.304delA",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1073,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|FS|N|102|D|4",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.N102DfsX4",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1084,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1970_2177|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1970_2177del",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1097,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|657_726|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.V657_G726",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1113,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|2113_2114|GG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2113_2114delGG",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1126,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "p|FS|G|705|R|16",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.G705RfsX16",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1144,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs116987552",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.R50X",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1308,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D030342",
+      "tail_id": "D006003",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs116987552",
+      "tail_id": "D006012",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006012",
+      "tail_id": "D006003",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006012",
+      "tail_id": "p|DEL|657_726|",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|A|1627|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|1475|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|A|2444|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|2477|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|2380+1|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|1239+1|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|1093-1|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|G|1092+1|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|C|855+1|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|C|1151|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|C|1094|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D006012",
+      "tail_id": "c|SUB|C|689|G",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D006012",
+      "tail_id": "p|FS|G|705|R|16",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D006012",
+      "tail_id": "c|DEL|2113_2114|GG",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D006012",
+      "tail_id": "c|DEL|1970_2177|",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D006012",
+      "tail_id": "p|FS|N|102|D|4",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D006012",
+      "tail_id": "c|DEL|304|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D006012",
+      "tail_id": "p|DEL|239|V",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D006012",
+      "tail_id": "c|DEL|715_717|GTC",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|K|543|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|W|492|X",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|W|826|S",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|D|815|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "D006012",
+      "tail_id": "rs759977194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "D006012",
+      "tail_id": "rs750700202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|A|384|D",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|A|365|E",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "D006012",
+      "tail_id": "p|SUB|P|230|R",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D006012",
+      "tail_id": "rs760654579",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "5837",
+      "tail_id": "D006012",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

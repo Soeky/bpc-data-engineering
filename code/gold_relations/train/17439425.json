@@ -1,0 +1,405 @@
+{
+  "doc_id": "17439425",
+  "title": "Role of xanthine oxidase in dexamethasone-induced hypertension in rats.",
+  "body": "1. Glucocorticoid-induced hypertension (GC-HT) in the rat is associated with nitric oxide-redox imbalance. 2. We studied the role of xanthine oxidase (XO), which is implicated in the production of reactive oxygen species, in dexamethasone-induced hypertension (dex-HT). 3. Thirty male Sprague-Dawley rats were divided randomly into four treatment groups: saline, dexamethasone (dex), allopurinol plus saline, and allopurinol plus dex. 4. Systolic blood pressures (SBP) and bodyweights were recorded each alternate day. Thymus weight was used as a marker of glucocorticoid activity, and serum urate to assess XO inhibition. 5. Dex increased SBP (110 +/- 2-126 +/- 3 mmHg; P < 0.001) and decreased thymus (P < 0.001) and bodyweights (P\" < 0.01). Allopurinol decreased serum urate from 76 +/- 5 to 30 +/- 3 micromol/L (P < 0.001) in saline and from 84 +/- 13 to 28 +/- 2 micromol/L in dex-treated (P < 0.01) groups. 6. Allopurinol did not prevent dex-HT. This, together with our previous findings that allopurinol failed to prevent adrenocorticotrophic hormone induced hypertension, suggests that XO activity is not a major determinant of GC-HT in the rat.",
+  "entities": [
+    {
+      "id": "D014969",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "xanthine oxidase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 16
+        },
+        {
+          "text": "xanthine oxidase",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 205,
+          "length": 16
+        },
+        {
+          "text": "XO",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 223,
+          "length": 2
+        },
+        {
+          "text": "XO",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 680,
+          "length": 2
+        },
+        {
+          "text": "XO",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1166,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 297,
+          "length": 13
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 333,
+          "length": 3
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 435,
+          "length": 13
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 450,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 502,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 698,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 954,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1016,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 98,
+          "length": 12
+        },
+        {
+          "text": "HT",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 115,
+          "length": 2
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 319,
+          "length": 12
+        },
+        {
+          "text": "HT",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 337,
+          "length": 2
+        },
+        {
+          "text": "HT",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1020,
+          "length": 2
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1138,
+          "length": 12
+        },
+        {
+          "text": "HT",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1211,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 126,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 372,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1221,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005938",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 75,
+          "length": 14
+        },
+        {
+          "text": "GC",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 112,
+          "length": 2
+        },
+        {
+          "text": "glucocorticoid",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 629,
+          "length": 14
+        },
+        {
+          "text": "GC",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1208,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 149,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 269,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D000493",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "allopurinol",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 456,
+          "length": 11
+        },
+        {
+          "text": "allopurinol",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 485,
+          "length": 11
+        },
+        {
+          "text": "Allopurinol",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 816,
+          "length": 11
+        },
+        {
+          "text": "Allopurinol",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 988,
+          "length": 11
+        },
+        {
+          "text": "allopurinol",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1071,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014527",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "urate",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 664,
+          "length": 5
+        },
+        {
+          "text": "urate",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 844,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5443",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adrenocorticotrophic hormone",
+          "passage_index": 1,
+          "passage_offset": 72,
+          "char_offset": 1101,
+          "length": 28
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005938",
+      "tail_id": "D009569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005938",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "5443",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000493",
+      "tail_id": "D014527",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D014969",
+      "tail_id": "D017382",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014527",
+      "tail_id": "D014969",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D006973",
+      "tail_id": "D009569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003907",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

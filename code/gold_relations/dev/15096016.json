@@ -1,0 +1,156 @@
+{
+  "doc_id": "15096016",
+  "title": "Pallidal stimulation: an alternative to pallidotomy?",
+  "body": "A resurgence of interest in the surgical treatment of Parkinson's disease (PD) came with the rediscovery of posteroventral pallidotomy by Laitinen in 1985. Laitinen's procedure improved most symptoms in drug-resistant PD, which engendered wide interest in the neurosurgical community. Another lesioning procedure, ventrolateral thalamotomy, has become a powerful alternative to stimulate the nucleus ventralis intermedius, producing high long-term success rates and low morbidity rates. Pallidal stimulation has not met with the same success. According to the literature pallidotomy improves the \"on\" symptoms of PD, such as dyskinesias, as well as the \"off\" symptoms, such as rigidity, bradykinesia, and on-off fluctuations. Pallidal stimulation improves bradykinesia and rigidity to a minor extent; however, its strength seems to be in improving levodopa-induced dyskinesias. Stimulation often produces an improvement in the hyper- or dyskinetic upper limbs, but increases the \"freezing\" phenomenon in the lower limbs at the same time. Considering the small increase in the patient's independence, the high costs of bilateral implants, and the difficulty most patients experience in handling the devices, the question arises as to whether bilateral pallidal stimulation is a real alternative to pallidotomy.",
+  "entities": [
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 107,
+          "length": 19
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 128,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 271,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 666,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 678,
+          "length": 11
+        },
+        {
+          "text": "dyskinesias",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 918,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009127",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rigidity",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 730,
+          "length": 8
+        },
+        {
+          "text": "rigidity",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 826,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D018476",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradykinesia",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 740,
+          "length": 12
+        },
+        {
+          "text": "bradykinesia",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 809,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 901,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004409,D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyper- or dyskinetic",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 980,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1129,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 53,
+          "char_offset": 1215,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007980",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

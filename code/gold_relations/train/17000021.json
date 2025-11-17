@@ -1,0 +1,310 @@
+{
+  "doc_id": "17000021",
+  "title": "No independent role of the -1123 G>C and+2740 A>G variants in the association of PTPN22 with type 1 diabetes and juvenile idiopathic arthritis in two Caucasian populations.",
+  "body": "INTRODUCTION: The PTPN22 is a negative regulator of the T cell response. Its +1858C>T (R620W) polymorphism has been shown to associate with a risk for multiple autoimmune diseases, including type 1 diabetes (T1D) and juvenile idiopathic arthritis (JIA). The minor (susceptibility) allele is absent in Asian populations, but a recent study suggested an independent involvement of another polymorphism located within the promoter -1123 nucleotides relative to the translational start site. AIMS: We aimed to analyse the association of three PTPN22 polymorphisms in two distinct Caucasian populations, the Czechs (with T1D and with JIA) and Azeri (with T1D). METHODS: The single nucleotide polymorphisms (SNP) at positions -1123 (rs2488457), +1858 (rs2476601, the R620W substitution), and +2740 (rs1217412) were genotyped using TaqMan assays in 372 subjects with childhood-onset T1D, 130 subjects with JIA, and 400 control subjects of Czech origin, and in 160 subjects with T1D and 271 healthy controls of Azeri origin. RESULTS: In the Czechs, all three SNPs were in a tight linkage disequlibrium, while in the Azeri, the linkage disequlibrium was limited to between the promoter and 3'-UTR polymorphism, D'(-1123, +2740)=0.99, r(2)=0.72. Haplotype reconstruction via the expectation-maximization algorithm showed in both populations that only the haplotype containing the minor (W) allele at codon 620 was associated with T1D (OR=2.26, 95% CI 1.68-3.02 in Czechs, OR=14.8, 95% CI 2.0-651 in Azeri) or JIA (OR=2.43, 95% CI 1.66-3.56 in Czechs). The haplotypes having the wild-type (R) allele at codon 620 and minor alleles at -1123 and/or +2740 were neutral as to the risk of autoimmune conditions in both populations. CONCLUSIONS: In two different Caucasian populations, the Czechs and the Azeri, no independent contribution can be detected either of the -1123 promoter SNP or the +2740 3'-UTR SNP, and only the minor allele at PTPN22 codon 620 contributes to the risk of autoimmunity.",
+  "entities": [
+    {
+      "id": "rs2488457",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-1123 G>C",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 9
+        },
+        {
+          "text": "rs2488457",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 900,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1217412",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "+2740 A>G",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 9
+        },
+        {
+          "text": "rs1217412",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 966,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "26191",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTPN22",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 191,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 712,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 2099,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D003922",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 364,
+          "length": 15
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 381,
+          "length": 3
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 789,
+          "length": 3
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 823,
+          "length": 3
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1049,
+          "length": 3
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1144,
+          "length": 3
+        },
+        {
+          "text": "T1D",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1593,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "juvenile idiopathic arthritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 113,
+          "length": 29
+        },
+        {
+          "text": "juvenile idiopathic arthritis",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 390,
+          "length": 29
+        },
+        {
+          "text": "JIA",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 421,
+          "length": 3
+        },
+        {
+          "text": "JIA",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 802,
+          "length": 3
+        },
+        {
+          "text": "JIA",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1072,
+          "length": 3
+        },
+        {
+          "text": "JIA",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1672,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs2476601",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "+1858C>T",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 250,
+          "length": 8
+        },
+        {
+          "text": "R620W",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 260,
+          "length": 5
+        },
+        {
+          "text": "rs2476601",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 919,
+          "length": 9
+        },
+        {
+          "text": "R620W",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 934,
+          "length": 5
+        },
+        {
+          "text": "(W) allele at codon 620",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1549,
+          "length": 23
+        },
+        {
+          "text": "(R) allele at codon 620",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1751,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D001327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autoimmune diseases",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 333,
+          "length": 19
+        },
+        {
+          "text": "autoimmune conditions",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1846,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "26191",
+      "tail_id": "D001327",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "26191",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "26191",
+      "tail_id": "D001171",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs2476601",
+      "tail_id": "D001327",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs2476601",
+      "tail_id": "D003922",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs2476601",
+      "tail_id": "D001171",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs2488457",
+      "tail_id": "rs1217412",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

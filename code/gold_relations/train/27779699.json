@@ -1,0 +1,389 @@
+{
+  "doc_id": "27779699",
+  "title": "Differential expression of filamin B splice variants in giant cell tumor cells.",
+  "body": "Giant cell tumor of bone (GCT) is the most commonly reported non-malignant bone tumor in Hong Kong. This kind of tumor usually affects people aged 20-40 years. Also, it is well known for recurrence locally, especially when the tumor cannot be removed completely. Filamins are actin-binding proteins which contain three family members, filamin A, B and C. They are the products of three different genes, FLNA, FLNB and FLNC, which can generate various transcript variants in different cell types. In this study, we focused on the effects of FLNBv2 and FLNBv4 toward GCT cells. The only difference between FLNBv2 and FLNBv4 is that FLNBv4 does not contain hinge 1 region. We found that the relative abundance of FLNBv4 varies among different GCT cell lines while the expression level of FLNBv4 in normal osteoblasts was only marginally detectable. In the functional aspect, overexpression of FLNBv4 led to upregulation of RANKL, OCN, OPG and RUNX2, which are closely related to GCT cell survival and differentiation. Moreover, FLNBv4 can have a negative effect on cell viability of GCT cells when compare with FLNBv2. In conclusion, splicing variants of FLNB are differentially expressed in GCT cells and may play a role in the proliferation and differentiation of tumor cells.",
+  "entities": [
+    {
+      "id": "2317",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "filamin B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 9
+        },
+        {
+          "text": "FLNB",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 489,
+          "length": 4
+        },
+        {
+          "text": "FLNBv2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 620,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 631,
+          "length": 6
+        },
+        {
+          "text": "FLNBv2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 684,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 695,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 710,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 790,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 865,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 970,
+          "length": 6
+        },
+        {
+          "text": "FLNBv4",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1105,
+          "length": 6
+        },
+        {
+          "text": "FLNBv2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1188,
+          "length": 6
+        },
+        {
+          "text": "FLNB",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1232,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005870",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "giant cell tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 16
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 106,
+          "length": 3
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 645,
+          "length": 3
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 820,
+          "length": 3
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1056,
+          "length": 3
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1160,
+          "length": 3
+        },
+        {
+          "text": "GCT",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1269,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018212",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Giant cell tumor of bone",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 80,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D001859",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bone tumor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 155,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 193,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 307,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1343,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2316,2317,2318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Filamins",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 343,
+          "length": 8
+        },
+        {
+          "text": "actin-binding proteins",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 356,
+          "length": 22
+        },
+        {
+          "text": "filamin A, B and C",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 415,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "2316",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FLNA",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 483,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FLNC",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 498,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "8600",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RANKL",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1000,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "632",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "OCN",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1007,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4982",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "OPG",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1012,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "860",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RUNX2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1020,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "860",
+      "tail_id": "D005870",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4982",
+      "tail_id": "D005870",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "632",
+      "tail_id": "D005870",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "8600",
+      "tail_id": "D005870",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2317",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "2317",
+      "tail_id": "860",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "2317",
+      "tail_id": "4982",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "2317",
+      "tail_id": "632",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "2317",
+      "tail_id": "8600",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "2317",
+      "tail_id": "D005870",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "doc_id": "15266215",
+  "title": "Effects of the cyclooxygenase-2 specific inhibitor valdecoxib versus nonsteroidal antiinflammatory agents and placebo on cardiovascular thrombotic events in patients with arthritis.",
+  "body": "There have been concerns that the risk of cardiovascular thrombotic events may be higher with cyclooxygenase (COX)-2-specific inhibitors than nonselective nonsteroidal antiinflammatory drugs (NSAIDs). We evaluated cardiovascular event data for valdecoxib, a new COX-2-specific inhibitor in approximately 8000 patients with osteoarthritis and rheumatoid arthritis treated with this agent in randomized clinical trials. The incidence of cardiovascular thrombotic events (cardiac, cerebrovascular and peripheral vascular, or arterial thrombotic) was determined by analyzing pooled valdecoxib (10-80 mg daily), nonselective NSAID (diclofenac 75 mg bid, ibuprofen 800 mg tid, or naproxen 500 mg bid) and placebo data from 10 randomized osteoarthritis and rheumatoid arthritis trials that were 6-52 weeks in duration. The incidence rates of events were determined in all patients (n = 7934) and in users of low-dose (< or =325 mg daily) aspirin (n = 1051) and nonusers of aspirin (n = 6883). Crude and exposure-adjusted incidences of thrombotic events were similar for valdecoxib, NSAIDs, and placebo. The risk of serious thrombotic events was also similar for each valdecoxib dose. Thrombotic risk was consistently higher for users of aspirin users than nonusers of aspirin (placebo, 1.4% vs. 0%; valdecoxib, 1.7% vs. 0.2%; NSAIDs, 1.9% vs. 0.5%). The rates of events in users of aspirin were similar for all 3 treatment groups and across valdecoxib doses. Short- and intermediate-term treatment with therapeutic (10 or 20 mg daily) and supratherapeutic (40 or 80 mg daily) valdecoxib doses was not associated with an increased incidence of thrombotic events relative to nonselective NSAIDs or placebo in osteoarthritis and rheumatoid arthritis patients in controlled clinical trials.",
+  "entities": [
+    {
+      "id": "5743",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclooxygenase-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 16
+        },
+        {
+          "text": "cyclooxygenase (COX)-2",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 276,
+          "length": 22
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 444,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C406224",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "valdecoxib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 426,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 760,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1245,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1342,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1474,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1616,
+          "length": 10
+        },
+        {
+          "text": "valdecoxib",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1751,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000894",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nonsteroidal antiinflammatory agents",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 36
+        },
+        {
+          "text": "nonsteroidal antiinflammatory drugs",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 337,
+          "length": 35
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 374,
+          "length": 6
+        },
+        {
+          "text": "NSAID",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 802,
+          "length": 5
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1257,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1501,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1861,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D013927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombotic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 136,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 239,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 632,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 713,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1210,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1298,
+          "length": 10
+        },
+        {
+          "text": "Thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1359,
+          "length": 10
+        },
+        {
+          "text": "thrombotic",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1818,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 157,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 491,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1047,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1922,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001168",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arthritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 171,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D010003",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoarthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 505,
+          "length": 14
+        },
+        {
+          "text": "osteoarthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 913,
+          "length": 14
+        },
+        {
+          "text": "osteoarthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1882,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001172",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 524,
+          "length": 20
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 932,
+          "length": 20
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1901,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D004008",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 809,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007052",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ibuprofen",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 831,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009288",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "naproxen",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 856,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001241",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1113,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1148,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1412,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1443,
+          "length": 7
+        },
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 182,
+          "char_offset": 1557,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013927",
+      "tail_id": "D001241",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C406224",
+      "tail_id": "D001172",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C406224",
+      "tail_id": "D010003",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C406224",
+      "tail_id": "D000894",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C406224",
+      "tail_id": "D001168",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "5743",
+      "tail_id": "C406224",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

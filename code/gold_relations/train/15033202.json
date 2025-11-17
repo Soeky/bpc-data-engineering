@@ -1,0 +1,274 @@
+{
+  "doc_id": "15033202",
+  "title": "Nijmegen breakage syndrome in 13% of age-matched Czech children with primary microcephaly.",
+  "body": "The Nijmegen breakage syndrome is a rare autosomal recessive chromosomal instability disorder characterized by early growth retardation, congenital microcephaly, immunodeficiency, borderline mental development, and a high tendency to lymphoreticular malignancies. Most Nijmegen breakage syndrome patients are of Slavonic origin, and all of them known so far carry a founder homozygous 5 nucleotide deletion in the NBS1 gene. Microcephaly was present in 100% of Nijmegen breakage syndrome patients in a recent large international cooperative study. The frequency of Nijmegen breakage syndrome among children with primary microcephaly was not known. Early correct diagnosis of the syndrome is crucial for appropriate preventive care and therapy. We tested 67 Czech patients of different ages with simple microcephaly for the presence of the most common mutation in the NBS1 gene. Three new Nijmegen breakage syndrome cases were detected in this cohort, representing 4.5% of the cohort. All these newly diagnosed Nijmegen breakage syndrome patients were younger than 10 months at the time of diagnosis. They were all born within a 2.5-year period. Twenty-three of the 67 children in the cohort were born within this 2.5-year period, representing a 13% incidence of Nijmegen breakage syndrome. Frequency of Nijmegen breakage syndrome heterozygotes among infants in the Czech Republic is 1: 130-158 and the birth rate is 90,000 per year, therefore in the time span of 2.5 years, three new Nijmegen breakage syndrome homozygotes are expected to be born. Therefore we assume that by DNA testing of Czech primary microcephalic children it is possible to detect all Nijmegen breakage syndrome patients to be expected. The age at correct diagnosis was lowered from 7.1 years at the time before DNA testing, to well under 1 year of age. All new Nijmegen breakage syndrome patients could receive appropriate preventive care, which should significantly improve their life expectancy and prognosis.",
+  "entities": [
+    {
+      "id": "D049932",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 95,
+          "length": 26
+        },
+        {
+          "text": "lymphoreticular malignancies",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 325,
+          "length": 28
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 360,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 552,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 656,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 979,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1101,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1353,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1394,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1575,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1748,
+          "length": 26
+        },
+        {
+          "text": "Nijmegen breakage syndrome",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1925,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D008831",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary microcephaly",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 20
+        },
+        {
+          "text": "congenital microcephaly",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 228,
+          "length": 23
+        },
+        {
+          "text": "Microcephaly",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 516,
+          "length": 12
+        },
+        {
+          "text": "primary microcephaly",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 703,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D043171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive chromosomal instability disorder",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 132,
+          "length": 52
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "growth retardation",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 208,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007153",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "immunodeficiency",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 253,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 387,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 579,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 854,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1128,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1775,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1952,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||5",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "5 nucleotide deletion",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 476,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "4683",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NBS1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 505,
+          "length": 4
+        },
+        {
+          "text": "NBS1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 958,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D049932",
+      "tail_id": "4683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D049932",
+      "tail_id": "c|DEL||5",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

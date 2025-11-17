@@ -1,0 +1,309 @@
+{
+  "doc_id": "18189233",
+  "title": "RNASEL and RNASEL-inhibitor variation and prostate cancer risk in Afro-Caribbeans.",
+  "body": "BACKGROUND: Afro-Caribbeans from Tobago are at high risk of developing prostate cancer. This elevated risk of prostate cancer is shared by populations of African ancestry living in diverse environments in the Western hemisphere. Variation in the ribonuclease L (RNASEL) gene has recently been reported to be associated with an increased risk of prostate cancer. However, whether RNASEL variation contributes to the increased risk of prostate cancer observed in populations of African ancestry remains unclear. METHODS: We resequenced the positional candidate gene RNASEL in 48 prostate cancer cases and genotyped the previously reported R462Q and D541E polymorphisms in 230 prostate cancer cases and 458 controls. We also examined the inhibitor of RNASEL (ABCE1) for variation associated with prostate cancer risk. RESULTS: We found no evidence of association between R462Q and D541E polymorphisms and prostate cancer risk in our case/control analysis. A novel variant (K294E) was identified in a single heterozygous individual with prostate cancer. We also observed a 20 bp insertion/deletion polymorphism 1,109 bp upstream of the initiation codon, but this variant was not associated with prostate cancer. We identified 16 single nucleotide polymorphisms in the ABCE1 gene, only 3 of which had a minor allele frequency >5%. A common A/G transition -1,071 bp from the transcriptional start site was genotyped and showed no evidence of association with prostate cancer. CONCLUSIONS: Our results suggest that common variation in the putative prostate cancer susceptibility gene, RNASEL, or its inhibitor does not contribute significantly to prostate cancer risk in this Afro-Caribbean population.",
+  "entities": [
+    {
+      "id": "6041",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RNASEL",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 6
+        },
+        {
+          "text": "ribonuclease L",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 329,
+          "length": 14
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 345,
+          "length": 6
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 462,
+          "length": 6
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 647,
+          "length": 6
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 831,
+          "length": 6
+        },
+        {
+          "text": "RNASEL",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1661,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 154,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 193,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 428,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 516,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 660,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 757,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 876,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 985,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1116,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1274,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1536,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1624,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1723,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs486907",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R462Q",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 720,
+          "length": 5
+        },
+        {
+          "text": "R462Q",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 951,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs627928",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D541E",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 730,
+          "length": 5
+        },
+        {
+          "text": "D541E",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 961,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6059",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ABCE1",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 839,
+          "length": 5
+        },
+        {
+          "text": "ABCE1",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1347,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs143544690",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "K294E",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1053,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL|1109|20",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "20 bp insertion/deletion polymorphism 1,109 bp upstream of the initiation codon",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1152,
+          "length": 79
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|-1071|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A/G transition -1,071 bp",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1418,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs143544690",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011471",
+      "tail_id": "rs627928",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011471",
+      "tail_id": "rs486907",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "6041",
+      "tail_id": "6059",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "6041",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

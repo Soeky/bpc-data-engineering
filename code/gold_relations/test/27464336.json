@@ -1,0 +1,596 @@
+{
+  "doc_id": "27464336",
+  "title": "Decreased Whole-Body Fat Mass Produced by Chronic Alcohol Consumption is Associated with Activation of S6K1-Mediated Protein Synthesis and Increased Autophagy in Epididymal White Adipose Tissue.",
+  "body": "BACKGROUND: Chronic alcohol consumption leads to a loss of white adipose tissue (WAT) but the underlying mechanisms for this lipodystrophy are not fully elucidated. This study tested the hypothesis that the reduction in WAT mass in chronic alcohol-fed mice is associated with a decreased protein synthesis specifically related to impaired function of mammalian target of rapamycin (mTOR). METHODS: Adult male mice were provided an alcohol-containing liquid diet for 24 weeks or an isonitrogenous isocaloric control diet. In vivo protein synthesis was determined at this time and thereafter epididymal WAT (eWAT) was excised for analysis of signal transduction pathways central to controling protein synthesis and degradation. RESULTS: While chronic alcohol feeding decreased whole-body and eWAT mass, this was associated with a discordant increase in protein synthesis in eWAT. This increase was not associated with a change in mTOR, 4E-BP1, Akt, or PRAS40 phosphorylation. Instead, a selective increase in phosphorylation of S6K1 and its downstream substrates, S6 and eIF4B was detected in alcohol-fed mice. Alcohol also increased eEF2K phosphorylation and decreased eEF2 phosphorylation consistent with increased translation elongation. Alcohol increased Atg12-5, LC3B-I and -II, and ULK1 S555 phosphorylation, suggesting increased autophagy, while markers of apoptosis (cleaved caspase-3 and -9, and PARP) were unchanged. Lipolytic enzymes (ATGL and HSL phosphorylation) were increased and lipogenic regulators (PPARgamma and C/EBPalpha) were decreased in eWAT by alcohol. Although alcohol increased TNF-alpha, IL-6, and IL-1beta mRNA, no change in key components of the NLRP3 inflammasome (NLRP3, ACS, and cleaved caspase-1) was detected suggesting alcohol did not increase pyroptosis. Plasma insulin did not differ between groups. CONCLUSIONS: These results demonstrate that the alcohol-induced decrease in whole-body fat mass resulted in part from activation of autophagy in eWAT as protein synthesis was increased and mediated by the specific increase in the activity of S6K1.",
+  "entities": [
+    {
+      "id": "D000438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Alcohol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 215,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 435,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 626,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 944,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1286,
+          "length": 7
+        },
+        {
+          "text": "Alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1304,
+          "length": 7
+        },
+        {
+          "text": "Alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1434,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1762,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1780,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1948,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 2079,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "72508",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "S6K1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 4
+        },
+        {
+          "text": "S6K1",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1221,
+          "length": 4
+        },
+        {
+          "text": "S6K1",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 2273,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008060",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lipodystrophy",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 320,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 447,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 604,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1298,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mammalian target of rapamycin",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 546,
+          "length": 29
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 577,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1123,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "13685",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "4E-BP1",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1129,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1137,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "67605",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PRAS40",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1145,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "20104",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "S6",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1257,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "75705",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "eIF4B",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1264,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13631",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "eEF2K",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1327,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13629",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "eEF2",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1363,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11793,67526",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Atg12-5",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1452,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "67443",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LC3B-I and -II",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1461,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "22241",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ULK1",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1481,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|S|555",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S555",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1486,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12367,12371",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3 and -9",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1576,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "11545",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PARP",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1598,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "66853",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATGL",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1639,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16890",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HSL",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1648,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "19016",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PPARgamma",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1710,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12606",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C/EBPalpha",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1724,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1798,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1809,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16176",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1819,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "216799",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NLRP3",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1869,
+          "length": 5
+        },
+        {
+          "text": "NLRP3",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1889,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "66824",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ACS",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1896,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12362",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-1",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1913,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "16334",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 195,
+          "char_offset": 1992,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000438",
+      "tail_id": "66853",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000438",
+      "tail_id": "67443",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000438",
+      "tail_id": "22241",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000438",
+      "tail_id": "75705",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000438",
+      "tail_id": "20104",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000438",
+      "tail_id": "16176",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000438",
+      "tail_id": "16193",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000438",
+      "tail_id": "21926",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D000438",
+      "tail_id": "12606",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D000438",
+      "tail_id": "19016",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D000438",
+      "tail_id": "16890",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D000438",
+      "tail_id": "72508",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

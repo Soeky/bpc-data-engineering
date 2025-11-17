@@ -1,0 +1,336 @@
+{
+  "doc_id": "24309294",
+  "title": "Cholecystokinin-octapeptide restored morphine-induced hippocampal long-term potentiation impairment in rats.",
+  "body": "Cholecystokinin-octapeptide (CCK-8), which is a typical brain-gut peptide, exerts a wide range of biological activities on the central nervous system. We have previously reported that CCK-8 significantly alleviated morphine-induced amnesia and reversed spine density decreases in the CA1 region of the hippocampus in morphine-treated animals. Here, we investigated the effects of CCK-8 on long-term potentiation (LTP) in the lateral perforant path (LPP)-granule cell synapse of rat dentate gyrus (DG) in acute saline or morphine-treated rats. Population spikes (PS), which were evoked by stimulation of the LPP, were recorded in the DG region. Acute morphine (30mg/kg, s.c.) treatment significantly attenuated hippocampal LTP and CCK-8 (1ug, i.c.v.) restored the amplitude of PS that was attenuated by morphine injection. Furthermore, microinjection of CCK-8 (0.1 and 1ug, i.c.v.) also significantly augmented hippocampal LTP in saline-treated (1ml/kg, s.c.) rats. Pre-treatment of the CCK2 receptor antagonist L-365,260 (10ug, i.c.v) reversed the effects of CCK-8, but the CCK1 receptor antagonist L-364,718 (10ug, i.c.v) did not. The present results demonstrate that CCK-8 attenuates the effect of morphine on hippocampal LTP through CCK2 receptors and suggest an ameliorative function of CCK-8 on morphine-induced memory impairment.",
+  "entities": [
+    {
+      "id": "D012844",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Cholecystokinin-octapeptide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 27
+        },
+        {
+          "text": "Cholecystokinin-octapeptide",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 109,
+          "length": 27
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 138,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 293,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 489,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 839,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 962,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1168,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1278,
+          "length": 5
+        },
+        {
+          "text": "CCK-8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1400,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009020",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 324,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 426,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 629,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 759,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 911,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1309,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1409,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 587,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 646,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1068,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 341,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25706",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCK2 receptor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1095,
+          "length": 13
+        },
+        {
+          "text": "CCK2 receptors",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1345,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "C058121",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-365,260",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1120,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24889",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCK1 receptor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1183,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D020109",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-364,718",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1208,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory impairment",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1426,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24889",
+      "tail_id": "D020109",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009020",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009020",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009020",
+      "tail_id": "25706",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D012844",
+      "tail_id": "D000647",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D012844",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012844",
+      "tail_id": "D009020",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D012844",
+      "tail_id": "25706",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C058121",
+      "tail_id": "D012844",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "25706",
+      "tail_id": "C058121",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

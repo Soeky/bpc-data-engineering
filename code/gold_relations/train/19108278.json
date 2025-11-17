@@ -1,0 +1,450 @@
+{
+  "doc_id": "19108278",
+  "title": "The biological properties of the optical isomers of propranolol and their effects on cardiac arrhythmias.",
+  "body": "1. The optical isomers of propranolol have been compared for their beta-blocking and antiarrhythmic activities.2. In blocking the positive inotropic and chronotropic responses to isoprenaline, (+)-propranolol had less than one hundredth the potency of (-)-propranolol. At dose levels of (+)-propranolol which attenuated the responses to isoprenaline, there was a significant prolongation of the PR interval of the electrocardiogram.3. The metabolic responses to isoprenaline in dogs (an increase in circulating glucose, lactate and free fatty acids) were all blocked by (-)-propranolol. (+)-Propranolol had no effect on fatty acid mobilization but significantly reduced the increments in both lactate and glucose.4. Both isomers of propranolol possessed similar depressant potency on isolated atrial muscle taken from guinea-pigs.5. The isomers of propranolol exhibited similar local anaesthetic potencies on an isolated frog nerve preparation at a level approximately three times that of procaine. The racemic compound was significantly less potent than either isomer.6. Both isomers of propranolol were capable of preventing adrenaline-induced cardiac arrhythmias in cats anaesthetized with halothane, but the mean dose of (-)-propranolol was 0.09+/-0.02 mg/kg whereas that of (+)-propranolol was 4.2+/-1.2 mg/kg. At the effective dose level of (+)-propranolol there was a significant prolongation of the PR interval of the electrocardiogram. Blockade of arrhythmias with both isomers was surmountable by increasing the dose of adrenaline.7. Both isomers of propranolol were also capable of reversing ventricular tachycardia caused by ouabain in anaesthetized cats and dogs. The dose of (-)-propranolol was significantly smaller than that of (+)-propranolol in both species but much higher than that required to produce evidence of beta-blockade.8. The implications of these results are discussed.",
+  "entities": [
+    {
+      "id": "D011433",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propranolol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 132,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 303,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 362,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 397,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 680,
+          "length": 11
+        },
+        {
+          "text": "Propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 697,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 838,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 954,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1194,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1335,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1389,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1457,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1666,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1799,
+          "length": 11
+        },
+        {
+          "text": "propranolol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1854,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac arrhythmias",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 19
+        },
+        {
+          "text": "cardiac arrhythmias",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1252,
+          "length": 19
+        },
+        {
+          "text": "arrhythmias",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1563,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoprenaline",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 285,
+          "length": 12
+        },
+        {
+          "text": "isoprenaline",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 443,
+          "length": 12
+        },
+        {
+          "text": "isoprenaline",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 568,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9615",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "dogs",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 584,
+          "length": 4
+        },
+        {
+          "text": "dogs",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1777,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 617,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 811,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D019344",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 626,
+          "length": 7
+        },
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 799,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty acids",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 643,
+          "length": 11
+        },
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 726,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10141",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "guinea-pigs",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 924,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D011343",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "procaine",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1095,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004837",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "adrenaline",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1233,
+          "length": 10
+        },
+        {
+          "text": "adrenaline",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1636,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9685",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "cats",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1275,
+          "length": 4
+        },
+        {
+          "text": "cats",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1768,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006221",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "halothane",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1299,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D017180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ventricular tachycardia",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1709,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D010042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ouabain",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 1743,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017180",
+      "tail_id": "D010042",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004837",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011433",
+      "tail_id": "D010042",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011433",
+      "tail_id": "D017180",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D011433",
+      "tail_id": "D001145",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D011433",
+      "tail_id": "D004837",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D011433",
+      "tail_id": "D019344",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D011433",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007545",
+      "tail_id": "D011433",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007545",
+      "tail_id": "D005227",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007545",
+      "tail_id": "D019344",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D007545",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

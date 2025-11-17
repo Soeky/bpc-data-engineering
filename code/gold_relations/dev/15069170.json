@@ -1,0 +1,518 @@
+{
+  "doc_id": "15069170",
+  "title": "Four novel mutations in the thiazide-sensitive Na-Cl co-transporter gene in Japanese patients with Gitelman's syndrome.",
+  "body": "BACKGROUND: Gitelman's syndrome (GS) is an autosomal recessive disorder resulting from inactivating mutations in the thiazide-sensitive Na-Cl co-transporter (NCCT) gene. To date, almost 90 mutations have been identified. It is possible that there is a population-specific distribution of mutations. In this study, we analysed mutations in the NCCT gene of seven Japanese patients with GS. METHODS: Peripheral blood mononuclear cells were isolated from patients with GS, their family members and healthy control subjects. A mutation analysis of the NCCT gene was performed completely by direct automated sequencing of polymerase chain reaction-amplified DNA products. In patients with a deletion or splice site mutation, we undertook cDNA sequence analysis. RESULTS: We identified nine mutations. Five of them [c.185C>T (Thr60Met), c.1712C>T (Ala569Val), c.1930C>T (Arg642Cys), c.2552T>A (Leu849His) and c.1932delC] have been reported in Japanese patients, but not in GS patients from other ethnic groups. The remaining four mutations [c.7A>T (Met1Leu), c.1181_1186+20del26, c.1811_1812delAT and IVS16+1G>A] were novel. In cDNA derived from a patient with c.1181_1186+20del26, a deletion of exon 9 and a frameshift at the start of exon 10 were observed. In cDNA derived from patients with IVS16+1G>A, an additional 96 bp insertion between exons 16 and 17 was observed. Six out of seven patients were compound heterozygotes, and the remaining one carried a single heterozygous mutation. CONCLUSIONS: We found four novel mutations in the NCCT gene in seven Japanese patients with GS. Moreover, our study suggests that the distribution of mutations in the NCCT gene in Japanese GS patients potentially differs from that in other populations.",
+  "entities": [
+    {
+      "id": "D049971",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thiazide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 8
+        },
+        {
+          "text": "thiazide",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 237,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "6559",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Na-Cl co-transporter",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 20
+        },
+        {
+          "text": "Na-Cl co-transporter",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 256,
+          "length": 20
+        },
+        {
+          "text": "NCCT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 278,
+          "length": 4
+        },
+        {
+          "text": "NCCT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 463,
+          "length": 4
+        },
+        {
+          "text": "NCCT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 668,
+          "length": 4
+        },
+        {
+          "text": "NCCT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1655,
+          "length": 4
+        },
+        {
+          "text": "NCCT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1772,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 491,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 572,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 790,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1066,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1090,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1262,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1394,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1505,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1683,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1797,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D053579",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Gitelman's syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 19
+        },
+        {
+          "text": "Gitelman's syndrome",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 132,
+          "length": 19
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 153,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 505,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 586,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1087,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1697,
+          "length": 2
+        },
+        {
+          "text": "GS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1794,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disorder",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 163,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "rs371443644",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.185C>T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 930,
+          "length": 8
+        },
+        {
+          "text": "Thr60Met",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 940,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs79351185",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1712C>T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 951,
+          "length": 9
+        },
+        {
+          "text": "Ala569Val",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 962,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs200697179",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1930C>T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 974,
+          "length": 9
+        },
+        {
+          "text": "Arg642Cys",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 985,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs185927948",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2552T>A",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 997,
+          "length": 9
+        },
+        {
+          "text": "Leu849His",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1008,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1932|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1932delC",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1023,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|7|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.7A>T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1155,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|M|1|L",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Met1Leu",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1163,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1181_1186+20|26",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1181_1186+20del26",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1173,
+          "length": 19
+        },
+        {
+          "text": "c.1181_1186+20del26",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1275,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|1811_1812|AT",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1811_1812delAT",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1194,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|IVS16+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS16+1G>A",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1215,
+          "length": 10
+        },
+        {
+          "text": "IVS16+1G>A",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1408,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|INS||96",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "96 bp insertion",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1434,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D049971",
+      "tail_id": "6559",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "6559",
+      "tail_id": "D053579",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DEL|1932|C",
+      "tail_id": "D053579",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs185927948",
+      "tail_id": "D053579",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs200697179",
+      "tail_id": "D053579",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs79351185",
+      "tail_id": "D053579",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D053579",
+      "tail_id": "c|INS||96",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D053579",
+      "tail_id": "c|SUB|G|IVS16+1|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D053579",
+      "tail_id": "c|DEL|1811_1812|AT",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D053579",
+      "tail_id": "c|DEL|1181_1186+20|26",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D053579",
+      "tail_id": "p|SUB|M|1|L",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D053579",
+      "tail_id": "c|SUB|A|7|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "rs371443644",
+      "tail_id": "D053579",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

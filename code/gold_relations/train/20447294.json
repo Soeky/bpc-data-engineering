@@ -1,0 +1,438 @@
+{
+  "doc_id": "20447294",
+  "title": "Studies of synergy between morphine and a novel sodium channel blocker, CNSB002, in rat models of inflammatory and neuropathic pain.",
+  "body": "OBJECTIVE: This study determined the antihyperalgesic effect of CNSB002, a sodium channel blocker with antioxidant properties given alone and in combinations with morphine in rat models of inflammatory and neuropathic pain. DESIGN: Dose response curves for nonsedating doses of morphine and CNSB002 given intraperitoneally alone and together in combinations were constructed for antihyperalgesic effect using paw withdrawal from noxious heat in two rat pain models: carrageenan-induced paw inflammation and streptozotocin (STZ)-induced diabetic neuropathy. RESULTS: The maximum nonsedating doses were: morphine, 3.2 mg/kg; CNSB002 10.0 mg/kg; 5.0 mg/kg CNSB002 with morphine 3.2 mg/kg in combination. The doses calculated to cause 50% reversal of hyperalgesia (ED50) were 7.54 (1.81) and 4.83 (1.54) in the carrageenan model and 44.18 (1.37) and 9.14 (1.24) in the STZ-induced neuropathy model for CNSB002 and morphine, respectively (mg/kg; mean, SEM). These values were greater than the maximum nonsedating doses. The ED50 values for morphine when given in combination with CNSB002 (5 mg/kg) were less than the maximum nonsedating dose: 0.56 (1.55) in the carrageenan model and 1.37 (1.23) in the neuropathy model (mg/kg; mean, SEM). The antinociception after morphine (3.2 mg/kg) was increased by co-administration with CNSB002 from 28.0 and 31.7% to 114.6 and 56.9% reversal of hyperalgesia in the inflammatory and neuropathic models, respectively (P < 0.01; one-way analysis of variance-significantly greater than either drug given alone). CONCLUSIONS: The maximum antihyperalgesic effect achievable with nonsedating doses of morphine may be increased significantly when the drug is used in combination with CNSB002.",
+  "entities": [
+    {
+      "id": "D009020",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 296,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 411,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 735,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 799,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1043,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1168,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1394,
+          "length": 8
+        },
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1763,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D026941",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium channel blocker",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 22
+        },
+        {
+          "text": "sodium channel blocker",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 208,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "C401121",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "CNSB002",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 197,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 424,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 756,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 786,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1031,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1208,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1455,
+          "length": 7
+        },
+        {
+          "text": "CNSB002",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1845,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 308,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 582,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 322,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 623,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1534,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathic pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 115,
+          "length": 16
+        },
+        {
+          "text": "neuropathic pain",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 339,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 586,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002351",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carrageenan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 599,
+          "length": 11
+        },
+        {
+          "text": "carrageenan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 940,
+          "length": 11
+        },
+        {
+          "text": "carrageenan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1290,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 640,
+          "length": 14
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 656,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 998,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic neuropathy",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 669,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006930",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 880,
+          "length": 12
+        },
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1514,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathy",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1010,
+          "length": 10
+        },
+        {
+          "text": "neuropathy",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1331,
+          "length": 10
+        },
+        {
+          "text": "neuropathic",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1551,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C401121",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C401121",
+      "tail_id": "D006930",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C401121",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009020",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009020",
+      "tail_id": "C401121",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009020",
+      "tail_id": "D006930",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009020",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D013311",
+      "tail_id": "D003929",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002351",
+      "tail_id": "D007249",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

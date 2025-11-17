@@ -1,0 +1,396 @@
+{
+  "doc_id": "15957009",
+  "title": "The selective 5-HT6 receptor antagonist Ro4368554 restores memory performance in cholinergic and serotonergic models of memory deficiency in the rat.",
+  "body": "Antagonists at serotonin type 6 (5-HT(6)) receptors show activity in models of learning and memory. Although the underlying mechanism(s) are not well understood, these effects may involve an increase in acetylcholine (ACh) levels. The present study sought to characterize the cognitive-enhancing effects of the 5-HT(6) antagonist Ro4368554 (3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole) in a rat object recognition task employing a cholinergic (scopolamine pretreatment) and a serotonergic- (tryptophan (TRP) depletion) deficient model, and compared its pattern of action with that of the acetylcholinesterase inhibitor metrifonate. Initial testing in a time-dependent forgetting task employing a 24-h delay between training and testing showed that metrifonate improved object recognition (at 10 and 30 mg/kg, p.o.), whereas Ro4368554 was inactive. Both, Ro4368554 (3 and 10 mg/kg, intraperitoneally (i.p.)) and metrifonate (10 mg/kg, p.o., respectively) reversed memory deficits induced by scopolamine and TRP depletion (10 mg/kg, i.p., and 3 mg/kg, p.o., respectively). In conclusion, although Ro4368554 did not improve a time-related retention deficit, it reversed a cholinergic and a serotonergic memory deficit, suggesting that both mechanisms may be involved in the facilitation of object memory by Ro4368554 and, possibly, other 5-HT(6) receptor antagonists.",
+  "entities": [
+    {
+      "id": "64354",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "5-HT6 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 14
+        },
+        {
+          "text": "serotonin type 6 (5-HT(6)) receptors",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 165,
+          "length": 36
+        },
+        {
+          "text": "5-HT(6)",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 461,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C507242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ro4368554",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 9
+        },
+        {
+          "text": "Ro4368554",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 480,
+          "length": 9
+        },
+        {
+          "text": "3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 491,
+          "length": 54
+        },
+        {
+          "text": "Ro4368554",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 985,
+          "length": 9
+        },
+        {
+          "text": "Ro4368554",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1015,
+          "length": 9
+        },
+        {
+          "text": "Ro4368554",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1256,
+          "length": 9
+        },
+        {
+          "text": "Ro4368554",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1465,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D018678",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholinergic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 11
+        },
+        {
+          "text": "cholinergic",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 592,
+          "length": 11
+        },
+        {
+          "text": "cholinergic",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1330,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D018490",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "serotonergic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 97,
+          "length": 12
+        },
+        {
+          "text": "serotonergic",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 637,
+          "length": 12
+        },
+        {
+          "text": "serotonergic",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1348,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 120,
+          "length": 17
+        },
+        {
+          "text": "memory deficits",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1124,
+          "length": 15
+        },
+        {
+          "text": "memory deficit",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1361,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 145,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 552,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000109",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetylcholine",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 353,
+          "length": 13
+        },
+        {
+          "text": "ACh",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 368,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 605,
+          "length": 11
+        },
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1151,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014364",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tryptophan",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 652,
+          "length": 10
+        },
+        {
+          "text": "TRP",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 664,
+          "length": 3
+        },
+        {
+          "text": "TRP",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1167,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "83817",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "acetylcholinesterase",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 749,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D014236",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "metrifonate",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 780,
+          "length": 11
+        },
+        {
+          "text": "metrifonate",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 909,
+          "length": 11
+        },
+        {
+          "text": "metrifonate",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1072,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012702",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-HT(6) receptor antagonists",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1496,
+          "length": 28
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014236",
+      "tail_id": "D014364",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014236",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014236",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "83817",
+      "tail_id": "D014236",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "64354",
+      "tail_id": "D000109",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "64354",
+      "tail_id": "C507242",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008569",
+      "tail_id": "D012702",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008569",
+      "tail_id": "D014364",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008569",
+      "tail_id": "D012601",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "C507242",
+      "tail_id": "D014364",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C507242",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C507242",
+      "tail_id": "D008569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

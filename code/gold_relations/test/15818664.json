@@ -1,0 +1,466 @@
+{
+  "doc_id": "15818664",
+  "title": "Association of sporadic chondrocalcinosis with a -4-basepair G-to-A transition in the 5'-untranslated region of ANKH that promotes enhanced expression of ANKH protein and excess generation of extracellular inorganic pyrophosphate.",
+  "body": "OBJECTIVE: Certain mutations in ANKH, which encodes a multiple-pass transmembrane protein that regulates inorganic pyrophosphate (PPi) transport, are linked to autosomal-dominant familial chondrocalcinosis. This study investigated the potential for ANKH sequence variants to promote sporadic chondrocalcinosis. METHODS: ANKH variants identified by genomic sequencing were screened for association with chondrocalcinosis in 128 patients with severe sporadic chondrocalcinosis or pseudogout and in ethnically matched healthy controls. The effects of specific variants on expression of common markers were evaluated by in vitro transcription/translation. The function of these variants was studied in transfected human immortalized CH-8 articular chondrocytes. RESULTS: Sporadic chondrocalcinosis was associated with a G-to-A transition in the ANKH 5'-untranslated region (5'-UTR) at 4 bp upstream of the start codon (in homozygotes of the minor allele, genotype relative risk 6.0, P = 0.0006; overall genotype association P = 0.02). This -4-bp transition, as well as 2 mutations previously linked with familial and sporadic chondrocalcinosis (+14 bp C-to-T and C-terminal GAG deletion, respectively), but not the French familial chondrocalcinosis kindred 143-bp T-to-C mutation, increased reticulocyte ANKH transcription/ANKH translation in vitro. Transfection of complementary DNA for both the wild-type ANKH and the -4-bp ANKH protein variant promoted increased extracellular PPi in CH-8 cells, but unexpectedly, these ANKH mutants had divergent effects on the expression of extracellular PPi and the chondrocyte hypertrophy marker, type X collagen. CONCLUSION: A subset of sporadic chondrocalcinosis appears to be heritable via a -4-bp G-to-A ANKH 5'-UTR transition that up-regulates expression of ANKH and extracellular PPi in chondrocyte cells. Distinct ANKH mutations associated with heritable chondrocalcinosis may promote disease by divergent effects on extracellular PPi and chondrocyte hypertrophy, which is likely to mediate differences in the clinical phenotypes and severity of the disease.",
+  "entities": [
+    {
+      "id": "D002805",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sporadic chondrocalcinosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 26
+        },
+        {
+          "text": "autosomal-dominant familial chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 391,
+          "length": 45
+        },
+        {
+          "text": "chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 523,
+          "length": 17
+        },
+        {
+          "text": "chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 633,
+          "length": 17
+        },
+        {
+          "text": "chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 688,
+          "length": 17
+        },
+        {
+          "text": "pseudogout",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 709,
+          "length": 10
+        },
+        {
+          "text": "Sporadic chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 998,
+          "length": 26
+        },
+        {
+          "text": "familial and sporadic chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1331,
+          "length": 39
+        },
+        {
+          "text": "familial chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1449,
+          "length": 26
+        },
+        {
+          "text": "sporadic chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1905,
+          "length": 26
+        },
+        {
+          "text": "chondrocalcinosis",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2129,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|-4|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-4-basepair G-to-A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 18
+        },
+        {
+          "text": "-4-bp G-to-A",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1962,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "56172",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ANKH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 112,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 154,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 263,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 480,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 551,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1072,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1531,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1550,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1634,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1653,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1750,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1975,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2030,
+          "length": 4
+        },
+        {
+          "text": "ANKH",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2088,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D043564",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "inorganic pyrophosphate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 206,
+          "length": 23
+        },
+        {
+          "text": "inorganic pyrophosphate",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 336,
+          "length": 23
+        },
+        {
+          "text": "PPi",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 361,
+          "length": 3
+        },
+        {
+          "text": "PPi",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1707,
+          "length": 3
+        },
+        {
+          "text": "PPi",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1820,
+          "length": 3
+        },
+        {
+          "text": "PPi",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2053,
+          "length": 3
+        },
+        {
+          "text": "PPi",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2205,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 658,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 941,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_M020",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "CH-8",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 960,
+          "length": 4
+        },
+        {
+          "text": "CH-8",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1714,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-to-A",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1047,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|14|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "+14 bp C-to-T",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1372,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||GAG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "GAG deletion",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1401,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|143|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "143-bp T-to-C",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1484,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006984",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1844,
+          "length": 11
+        },
+        {
+          "text": "hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 2225,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "1300",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type X collagen",
+          "passage_index": 1,
+          "passage_offset": 231,
+          "char_offset": 1864,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|G|-4|A",
+      "tail_id": "D006984",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|G|-4|A",
+      "tail_id": "D043564",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002805",
+      "tail_id": "c|SUB|G|-4|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002805",
+      "tail_id": "D043564",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D002805",
+      "tail_id": "c|DEL||GAG",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D002805",
+      "tail_id": "c|SUB|C|14|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D002805",
+      "tail_id": "c|SUB|G||A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "56172",
+      "tail_id": "D006984",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "56172",
+      "tail_id": "D043564",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "56172",
+      "tail_id": "D002805",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

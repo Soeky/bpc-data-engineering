@@ -1,0 +1,395 @@
+{
+  "doc_id": "17379047",
+  "title": "Comparison of valsartan/hydrochlorothiazide combination therapy at doses up to 320/25 mg versus monotherapy: a double-blind, placebo-controlled study followed by long-term combination therapy in hypertensive adults.",
+  "body": "BACKGROUND: One third of patients treated for hypertension attain adequate blood pressure (BP) control, and multidrug regimens are often required. Given the lifelong nature of hypertension, there is a need to evaluate the long-term efficacy and tolerability of higher doses of combination anti-hypertensive therapies. OBJECTIVE: This study investigated the efficacy and tolerability of valsartan (VAL) or hydrochlorothiazide (HCTZ)-monotherapy and higher-dose combinations in patients with essential hypertension. METHODS: The first part of this study was an 8-week, multicenter, randomized, double-blind, placebo controlled, parallel-group trial. Patients with essential hypertension (mean sitting diastolic BP [MSDBP], > or =95 mm Hg and <110 mm Hg) were randomized to 1 of 8 treatment groups: VAL 160 or 320 mg; HCTZ 12.5 or 25 mg; VAL/HCTZ 160/12.5, 320/12.5, or 320/25 mg; or placebo. Mean changes in MSDBP and mean sitting systolic BP (MSSBP) were analyzed at the 8-week core study end point. VAL/HCTZ 320/12.5 and 320/25 mg were further investigated in a 54-week, open-label extension. Response was defined as MSDBP <90 mm Hg or a > or =10 mm Hg decrease compared to baseline. Control was defined as MSDBP <90 mm Hg compared with baseline. Tolerability was assessed by monitoring adverse events at randomization and all subsequent study visits and regular evaluation of hematology and blood chemistry. RESULTS: A total of 1346 patients were randomized into the 8-week core study (734 men, 612 women; 924 white, 291 black, 23 Asian, 108 other; mean age, 52.7 years; mean weight, 92.6 kg). All active treatments were associated with significantly reduced MSSBP and MSDBP during the core 8-week study, with each monotherapy significantly contributing to the overall effect of combination therapy (VAL and HCTZ, P < 0.001). Each combination was associated with significantly greater reductions in MSSBP and MSDBP compared with the monotherapies and placebo (all, P < 0.001). The mean reduction in MSSBP/MSDBP with VAL/HCTZ 320/25 mg was 24.7/16.6 mm Hg, compared with 5.9/7.0 mm Hg with placebo. The reduction in MSSBP was significantly greater with VAL/HCTZ 320/25 mg compared with VAL/HCTZ 160/12.5 mg (P < 0.002). Rates of response and BP control were significantly higher in the groups that received combination treatment compared with those that received monotherapy. The incidence of hypokalemia was lower with VAL/HCTZ combinations (1.8%-6.1%) than with HCTZ monotherapies (7.1%-13.3%). The majority of adverse events in the core study were of mild to moderate severity. The efficacy and tolerability of VAL/HCTZ combinations were maintained during the extension (797 patients). CONCLUSIONS: In this study population, combination therapies with VAL/HCTZ were associated with significantly greater BP reductions compared with either monotherapy, were well tolerated, and were associated with less hypokalemia than HCTZ alone.",
+  "entities": [
+    {
+      "id": "C081489",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "valsartan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 9
+        },
+        {
+          "text": "valsartan",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 602,
+          "length": 9
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 613,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1012,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1051,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1215,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2017,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2233,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2369,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2402,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2636,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2830,
+          "length": 3
+        },
+        {
+          "text": "VAL",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2971,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006852",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hydrochlorothiazide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 19
+        },
+        {
+          "text": "hydrochlorothiazide",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 621,
+          "length": 19
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 642,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1031,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1055,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1219,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2025,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2237,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2373,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2406,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2640,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2680,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2834,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2975,
+          "length": 4
+        },
+        {
+          "text": "HCTZ",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 3139,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 195,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 262,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 392,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 510,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 241,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 692,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 864,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1650,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1707,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1716,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2894,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000075222",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "essential hypertension",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 706,
+          "length": 22
+        },
+        {
+          "text": "essential hypertension",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 878,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 2609,
+          "length": 11
+        },
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 3122,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007008",
+      "tail_id": "D006852",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007008",
+      "tail_id": "C081489",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006852",
+      "tail_id": "D000075222",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006852",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C081489",
+      "tail_id": "D000075222",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C081489",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "C081489",
+      "tail_id": "D006852",
+      "type": "Comparison",
+      "novel": "Novel"
+    }
+  ]
+}

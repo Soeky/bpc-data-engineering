@@ -1,0 +1,567 @@
+{
+  "doc_id": "28260077",
+  "title": "Atorvastatin protects against contrast-induced nephropathy via anti-apoptosis by the upregulation of Hsp27 in vivo and in vitro.",
+  "body": "Contrast-induced nephropathy (CIN) is an iatrogenic acute renal failure occurring following the intravascular injection of iodinated radiographic contrast medium. However, the regulatory mechanisms for CIN remain to be fully elucidated. The present study aimed to investigate whether atorvastatin protects against CIN via anti-apoptotic effects by the upregulation of Hsp27 in vivo and in vitro. To determine whether atorvastatin attenuated CIN, the inflammatory response and apoptosis in vivo and in vitro, a rat model of iopamidol-induced CIN was used, and human embryonic proximal tubule (HK2) cell damage was assessed. The rats were assigned into four groups (n=10 per group), as follows: Control rats; rats+atorvastatin; rats + iopamidol; rats+iopamidol+atorvastatin. In vitro, the HK2 cells were treated with iopamidol in the presence or absence of atorvastatin, heat shock protein (Hsp)27 small interfering (si)RNA or pcDNA3.1-Hsp27. The renal tissues were examined histopathologically and collected for western blot analysis. The results showed that atorvastatin ameliorated the apoptosis and deterioration of renal function (P<0.05). Furthermore, atorvastatin reduced the iopamidol-induced activity of B cell lymphoma-2 (Bcl-2)-associated X protein (Bax)/caspase-3 and increased the expression of Bcl-2 in vivo and in vitro. Notably, following treatment with Hsp27 siRNA or pcDNA3.1-Hsp27, it was found that iopamidol enhanced or weakened the upregulation of Bax/caspase-3 and downregulation of Bcl-2 in the HK2 cells, respectively. The results of the present study suggested that atorvastatin protected against contrast-induced renal tubular cell apoptosis through the upregulation of Hsp27 in vivo and in vitro.",
+  "entities": [
+    {
+      "id": "D000069059",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Atorvastatin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 413,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 546,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 841,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 888,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 984,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1187,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1285,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1719,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "contrast-induced nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 28
+        },
+        {
+          "text": "Contrast-induced nephropathy",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 129,
+          "length": 28
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 159,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 331,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 443,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 570,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 670,
+          "length": 3
+        },
+        {
+          "text": "apoptosis and deterioration of renal function",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1216,
+          "length": 45
+        },
+        {
+          "text": "contrast-induced renal tubular cell apoptosis",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1750,
+          "length": 45
+        }
+      ]
+    },
+    {
+      "id": "24471",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Hsp27",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 5
+        },
+        {
+          "text": "Hsp27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 497,
+          "length": 5
+        },
+        {
+          "text": "Hsp27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1824,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 181,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 579,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 639,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 756,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 830,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 836,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 855,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 873,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007479",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 652,
+          "length": 9
+        },
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 862,
+          "length": 9
+        },
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 878,
+          "length": 9
+        },
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 944,
+          "length": 9
+        },
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1310,
+          "length": 9
+        },
+        {
+          "text": "iopamidol",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1546,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 688,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0302",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HK2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 721,
+          "length": 3
+        },
+        {
+          "text": "HK2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 916,
+          "length": 3
+        },
+        {
+          "text": "HK2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1646,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3315",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "heat shock protein (Hsp)27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 998,
+          "length": 26
+        },
+        {
+          "text": "Hsp27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1063,
+          "length": 5
+        },
+        {
+          "text": "Hsp27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1497,
+          "length": 5
+        },
+        {
+          "text": "Hsp27",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1521,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24887",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "B cell lymphoma-2 (Bcl-2)-associated X protein",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1340,
+          "length": 46
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1388,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25402",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1393,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1435,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1597,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "836",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1601,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1633,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3315",
+      "tail_id": "596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3315",
+      "tail_id": "836",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "3315",
+      "tail_id": "581",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007479",
+      "tail_id": "596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007479",
+      "tail_id": "836",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007479",
+      "tail_id": "581",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007479",
+      "tail_id": "24887",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007479",
+      "tail_id": "25402",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007479",
+      "tail_id": "3315",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007479",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D000069059",
+      "tail_id": "24471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D000069059",
+      "tail_id": "24887",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D000069059",
+      "tail_id": "24224",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D000069059",
+      "tail_id": "25402",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D000069059",
+      "tail_id": "D007479",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D000069059",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

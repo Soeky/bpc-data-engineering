@@ -1,0 +1,582 @@
+{
+  "doc_id": "27491646",
+  "title": "Gartanin induces cell cycle arrest and autophagy and suppresses migration involving PI3K/Akt/mTOR and MAPK signalling pathway in human glioma cells.",
+  "body": "In central nervous system, glioma is the most common primary brain tumour. The diffuse migration and rapid proliferation are main obstacles for successful treatment. Gartanin, a natural xanthone of mangosteen, suppressed proliferation, migration and colony formation in a time- and concentration-dependent manner in T98G glioma cells but not in mouse normal neuronal HT22 cells. Gartanin, at low micromole, led to cell cycle arrest in G1 phase accompanied by inhibited expression level of G1 cell cycle regulatory proteins cyclin D1, while increased expression level of cyclin-dependent kinase inhibitor p27Kip1. In addition, the secretion and activity of matrix metalloproteinases 2/9 (MMP-2/-9) were significantly suppressed in T98G cells treated with gartanin, and it might result from modulating mitogen-activated protein kinases (MAPK) signalling pathway in T98G glioma cells. Moreover, gartanin significantly induced autophagy in T98G cells and increased GFP-LC3 punctate fluorescence accompanied by the increased expression level of Beclin 1 and LC3-II, while suppressed expression level of p62. Gartanin treatment resulted in obvious inhibition of PI3K/Akt/mTOR signalling pathway, which is important in modulating autophagy. Notably, gartanin-mediated anti-viability was significantly abrogated by autophagy inhibitors including 3-methyladenine (3-MA) and chloroquine (CQ). These results indicate that anti-proliferation effect of gartanin in T98G cells is most likely via cell cycle arrest modulated by autophagy, which is regulated by PI3K/Akt/mTOR signalling pathway, while anti-migration effect is most likely via suppression of MMP-2/-9 activity which is involved in MAPK signalling pathway.",
+  "entities": [
+    {
+      "id": "C000605798",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Gartanin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "Gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 315,
+          "length": 8
+        },
+        {
+          "text": "Gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 528,
+          "length": 8
+        },
+        {
+          "text": "gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 903,
+          "length": 8
+        },
+        {
+          "text": "gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1041,
+          "length": 8
+        },
+        {
+          "text": "Gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1252,
+          "length": 8
+        },
+        {
+          "text": "gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1392,
+          "length": 8
+        },
+        {
+          "text": "gartanin",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1589,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "5291",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1305,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1695,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1310,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1700,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1314,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1704,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 4
+        },
+        {
+          "text": "mitogen-activated protein kinases",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 949,
+          "length": 33
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 984,
+          "length": 4
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1830,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 129,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005910",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glioma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 135,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 176,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 470,
+          "length": 6
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1017,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001932",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "primary brain tumour",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 202,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C009689",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "xanthone",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 335,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "58228",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mangosteen",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 347,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0556",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "T98G",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 465,
+          "length": 4
+        },
+        {
+          "text": "T98G",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 879,
+          "length": 4
+        },
+        {
+          "text": "T98G",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1012,
+          "length": 4
+        },
+        {
+          "text": "T98G",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1085,
+          "length": 4
+        },
+        {
+          "text": "T98G",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1601,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 494,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0321",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HT22",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 516,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin D1",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 672,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin-dependent kinase",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 719,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27Kip1",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 753,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4313,4318",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "matrix metalloproteinases 2/9",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 805,
+          "length": 29
+        },
+        {
+          "text": "MMP-2/-9",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 836,
+          "length": 8
+        },
+        {
+          "text": "MMP-2/-9",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1791,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "84557",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LC3",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1114,
+          "length": 3
+        },
+        {
+          "text": "LC3",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1202,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "8678",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Beclin 1",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1189,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "8878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1247,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C025946",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3-methyladenine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1487,
+          "length": 15
+        },
+        {
+          "text": "3-MA",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1504,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002738",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "chloroquine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1514,
+          "length": 11
+        },
+        {
+          "text": "CQ",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1527,
+          "length": 2
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "983",
+      "tail_id": "1027",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C009689",
+      "tail_id": "D005910",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C000605798",
+      "tail_id": "D002738",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C000605798",
+      "tail_id": "C025946",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C000605798",
+      "tail_id": "8878",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C000605798",
+      "tail_id": "84557",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C000605798",
+      "tail_id": "8678",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C000605798",
+      "tail_id": "1027",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C000605798",
+      "tail_id": "595",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C000605798",
+      "tail_id": "D005910",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "207",
+      "tail_id": "2475",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "5291",
+      "tail_id": "2475",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "5291",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

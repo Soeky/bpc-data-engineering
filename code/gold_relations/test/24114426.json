@@ -1,0 +1,333 @@
+{
+  "doc_id": "24114426",
+  "title": "Depression, impulsiveness, sleep, and memory in past and present polydrug users of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy).",
+  "body": "RATIONALE: Ecstasy (3,4-methylenedioxymethamphetamine, MDMA) is a worldwide recreational drug of abuse. Unfortunately, the results from human research investigating its psychological effects have been inconsistent. OBJECTIVES: The present study aimed to be the largest to date in sample size and 5HT-related behaviors; the first to compare present ecstasy users with past users after an abstinence of 4 or more years, and the first to include robust controls for other recreational substances. METHODS: A sample of 997 participants (52 % male) was recruited to four control groups (non-drug (ND), alcohol/nicotine (AN), cannabis/alcohol/nicotine (CAN), non-ecstasy polydrug (PD)), and two ecstasy polydrug groups (present (MDMA) and past users (EX-MDMA). Participants completed a drug history questionnaire, Beck Depression Inventory, Barratt Impulsiveness Scale, Pittsburgh Sleep Quality Index, and Wechsler Memory Scale-Revised which, in total, provided 13 psychometric measures. RESULTS: While the CAN and PD groups tended to record greater deficits than the non-drug controls, the MDMA and EX-MDMA groups recorded greater deficits than all the control groups on ten of the 13 psychometric measures. Strikingly, despite prolonged abstinence (mean, 4.98; range, 4-9 years), past ecstasy users showed few signs of recovery. Compared with present ecstasy users, the past users showed no change for ten measures, increased impairment for two measures, and improvement on just one measure. CONCLUSIONS: Given this record of impaired memory and clinically significant levels of depression, impulsiveness, and sleep disturbance, the prognosis for the current generation of ecstasy users is a major cause for concern.",
+  "entities": [
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Depression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1709,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010554",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impulsiveness",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 13
+        },
+        {
+          "text": "impulsiveness",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1721,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D018817",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3,4-methylenedioxymethamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 33
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 118,
+          "length": 4
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 124,
+          "length": 7
+        },
+        {
+          "text": "Ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 145,
+          "length": 7
+        },
+        {
+          "text": "3,4-methylenedioxymethamphetamine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 154,
+          "length": 33
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 189,
+          "length": 4
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 482,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 791,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 823,
+          "length": 7
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 857,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 882,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1219,
+          "length": 4
+        },
+        {
+          "text": "MDMA",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1231,
+          "length": 4
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1415,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1481,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1803,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 270,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5HT",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 430,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000431",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 731,
+          "length": 7
+        },
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 763,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009538",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 739,
+          "length": 8
+        },
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 771,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000431,D009538",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 749,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D002188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 754,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000431,D002188,D009538",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "CAN",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 781,
+          "length": 3
+        },
+        {
+          "text": "CAN",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1135,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired memory",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1656,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D020920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sleep disturbance",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1740,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D018817",
+      "tail_id": "D020920",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018817",
+      "tail_id": "D010554",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018817",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018817",
+      "tail_id": "D008569",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

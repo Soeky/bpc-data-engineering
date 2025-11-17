@@ -1,0 +1,508 @@
+{
+  "doc_id": "27640183",
+  "title": "Erythropoietin does not activate erythropoietin receptor signaling or lipolytic pathways in human subcutaneous white adipose tissue in vivo.",
+  "body": "BACKGROUND: Erythropoietin (Epo) exerts direct effects on white adipose tissue (WAT) in mice in addition to its erythropoietic effects, and in humans Epo increases resting energy expenditure and affect serum lipid levels, but direct effects of Epo in human WAT have not been documented. We therefore investigated the effects of acute and prolonged Epo exposure on human WAT in vivo. METHOD: Data were obtained from two clinical trials: 1) acute Epo exposure (rHuEpo, 400 IU/kg) followed by WAT biopsies after 1 h and 2) 10 weeks treatment with the erythropoiesis-stimulating agent (ESA) Darbepoietin-alpha. Biopsies were analyzed by PCR for Epo receptor (Epo-R) mRNA. A new and highly specific antibody (A82, Amgen) was used to evaluate the presence of Epo-R by western blot analysis in addition to Epo-R signaling proteins (Akt, STAT5, p70s6k, LYN, and p38MAPK), activation of lipolytic pathways (ATGL, HSL, CGI-58, G0S2, Perilipin, Cidea, Cidec, AMPK, and ACC), and mitochondrial biogenesis (VDAC, HSP90, PDH, and SDHA). RESULTS: No evidence of in vivo activation of the Epo-R in WAT could be documented despite detectable levels of Epo-R mRNA. CONCLUSION: Thus, in contradiction to animal studies, Epo treatment within a physiological relevant range in humans does not exert direct effects in a subcutaneous WAT.",
+  "entities": [
+    {
+      "id": "2056",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erythropoietin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 14
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 291,
+          "length": 3
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 385,
+          "length": 3
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 489,
+          "length": 3
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 586,
+          "length": 3
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1342,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2057",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "erythropoietin receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 23
+        },
+        {
+          "text": "Epo receptor",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 782,
+          "length": 12
+        },
+        {
+          "text": "Epo-R",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 796,
+          "length": 5
+        },
+        {
+          "text": "Epo-R",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 894,
+          "length": 5
+        },
+        {
+          "text": "Epo-R",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 940,
+          "length": 5
+        },
+        {
+          "text": "Epo-R",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1214,
+          "length": 5
+        },
+        {
+          "text": "Epo-R",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1276,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 284,
+          "length": 6
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 392,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 505,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1397,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "13856",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erythropoietin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 153,
+          "length": 14
+        },
+        {
+          "text": "Epo",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 169,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 229,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 349,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006397",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "erythropoiesis-stimulating agent",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 689,
+          "length": 32
+        },
+        {
+          "text": "ESA",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 723,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Darbepoietin-alpha",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 728,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 966,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6776",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "STAT5",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 971,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6198",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p70s6k",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 978,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4067",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LYN",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 986,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1432",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38MAPK",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 995,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "57104",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATGL",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1039,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3991",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HSL",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1045,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "51099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CGI-58",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1050,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "50486",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "G0S2",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1058,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5346",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Perilipin",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1064,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "1149",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cidea",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1075,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "63924",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cidec",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1082,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1089,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ACC",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1099,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "7416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VDAC",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1135,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3320",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HSP90",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1141,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "54704",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDH",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1148,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6389",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SDHA",
+          "passage_index": 1,
+          "passage_offset": 141,
+          "char_offset": 1157,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2056",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2057",
+      "tail_id": "1432",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "2057",
+      "tail_id": "4067",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "2057",
+      "tail_id": "6198",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "2057",
+      "tail_id": "6776",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "2057",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

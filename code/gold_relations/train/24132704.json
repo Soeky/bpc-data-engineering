@@ -1,0 +1,529 @@
+{
+  "doc_id": "24132704",
+  "title": "Crocin improves lipid dysregulation in subacute diazinon exposure through ERK1/2 pathway in rat liver.",
+  "body": "INTRODUCTION: Diazinon Yis one of the most broadly used organophosphorus insecticides in agriculture. It has been shown that exposure to diazinon may interfere with lipid metabolism. Moreover, the hypolipidemic effect of crocin has been established. Earlier studies revealed the major role of Extracellular signal-regulated kinase (ERK) pathways in low-density lipoprotein receptor (LDLr) expression. The aim of this study was to evaluate changes in the regulation of lipid metabolism, ERK and LDLr expression in the liver of rats exposed to subacute diazinon. Furthermore ameliorating effect of crocin on diazinon induced disturbed cholesterol homeostasis was studied. METHODS: 24 Rats were divided into 4 groups and received following treatments for 4 weeks; Corn oil (control), diazinon (15mg/kg per day, orally) and crocin (12.5 and 25mg/kg per day, intraperitoneally) in combination with diazinon (15 mg/kg). The levels of cholesterol, triglyceride and LDL in blood of rats were analyzed. Moreover mRNA levels of LDLr and ERK1/2 as well as protein levels of total and activated forms of ERK1/2 in rat liver were evaluated by Western blotting and quantitative real time polymerase chain reaction analysis. RESULTS: Our data showed that subacute exposure to diazinon significantly increased concentrations of cholesterol, triglyceride and LDL. Moreover diazinon decreased ERK1/2 protein phosphorylation and LDLr transcript. Crocin reduced inhibition of ERK activation and diazinon-induced hyperlipemia and increased levels of LDLr transcript. CONCLUSIONS: Crocin may be considered as a novel protective agent in diazinon-induced hyperlipemia through modulating of ERK pathway and increase of LDLr expression.",
+  "entities": [
+    {
+      "id": "C029036",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Crocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 324,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 699,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 923,
+          "length": 6
+        },
+        {
+          "text": "Crocin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1530,
+          "length": 6
+        },
+        {
+          "text": "Crocin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1662,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 268,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 571,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003976",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diazinon",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 8
+        },
+        {
+          "text": "Diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 117,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 240,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 654,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 709,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 884,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 996,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1364,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1459,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1578,
+          "length": 8
+        },
+        {
+          "text": "diazinon",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1718,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "116590,50689",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1/2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 6
+        },
+        {
+          "text": "Extracellular signal-regulated kinase",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 396,
+          "length": 37
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 435,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 589,
+          "length": 3
+        },
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1130,
+          "length": 6
+        },
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1195,
+          "length": 6
+        },
+        {
+          "text": "ERK1/2",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1478,
+          "length": 6
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1559,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1770,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 629,
+          "length": 4
+        },
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 785,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1077,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1205,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010755",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "organophosphorus",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 159,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "300438",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "low-density lipoprotein receptor",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 452,
+          "length": 32
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 486,
+          "length": 4
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 597,
+          "length": 4
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1121,
+          "length": 4
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1513,
+          "length": 4
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1632,
+          "length": 4
+        },
+        {
+          "text": "LDLr",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1798,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 736,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1031,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1415,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D003314",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Corn oil",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 864,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triglyceride",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1044,
+          "length": 12
+        },
+        {
+          "text": "triglyceride",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1428,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008077",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "LDL",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1061,
+          "length": 3
+        },
+        {
+          "text": "LDL",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1445,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006949",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperlipemia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1595,
+          "length": 12
+        },
+        {
+          "text": "hyperlipemia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1735,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2",
+      "head_id": "D003976",
+      "tail_id": "D008077",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003976",
+      "tail_id": "D014280",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003976",
+      "tail_id": "D002784",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003976",
+      "tail_id": "D006949",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003976",
+      "tail_id": "300438",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003976",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "300438",
+      "tail_id": "D006949",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C029036",
+      "tail_id": "D002784",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C029036",
+      "tail_id": "D003976",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C029036",
+      "tail_id": "D006949",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C029036",
+      "tail_id": "300438",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C029036",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

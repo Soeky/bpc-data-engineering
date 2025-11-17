@@ -1,0 +1,510 @@
+{
+  "doc_id": "28204828",
+  "title": "TIEG1 deficiency confers enhanced myocardial protection in the infarcted heart by mediating the Pten/Akt signalling pathway.",
+  "body": "The transforming growth factor (TGF)-b-inducible early gene-1 (TIEG1) plays a crucial role in modulating cell apoptosis and proliferation in a number of diseases, including pancreatic cancer, leukaemia and osteoporosis. However, the functional role of TIEG1 in the heart has not been fully defined. In this study, we first investigated the role of TIEG1 in ischaemic heart disease. For in vitro experiments, cardiomyocytes were isolated from both TIEG1 knockout (KO) and wile-type (WT) mice, and the apoptotic ratios were evaluated after a 48-h ischaemic insult. A cell proliferation assay was performed after 7 days of incubation under normoxic conditions. In addition, the angiogenic capacity of endothelial cells was determined by tube formation assay. For in vivo experiments, a model of myocardial infarction (MI) was established using both TIEG1 KO and WT mice. Echocardiography was performed at 3 and 28 days post-MI, whereas the haemodynamics test was performed 28 days post-MI. Histological analyses of apoptosis, proliferation, angiogenesis and infarct zone assessments were performed using terminal deoxynucleotidyltransferase-mediated dUTP nick-end labelling (TUNEL) staining, BrdU immunostaining, a-smooth muscle actin (a-SMA)/CD31 immunostaining and Masson's trichrome staining, respectively. Changes in the expression of related proteins caused by TIEG1 deficiency were confirmed using both reverse transcription-quantitative polymerase chain reaction (RT-qPCR) and western blot analysis. Our results demonstrated that the absence of TIEG1 prevented cardiomyocytes from undergoing apoptosis and promoted higher proliferation; it stimulated the proliferation of endothelial cells in vitro and in vivo. Improved cardiac function and less scar formation were observed in TIEG1 KO mice, and we also observed the altered expression of phosphatase and tensin homolog (Pten), Akt and Bcl-2/Bax, as well as vascular endothelial growth factor (VEGF). On the whole, our findings indicate that the absence of TIEG1 plays a cardioprotective role in ischaemic heart disease by promoting changes in Pten/Akt signalling.",
+  "entities": [
+    {
+      "id": "21847",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIEG1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "transforming growth factor (TGF)-b-inducible early gene-1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 129,
+          "length": 57
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 188,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 377,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 473,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 572,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 971,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1488,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1674,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1908,
+          "length": 5
+        },
+        {
+          "text": "TIEG1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2138,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infarcted heart",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 15
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 917,
+          "length": 21
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 940,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1046,
+          "length": 2
+        },
+        {
+          "text": "MI",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1108,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "19211",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Pten",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 4
+        },
+        {
+          "text": "phosphatase and tensin homolog",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1970,
+          "length": 30
+        },
+        {
+          "text": "Pten",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2002,
+          "length": 4
+        },
+        {
+          "text": "Pten",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2225,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2009,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2230,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010190",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pancreatic cancer",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 298,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007938",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "leukaemia",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 317,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D010024",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoporosis",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 331,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D017202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischaemic heart disease",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 482,
+          "length": 23
+        },
+        {
+          "text": "ischaemic heart disease",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2177,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 611,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 987,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1917,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007238",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infarct",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1180,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1791",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "terminal deoxynucleotidyltransferase",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1226,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "C027078",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dUTP",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1272,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "a-smooth muscle actin",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1335,
+          "length": 21
+        },
+        {
+          "text": "a-SMA",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1358,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "18613",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD31",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1365,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12043",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2017,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12028",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2023,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "22339",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "vascular endothelial growth factor",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2039,
+          "length": 34
+        },
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 2075,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1791",
+      "tail_id": "C027078",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "11651",
+      "tail_id": "D017202",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "19211",
+      "tail_id": "D017202",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "19211",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009203",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009203",
+      "tail_id": "19211",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "21847",
+      "tail_id": "D010190",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "21847",
+      "tail_id": "D007938",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "21847",
+      "tail_id": "D010024",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "21847",
+      "tail_id": "D017202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "21847",
+      "tail_id": "22339",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "21847",
+      "tail_id": "12028",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "21847",
+      "tail_id": "12043",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "21847",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "21847",
+      "tail_id": "19211",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "21847",
+      "tail_id": "D009203",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

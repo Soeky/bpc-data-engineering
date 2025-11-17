@@ -1,0 +1,521 @@
+{
+  "doc_id": "20534142",
+  "title": "Association of obesity risk SNPs in PCSK1 with insulin sensitivity and proinsulin conversion.",
+  "body": "BACKGROUND: Prohormone convertase 1 is involved in maturation of peptides. Rare mutations in gene PCSK1, encoding this enzyme, cause childhood obesity and abnormal glucose homeostasis with elevated proinsulin concentrations. Common single nucleotide polymorphisms (SNPs) within this gene, rs6232 and rs6235, are associated with obesity. We studied whether these SNPs influence the prediabetic traits insulin resistance, beta-cell dysfunction, or glucose intolerance. METHODS: We genotyped 1498 German subjects for SNPs rs6232 and rs6235 within PCSK1. The subjects were metabolically characterized by oral glucose tolerance test with glucose, insulin, proinsulin, and C-peptide measurements. A subgroup of 512 subjects underwent a hyperinsulinemic-euglycemic clamp. RESULTS: The minor allele frequencies were 25.8% for SNP rs6235 and 6.0% for rs6232. After adjustment for sex and age, we found no association of SNPs rs6235 and rs6232 with BMI or other weight-related traits (all p >or= 0.07). Both minor alleles, adjusted for sex, age, BMI and insulin sensitivity were associated with elevated AUCproinsulin and AUCproinsulin/AUCinsulin (rs6235: p(additive) model <or= 0.009, effect sizes 8/8%, rs6232: pdominant model <or= 0.01, effect sizes 10/21%). Insulin secretion was not affected by the variants (different secretion parameters, all p >or= 0.08). The minor allele of SNP rs6232 was additionally associated with 15% higher OGTT-derived and 19% higher clamp-derived insulin sensitivity (pdom <or= 0.0047), 4.5% lower HOMAIR (pdom = 0.02) and 3.5% lower 120-min glucose (pdom = 0.0003) independently of BMI and proinsulin conversion. SNP rs6235 was not associated with parameters of glucose metabolism. CONCLUSIONS: Like rare mutations in PCSK1, the more common variants tested determine glucose-stimulated proinsulin conversion, but not insulin secretion. In addition, rs6232, encoding the amino acid exchange N221D, influences insulin sensitivity and glucose homeostasis.",
+  "entities": [
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 7
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 237,
+          "length": 7
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 422,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5122",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PCSK1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 5
+        },
+        {
+          "text": "Prohormone convertase 1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 106,
+          "length": 23
+        },
+        {
+          "text": "PCSK1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 192,
+          "length": 5
+        },
+        {
+          "text": "PCSK1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 638,
+          "length": 5
+        },
+        {
+          "text": "PCSK1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1837,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 736,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1138,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1223,
+          "length": 7
+        },
+        {
+          "text": "Insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1346,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1565,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1936,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2027,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011384",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "proinsulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 292,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 745,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1191,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1209,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1709,
+          "length": 10
+        },
+        {
+          "text": "proinsulin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1905,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D044882",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "abnormal glucose homeostasis",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 249,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "rs6232",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 383,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 613,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 936,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1021,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1289,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1472,
+          "length": 6
+        },
+        {
+          "text": "rs6232",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1968,
+          "length": 6
+        },
+        {
+          "text": "N221D",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2009,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs6235",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 394,
+          "length": 6
+        },
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 624,
+          "length": 6
+        },
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 916,
+          "length": 6
+        },
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1010,
+          "length": 6
+        },
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1232,
+          "length": 6
+        },
+        {
+          "text": "rs6235",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1736,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D007333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 494,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "beta-cell dysfunction",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 514,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D018149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glucose intolerance",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 540,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 699,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 727,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1660,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1886,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2051,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002096",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "C-peptide",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 761,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D044903",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperinsulinemic-euglycemic",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 824,
+          "length": 27
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D044882",
+      "tail_id": "D011384",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005947",
+      "tail_id": "5122",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005947",
+      "tail_id": "D011384",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs6232",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs6232",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs6232",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5122",
+      "tail_id": "D044882",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "5122",
+      "tail_id": "D011384",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "rs6235",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D011384",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009765",
+      "tail_id": "5122",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "3630",
+      "tail_id": "5122",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "3630",
+      "tail_id": "D011384",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "3630",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

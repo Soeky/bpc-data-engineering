@@ -1,0 +1,322 @@
+{
+  "doc_id": "16410744",
+  "title": "Genetic alterations in primary glioblastomas in Japan.",
+  "body": "Current knowledge of genetic alterations in glioblastomas is based largely on genetic analyses of tumors from mainly caucasian patients in the United States and Europe. In the present study, screening for several key genetic alterations was performed on 77 primary (de novo) glioblastomas in Japanese patients. SSCP followed by DNA sequencing revealed TP53 mutations in 16 of 73 (22%) glioblastomas and PTEN mutations in 13 of 63 (21%) cases analyzed. Polymerase chain reaction (PCR) showed EGFR amplification in 25 of 77 (32%) cases and p16 homozygous deletion in 32 of 77 (42%) cases. Quantitative microsatellite analysis revealed LOH 10q in 41 of 59 (69%) glioblastomas. The frequencies of these genetic alterations were similar to those reported for primary glioblastomas at the population level in Switzerland. As previously observed for glioblastomas in Europe, there was a positive association between EGFR amplification and p16 deletion (p=0.009), whereas there was an inverse association between TP53 mutations and p16 deletion (p=0.049) in glioblastomas in Japan. Multivariate analyses showed that radiotherapy was significantly predictive for longer survival of glioblastoma patients (p=0.002). SSCP followed by DNA sequencing of the kinase domain (exons 18-21) of the EGFR gene revealed mutations in 2 ou of 69 (3%) glioblastomas in Japan and in 4 of 81 (5%) glioblastomas in Switzerland. The allele frequencies of polymorphisms at codon 787 CAG/CAA (Gln/Gln) in glioblastomas in Japan were G/G (82.4%), G/A (10.8%), A/A (6.8%), corresponding to G 0.878 versus A 0.122, significantly different from those in glioblastomas in Switzerland: G/G (27.2%), G/A (28.4%), A/A (44.4%), corresponding to G 0.414 versus A 0.586 (p < 0.0001). These results suggest that primary glioblastomas in Japan show genetic alterations similar to those in Switzerland, suggesting a similar molecular basis in caucasians and Asians, despite different genetic backgrounds, including different status of a polymorphism in the EGFR gene.",
+  "entities": [
+    {
+      "id": "D005909",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glioblastomas",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 99,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 330,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 440,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 714,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 817,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 898,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1105,
+          "length": 13
+        },
+        {
+          "text": "glioblastoma",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1228,
+          "length": 12
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1383,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1426,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1530,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1675,
+          "length": 13
+        },
+        {
+          "text": "glioblastomas",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1833,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 153,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 182,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 356,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1241,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 407,
+          "length": 4
+        },
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1060,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTEN",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 458,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1956",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 546,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 964,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1335,
+          "length": 4
+        },
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 2068,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 593,
+          "length": 3
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 987,
+          "length": 3
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1079,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q|787|Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "codon 787 CAG/CAA",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1499,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q||Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Gln/Gln",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1518,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|Q||Q",
+      "tail_id": "D005909",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|Q|787|Q",
+      "tail_id": "D005909",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "7157",
+      "tail_id": "1029",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "7157",
+      "tail_id": "D005909",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "1956",
+      "tail_id": "1029",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005909",
+      "tail_id": "1029",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005909",
+      "tail_id": "1956",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

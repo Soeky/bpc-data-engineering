@@ -1,0 +1,288 @@
+{
+  "doc_id": "18340638",
+  "title": "Azathioprine-induced suicidal erythrocyte death.",
+  "body": "BACKGROUND: Azathioprine is widely used as an immunosuppressive drug. The side effects of azathioprine include anemia, which has been attributed to bone marrow suppression. Alternatively, anemia could result from accelerated suicidal erythrocyte death or eryptosis, which is characterized by exposure of phosphatidylserine (PS) at the erythrocyte surface and by cell shrinkage. METHODS: The present experiments explored whether azathioprine influences eryptosis. According to annexin V binding, erythrocytes from patients indeed showed a significant increase of PS exposure within 1 week of treatment with azathioprine. In a second series, cytosolic Ca2+ activity (Fluo3 fluorescence), cell volume (forward scatter), and PS-exposure (annexin V binding) were determined by FACS analysis in erythrocytes from healthy volunteers. RESULTS: Exposure to azathioprine (> or =2 microg/mL) for 48 hours increased cytosolic Ca2+ activity and annexin V binding and decreased forward scatter. The effect of azathioprine on both annexin V binding and forward scatter was significantly blunted in the nominal absence of extracellular Ca2+. CONCLUSIONS: Azathioprine triggers suicidal erythrocyte death, an effect presumably contributing to azathioprine-induced anemia.",
+  "entities": [
+    {
+      "id": "D001379",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Azathioprine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "Azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 61,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 139,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 477,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 655,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 897,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1044,
+          "length": 12
+        },
+        {
+          "text": "Azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1188,
+          "length": 12
+        },
+        {
+          "text": "azathioprine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1275,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000740",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 160,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 237,
+          "length": 6
+        },
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1296,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001855",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bone marrow suppression",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 197,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D010718",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phosphatidylserine",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 353,
+          "length": 18
+        },
+        {
+          "text": "PS",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 373,
+          "length": 2
+        },
+        {
+          "text": "PS",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 611,
+          "length": 2
+        },
+        {
+          "text": "PS",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 770,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "308",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "annexin V",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 525,
+          "length": 9
+        },
+        {
+          "text": "annexin V",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 783,
+          "length": 9
+        },
+        {
+          "text": "annexin V",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 981,
+          "length": 9
+        },
+        {
+          "text": "annexin V",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1065,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 562,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 699,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 963,
+          "length": 4
+        },
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 1169,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C059715",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Fluo3",
+          "passage_index": 1,
+          "passage_offset": 49,
+          "char_offset": 714,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000740",
+      "tail_id": "D010718",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010718",
+      "tail_id": "308",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001379",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001379",
+      "tail_id": "D000740",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001379",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001379",
+      "tail_id": "308",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001379",
+      "tail_id": "D010718",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "doc_id": "20621845",
+  "title": "Elevation of ADAM10, ADAM17, MMP-2 and MMP-9 expression with media degeneration features CaCl2-induced thoracic aortic aneurysm in a rat model.",
+  "body": "PURPOSE: This study was designed to establish a rat model of thoracic aortic aneurysm (TAA) by calcium chloride (CaCl(2))-induced arterial injury and to explore the potential role of a disintegrin and metalloproteinase (ADAM), matrix metalloproteinases (MMPs) and their endogenous inhibitors (TIMPs) in TAA formation. METHODS: Thoracic aorta of male Sprague-Dawley rats was exposed to 0.5M CaCl(2) or normal saline (NaCl). After 12weeks, animals were euthanized, and CaCl(2)-treated, CaCl(2)-untreated (n=12) and NaCl-treated aortic segments (n=12) were collected for histological and molecular assessments. MMP-TIMP and ADAM mRNAs were semi-quantitatively analyzed and protein expressions were determined by immunohistochemistry. RESULTS: Despite similar external diameters among CaCl(2)-treated, non-CaCl(2)-treated and NaCl-treated segments, aneurymal alteration (n=6, 50%), media degeneration with regional disruption, fragmentation of elastic fiber, and increased collagen deposition (n=12, 100%) were demonstrated in CaCl(2)-treated segments. MMP-2, MMP-9, ADAM-10 and ADAM-17 mRNA levels were increased in CaCl(2)-treated segments (all p<0.01), with trends of elevation in CaCl(2)-untreated segments, as compared with NaCl-treated segments. Immunohistochemistry displayed significantly increased expressions of MMP-2, MMP-9, ADAM-10 and ADAM-17 (all p<0.01) in intima and media for CaCl(2)-treated segments. TIMP mRNA and tissue levels did not differ obviously among the three aortic segments. CONCLUSION: This study establishes a TAA model by periarterial CaCl(2) exposure in rats, and demonstrates a significant elevation of expression of MMP-2, MMP-9, ADAM10 and ADAM17 in the pathogenesis of vascular remodeling.",
+  "entities": [
+    {
+      "id": "29650",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADAM10",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 6
+        },
+        {
+          "text": "ADAM-10",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1207,
+          "length": 7
+        },
+        {
+          "text": "ADAM-10",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1476,
+          "length": 7
+        },
+        {
+          "text": "ADAM10",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1806,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "57027",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADAM17",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 6
+        },
+        {
+          "text": "ADAM-17",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1219,
+          "length": 7
+        },
+        {
+          "text": "ADAM-17",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1488,
+          "length": 7
+        },
+        {
+          "text": "ADAM17",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1817,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "81686",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 5
+        },
+        {
+          "text": "MMP-2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1193,
+          "length": 5
+        },
+        {
+          "text": "MMP-2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1462,
+          "length": 5
+        },
+        {
+          "text": "MMP-2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1792,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "81687",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP-9",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 5
+        },
+        {
+          "text": "MMP-9",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1200,
+          "length": 5
+        },
+        {
+          "text": "MMP-9",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1469,
+          "length": 5
+        },
+        {
+          "text": "MMP-9",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1799,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002122",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "CaCl2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 5
+        },
+        {
+          "text": "calcium chloride",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 239,
+          "length": 16
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 257,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 534,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 611,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 628,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 925,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 946,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1167,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1257,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1324,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1533,
+          "length": 7
+        },
+        {
+          "text": "CaCl(2)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1708,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D017545",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thoracic aortic aneurysm",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 103,
+          "length": 24
+        },
+        {
+          "text": "thoracic aortic aneurysm",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 205,
+          "length": 24
+        },
+        {
+          "text": "TAA",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 231,
+          "length": 3
+        },
+        {
+          "text": "TAA",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 447,
+          "length": 3
+        },
+        {
+          "text": "TAA",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1682,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 133,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 192,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 509,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1728,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014652",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arterial injury",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 274,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "29650,57027",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "a disintegrin and metalloproteinase",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 327,
+          "length": 35
+        },
+        {
+          "text": "ADAM",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 364,
+          "length": 4
+        },
+        {
+          "text": "ADAM",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 765,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "81686,81687",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "matrix metalloproteinases",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 371,
+          "length": 25
+        },
+        {
+          "text": "MMPs",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 398,
+          "length": 4
+        },
+        {
+          "text": "MMP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 752,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012965",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NaCl",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 560,
+          "length": 4
+        },
+        {
+          "text": "NaCl",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 657,
+          "length": 4
+        },
+        {
+          "text": "NaCl",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 966,
+          "length": 4
+        },
+        {
+          "text": "NaCl",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1369,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "116510",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIMP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 756,
+          "length": 4
+        },
+        {
+          "text": "TIMP",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1559,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002122",
+      "tail_id": "D014652",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002122",
+      "tail_id": "D017545",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "81687",
+      "tail_id": "D002122",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "81687",
+      "tail_id": "D017545",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "81686",
+      "tail_id": "D002122",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "81686",
+      "tail_id": "D017545",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "57027",
+      "tail_id": "D002122",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "57027",
+      "tail_id": "D017545",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "29650",
+      "tail_id": "D002122",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "29650",
+      "tail_id": "D017545",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

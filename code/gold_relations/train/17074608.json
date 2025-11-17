@@ -1,0 +1,248 @@
+{
+  "doc_id": "17074608",
+  "title": "Valproate-induced chorea and encephalopathy in atypical nonketotic hyperglycinemia.",
+  "body": "Nonketotic hyperglycinemia is a disorder of amino acid metabolism in which a defect in the glycine cleavage system leads to an accumulation of glycine in the brain and other body compartments. In the classical form it presents as neonatal apnea, intractable seizures, and hypotonia, followed by significant psychomotor retardation. An important subset of children with nonketotic hyperglycinemia are atypical variants who present in a heterogeneous manner. This report describes a patient with mild language delay and mental retardation, who was found to have nonketotic hyperglycinemia following her presentation with acute encephalopathy and chorea shortly after initiation of valproate therapy.",
+  "entities": [
+    {
+      "id": "D014635",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Valproate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "valproate",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 763,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002819",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chorea",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 6
+        },
+        {
+          "text": "chorea",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 728,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "encephalopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 14
+        },
+        {
+          "text": "encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 709,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D020158",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nonketotic hyperglycinemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 26
+        },
+        {
+          "text": "Nonketotic hyperglycinemia",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 84,
+          "length": 26
+        },
+        {
+          "text": "nonketotic hyperglycinemia",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 453,
+          "length": 26
+        },
+        {
+          "text": "nonketotic hyperglycinemia",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 644,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D000592",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "disorder of amino acid metabolism",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 116,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D005998",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 175,
+          "length": 7
+        },
+        {
+          "text": "glycine",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 227,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D001049",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "apnea",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 323,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 342,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009123",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotonia",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 356,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D011596",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychomotor retardation",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 391,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 565,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007805",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "language delay",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 583,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 84,
+          "char_offset": 602,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020158",
+      "tail_id": "D005998",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014635",
+      "tail_id": "D001927",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014635",
+      "tail_id": "D002819",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

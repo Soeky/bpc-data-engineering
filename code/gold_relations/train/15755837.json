@@ -1,0 +1,289 @@
+{
+  "doc_id": "15755837",
+  "title": "Common dihydrofolate reductase 19-base pair deletion allele: a novel risk factor for preterm delivery.",
+  "body": "BACKGROUND: Folate is critical for cell division, a major feature of in utero development. Dihydrofolate reductase (DHFR) is required to convert the folic acid used in supplements and for food fortification and the dihydrofolate produced by thymidylate synthase during DNA synthesis to the reduced folate forms used by the cell. OBJECTIVE: We aimed to determine whether a common, recently discovered deletion polymorphism in the DHFR gene is a risk factor for preterm delivery or low birth weight. DESIGN: We studied 324 pregnant women from Camden, NJ. Folate intake was computed from folate supplement intake plus the mean of two 24-h recalls completed during the course of pregnancy. Genomic DNA was extracted from the women's leukocytes and genotyped. RESULTS: Women with a deletion allele had a significantly greater risk of preterm delivery [adjusted odds ratio (AOR): 3.0; 95% CI: 1.0, 8.8; P < 0.05] than did those without a deletion allele. Women with both a DHFR deletion allele and low folate intake (<400 microg/d from diet plus supplements) had a significantly greater risk of preterm delivery (AOR: 5.5; 95% CI: 1.5, 20.4; P = 0.01) and a significantly greater risk of having an infant with a low birth weight (AOR: 8.3; 95% CI: 1.8, 38.6; P = 0.01) than did women without a deletion allele and with a folate intake >/=400 microg/d. CONCLUSIONS: The DHFR 19-base pair deletion allele may be a risk factor for preterm delivery. In the presence of low dietary folate, the allele may also be a risk factor for low birth weight. This may be a gene-environment interaction.",
+  "entities": [
+    {
+      "id": "1719",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dihydrofolate reductase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 7,
+          "length": 23
+        },
+        {
+          "text": "Dihydrofolate reductase",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 194,
+          "length": 23
+        },
+        {
+          "text": "DHFR",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 219,
+          "length": 4
+        },
+        {
+          "text": "DHFR",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 532,
+          "length": 4
+        },
+        {
+          "text": "DHFR",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1070,
+          "length": 4
+        },
+        {
+          "text": "DHFR",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1466,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||19",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "19-base pair deletion",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 21
+        },
+        {
+          "text": "19-base pair deletion",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1471,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D047928",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "preterm delivery",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 16
+        },
+        {
+          "text": "preterm delivery",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 563,
+          "length": 16
+        },
+        {
+          "text": "preterm delivery",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 932,
+          "length": 16
+        },
+        {
+          "text": "preterm delivery",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1192,
+          "length": 16
+        },
+        {
+          "text": "preterm delivery",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1525,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D005492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 115,
+          "length": 6
+        },
+        {
+          "text": "folic acid",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 252,
+          "length": 10
+        },
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 401,
+          "length": 6
+        },
+        {
+          "text": "Folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 656,
+          "length": 6
+        },
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 688,
+          "length": 6
+        },
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1099,
+          "length": 6
+        },
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1418,
+          "length": 6
+        },
+        {
+          "text": "folate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1574,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C010920",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dihydrofolate",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 318,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "7298",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thymidylate synthase",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 344,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 633,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 824,
+          "length": 5
+        },
+        {
+          "text": "Women",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 867,
+          "length": 5
+        },
+        {
+          "text": "Women",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1052,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1375,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C010920",
+      "tail_id": "7298",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005492",
+      "tail_id": "D047928",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DEL||19",
+      "tail_id": "D047928",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "1719",
+      "tail_id": "C010920",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "1719",
+      "tail_id": "D005492",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "1719",
+      "tail_id": "D047928",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "doc_id": "16849419",
+  "title": "Intronic deletions in the SLC34A3 gene cause hereditary hypophosphatemic rickets with hypercalciuria.",
+  "body": "CONTEXT: Hereditary hypophosphatemic rickets with hypercalciuria (HHRH) is a rare metabolic disorder, characterized by hypophosphatemia and rickets/osteomalacia with increased serum 1,25-dihydroxyvitamin D [1,25-(OH)(2)D] resulting in hypercalciuria. OBJECTIVE: Our objective was to determine whether mutations in the SLC34A3 gene, which encodes sodium-phosphate cotransporter type IIc, are responsible for the occurrence of HHRH. DESIGN AND SETTING: Mutation analysis of exons and adjacent introns in the SLC34A3 gene was conducted at an academic research laboratory and medical center. PATIENTS OR OTHER PARTICIPANTS: Members of two unrelated families with HHRH participated in the study. RESULTS: Two affected siblings in one family were homozygous for a 101-bp deletion in intron 9. Haplotype analysis of the SLC34A3 locus in the family showed that the two deletions are on different haplotypes. An unrelated individual with HHRH was a compound heterozygote for an 85-bp deletion in intron 10 and a G-to-A substitution at the last nucleotide in exon 7. The intron 9 deletion (and likely the other two mutations) identified in this study causes aberrant RNA splicing. Sequence analysis of the deleted regions revealed the presence of direct repeats of homologous sequences. CONCLUSION: HHRH is caused by biallelic mutations in the SLC34A3 gene. Haplotype analysis suggests that the two intron 9 deletions arose independently. The identification of three independent deletions in introns 9 and 10 suggests that the SLC34A3 gene may be susceptible to unequal crossing over because of sequence misalignment during meiosis.",
+  "entities": [
+    {
+      "id": "142680",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLC34A3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 7
+        },
+        {
+          "text": "SLC34A3",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 420,
+          "length": 7
+        },
+        {
+          "text": "sodium-phosphate cotransporter type IIc",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 448,
+          "length": 39
+        },
+        {
+          "text": "SLC34A3",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 608,
+          "length": 7
+        },
+        {
+          "text": "SLC34A3",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 915,
+          "length": 7
+        },
+        {
+          "text": "SLC34A3",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1436,
+          "length": 7
+        },
+        {
+          "text": "SLC34A3",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1619,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C562793",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hereditary hypophosphatemic rickets with hypercalciuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 55
+        },
+        {
+          "text": "Hereditary hypophosphatemic rickets with hypercalciuria",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 111,
+          "length": 55
+        },
+        {
+          "text": "HHRH",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 168,
+          "length": 4
+        },
+        {
+          "text": "HHRH",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 527,
+          "length": 4
+        },
+        {
+          "text": "HHRH",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 761,
+          "length": 4
+        },
+        {
+          "text": "HHRH",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1031,
+          "length": 4
+        },
+        {
+          "text": "HHRH",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1391,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolic disorder",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 184,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D017674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypophosphatemia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 221,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D012279",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rickets",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 242,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010018",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteomalacia",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 250,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "C097949",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "1,25-dihydroxyvitamin D",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 284,
+          "length": 23
+        },
+        {
+          "text": "1,25-(OH)(2)D",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 309,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D053565",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypercalciuria",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 337,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 690,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||101",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "101-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 860,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||85",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "85-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1071,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-to-A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1105,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C097949",
+      "tail_id": "D053565",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C562793",
+      "tail_id": "C097949",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C562793",
+      "tail_id": "c|SUB|G||A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C562793",
+      "tail_id": "c|DEL||85",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C562793",
+      "tail_id": "c|DEL||101",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "142680",
+      "tail_id": "C562793",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

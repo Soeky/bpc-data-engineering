@@ -1,0 +1,274 @@
+{
+  "doc_id": "20828385",
+  "title": "Cytostatic and anti-angiogenic effects of temsirolimus in refractory mantle cell lymphoma.",
+  "body": "Mantle cell lymphoma (MCL) is a rare and aggressive type of B-cell non-Hodgkin's lymphoma. Patients become progressively refractory to conventional chemotherapy, and their prognosis is poor. However, a 38% remission rate has been recently reported in refractory MCL treated with temsirolimus, a mTOR inhibitor.Here we had the opportunity to study a case of refractory MCL who had tumor regression two months after temsirolimus treatment, and a progression-free survival of 10 months. In this case, lymph node biopsies were performed before and six months after temsirolimus therapy. Comparison of the two biopsies showed that temsirolimus inhibited tumor cell proliferation through cell cycle arrest, but did not induce any change in the number of apoptotic tumor cells. Apart from this cytostatic effect, temsirolimus had an antiangiogenic effect with decrease of tumor microvessel density and of VEGF expression. Moreover, numerous patchy, well-limited fibrotic areas, compatible with post-necrotic tissue repair, were found after 6-month temsirolimus therapy. Thus, temsirolimus reduced tumor burden through associated cytostatic and anti-angiogenic effects.This dual effect of temsirolimus on tumor tissue could contribute to its recently reported efficiency in refractory MCL resistant to conventional chemotherapy.",
+  "entities": [
+    {
+      "id": "C401859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "temsirolimus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 370,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 505,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 652,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 717,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 897,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1132,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1160,
+          "length": 12
+        },
+        {
+          "text": "temsirolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1272,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D020522",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mantle cell lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 20
+        },
+        {
+          "text": "Mantle cell lymphoma",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 91,
+          "length": 20
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 113,
+          "length": 3
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 353,
+          "length": 3
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 459,
+          "length": 3
+        },
+        {
+          "text": "MCL",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1368,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008228",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "B-cell non-Hodgkin's lymphoma",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 151,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 182,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 386,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 471,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 740,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 849,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 956,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1181,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1288,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 989,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009336",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "necrotic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1083,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009336",
+      "tail_id": "C401859",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C401859",
+      "tail_id": "2475",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C401859",
+      "tail_id": "7422",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C401859",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D020522",
+      "tail_id": "C401859",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

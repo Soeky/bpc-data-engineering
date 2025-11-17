@@ -1,0 +1,433 @@
+{
+  "doc_id": "20667451",
+  "title": "Curcumin ameliorates cognitive dysfunction and oxidative damage in phenobarbitone and carbamazepine administered rats.",
+  "body": "The antiepileptic drugs, phenobarbitone and carbamazepine are well known to cause cognitive impairment on chronic use. The increase in free radical generation has been implicated as one of the important mechanisms of cognitive impairment by antiepileptic drugs. Curcumin has shown antioxidant, anti-inflammatory and neuro-protective properties. Therefore, the present study was carried out to investigate the effect of chronic curcumin administration on phenobarbitone- and carbamazepine-induced cognitive impairment and oxidative stress in rats. Pharmacokinetic interactions of curcumin with phenobarbitone and carbamazepine were also studied. Vehicle/drugs were administered daily for 21days to male Wistar rats. Passive avoidance paradigm and elevated plus maze test were used to assess cognitive function. At the end of study period, serum phenobarbitone and carbamazepine, whole brain malondialdehyde and reduced glutathione levels were estimated. The administration of phenobarbitone and carbamazepine for 21days caused a significant impairment of learning and memory as well as an increased oxidative stress. Concomitant curcumin administration prevented the cognitive impairment and decreased the increased oxidative stress induced by these antiepileptic drugs. Curcumin co-administration did not cause any significant alteration in the serum concentrations of both phenobarbitone as well as carbamazepine. These results show that curcumin has beneficial effect in mitigating the deterioration of cognitive functions and oxidative damage in rats treated with phenobarbitone and carbamazepine without significantly altering their serum concentrations. The findings suggest that curcumin can be considered as a potential safe and effective adjuvant to phenobarbitone and carbamazepine therapy in preventing cognitive impairment associated with these drugs.",
+  "entities": [
+    {
+      "id": "D003474",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Curcumin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "Curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 381,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 546,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 698,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1247,
+          "length": 8
+        },
+        {
+          "text": "Curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1389,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1558,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1804,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive dysfunction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 21
+        },
+        {
+          "text": "cognitive impairment",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 201,
+          "length": 20
+        },
+        {
+          "text": "cognitive impairment",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 336,
+          "length": 20
+        },
+        {
+          "text": "cognitive impairment",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 615,
+          "length": 20
+        },
+        {
+          "text": "impairment of learning and memory",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1159,
+          "length": 33
+        },
+        {
+          "text": "cognitive impairment",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1285,
+          "length": 20
+        },
+        {
+          "text": "deterioration of cognitive functions",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1607,
+          "length": 36
+        },
+        {
+          "text": "cognitive impairment",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1932,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D010634",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phenobarbitone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 144,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 573,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 712,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 963,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1094,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1493,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1686,
+          "length": 14
+        },
+        {
+          "text": "phenobarbitone",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1877,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbamazepine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 163,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 593,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 731,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 982,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1113,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1519,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1705,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1896,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 113,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 660,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 828,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1668,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000927",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antiepileptic drugs",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 123,
+          "length": 19
+        },
+        {
+          "text": "antiepileptic drugs",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 360,
+          "length": 19
+        },
+        {
+          "text": "antiepileptic drugs",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1368,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antioxidant",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 400,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 418,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008315",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malondialdehyde",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1009,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1037,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003072",
+      "tail_id": "D000927",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003072",
+      "tail_id": "D002220",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003072",
+      "tail_id": "D010634",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003474",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003474",
+      "tail_id": "D002220",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003474",
+      "tail_id": "D010634",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003474",
+      "tail_id": "D003072",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

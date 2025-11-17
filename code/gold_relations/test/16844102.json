@@ -1,0 +1,556 @@
+{
+  "doc_id": "16844102",
+  "title": "Effect of alpha-tocopherol and deferoxamine on methamphetamine-induced neurotoxicity.",
+  "body": "Methamphetamine (MA)-induced dopaminergic neurotoxicity is believed to be associated with the increased formation of free radicals. This study examined the effect of alpha-tocopherol (alpha-TC), a scavenger of reactive oxygen species, and deferoxamine (DFO), an iron chelator, on the MA-induced neurotoxicity. Male rats were treated with MA (10 mg/kg, every 2 h for four injections). The rat received either alpha-TC (20 mg/kg) intraperitoneally for 3 days and 30 min prior to MA administration or DFO (50 mg/kg) subcutaneously 30 min before MA administration. The concentrations of dopamine (DA), serotonin and their metabolites decreased significantly after MA administration, which was inhibited by the alpha-TC and DFO pretreatment. alpha-TC and DFO attenuated the MA-induced hyperthermia as well as the alterations in the locomotor activity. The level of lipid peroxidation was higher and the reduced glutathione concentration was lower in the MA-treated rats. These changes were significantly attenuated by alpha-TC and DFO. This suggests that alpha-TC and DFO ameliorate the MA-induced neuronal damage by decreasing the level of oxidative stress.",
+  "entities": [
+    {
+      "id": "D024502",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alpha-tocopherol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 16
+        },
+        {
+          "text": "alpha-tocopherol",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 252,
+          "length": 16
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 270,
+          "length": 8
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 494,
+          "length": 8
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 792,
+          "length": 8
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 823,
+          "length": 8
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1099,
+          "length": 8
+        },
+        {
+          "text": "alpha-TC",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1136,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003676",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "deferoxamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 12
+        },
+        {
+          "text": "deferoxamine",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 325,
+          "length": 12
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 339,
+          "length": 3
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 584,
+          "length": 3
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 805,
+          "length": 3
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 836,
+          "length": 3
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1112,
+          "length": 3
+        },
+        {
+          "text": "DFO",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1149,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008694",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 15
+        },
+        {
+          "text": "Methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 86,
+          "length": 15
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 103,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 370,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 424,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 563,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 628,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 746,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 855,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1035,
+          "length": 2
+        },
+        {
+          "text": "MA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1168,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 128,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 381,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopaminergic",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 115,
+          "length": 12
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 669,
+          "length": 8
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 679,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 296,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 348,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 401,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 474,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1046,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "serotonin",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 684,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005334",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperthermia",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 866,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 946,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 992,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuronal damage",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1179,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008055",
+      "tail_id": "D008694",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005978",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012701",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D024502",
+      "tail_id": "D017382",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D024502",
+      "tail_id": "D009422",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D024502",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D024502",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D024502",
+      "tail_id": "D005334",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D024502",
+      "tail_id": "D012701",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D024502",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D024502",
+      "tail_id": "D004298",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D008694",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D008694",
+      "tail_id": "D009422",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D008694",
+      "tail_id": "D005334",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D004298",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D004298",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D003676",
+      "tail_id": "D009422",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D003676",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D003676",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D003676",
+      "tail_id": "D005334",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D003676",
+      "tail_id": "D012701",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D003676",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D003676",
+      "tail_id": "D004298",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D003676",
+      "tail_id": "D007501",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

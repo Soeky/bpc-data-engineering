@@ -1,0 +1,239 @@
+{
+  "doc_id": "22836123",
+  "title": "Late-onset scleroderma renal crisis induced by tacrolimus and prednisolone: a case report.",
+  "body": "Scleroderma renal crisis (SRC) is a rare complication of systemic sclerosis (SSc) but can be severe enough to require temporary or permanent renal replacement therapy. Moderate to high dose corticosteroid use is recognized as a major risk factor for SRC. Furthermore, there have been reports of thrombotic microangiopathy precipitated by cyclosporine in patients with SSc. In this article, we report a patient with SRC induced by tacrolimus and corticosteroids. The aim of this work is to call attention to the risk of tacrolimus use in patients with SSc.",
+  "entities": [
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "scleroderma renal crisis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 24
+        },
+        {
+          "text": "Scleroderma renal crisis",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 91,
+          "length": 24
+        },
+        {
+          "text": "SRC",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 117,
+          "length": 3
+        },
+        {
+          "text": "SRC",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 341,
+          "length": 3
+        },
+        {
+          "text": "SRC",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 506,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016559",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tacrolimus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 10
+        },
+        {
+          "text": "tacrolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 521,
+          "length": 10
+        },
+        {
+          "text": "tacrolimus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 610,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D011239",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "prednisolone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D012595",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic sclerosis",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 148,
+          "length": 18
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 168,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 459,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 642,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000305",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "corticosteroid",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 281,
+          "length": 14
+        },
+        {
+          "text": "corticosteroids",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 536,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D057049",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombotic microangiopathy",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 386,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D016572",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclosporine",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 429,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 445,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 493,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 628,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000305",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D057049",
+      "tail_id": "D016572",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D016572",
+      "tail_id": "D012595",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D016559",
+      "tail_id": "D012595",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007674",
+      "tail_id": "D011239",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007674",
+      "tail_id": "D016559",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

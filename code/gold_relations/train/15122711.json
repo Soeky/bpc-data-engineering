@@ -1,0 +1,245 @@
+{
+  "doc_id": "15122711",
+  "title": "POLG mutations associated with Alpers' syndrome and mitochondrial DNA depletion.",
+  "body": "Alpers' syndrome is a fatal neurogenetic disorder first described more than 70 years ago. It is an autosomal recessive, developmental mitochondrial DNA depletion disorder characterized by deficiency in mitochondrial DNA polymerase gamma (POLG) catalytic activity, refractory seizures, neurodegeneration, and liver disease. In two unrelated pedigrees of Alpers' syndrome, each affected child was found to carry a homozygous mutation in exon 17 of the POLG locus that led to a Glu873Stop mutation just upstream of the polymerase domain of the protein. In addition, each affected child was heterozygous for the G1681A mutation in exon 7 that led to an Ala467Thr substitution in POLG, within the linker region of the protein.",
+  "entities": [
+    {
+      "id": "5428",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "POLG",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "DNA polymerase gamma",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 297,
+          "length": 20
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 319,
+          "length": 4
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 531,
+          "length": 4
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 756,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002549",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alpers' syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 16
+        },
+        {
+          "text": "Alpers' syndrome",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 81,
+          "length": 16
+        },
+        {
+          "text": "Alpers' syndrome",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 434,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial DNA depletion",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 27
+        },
+        {
+          "text": "mitochondrial DNA depletion",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 215,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurogenetic disorder",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 109,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 356,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegeneration",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 366,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D008107",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver disease",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 389,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "rs121918047",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Glu873Stop",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 556,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs113994095",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G1681A",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 689,
+          "length": 6
+        },
+        {
+          "text": "Ala467Thr",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 730,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008107",
+      "tail_id": "5428",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019636",
+      "tail_id": "5428",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012640",
+      "tail_id": "5428",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs113994095",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs113994095",
+      "tail_id": "D002549",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs121918047",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D002549",
+      "tail_id": "rs121918047",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "5428",
+      "tail_id": "D028361",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "5428",
+      "tail_id": "D002549",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "doc_id": "25054547",
+  "title": "Characterization of a novel BCHE \"silent\" allele: point mutation (p.Val204Asp) causes loss of activity and prolonged apnea with suxamethonium.",
+  "body": "Butyrylcholinesterase deficiency is characterized by prolonged apnea after the use of muscle relaxants (suxamethonium or mivacurium) in patients who have mutations in the BCHE gene. Here, we report a case of prolonged neuromuscular block after administration of suxamethonium leading to the discovery of a novel BCHE variant (c.695T>A, p.Val204Asp). Inhibition studies, kinetic analysis and molecular dynamics were undertaken to understand how this mutation disrupts the catalytic triad and determines a \"silent\" phenotype. Low activity of patient plasma butyrylcholinesterase with butyrylthiocholine (BTC) and benzoylcholine, and values of dibucaine and fluoride numbers fit with heterozygous atypical silent genotype. Electrophoretic analysis of plasma BChE of the proband and his mother showed that patient has a reduced amount of tetrameric enzyme in plasma and that minor fast-moving BChE components: monomer, dimer, and monomer-albumin conjugate are missing. Kinetic analysis showed that the p.Val204Asp/p.Asp70Gly-p.Ala539Thr BChE displays a pure Michaelian behavior with BTC as the substrate. Both catalytic parameters Km = 265 uM for BTC, two times higher than that of the atypical enzyme, and a low Vmax are consistent with the absence of activity against suxamethonium. Molecular dynamic (MD) simulations showed that the overall effect of the mutation p.Val204Asp is disruption of hydrogen bonding between Gln223 and Glu441, leading Ser198 and His438 to move away from each other with subsequent disruption of the catalytic triad functionality regardless of the type of substrate. MD also showed that the enzyme volume is increased, suggesting a pre-denaturation state. This fits with the reduced concentration of p.Ala204Asp/p.Asp70Gly-p.Ala539Thr tetrameric enzyme in the plasma and non-detectable fast moving-bands on electrophoresis gels.",
+  "entities": [
+    {
+      "id": "590",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCHE",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 4
+        },
+        {
+          "text": "BCHE",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 314,
+          "length": 4
+        },
+        {
+          "text": "BCHE",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 455,
+          "length": 4
+        },
+        {
+          "text": "butyrylcholinesterase",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 698,
+          "length": 21
+        },
+        {
+          "text": "BChE",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 898,
+          "length": 4
+        },
+        {
+          "text": "BChE",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1032,
+          "length": 4
+        },
+        {
+          "text": "BChE",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1176,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|V|204|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Val204Asp",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 11
+        },
+        {
+          "text": "p.Val204Asp",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 479,
+          "length": 11
+        },
+        {
+          "text": "p.Val204Asp",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1141,
+          "length": 11
+        },
+        {
+          "text": "p.Val204Asp",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1506,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001049",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "apnea",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 5
+        },
+        {
+          "text": "apnea",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 206,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013390",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "suxamethonium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 128,
+          "length": 13
+        },
+        {
+          "text": "suxamethonium",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 247,
+          "length": 13
+        },
+        {
+          "text": "suxamethonium",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 405,
+          "length": 13
+        },
+        {
+          "text": "suxamethonium",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1409,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C537417",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Butyrylcholinesterase deficiency",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 143,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "muscle relaxants",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 229,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D000077590",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mivacurium",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 264,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 279,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 683,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 945,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D055191",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuromuscular block",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 361,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|695|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.695T>A",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 469,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002092",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "butyrylthiocholine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 725,
+          "length": 18
+        },
+        {
+          "text": "BTC",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 745,
+          "length": 3
+        },
+        {
+          "text": "BTC",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1222,
+          "length": 3
+        },
+        {
+          "text": "BTC",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1286,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001588",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "benzoylcholine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 754,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D003992",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dibucaine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 784,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005459",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluoride",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 798,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs1799807",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Asp70Gly",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1153,
+          "length": 10
+        },
+        {
+          "text": "p.Asp70Gly",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1880,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs1803274",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ala539Thr",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1164,
+          "length": 11
+        },
+        {
+          "text": "p.Ala539Thr",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1891,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|204|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ala204Asp",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1868,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C537417",
+      "tail_id": "D000077590",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C537417",
+      "tail_id": "D013390",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C537417",
+      "tail_id": "p|SUB|V|204|D",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1803274",
+      "tail_id": "D002092",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs1799807",
+      "tail_id": "rs1803274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs1799807",
+      "tail_id": "D002092",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D055191",
+      "tail_id": "c|SUB|T|695|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D055191",
+      "tail_id": "D013390",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D055191",
+      "tail_id": "p|SUB|V|204|D",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "590",
+      "tail_id": "C537417",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "590",
+      "tail_id": "D002092",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "590",
+      "tail_id": "D055191",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "590",
+      "tail_id": "D013390",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "590",
+      "tail_id": "D001049",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D013390",
+      "tail_id": "c|SUB|T|695|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D013390",
+      "tail_id": "D001049",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D001049",
+      "tail_id": "D000077590",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "p|SUB|V|204|D",
+      "tail_id": "rs1803274",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "p|SUB|V|204|D",
+      "tail_id": "rs1799807",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "p|SUB|V|204|D",
+      "tail_id": "D002092",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "p|SUB|V|204|D",
+      "tail_id": "D013390",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "p|SUB|V|204|D",
+      "tail_id": "D001049",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

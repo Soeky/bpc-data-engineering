@@ -1,0 +1,453 @@
+{
+  "doc_id": "24438483",
+  "title": "Pre-treatment of bupivacaine-induced cardiovascular depression using different lipid formulations of propofol.",
+  "body": "BACKGROUND: Pre-treatment with lipid emulsions has been shown to increase lethal doses of bupivacaine, and the lipid content of propofol may alleviate bupivacaine-induced cardiotoxicity. The aim of this study is to investigate the effects of propofol in intralipid or medialipid emulsions on bupivacaine-induced cardiotoxicity. METHODS: Rats were anaesthetised with ketamine and were given 0.5 mg/kg/min propofol in intralipid (Group P), propofol in medialipid (Group L), or saline (Group C) over 20 min. Thereafter, 2 mg/kg/min bupivacaine 0.5% was infused. We recorded time to first dysrhythmia occurrence, respective times to 25% and 50% reduction of the heart rate (HR) and mean arterial pressure, and time to asystole and total amount of bupivacaine consumption. Blood and tissue samples were collected following asystole. RESULTS: The time to first dysrhythmia occurrence, time to 25% and 50% reductions in HR, and time to asystole were longer in Group P than the other groups. The cumulative bupivacaine dose given at those time points was higher in Group P. Plasma bupivacaine levels were significantly lower in Group P than in Group C. Bupivacaine levels in the brain and heart were significantly lower in Group P and Group L than in Group C. CONCLUSION: We conclude that pre-treatment with propofol in intralipid, compared with propofol in medialipid or saline, delayed the onset of bupivacaine-induced cardiotoxic effects as well as reduced plasma bupivacaine levels. Further studies are needed to explore tissue bupivacaine levels of propofol in medialipid and adapt these results to clinical practice.",
+  "entities": [
+    {
+      "id": "D002045",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bupivacaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 201,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 262,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 403,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 640,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 854,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1110,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1184,
+          "length": 11
+        },
+        {
+          "text": "Bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1256,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1504,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1570,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1635,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular depression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 222,
+          "length": 5
+        },
+        {
+          "text": "medialipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 379,
+          "length": 10
+        },
+        {
+          "text": "medialipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 561,
+          "length": 10
+        },
+        {
+          "text": "medialipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1461,
+          "length": 10
+        },
+        {
+          "text": "medialipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1669,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D015742",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propofol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 239,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 353,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 515,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 549,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1411,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1449,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1657,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005217",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid emulsions",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 142,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 282,
+          "length": 14
+        },
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 423,
+          "length": 14
+        },
+        {
+          "text": "cardiotoxic",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1524,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C545823",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "intralipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 365,
+          "length": 10
+        },
+        {
+          "text": "intralipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 527,
+          "length": 10
+        },
+        {
+          "text": "intralipid",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1423,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 448,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007649",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ketamine",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 477,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dysrhythmia",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 696,
+          "length": 11
+        },
+        {
+          "text": "dysrhythmia",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 966,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006323",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "asystole",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 825,
+          "length": 8
+        },
+        {
+          "text": "asystole",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 929,
+          "length": 8
+        },
+        {
+          "text": "asystole",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1040,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005217",
+      "tail_id": "D002045",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008055",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008055",
+      "tail_id": "D002045",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C545823",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C545823",
+      "tail_id": "D008055",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C545823",
+      "tail_id": "D002045",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D015742",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D015742",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D015742",
+      "tail_id": "C545823",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D015742",
+      "tail_id": "D002318",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D015742",
+      "tail_id": "D002045",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002045",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D002045",
+      "tail_id": "D002318",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "doc_id": "23069675",
+  "title": "Critical role of neuronal pentraxin 1 in mitochondria-mediated hypoxic-ischemic neuronal injury.",
+  "body": "Developing brain is highly susceptible to hypoxic-ischemic (HI) injury leading to severe neurological disabilities in surviving infants and children. Previously, we have reported induction of neuronal pentraxin 1 (NP1), a novel neuronal protein of long-pentraxin family, following HI neuronal injury. Here, we investigated how this specific signal is propagated to cause the HI neuronal death. We used wild-type (WT) and NP1 knockout (NP1-KO) mouse hippocampal cultures, modeled in vitro following exposure to oxygen glucose deprivation (OGD), and in vivo neonatal (P9-10) mouse model of HI brain injury. Our results show induction of NP1 in primary hippocampal neurons following OGD exposure (4-8 h) and in the ipsilateral hippocampal CA1 and CA3 regions at 24-48 h post-HI compared to the contralateral side. We also found increased PTEN activity concurrent with OGD time-dependent (4-8 h) dephosphorylation of Akt (Ser473) and GSK-3b (Ser9). OGD also caused a time-dependent decrease in the phosphorylation of Bad (Ser136), and Bax protein levels. Immunofluorescence staining and subcellular fractionation analyses revealed increased mitochondrial translocation of Bad and Bax proteins from cytoplasm following OGD (4 h) and simultaneously increased release of Cyt C from mitochondria followed by activation of caspase-3. NP1 protein was immunoprecipitated with Bad and Bax proteins; OGD caused increased interactions of NP1 with Bad and Bax, thereby, facilitating their mitochondrial translocation and dissipation of mitochondrial membrane potential (D (m)). This NP1 induction preceded the increased mitochondrial release of cytochrome C (Cyt C) into the cytosol, activation of caspase-3 and OGD time-dependent cell death in WT primary hippocampal neurons. In contrast, in NP1-KO neurons there was no translocation of Bad and Bax from cytosol to the mitochondria, and no evidence of D (m) loss, increased Cyt C release and caspase-3 activation following OGD; which resulted in significantly reduced neuronal death. Our results indicate a regulatory role of NP1 in Bad/Bax-dependent mitochondrial release of Cyt C and caspase-3 activation. Together our findings demonstrate a novel mechanism by which NP1 regulates mitochondria-driven hippocampal cell death; suggesting NP1 as a potential therapeutic target against HI brain injury in neonates.",
+  "entities": [
+    {
+      "id": "18164",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neuronal pentraxin 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 20
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 518,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 532,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 732,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1422,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1521,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1665,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1875,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2159,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2302,
+          "length": 3
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2371,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020925",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxic-ischemic neuronal injury",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 32
+        },
+        {
+          "text": "hypoxic-ischemic (HI) injury",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 139,
+          "length": 28
+        },
+        {
+          "text": "HI neuronal injury",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 378,
+          "length": 18
+        },
+        {
+          "text": "HI neuronal death",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 472,
+          "length": 17
+        },
+        {
+          "text": "HI brain injury",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 685,
+          "length": 15
+        },
+        {
+          "text": "HI brain injury",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2417,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological disabilities",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 186,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "266777",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neuronal pentraxin 1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 289,
+          "length": 20
+        },
+        {
+          "text": "NP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 311,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 540,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 670,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 607,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 614,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "12346",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CA1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 833,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12350",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CA3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 841,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "19211",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTEN",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 932,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1010,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|AellelS|473",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ser473",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1015,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "56637",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GSK-3b",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1027,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|AellelS|9",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ser9",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1035,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12015",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1110,
+          "length": 3
+        },
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1265,
+          "length": 3
+        },
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1462,
+          "length": 3
+        },
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1530,
+          "length": 3
+        },
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1920,
+          "length": 3
+        },
+        {
+          "text": "Bad",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2166,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|AellelS|136",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ser136",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1115,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12028",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1128,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1273,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1470,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1538,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1928,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2170,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "13063",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cyt C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1361,
+          "length": 5
+        },
+        {
+          "text": "cytochrome C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1727,
+          "length": 12
+        },
+        {
+          "text": "Cyt C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1741,
+          "length": 5
+        },
+        {
+          "text": "Cyt C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2007,
+          "length": 5
+        },
+        {
+          "text": "Cyt C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2209,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1411,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1780,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2025,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2219,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuronal death",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 2101,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "266777",
+      "tail_id": "D020925",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "12367",
+      "tail_id": "D009410",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "13063",
+      "tail_id": "D009410",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "12028",
+      "tail_id": "12367",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "12028",
+      "tail_id": "13063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "12028",
+      "tail_id": "D009410",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "12015",
+      "tail_id": "12367",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "12015",
+      "tail_id": "13063",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "12015",
+      "tail_id": "D009410",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "19211",
+      "tail_id": "56637",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "19211",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "18164",
+      "tail_id": "D009410",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "18164",
+      "tail_id": "12028",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "18164",
+      "tail_id": "12015",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "18164",
+      "tail_id": "D020925",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

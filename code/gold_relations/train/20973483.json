@@ -1,0 +1,250 @@
+{
+  "doc_id": "20973483",
+  "title": "In vivo characterization of a dual adenosine A2A/A1 receptor antagonist in animal models of Parkinson's disease.",
+  "body": "The in vivo characterization of a dual adenosine A(2A)/A(1) receptor antagonist in several animal models of Parkinson's disease is described. Discovery and scale-up syntheses of compound 1 are described in detail, highlighting optimization steps that increased the overall yield of 1 from 10.0% to 30.5%. Compound 1 is a potent A(2A)/A(1) receptor antagonist in vitro (A(2A) K(i) = 4.1 nM; A(1) K(i) = 17.0 nM) that has excellent activity, after oral administration, across a number of animal models of Parkinson's disease including mouse and rat models of haloperidol-induced catalepsy, mouse model of reserpine-induced akinesia, rat 6-hydroxydopamine (6-OHDA) lesion model of drug-induced rotation, and MPTP-treated non-human primate model.",
+  "entities": [
+    {
+      "id": "D058915",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "adenosine A2A/A1 receptor antagonist",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 36
+        },
+        {
+          "text": "adenosine A(2A)/A(1) receptor antagonist",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 152,
+          "length": 40
+        },
+        {
+          "text": "A(2A)/A(1) receptor antagonist",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 441,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 221,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 616,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 646,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 701,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 656,
+          "length": 3
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 744,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "haloperidol",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 670,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D002375",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "catalepsy",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 690,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012110",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reserpine",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 716,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "akinesia",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 734,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016627",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "6-hydroxydopamine",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 748,
+          "length": 17
+        },
+        {
+          "text": "6-OHDA",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 767,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D015632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "MPTP",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 818,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 835,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D006220",
+      "tail_id": "D002375",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D058915",
+      "tail_id": "D010300",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010300",
+      "tail_id": "D006220",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010300",
+      "tail_id": "D015632",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D010300",
+      "tail_id": "D016627",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D010300",
+      "tail_id": "D012110",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012110",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

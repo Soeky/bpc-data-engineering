@@ -1,0 +1,585 @@
+{
+  "doc_id": "20046642",
+  "title": "Metallothionein induction reduces caspase-3 activity and TNFalpha levels with preservation of cognitive function and intact hippocampal neurons in carmustine-treated rats.",
+  "body": "Hippocampal integrity is essential for cognitive functions. On the other hand, induction of metallothionein (MT) by ZnSO(4) and its role in neuroprotection has been documented. The present study aimed to explore the effect of MT induction on carmustine (BCNU)-induced hippocampal cognitive dysfunction in rats. A total of 60 male Wistar albino rats were randomly divided into four groups (15/group): The control group injected with single doses of normal saline (i.c.v) followed 24 h later by BCNU solvent (i.v). The second group administered ZnSO(4) (0.1 micromol/10 microl normal saline, i.c.v, once) then BCNU solvent (i.v) after 24 h. Third group received BCNU (20 mg/kg, i.v, once) 24 h after injection with normal saline (i.c.v). Fourth group received a single dose of ZnSO(4) (0.1 micromol/10 microl normal saline, i.c.v) then BCNU (20 mg/kg, i.v, once) after 24 h. The obtained data revealed that BCNU administration resulted in deterioration of learning and short-term memory (STM), as measured by using radial arm water maze, accompanied with decreased hippocampal glutathione reductase (GR) activity and reduced glutathione (GSH) content. Also, BCNU administration increased serum tumor necrosis factor-alpha (TNFalpha), hippocampal MT and malondialdehyde (MDA) contents as well as caspase-3 activity in addition to histological alterations. ZnSO(4) pretreatment counteracted BCNU-induced inhibition of GR and depletion of GSH and resulted in significant reduction in the levels of MDA and TNFalpha as well as the activity of caspase-3. The histological features were improved in hippocampus of rats treated with ZnSO(4) + BCNU compared to only BCNU-treated animals. In conclusion, MT induction halts BCNU-induced hippocampal toxicity as it prevented GR inhibition and GSH depletion and counteracted the increased levels of TNFalpha, MDA and caspase-3 activity with subsequent preservation of cognition.",
+  "entities": [
+    {
+      "id": "D008668",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Metallothionein",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "metallothionein",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 264,
+          "length": 15
+        },
+        {
+          "text": "MT",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 281,
+          "length": 2
+        },
+        {
+          "text": "MT",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 398,
+          "length": 2
+        },
+        {
+          "text": "MT",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1416,
+          "length": 2
+        },
+        {
+          "text": "MT",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1865,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "25402",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1465,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1709,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 2025,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24835",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFalpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 8
+        },
+        {
+          "text": "tumor necrosis factor-alpha",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1364,
+          "length": 27
+        },
+        {
+          "text": "TNFalpha",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1393,
+          "length": 8
+        },
+        {
+          "text": "TNFalpha",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1673,
+          "length": 8
+        },
+        {
+          "text": "TNFalpha",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 2007,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002330",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carmustine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 147,
+          "length": 10
+        },
+        {
+          "text": "carmustine",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 414,
+          "length": 10
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 426,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 665,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 780,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 832,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1006,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1077,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1328,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1559,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1806,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1828,
+          "length": 4
+        },
+        {
+          "text": "BCNU",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1884,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 166,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 477,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 516,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1778,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019287",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ZnSO(4)",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 288,
+          "length": 7
+        },
+        {
+          "text": "ZnSO(4)",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 715,
+          "length": 7
+        },
+        {
+          "text": "ZnSO(4)",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 947,
+          "length": 7
+        },
+        {
+          "text": "ZnSO(4)",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1525,
+          "length": 7
+        },
+        {
+          "text": "ZnSO(4)",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1796,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive dysfunction",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 452,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D007859,D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "deterioration of learning and short-term memory",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1109,
+          "length": 47
+        }
+      ]
+    },
+    {
+      "id": "116686",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione reductase",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1247,
+          "length": 21
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1270,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1586,
+          "length": 2
+        },
+        {
+          "text": "GR",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1934,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1295,
+          "length": 11
+        },
+        {
+          "text": "GSH",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1308,
+          "length": 3
+        },
+        {
+          "text": "GSH",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1606,
+          "length": 3
+        },
+        {
+          "text": "GSH",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1952,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008315",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malondialdehyde",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1423,
+          "length": 15
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1440,
+          "length": 3
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1665,
+          "length": 3
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 2017,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 172,
+          "char_offset": 1909,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D019287",
+      "tail_id": "25402",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019287",
+      "tail_id": "D008315",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019287",
+      "tail_id": "24835",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019287",
+      "tail_id": "D005978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019287",
+      "tail_id": "116686",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019287",
+      "tail_id": "D002330",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "25402",
+      "tail_id": "D008668",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008668",
+      "tail_id": "D019287",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008668",
+      "tail_id": "D008315",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008668",
+      "tail_id": "24835",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008668",
+      "tail_id": "D005978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D008668",
+      "tail_id": "116686",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D003072",
+      "tail_id": "D008668",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D002330",
+      "tail_id": "25402",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D002330",
+      "tail_id": "D008315",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D002330",
+      "tail_id": "24835",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D002330",
+      "tail_id": "D005978",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D002330",
+      "tail_id": "116686",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D002330",
+      "tail_id": "D008668",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D002330",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

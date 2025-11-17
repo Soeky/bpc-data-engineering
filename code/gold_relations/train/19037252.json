@@ -1,0 +1,145 @@
+{
+  "doc_id": "19037252",
+  "title": "Mutations in phospholipase C epsilon 1 are not sufficient to cause diffuse mesangial sclerosis.",
+  "body": "Diffuse mesangial sclerosis occurs as an isolated abnormality or as a part of a syndrome. Recently, mutations in phospholipase C epsilon 1 (PLCE1) were found to cause a nonsyndromic, autosomal recessive form of this disease. Here we describe three children from one consanguineous kindred of Pakistani origin with diffuse mesangial sclerosis who presented with congenital or infantile nephrotic syndrome. Homozygous mutations in PLCE1 (also known as KIAA1516, PLCE, or NPHS3) were identified following genome-wide mapping of single-nucleotide polymorphisms. All affected children were homozygous for a four-basepair deletion in exon 3, which created a premature translational stop codon. Analysis of the asymptomatic father of two of the children revealed that he was also homozygous for the same mutation. We conclude this nonpenetrance may be due to compensatory mutations at a second locus and that mutation within PLCE1 is not always sufficient to cause diffuse mesangial sclerosis.",
+  "entities": [
+    {
+      "id": "51196",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phospholipase C epsilon 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 25
+        },
+        {
+          "text": "phospholipase C epsilon 1",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 209,
+          "length": 25
+        },
+        {
+          "text": "PLCE1",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 236,
+          "length": 5
+        },
+        {
+          "text": "PLCE1",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 525,
+          "length": 5
+        },
+        {
+          "text": "KIAA1516",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 546,
+          "length": 8
+        },
+        {
+          "text": "PLCE",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 556,
+          "length": 4
+        },
+        {
+          "text": "NPHS3",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 565,
+          "length": 5
+        },
+        {
+          "text": "PLCE1",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1014,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C537346",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diffuse mesangial sclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 27
+        },
+        {
+          "text": "Diffuse mesangial sclerosis",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 96,
+          "length": 27
+        },
+        {
+          "text": "diffuse mesangial sclerosis",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 410,
+          "length": 27
+        },
+        {
+          "text": "diffuse mesangial sclerosis",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1054,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "C535761",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital or infantile nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 457,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||4",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "four-basepair deletion",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 698,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C537346",
+      "tail_id": "51196",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C537346",
+      "tail_id": "c|DEL||4",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

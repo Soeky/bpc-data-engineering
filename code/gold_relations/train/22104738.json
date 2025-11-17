@@ -1,0 +1,216 @@
+{
+  "doc_id": "22104738",
+  "title": "Novel compound heterozygous mutation of MLYCD in a Chinese patient with malonic aciduria.",
+  "body": "A 3-year-old Chinese boy presented with prominent clinical features of malonic aciduria, including developmental delay, short stature, brain abnormalities and massive excretion of malonic acid and methylmalonic acid. Molecular characterization by DNA sequencing analysis and multiplex ligation-dependent probe amplification of the MLYCD gene revealed a heterozygous mutation (c.920T>G, p.Leu307Arg) in the patient and his father and a heterozygous deletion comprising exon 1 in the patient and his mother. The missense mutation (c.920T>G) was not found in 100 healthy controls and has not been reported previously. Our findings expand the number of reported cases and add a novel entry to the repertoire of MLYCD mutations.",
+  "entities": [
+    {
+      "id": "23417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MLYCD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 5
+        },
+        {
+          "text": "MLYCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 421,
+          "length": 5
+        },
+        {
+          "text": "MLYCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 797,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 496,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 572,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C535702",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malonic aciduria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 16
+        },
+        {
+          "text": "malonic aciduria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 161,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D002658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "developmental delay",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 189,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "short stature",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 210,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brain abnormalities",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 225,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "C030290",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malonic acid",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 270,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008764",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methylmalonic acid",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 287,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|920|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.920T>G",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 466,
+          "length": 8
+        },
+        {
+          "text": "c.920T>G",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 619,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|307|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Leu307Arg",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 476,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008764",
+      "tail_id": "C535702",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C030290",
+      "tail_id": "C535702",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C535702",
+      "tail_id": "23417",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C535702",
+      "tail_id": "c|SUB|T|920|G",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C535702",
+      "tail_id": "p|SUB|L|307|R",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

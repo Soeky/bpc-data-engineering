@@ -1,0 +1,408 @@
+{
+  "doc_id": "17194457",
+  "title": "Behavioral effects of pubertal anabolic androgenic steroid exposure in male rats with low serotonin.",
+  "body": "The goal of this study was to assess the interactive effects of chronic anabolic androgenic steroid (AAS) exposure and brain serotonin (5-hydroxytryptamine, 5-HT) depletion on behavior of pubertal male rats. Serotonin was depleted beginning on postnatal day 26 with parachlorophenylalanine (PCPA 100 mg/kg, every other day); controls received saline. At puberty (P40), half the PCPA-treated rats and half the saline-treated rats began treatment with testosterone (T, 5 mg/kg, 5 days/week). Behavioral measures included locomotion, irritability, copulation, partner preference, and aggression. Animals were tested for aggression in their home cage, both with and without physical provocation (mild tail pinch). Brain levels of 5-HT and its metabolite, 5-hydroxyindoleacetic acid (5-HIAA), were determined using HPLC. PCPA significantly and substantially depleted 5-HT and 5-HIAA in all brain regions examined. Chronic T treatment significantly decreased 5-HT and 5-HIAA in certain brain areas, but to a much lesser extent than PCPA. Chronic exposure to PCPA alone significantly decreased locomotor activity and increased irritability but had no effect on sexual behavior, partner preference, or aggression. T alone had no effect on locomotion, irritability, or sexual behavior but increased partner preference and aggression. The most striking effect of combining T+PCPA was a significant increase in attack frequency as well as a significant decrease in the latency to attack, particularly following physical provocation. Based on these data, it can be speculated that pubertal AAS users with low central 5-HT may be especially prone to exhibit aggressive behavior.",
+  "entities": [
+    {
+      "id": "D045165",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anabolic androgenic steroid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 27
+        },
+        {
+          "text": "anabolic androgenic steroid",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 173,
+          "length": 27
+        },
+        {
+          "text": "AAS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 202,
+          "length": 3
+        },
+        {
+          "text": "AAS",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1679,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 303,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 492,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 525,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "serotonin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 9
+        },
+        {
+          "text": "serotonin",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 226,
+          "length": 9
+        },
+        {
+          "text": "5-hydroxytryptamine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 237,
+          "length": 19
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 258,
+          "length": 4
+        },
+        {
+          "text": "Serotonin",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 309,
+          "length": 9
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 827,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 963,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1054,
+          "length": 4
+        },
+        {
+          "text": "5-HT",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1706,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010134",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "parachlorophenylalanine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 367,
+          "length": 23
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 392,
+          "length": 4
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 479,
+          "length": 4
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 917,
+          "length": 4
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1127,
+          "length": 4
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1153,
+          "length": 4
+        },
+        {
+          "text": "PCPA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1466,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D013739",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 551,
+          "length": 12
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 565,
+          "length": 1
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1018,
+          "length": 1
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1307,
+          "length": 1
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1464,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "irritability",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 632,
+          "length": 12
+        },
+        {
+          "text": "aggression",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 682,
+          "length": 10
+        },
+        {
+          "text": "aggression",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 718,
+          "length": 10
+        },
+        {
+          "text": "irritability",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1221,
+          "length": 12
+        },
+        {
+          "text": "aggression",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1295,
+          "length": 10
+        },
+        {
+          "text": "irritability",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1344,
+          "length": 12
+        },
+        {
+          "text": "aggression",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1414,
+          "length": 10
+        },
+        {
+          "text": "aggressive behavior",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1746,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D006897",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-hydroxyindoleacetic acid",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 852,
+          "length": 26
+        },
+        {
+          "text": "5-HIAA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 880,
+          "length": 6
+        },
+        {
+          "text": "5-HIAA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 972,
+          "length": 6
+        },
+        {
+          "text": "5-HIAA",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1063,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D045165",
+      "tail_id": "D001523",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D045165",
+      "tail_id": "D012701",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D013739",
+      "tail_id": "D001523",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013739",
+      "tail_id": "D006897",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D013739",
+      "tail_id": "D012701",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D013739",
+      "tail_id": "D010134",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012701",
+      "tail_id": "D001523",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D010134",
+      "tail_id": "D001523",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D010134",
+      "tail_id": "D006897",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D010134",
+      "tail_id": "D012701",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

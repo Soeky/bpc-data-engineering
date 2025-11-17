@@ -1,0 +1,405 @@
+{
+  "doc_id": "15145918",
+  "title": "Differential modulation by estrogen of alpha2-adrenergic and I1-imidazoline receptor-mediated hypotension in female rats.",
+  "body": "We have recently shown that estrogen negatively modulates the hypotensive effect of clonidine (mixed alpha2-/I1-receptor agonist) in female rats and implicates the cardiovascular autonomic control in this interaction. The present study investigated whether this effect of estrogen involves interaction with alpha2- and/or I1-receptors. Changes evoked by a single intraperitoneal injection of rilmenidine (600 microg/kg) or alpha-methyldopa (100 mg/kg), selective I1- and alpha2-receptor agonists, respectively, in blood pressure, hemodynamic variability, and locomotor activity were assessed in radiotelemetered sham-operated and ovariectomized (Ovx) Sprague-Dawley female rats with or without 12-wk estrogen replacement. Three time domain indexes of hemodynamic variability were employed: the standard deviation of mean arterial pressure as a measure of blood pressure variability and the standard deviation of beat-to-beat intervals (SDRR) and the root mean square of successive differences in R-wave-to-R-wave intervals as measures of heart rate variability. In sham-operated rats, rilmenidine or alpha-methyldopa elicited similar hypotension that lasted at least 5 h and was associated with reductions in standard deviation of mean arterial pressure. SDRR was reduced only by alpha-methyldopa. Ovx significantly enhanced the hypotensive response to alpha-methyldopa, in contrast to no effect on rilmenidine hypotension. The enhanced alpha-methyldopa hypotension in Ovx rats was paralleled with further reduction in SDRR and a reduced locomotor activity. Estrogen replacement (17beta-estradiol subcutaneous pellet, 14.2 microg/day, 12 wk) of Ovx rats restored the hemodynamic and locomotor effects of alpha-methyldopa to sham-operated levels. These findings suggest that estrogen downregulates alpha2- but not I1-receptor-mediated hypotension and highlight a role for the cardiac autonomic control in alpha-methyldopa-estrogen interaction.",
+  "entities": [
+    {
+      "id": "D004967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "estrogen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 150,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 394,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 822,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1896,
+          "length": 8
+        },
+        {
+          "text": "estrogen",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 2043,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "25083,64652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha2-adrenergic and I1-imidazoline receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 45
+        },
+        {
+          "text": "alpha2-/I1-receptor",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 223,
+          "length": 19
+        },
+        {
+          "text": "alpha2- and/or I1-receptors",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 429,
+          "length": 27
+        },
+        {
+          "text": "I1- and alpha2-receptor",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 585,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 11
+        },
+        {
+          "text": "hypotensive",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 184,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1256,
+          "length": 11
+        },
+        {
+          "text": "hypotensive",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1451,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1533,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1576,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1956,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 116,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 262,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 795,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1201,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1595,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1771,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003000",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 206,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C032302",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "rilmenidine",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 514,
+          "length": 11
+        },
+        {
+          "text": "rilmenidine",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1207,
+          "length": 11
+        },
+        {
+          "text": "rilmenidine",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1521,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008750",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 545,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1222,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1402,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1475,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1559,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1826,
+          "length": 16
+        },
+        {
+          "text": "alpha-methyldopa",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 2026,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "a reduced locomotor activity",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1650,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D004958",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "17beta-estradiol",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1702,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "25083",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha2- but not I1-receptor",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1919,
+          "length": 27
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "D003000",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003000",
+      "tail_id": "25083",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004967",
+      "tail_id": "D003000",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004967",
+      "tail_id": "D007022",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004967",
+      "tail_id": "25083",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C032302",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C032302",
+      "tail_id": "25083",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008750",
+      "tail_id": "D004967",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D008750",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D008750",
+      "tail_id": "25083",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "25083",
+      "tail_id": "D007022",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

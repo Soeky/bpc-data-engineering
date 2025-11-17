@@ -1,0 +1,270 @@
+{
+  "doc_id": "15523499",
+  "title": "Haplotype structure of the beta adrenergic receptor genes in US Caucasians and African Americans.",
+  "body": "The beta-adrenergic receptors (beta-AR) are G protein-coupled receptors activated by epinephrine and norepinephrine and are involved in a variety of their physiological functions. Previously, three beta-AR genes (ADRB1, ADRB2 and ADRB3) were resequenced, identifying polymorphisms that were used in genetic association studies of cardiovascular and metabolic disorders. These studies have produced intriguing but inconsistent results, potentially because the known functional variants: ADRB1 Arg389Gly and Gly49Ser, ADRB2 Arg16Gly and Gln27Glu, and ADRB3 Arg64Trp provided an incomplete picture of the total functional diversity at these genes. Therefore, we created marker panels for each beta-AR gene that included the known functional markers and also other markers evenly spaced and with sufficient density to identify haplotype block structure and to maximize haplotype diversity. A total of 27 markers were genotyped in 96 US Caucasians and 96 African Americans. In both populations and for each gene, a single block with little evidence of historical recombination was observed. For each gene, haplotype captured most of the information content of each functional locus, even if that locus was not genotyped, and presumably haplotype would capture the signal from unknown functional loci whose alleles are of moderate abundance. This study demonstrates the utility of using beta-AR gene haplotype maps and marker panels as tools for linkage studies on beta-AR function.",
+  "entities": [
+    {
+      "id": "153,154,155",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta adrenergic receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 24
+        },
+        {
+          "text": "beta-adrenergic receptors",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 102,
+          "length": 25
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 129,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 296,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 788,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1479,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1557,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D004837",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "epinephrine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 183,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "norepinephrine",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 199,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADRB1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 311,
+          "length": 5
+        },
+        {
+          "text": "ADRB1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 584,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADRB2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 318,
+          "length": 5
+        },
+        {
+          "text": "ADRB2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 614,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADRB3",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 328,
+          "length": 5
+        },
+        {
+          "text": "ADRB3",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 647,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002318,D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular and metabolic disorders",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 428,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|389|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg389Gly",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 590,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|49|S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Gly49Ser",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 604,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|16|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg16Gly",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 620,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q|27|E",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Gln27Glu",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 633,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|64|W",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg64Trp",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 653,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R16",
+      "head_id": "155",
+      "tail_id": "D009638",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "155",
+      "tail_id": "D004837",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "154",
+      "tail_id": "D009638",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "154",
+      "tail_id": "D004837",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "153",
+      "tail_id": "D009638",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "153",
+      "tail_id": "D004837",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

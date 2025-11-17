@@ -1,0 +1,390 @@
+{
+  "doc_id": "19082493",
+  "title": "Combination of polymorphisms within 5' and 3' untranslated regions of thymidylate synthase gene modulates survival in 5 fluorouracil-treated colorectal cancer patients.",
+  "body": "In the present study we explored the effect of three polymorphisms of the TS gene on overall and progression- free survival of colorectal cancer (CRC) patients subjected to 5FU chemotherapy. A 28 bp variable number of tandem repeats (VNTR), a G/C single nucleotide polymorphism (SNP), and a deletion of 6 bp at position 1494 were studied. The possible combined effect of these DNA polymorphisms on the clinical outcome of patients was also evaluated. A retrospective study was carried out on paraffin-embedded sections from 113 patients diagnosed of advanced CRC. TS genotyping methods were polymerase chain reaction (PCR) for VNTR and PCR, followed by restriction length fragment polymorphism (PCR-RFLP) for SNP and ins/del 6 bp. To study the combined effect of TS polymorphisms, four categories were defined accordingly to the level of expression attributed to SNP and ins/del 6 bp genotypes: C_allele 6-, C_6+/6+, G_allele6- and G_6+/6+. VNTR and ins/del 6 bp genotypes varied with tumour anatomical site: 2R/2R genotype was rare in left-sided tumours (7.0% vs. 26.3% of right-sided and 24.1% of rectal cancers; P<0.01), where the variant allele 6- was very frequent (69.0%). Instead, most patients with right-sided tumours were wild-type homozygous 6+/6+ (63.9%) (P<0.01). Heterozygous 6+/6- genotype was more frequent among tumours classified as C (50.0%) and D (76.5%) Dukes stages (P=0.05). None of the studied polymorphisms alone affected overall or progression-free survival (PFS). C_6+/6+ and G_6+/6+ combined genotypes were respectively associated to the best and worst PFS (P=0.03 when compared with each other), while combinations carrying the allele 6- determined an intermediate evolution that might be indicative of a variable response to chemotherapy. The rate of Dukes B stage tumours was unexpectedly high (59.1%) among patients with the unfavourable G_6+/6+ combination. In our study the combination of high TS expression genotypes G_6+/6+ identifies a group of high risk within CRC patients treated with 5FU.",
+  "entities": [
+    {
+      "id": "7298",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "thymidylate synthase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 20
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 243,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 733,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 932,
+          "length": 2
+        },
+        {
+          "text": "TS",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2097,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D005472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5 fluorouracil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 118,
+          "length": 14
+        },
+        {
+          "text": "5FU",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 342,
+          "length": 3
+        },
+        {
+          "text": "5FU",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2194,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 141,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 296,
+          "length": 17
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 315,
+          "length": 3
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 728,
+          "length": 3
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2168,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 159,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 320,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 591,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 697,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1362,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2008,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 2172,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||28",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "28 bp variable number of tandem repeats",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 362,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G/C",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 412,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|194|6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion of 6 bp at position 1494",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 460,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D010232",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paraffin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 661,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL||6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "ins/del 6 bp",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 886,
+          "length": 12
+        },
+        {
+          "text": "ins/del 6 bp",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1040,
+          "length": 12
+        },
+        {
+          "text": "ins/del 6 bp",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1119,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumour",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1154,
+          "length": 6
+        },
+        {
+          "text": "tumours",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1216,
+          "length": 7
+        },
+        {
+          "text": "tumours",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1388,
+          "length": 7
+        },
+        {
+          "text": "tumours",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1498,
+          "length": 7
+        },
+        {
+          "text": "tumours",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1964,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012004",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rectal cancers",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1268,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|INDEL||6",
+      "tail_id": "D005472",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|INDEL||6",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012004",
+      "tail_id": "c|INDEL||6",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012004",
+      "tail_id": "7298",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "7298",
+      "tail_id": "D005472",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "7298",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "c|INDEL||6",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "7298",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|DEL|194|6",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D015179",
+      "tail_id": "c|DUP||28",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D015179",
+      "tail_id": "D005472",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D015179",
+      "tail_id": "c|SUB|G||C",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

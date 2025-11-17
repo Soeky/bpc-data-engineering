@@ -1,0 +1,315 @@
+{
+  "doc_id": "28468941",
+  "title": "Aberrant caveolin-1-mediated Smad signaling and proliferation identified by analysis of adenine 474 deletion mutation (c.474delA) in patient fibroblasts: a new perspective on the mechanism of pulmonary hypertension.",
+  "body": "A heterozygous caveolin-1 c.474delA mutation has been identified in a family with heritable pulmonary arterial hypertension (PAH). This frameshift mutation leads to a caveolin-1 protein that contains all known functional domains but has a change in only the final 20 amino acids of the C-terminus. Here we studied how this mutation alters caveolin-1 function, using patient-derived fibroblasts. Transmission electron microscopy showed that fibroblasts carrying the c.474delA mutation form typical caveolae. Expression of mutated caveolin-1 in caveolin-1-null mouse fibroblasts failed to induce formation of caveolae due to retention of the mutated protein in the endoplasmic reticulum. However, coexpression of wild-type caveolin-1 with mutated caveolin-1 restored the ability to form caveolae. Importantly, fibroblasts carrying the mutation showed twofold increase in proliferation rate associated with hyperphosphorylation of Smad1/5/8. This mutation impaired the antiproliferative function of caveolin-1. Inhibition of type I TGFb receptors ALK1/2/3/6 responsible for phosphorylation of Smad1/5/8 reduced the hyperproliferation seen in c.474delA fibroblasts. These results demonstrate the critical role of the final 20 amino acids of caveolin-1 in modulating fibroblast proliferation by dampening Smad signaling and suggest that augmented Smad signaling and fibroblast hyperproliferation are contributing factors in the pathogenesis of PAH in patients with caveolin-1 c.474delA mutation.",
+  "entities": [
+    {
+      "id": "857",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caveolin-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 231,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 383,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 555,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 745,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 937,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 961,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1212,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1453,
+          "length": 10
+        },
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1676,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "4086,4090,4093",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 4
+        },
+        {
+          "text": "Smad1/5/8",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1144,
+          "length": 9
+        },
+        {
+          "text": "Smad1/5/8",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1306,
+          "length": 9
+        },
+        {
+          "text": "Smad",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1516,
+          "length": 4
+        },
+        {
+          "text": "Smad",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1558,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs587777017",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "adenine 474 deletion",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 20
+        },
+        {
+          "text": "c.474delA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 9
+        },
+        {
+          "text": "c.474delA",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 242,
+          "length": 9
+        },
+        {
+          "text": "c.474delA",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 681,
+          "length": 9
+        },
+        {
+          "text": "c.474delA",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1355,
+          "length": 9
+        },
+        {
+          "text": "c.474delA",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1687,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 133,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 582,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1662,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006976",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pulmonary hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 192,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D000081029",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pulmonary arterial hypertension",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 308,
+          "length": 31
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 341,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1655,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12389",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caveolin-1",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 759,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 775,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "657,658,90,94",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type I TGFb receptors",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1238,
+          "length": 21
+        },
+        {
+          "text": "ALK1/2/3/6",
+          "passage_index": 1,
+          "passage_offset": 216,
+          "char_offset": 1260,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R12",
+      "head_id": "rs587777017",
+      "tail_id": "D000081029",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D006976",
+      "tail_id": "rs587777017",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D006976",
+      "tail_id": "857",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "857",
+      "tail_id": "D000081029",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

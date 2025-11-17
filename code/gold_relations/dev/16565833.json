@@ -1,0 +1,446 @@
+{
+  "doc_id": "16565833",
+  "title": "The influence of the time interval between monoHER and doxorubicin administration on the protection against doxorubicin-induced cardiotoxicity in mice.",
+  "body": "PURPOSE: Despite its well-known cardiotoxicity, the anthracyclin doxorubicin (DOX) continues to be an effective and widely used chemotherapeutic agent. DOX-induced cardiac damage presumably results from the formation of free radicals by DOX. Reactive oxygen species particularly affect the cardiac myocytes because these cells seem to have a relatively poor antioxidant defense system. The semisynthetic flavonoid monohydroxyethylrutoside (monoHER) showed cardioprotection against DOX-induced cardiotoxicity through its radical scavenging and iron chelating properties. Because of the relatively short final half-life of monoHER (about 30 min), it is expected that the time interval between monoHER and DOX might be of influence on the cardioprotective effect of monoHER. Therefore, the aim of the present study was to investigate this possible effect. METHODS: Six groups of 6 BALB/c mice were treated with saline, DOX alone or DOX (4 mg/kg i.v.) preceded by monoHER (500 mg/kg i.p.) with an interval of 10, 30, 60 or 120 min. After a 6-week treatment period and additional observation for 2 weeks, the mice were sacrificed. Their cardiac tissues were processed for light microscopy, after which cardiomyocyte damage was evaluated according to Billingham (in Cancer Treat Rep 62(6):865-872, 1978). Microscopic evaluation revealed that treatment with DOX alone induced significant cardiac damage in comparison to the saline control group (P<0.001). RESULTS: The number of damaged cardiomyocytes was 9.6-fold (95% CI 4.4-21.0) higher in mice treated with DOX alone than that in animals of the control group. The ratio of aberrant cardiomyocytes in mice treated with DOX preceded by monoHER and those in mice treated with saline ranged from 1.6 to 2.8 (mean 2.2, 95% CI 1.2-4.1, P=0.019). The mean protective effect by adding monoHER before DOX led to a significant 4.4-fold reduction (P<0.001, 95% CI 2.3-8.2) of abnormal cardiomyocytes. This protective effect did not depend on the time interval between monoHER and DOX administration (P=0.345). CONCLUSION: The results indicate that in an outpatient clinical setting monoHER may be administered shortly before DOX.",
+  "entities": [
+    {
+      "id": "C522803",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "monoHER",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 7
+        },
+        {
+          "text": "monohydroxyethylrutoside",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 566,
+          "length": 24
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 592,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 773,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 843,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 915,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1112,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1833,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1976,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 2156,
+          "length": 7
+        },
+        {
+          "text": "monoHER",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 2270,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 108,
+          "length": 11
+        },
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 217,
+          "length": 11
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 230,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 304,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 389,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 633,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 855,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1068,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1081,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1503,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1706,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1817,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1991,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 2168,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 2313,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 128,
+          "length": 14
+        },
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 184,
+          "length": 14
+        },
+        {
+          "text": "cardiotoxicity",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 645,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 146,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1037,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1256,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1688,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1799,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1854,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D018943",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anthracyclin",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 204,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac damage",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 316,
+          "length": 14
+        },
+        {
+          "text": "cardiac damage",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1533,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 403,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005419",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "flavonoid",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 556,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 695,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiomyocyte damage",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1349,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "outpatient",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 2242,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007501",
+      "tail_id": "D066126",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007501",
+      "tail_id": "D004317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C522803",
+      "tail_id": "D007501",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C522803",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C522803",
+      "tail_id": "D004317",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005419",
+      "tail_id": "D066126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005419",
+      "tail_id": "D004317",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004317",
+      "tail_id": "D006331",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D004317",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

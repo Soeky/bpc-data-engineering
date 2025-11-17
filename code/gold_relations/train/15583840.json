@@ -1,0 +1,158 @@
+{
+  "doc_id": "15583840",
+  "title": "Tumor associated antigen recognition by autologous serum in patients with breast cancer.",
+  "body": "Breast cancer accounts for 30-40% of all deaths from cancers in females. In an effort to identify tumor associated antigens that may be useful for immunotherapy, we utilized serological analysis of recombinant cDNA expression libraries (SEREX) technique to identify breast cancer-associated antigens. SEREX screening of cDNA expression libraries derived from 3 breast cancer patients identified a total of 88 positive clones (bcg-1 to bcg-88), including 27 hitherto unknown sequences. The cDNA sequences and mRNA expression patterns were characterized. Seroreactivity of the SEREX clones were determined in sera from 75 breast cancer patients, 75 colon cancer patients, and 25 healthy donors. Expression analysis on a cDNA panel from 17 different normal tissues by reverse transcription-PCR (RT-PCR) revealed tissue restricted mRNA expression of 2 of the 27 unknown antigens. Bcg-72 is expressed only in breast, prostate and thymus, while bcg-84 is expressed at moderate levels in testis, spleen and breast. The other 25 unknown antigens were expressed in most other tissues. Serologic assay revealed that 7 out of the 88 clones showed reactivity to at least one serum from either 75 breast or 75 colon cancer patients. These clones did not react with sera from a panel of 25 healthy adult individuals. Our results demonstrate the utility of the SEREX approach for the identification of potential tumor associated antigens in human breast cancer.",
+  "entities": [
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 142,
+          "length": 7
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 187,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1486,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 464,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 723,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 749,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1299,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1515,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 13
+        },
+        {
+          "text": "Breast cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 89,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 355,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 450,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 709,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1521,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 736,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1286,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

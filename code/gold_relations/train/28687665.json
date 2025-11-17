@@ -1,0 +1,211 @@
+{
+  "doc_id": "28687665",
+  "title": "Mutation of the a-tubulin Tuba1a leads to straighter microtubules and perturbs neuronal migration.",
+  "body": "Brain development involves extensive migration of neurons. Microtubules (MTs) are key cellular effectors of neuronal displacement that are assembled from a/b-tubulin heterodimers. Mutation of the a-tubulin isotype TUBA1A is associated with cortical malformations in humans. In this study, we provide detailed in vivo and in vitro analyses of Tuba1a mutants. In mice carrying a Tuba1a missense mutation (S140G), neurons accumulate, and glial cells are dispersed along the rostral migratory stream in postnatal and adult brains. Live imaging of Tuba1a-mutant neurons revealed slowed migration and increased neuronal branching, which correlated with directionality alterations and perturbed nucleus-centrosome (N-C) coupling. Tuba1a mutation led to increased straightness of newly polymerized MTs, and structural modeling data suggest a conformational change in the a/b-tubulin heterodimer. We show that Tuba8, another a-tubulin isotype previously associated with cortical malformations, has altered function compared with Tuba1a. Our work shows that Tuba1a plays an essential, noncompensated role in neuronal saltatory migration in vivo and highlights the importance of MT flexibility in N-C coupling and neuronal-branching regulation during neuronal migration.",
+  "entities": [
+    {
+      "id": "22142",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "a-tubulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 9
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 6
+        },
+        {
+          "text": "a-tubulin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 295,
+          "length": 9
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 441,
+          "length": 6
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 476,
+          "length": 6
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 642,
+          "length": 6
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 822,
+          "length": 6
+        },
+        {
+          "text": "a-tubulin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1015,
+          "length": 9
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1119,
+          "length": 6
+        },
+        {
+          "text": "Tuba1a",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1147,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "22142,22152,53857",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "a/b-tubulin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 253,
+          "length": 11
+        },
+        {
+          "text": "a/b-tubulin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 962,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "7846",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TUBA1A",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 313,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D054220",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cortical malformations",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 339,
+          "length": 22
+        },
+        {
+          "text": "cortical malformations",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1060,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 365,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 460,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|140|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S140G",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 502,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "53857",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Tuba8",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1000,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7846",
+      "tail_id": "D054220",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "22142",
+      "tail_id": "D054220",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "53857",
+      "tail_id": "D054220",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

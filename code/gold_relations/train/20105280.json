@@ -1,0 +1,440 @@
+{
+  "doc_id": "20105280",
+  "title": "Activated Ras alters lens and corneal development through induction of distinct downstream targets.",
+  "body": "BACKGROUND: Mammalian Ras genes regulate diverse cellular processes including proliferation and differentiation and are frequently mutated in human cancers. Tumor development in response to Ras activation varies between different tissues and the molecular basis for these variations are poorly understood. The murine lens and cornea have a common embryonic origin and arise from adjacent regions of the surface ectoderm. Activation of the fibroblast growth factor (FGF) signaling pathway induces the corneal epithelial cells to proliferate and the lens epithelial cells to exit the cell cycle. The molecular mechanisms that regulate the differential responses of these two related tissues have not been defined. We have generated transgenic mice that express a constitutively active version of human H-Ras in their lenses and corneas. RESULTS: Ras transgenic lenses and corneal epithelial cells showed increased proliferation with concomitant increases in cyclin D1 and D2 expression. This initial increase in proliferation is sustained in the cornea but not in the lens epithelial cells. Coincidentally, cdk inhibitors p27Kip1 and p57Kip2 were upregulated in the Ras transgenic lenses but not in the corneas. Phospho-Erk1 and Erk2 levels were elevated in the lens but not in the cornea and Spry 1 and Spry 2, negative regulators of Ras-Raf-Erk signaling, were upregulated more in the corneal than in the lens epithelial cells. Both lens and corneal differentiation programs were sensitive to Ras activation. Ras transgenic embryos showed a distinctive alteration in the architecture of the lens pit. Ras activation, though sufficient for upregulation of Prox1, a transcription factor critical for cell cycle exit and initiation of fiber differentiation, is not sufficient for induction of terminal fiber differentiation. Expression of Keratin 12, a marker of corneal epithelial differentiation, was reduced in the Ras transgenic corneas. CONCLUSIONS: Collectively, these results suggest that Ras activation a) induces distinct sets of downstream targets in the lens and cornea resulting in distinct cellular responses and b) is sufficient for initiation but not completion of lens fiber differentiation.",
+  "entities": [
+    {
+      "id": "3265",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ras",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 122,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 290,
+          "length": 3
+        },
+        {
+          "text": "H-Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 900,
+          "length": 5
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 944,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1264,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1433,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1593,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1609,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1701,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 2015,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 2093,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 242,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 894,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 248,
+          "length": 7
+        },
+        {
+          "text": "Tumor",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 257,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 410,
+          "length": 6
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 841,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "64654",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibroblast growth factor",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 539,
+          "length": 24
+        },
+        {
+          "text": "FGF",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 565,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12443,12444",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin D1 and D2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1056,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "12575",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cdk",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1205,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27Kip1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1220,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "12577",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p57Kip2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1232,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1318,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "26413",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1327,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24063",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Spry 1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1391,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "24064",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Spry 2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1402,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "109880",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Raf",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1437,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1441,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "19130",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Prox1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1755,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "268482",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Keratin 12",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1936,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "268482",
+      "tail_id": "3265",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "24064",
+      "tail_id": "26417",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "24064",
+      "tail_id": "26413",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "24064",
+      "tail_id": "109880",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "24064",
+      "tail_id": "3265",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "24063",
+      "tail_id": "26417",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "24063",
+      "tail_id": "26413",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "24063",
+      "tail_id": "109880",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "24063",
+      "tail_id": "3265",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "12577",
+      "tail_id": "3265",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "12575",
+      "tail_id": "12577",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "12575",
+      "tail_id": "12576",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "12576",
+      "tail_id": "3265",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "3265",
+      "tail_id": "19130",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "3265",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

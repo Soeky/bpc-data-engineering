@@ -1,0 +1,429 @@
+{
+  "doc_id": "20846357",
+  "title": "A novel mutation in the connexin 26 gene (GJB2) in a child with clinical and histological features of keratitis-ichthyosis-deafness (KID) syndrome.",
+  "body": "BACKGROUND: Keratitis-ichthyosis-deafness (KID) syndrome is a rare congenital ectodermal disorder, caused by heterozygous missense mutation in GJB2, encoding the gap junction protein connexin 26. The commonest mutation is the p.Asp50Asn mutation, and only a few other mutations have been described to date. AIM: To report the fatal clinical course and characterize the genetic background of a premature male neonate with the clinical and histological features of KID syndrome. METHODS: Genomic DNA was extracted from peripheral blood and used for PCR amplification of the GJB2 gene. Direct sequencing was used for mutation analysis. RESULTS: The clinical features included hearing impairment, ichthyosiform erythroderma with hyperkeratotic plaques, palmoplantar keratoderma, alopecia of the scalp and eyelashes, and a thick vernix caseosa-like covering of the scalp. On histological analysis, features characteristic of KID syndrome, such as acanthosis and papillomatosis of the epidermis with basket-weave hyperkeratosis, were seen. The skin symptoms were treated successfully with acitretin 0.5 mg/kg. The boy developed intraventricular and intracerebral haemorrhage, leading to hydrocephalus. His condition was further complicated by septicaemia and meningitis caused by infection with extended-spectrum beta-lactamase-producing Klebsiella pneumoniae. Severe respiratory failure followed, and the child died at 46 weeks of gestational age (13 weeks postnatally). Sequencing of the GJB2 gene showed that the child was heterozygous for a novel nucleotide change, c.263C>T, in exon 2, leading to a substitution of alanine for valine at position 88 (p.Ala88Val). CONCLUSIONS: This study has identified a new heterozygous de novo mutation in the Cx26 gene (c.263C>T; p.Ala88Val) leading to KID syndrome.",
+  "entities": [
+    {
+      "id": "2706",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "connexin 26",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 11
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 291,
+          "length": 4
+        },
+        {
+          "text": "connexin 26",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 331,
+          "length": 11
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 720,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1632,
+          "length": 4
+        },
+        {
+          "text": "Cx26",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1892,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C536168",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "keratitis-ichthyosis-deafness (KID) syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 44
+        },
+        {
+          "text": "Keratitis-ichthyosis-deafness (KID) syndrome",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 160,
+          "length": 44
+        },
+        {
+          "text": "KID syndrome",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 611,
+          "length": 12
+        },
+        {
+          "text": "KID syndrome",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1068,
+          "length": 12
+        },
+        {
+          "text": "KID syndrome",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1936,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D004476",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital ectodermal disorder",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 215,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "rs28931594",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Asp50Asn",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 374,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D034381",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hearing impairment",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 821,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D016113",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ichthyosiform erythroderma",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 841,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D007645",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "palmoplantar keratoderma",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 897,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D000505",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "alopecia of the scalp and eyelashes",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 923,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "D000052",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acanthosis",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1090,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010212",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "papillomatosis",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1105,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D017488",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperkeratosis",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1155,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D017255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acitretin",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1231,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000074042,D002543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intraventricular and intracerebral haemorrhage",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1270,
+          "length": 46
+        }
+      ]
+    },
+    {
+      "id": "D006849",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hydrocephalus",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1329,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D018805",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "septicaemia",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1385,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008581",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "meningitis",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1401,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1422,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007710",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Klebsiella pneumoniae",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1480,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D012131",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory failure",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1510,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|263|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.263C>T",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1712,
+          "length": 8
+        },
+        {
+          "text": "c.263C>T",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1903,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|A|88|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "alanine for valine at position 88",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1762,
+          "length": 33
+        },
+        {
+          "text": "p.Ala88Val",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1797,
+          "length": 10
+        },
+        {
+          "text": "p.Ala88Val",
+          "passage_index": 1,
+          "passage_offset": 148,
+          "char_offset": 1913,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs28931594",
+      "tail_id": "C536168",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|A|88|V",
+      "tail_id": "C536168",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|C|263|T",
+      "tail_id": "C536168",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2706",
+      "tail_id": "C536168",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D017488",
+      "tail_id": "D017255",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D010212",
+      "tail_id": "D017255",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000052",
+      "tail_id": "D017255",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C536168",
+      "tail_id": "D017255",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

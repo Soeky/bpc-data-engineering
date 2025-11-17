@@ -1,0 +1,511 @@
+{
+  "doc_id": "25946186",
+  "title": "TIPE2 Inhibits Lung Cancer Growth Attributing to Promotion of Apoptosis by Regulating Some Apoptotic Molecules Expression.",
+  "body": "Recent studies found that TIPE2 was involved in cancer development. However, little is known about TIPE2 in lung cancer. Our study aims to clarify the role of TIPE2 in lung carcinogenesis. We examined the expression of TIPE2 in lung squamous cancer (LSC), small cell lung cancer and lung adenocarcinoma (AdC) tissues and found that TIPE2 expression was lost in small cell lung cancer, compared with adjacent non-tumor tissues. Overexpression of TIPE2 significantly inhibited the growth of lung cancer cell H446 in vitro and even suppressed tumor formation in vivo. Flow cytometry analysis found TIPE2 overexpression promoted apoptosis of H446. In TIPE2 over-expression cells, caspase-3, caspase-9, and Bax were significantly up-regulated while Bcl-2 was down-regulated. Moreover, coincident results were shown by immunohistochemistry in tumors from nude mice. TIPE2 inhibited the phosphorylation of Akt, while promoting the phosphorylation of P38, but had no effect on IkBa and ERK pathway. Taken together, TIPE2 promoted lung cancer cell apoptosis through affecting apoptosis-related molecules caspase-3, caspase-9, Bcl-2 and Bax, possibly via regulating P38 and Akt pathways, indicating that TIPE2 might be a novel marker for lung cancer diagnosis and therapy.",
+  "entities": [
+    {
+      "id": "79626",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIPE2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 149,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 222,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 282,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 342,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 455,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 568,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 718,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 770,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 983,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1130,
+          "length": 5
+        },
+        {
+          "text": "TIPE2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1317,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Lung Cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 231,
+          "length": 11
+        },
+        {
+          "text": "lung carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 291,
+          "length": 19
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 612,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1145,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1351,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 171,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 535,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 663,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 960,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D002289",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung squamous cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 351,
+          "length": 20
+        },
+        {
+          "text": "LSC",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 373,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D055752",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "small cell lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 379,
+          "length": 22
+        },
+        {
+          "text": "small cell lung cancer",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 484,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D000077192",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 406,
+          "length": 19
+        },
+        {
+          "text": "AdC",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 427,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1562",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "H446",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 629,
+          "length": 4
+        },
+        {
+          "text": "H446",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 761,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "836",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 799,
+          "length": 9
+        },
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1218,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "842",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-9",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 810,
+          "length": 9
+        },
+        {
+          "text": "caspase-9",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1229,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 825,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1250,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 867,
+          "length": 5
+        },
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1240,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 977,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1022,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1287,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1432",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "P38",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1066,
+          "length": 3
+        },
+        {
+          "text": "P38",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1279,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4792",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IkBa",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1092,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 123,
+          "char_offset": 1101,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "596",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "581",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "842",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "836",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "79626",
+      "tail_id": "1432",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "79626",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "79626",
+      "tail_id": "596",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "79626",
+      "tail_id": "581",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "79626",
+      "tail_id": "842",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "79626",
+      "tail_id": "836",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "79626",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "79626",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "79626",
+      "tail_id": "D055752",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

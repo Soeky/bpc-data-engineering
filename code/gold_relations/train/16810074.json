@@ -1,0 +1,474 @@
+{
+  "doc_id": "16810074",
+  "title": "Mechanisms of hypertension induced by nitric oxide (NO) deficiency: focus on venous function.",
+  "body": "Loss of endothelial cell-derived nitric oxide (NO) in hypertension is a hallmark of arterial dysfunction. Experimental hypertension created by the removal of NO, however, involves mechanisms in addition to decreased arterial vasodilator activity. These include augmented endothelin-1 (ET-1) release, increased sympathetic nervous system activity, and elevated tissue oxidative stress. We hypothesized that increased venous smooth muscle (venomotor) tone plays a role in Nomega-nitro-L-arginine (LNNA) hypertension through these mechanisms. Rats were treated with the NO synthase inhibitor LNNA (0.5 g/L in drinking water) for 2 weeks. Mean arterial pressure of conscious rats was 119 +/- 2 mm Hg in control and 194 +/- 5 mm Hg in LNNA rats (P<0.05). Carotid arteries and vena cava were removed for measurement of isometric contraction. Maximal contraction to norepinephrine was modestly reduced in arteries from LNNA compared with control rats whereas the maximum contraction to ET-1 was significantly reduced (54% control). Maximum contraction of vena cava to norepinephrine (37% control) also was reduced but no change in response to ET-1 was observed. Mean circulatory filling pressure, an in vivo measure of venomotor tone, was not elevated in LNNA hypertension at 1 or 2 weeks after LNNA. The superoxide scavenger tempol (30, 100, and 300 micromol kg(-1), IV) did not change arterial pressure in control rats but caused a dose-dependent decrease in LNNA rats (-18 +/- 8, -26 +/- 15, and -54 +/- 11 mm Hg). Similarly, ganglionic blockade with hexamethonium caused a significantly greater fall in LNNA hypertensive rats (76 +/- 9 mm Hg) compared with control rats (35 +/- 10 mm Hg). Carotid arteries, vena cava, and sympathetic ganglia from LNNA rats had higher basal levels of superoxide compared with those from control rats. These data suggest that while NO deficiency increases oxidative stress and sympathetic activity in both arterial and venous vessels, the impact on veins does not make a major contribution to this form of hypertension.",
+  "entities": [
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 148,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 213,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 595,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1347,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1699,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2129,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 12
+        },
+        {
+          "text": "NO",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 2
+        },
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 127,
+          "length": 12
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 141,
+          "length": 2
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 252,
+          "length": 2
+        },
+        {
+          "text": "NO",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1955,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D018754",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arterial dysfunction",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 178,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "24323",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "endothelin-1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 365,
+          "length": 12
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 379,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1073,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1230,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019335",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Nomega-nitro-L-arginine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 564,
+          "length": 23
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 589,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 683,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 824,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1006,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1342,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1382,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1548,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1694,
+          "length": 4
+        },
+        {
+          "text": "LNNA",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1838,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 634,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 765,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 829,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1033,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1503,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1553,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1712,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1756,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1843,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1919,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24598",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NO synthase",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 661,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D009638",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "norepinephrine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 953,
+          "length": 14
+        },
+        {
+          "text": "norepinephrine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1155,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D013481",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "superoxide",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1392,
+          "length": 10
+        },
+        {
+          "text": "superoxide",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1875,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "C001803",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tempol",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1413,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D018738",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "hexamethonium",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1641,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D018738",
+      "tail_id": "D019335",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018738",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C001803",
+      "tail_id": "D019335",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013481",
+      "tail_id": "C001803",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009638",
+      "tail_id": "D019335",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "24598",
+      "tail_id": "D019335",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019335",
+      "tail_id": "D013481",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D019335",
+      "tail_id": "24323",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D019335",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009569",
+      "tail_id": "D018754",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D006973",
+      "tail_id": "24323",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D006973",
+      "tail_id": "D009569",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

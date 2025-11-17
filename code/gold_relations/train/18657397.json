@@ -1,0 +1,172 @@
+{
+  "doc_id": "18657397",
+  "title": "Detailed spectral profile analysis of penicillin-induced epileptiform activity in anesthetized rats.",
+  "body": "Penicillin model is a widely used experimental model for epilepsy research. In the present study we aimed to portray a detailed spectral analysis of penicillin-induced epileptiform activity in comparison with basal brain activity in anesthetized Wistar rats. Male Wistar rats were anesthetized with i.p. urethane and connected to an electrocorticogram setup. After a short period of basal activity recording, epileptic focus was induced by injecting 400IU/2 microl penicillin-G potassium into the left lateral ventricle while the cortical activity was continuously recorded. Basal activity, latent period and the penicillin-induced epileptiform activity periods were then analyzed using both conventional methods and spectral analysis. Spectral analyses were conducted by dividing the whole spectrum into different frequency bands including delta, theta (slow and fast), alpha-sigma, beta (1 and 2) and gamma (1 and 2) bands. Our results show that the most affected frequency bands were delta, theta, beta-2 and gamma-2 bands during the epileptiform activity and there were marked differences in terms of spectral densities between three investigated episodes (basal activity, latent period and epileptiform activity). Our results may help to analyze novel data obtained using similar experimental models and the simple analysis method described here can be used in similar studies to investigate the basic neuronal mechanism of this or other types of experimental epilepsies.",
+  "entities": [
+    {
+      "id": "D010406",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "penicillin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 10
+        },
+        {
+          "text": "Penicillin",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 101,
+          "length": 10
+        },
+        {
+          "text": "penicillin",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 250,
+          "length": 10
+        },
+        {
+          "text": "penicillin",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 714,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D004827",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "epileptiform activity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 21
+        },
+        {
+          "text": "epilepsy",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 158,
+          "length": 8
+        },
+        {
+          "text": "epileptiform activity",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 269,
+          "length": 21
+        },
+        {
+          "text": "epileptic",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 510,
+          "length": 9
+        },
+        {
+          "text": "epileptiform activity",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 733,
+          "length": 21
+        },
+        {
+          "text": "epileptiform activity",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1138,
+          "length": 21
+        },
+        {
+          "text": "epileptiform activity",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1296,
+          "length": 21
+        },
+        {
+          "text": "epilepsies",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1566,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 354,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 372,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014520",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "urethane",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 405,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010400",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "penicillin-G potassium",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 566,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004827",
+      "tail_id": "D010400",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010406",
+      "tail_id": "D004827",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

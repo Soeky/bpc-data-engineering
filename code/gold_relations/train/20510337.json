@@ -1,0 +1,557 @@
+{
+  "doc_id": "20510337",
+  "title": "Coenzyme Q10 treatment ameliorates acute cisplatin nephrotoxicity in mice.",
+  "body": "The nephroprotective effect of coenzyme Q10 was investigated in mice with acute renal injury induced by a single i.p. injection of cisplatin (5 mg/kg). Coenzyme Q10 treatment (10 mg/kg/day, i.p.) was applied for 6 consecutive days, starting 1 day before cisplatin administration. Coenzyme Q10 significantly reduced blood urea nitrogen and serum creatinine levels which were increased by cisplatin. Coenzyme Q10 significantly compensated deficits in the antioxidant defense mechanisms (reduced glutathione level and superoxide dismutase activity), suppressed lipid peroxidation, decreased the elevations of tumor necrosis factor-alpha, nitric oxide and platinum ion concentration, and attenuated the reductions of selenium and zinc ions in renal tissue resulted from cisplatin administration. Also, histopathological renal tissue damage mediated by cisplatin was ameliorated by coenzyme Q10 treatment. Immunohistochemical analysis revealed that coenzyme Q10 significantly decreased the cisplatin-induced overexpression of inducible nitric oxide synthase, nuclear factor-kappaB, caspase-3 and p53 in renal tissue. It was concluded that coenzyme Q10 represents a potential therapeutic option to protect against acute cisplatin nephrotoxicity commonly encountered in clinical practice.",
+  "entities": [
+    {
+      "id": "C024989",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Coenzyme Q10",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 106,
+          "length": 12
+        },
+        {
+          "text": "Coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 227,
+          "length": 12
+        },
+        {
+          "text": "Coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 355,
+          "length": 12
+        },
+        {
+          "text": "Coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 473,
+          "length": 12
+        },
+        {
+          "text": "coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 952,
+          "length": 12
+        },
+        {
+          "text": "coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1019,
+          "length": 12
+        },
+        {
+          "text": "coenzyme Q10",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1209,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002945",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cisplatin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 206,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 329,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 462,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 841,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 923,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1060,
+          "length": 9
+        },
+        {
+          "text": "cisplatin",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1289,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 14
+        },
+        {
+          "text": "renal tissue damage",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 891,
+          "length": 19
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1299,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 139,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal injury",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 149,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D001806",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "blood urea nitrogen",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 390,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 420,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutathione",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 568,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "20655",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 590,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 633,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tumor necrosis factor-alpha",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 681,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 710,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D010984",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "platinum",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 727,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012643",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "selenium",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 788,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D015032",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "zinc",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 801,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nitric oxide synthase",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1106,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "18033",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear factor-kappaB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1129,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "12367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1152,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "22060",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1166,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D015032",
+      "tail_id": "D002945",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012643",
+      "tail_id": "D002945",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002945",
+      "tail_id": "D058186",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002945",
+      "tail_id": "18125",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D002945",
+      "tail_id": "18033",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D002945",
+      "tail_id": "22060",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D002945",
+      "tail_id": "12367",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002945",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002945",
+      "tail_id": "D001806",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D002945",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "C024989",
+      "tail_id": "18125",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C024989",
+      "tail_id": "18033",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C024989",
+      "tail_id": "22060",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C024989",
+      "tail_id": "12367",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C024989",
+      "tail_id": "D005978",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C024989",
+      "tail_id": "20655",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "C024989",
+      "tail_id": "21926",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "C024989",
+      "tail_id": "D015032",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "C024989",
+      "tail_id": "D012643",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "C024989",
+      "tail_id": "D010984",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "C024989",
+      "tail_id": "D009569",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "C024989",
+      "tail_id": "D008055",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "C024989",
+      "tail_id": "D003404",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "C024989",
+      "tail_id": "D001806",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "C024989",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "C024989",
+      "tail_id": "D002945",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

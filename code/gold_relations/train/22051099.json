@@ -1,0 +1,247 @@
+{
+  "doc_id": "22051099",
+  "title": "Variation in the CXCR1 gene (IL8RA) is not associated with susceptibility to chronic periodontitis.",
+  "body": "BACKGROUND: The chemokine receptor 1 CXCR-1 (or IL8R-alpha) is a specific receptor for the interleukin 8 (IL-8), which is chemoattractant for neutrophils and has an important role in the inflammatory response. The polymorphism rs2234671 at position Ex2+860G>C of the CXCR1 gene causes a conservative amino acid substitution (S276T). This single nucleotide polymorphism (SNP) seemed to be functional as it was associated with decreased lung cancer risk. Previous studies of our group found association of haplotypes in the IL8 and in the CXCR2 genes with the multifactorial disease chronic periodontitis. In this study we investigated the polymorphism rs2234671 in 395 Brazilian subjects with and without chronic periodontitis. FINDINGS: Similar distribution of the allelic and genotypic frequencies were observed between the groups (p>0.05). CONCLUSIONS: The polymorphism rs2234671 in the CXCR1 gene was not associated with the susceptibility to chronic periodontitis in the studied Brazilian population.",
+  "entities": [
+    {
+      "id": "3577",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 5
+        },
+        {
+          "text": "IL8RA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 5
+        },
+        {
+          "text": "chemokine receptor 1 CXCR-1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 116,
+          "length": 27
+        },
+        {
+          "text": "IL8R-alpha",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 148,
+          "length": 10
+        },
+        {
+          "text": "CXCR1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 367,
+          "length": 5
+        },
+        {
+          "text": "CXCR1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 989,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D055113",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "chronic periodontitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 21
+        },
+        {
+          "text": "chronic periodontitis",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 681,
+          "length": 21
+        },
+        {
+          "text": "chronic periodontitis",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 804,
+          "length": 21
+        },
+        {
+          "text": "chronic periodontitis",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1046,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin 8",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 191,
+          "length": 13
+        },
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 206,
+          "length": 4
+        },
+        {
+          "text": "IL8",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 622,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 287,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs2234671",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2234671",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 327,
+          "length": 9
+        },
+        {
+          "text": "Ex2+860G>C",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 349,
+          "length": 10
+        },
+        {
+          "text": "S276T",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 425,
+          "length": 5
+        },
+        {
+          "text": "rs2234671",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 751,
+          "length": 9
+        },
+        {
+          "text": "rs2234671",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 972,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 535,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "3579",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCR2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 637,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3579",
+      "tail_id": "D055113",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3576",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "3576",
+      "tail_id": "D055113",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "3577",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "3577",
+      "tail_id": "3576",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "3577",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs2234671",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "doc_id": "28650467",
+  "title": "Genome-wide loss-of-function genetic screening identifies opioid receptor u1 as a key regulator of L-asparaginase resistance in pediatric acute lymphoblastic leukemia.",
+  "body": "L-asparaginase is a critical chemotherapeutic agent for acute lymphoblastic leukemia (ALL). It hydrolyzes plasma asparagine into aspartate and NH3, causing asparagine deficit and inhibition of protein synthesis and eventually, leukemic cell death. However, patient relapse often occurs due to development of resistance. The molecular mechanism by which ALL cells acquire resistance to L-asparaginase is unknown. Therefore, we sought to identify genes that are involved in L-asparaginase resistance in primary leukemic cells. By unbiased genome-wide RNAi screening, we found that among 10 resistant ALL clones, six hits were for opioid receptor mu 1 (oprm1), two hits were for carbonic anhydrase 1 (ca1) and another two hits were for ubiquitin-conjugating enzyme E2C (ube2c). We also found that OPRM1 is expressed in all leukemic cells tested. Specific knockdown of OPRM1 confers L-asparaginase resistance, validating our genome-wide retroviral shRNA library screening data. Methadone, an agonist of OPRM1, enhances the sensitivity of parental leukemic cells, but not OPRM1-depleted cells, to L-asparaginase treatment, indicating that OPRM1 is required for the synergistic action of L-asparaginase and methadone, and that OPRM1 loss promotes leukemic cell survival likely through downregulation of the OPRM1-mediated apoptotic pathway. Consistent with this premise, patient leukemic cells with relatively high levels of OPRM1 are more sensitive to L-asparaginase treatment compared to OPRM1-depleted leukemic cells, further indicating that OPRM1 loss has a crucial role in L-asparaginase resistance in leukemic patients. Thus, our study demonstrates for the first time, a novel OPRM1-mediated mechanism for L-asparaginase resistance in ALL, and identifies OPRM1 as a functional biomarker for defining high-risk subpopulations and for the detection of evolving resistant clones. Oprm1 may also be utilized for effective treatment of L-asparaginase-resistant ALL.Oncogene advance online publication, 26 June 2017; doi:10.1038/onc.2017.211.",
+  "entities": [
+    {
+      "id": "4988",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "opioid receptor u1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 18
+        },
+        {
+          "text": "opioid receptor mu 1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 796,
+          "length": 20
+        },
+        {
+          "text": "oprm1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 818,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 962,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1033,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1167,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1235,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1302,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1389,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1469,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1587,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1652,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1707,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1845,
+          "length": 5
+        },
+        {
+          "text": "OPRM1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1923,
+          "length": 5
+        },
+        {
+          "text": "Oprm1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 2045,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001215",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-asparaginase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 168,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 553,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 640,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1047,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1260,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1350,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1615,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1740,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1874,
+          "length": 14
+        },
+        {
+          "text": "L-asparaginase",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 2099,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D054198",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute lymphoblastic leukemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 138,
+          "length": 28
+        },
+        {
+          "text": "acute lymphoblastic leukemia",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 224,
+          "length": 28
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 254,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 521,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 766,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1903,
+          "length": 3
+        },
+        {
+          "text": "ALL",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 2124,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001216",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "asparagine",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 281,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001224",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspartate",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 297,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000641",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NH3",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 311,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "OMIM:615574",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "asparagine deficit",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 324,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007938",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 395,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 677,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 988,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1211,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1409,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1541,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1667,
+          "length": 8
+        },
+        {
+          "text": "leukemic",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1769,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 425,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1533,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1778,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "carbonic anhydrase 1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 844,
+          "length": 20
+        },
+        {
+          "text": "ca1",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 866,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "11065",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ubiquitin-conjugating enzyme E2C",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 901,
+          "length": 32
+        },
+        {
+          "text": "ube2c",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 935,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008691",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1142,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 168,
+          "char_offset": 1369,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001216",
+      "tail_id": "D000641",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001216",
+      "tail_id": "D001224",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008691",
+      "tail_id": "D007938",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008691",
+      "tail_id": "4988",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "11065",
+      "tail_id": "D054198",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "759",
+      "tail_id": "D054198",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001215",
+      "tail_id": "OMIM:615574",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D001215",
+      "tail_id": "D001216",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D001215",
+      "tail_id": "D008691",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D001215",
+      "tail_id": "D007938",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D001215",
+      "tail_id": "D054198",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "4988",
+      "tail_id": "D007938",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "4988",
+      "tail_id": "D054198",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "4988",
+      "tail_id": "D001215",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

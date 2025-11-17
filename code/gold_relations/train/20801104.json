@@ -1,0 +1,321 @@
+{
+  "doc_id": "20801104",
+  "title": "Association study of polymorphisms in the promoter region of DRD4 with schizophrenia, depression, and heroin addiction.",
+  "body": "This study investigated the possible association between three functional polymorphisms in the promoter region of the dopamine D4 receptor (DRD4) gene and schizophrenia, depression, and heroin addiction. Genomic DNA was isolated from the venous blood leukocytes of 322 unrelated patients with schizophrenia, 156 patients with depression, 300 patients with heroin addiction, and 300 healthy unrelated individuals. Polymorphisms in the promoter region of DRD4 (-120 bp duplication, -616C/G, and -521C/T) were genotyped using allele-specific polymerase chain reaction analysis. Genotype and allele were analyzed using SPSS 11.5 software. Results of this analysis indicated that there is a strong finding of -120 bp duplication allele frequencies with schizophrenia (p=0.008) and weak finding with -1240 L/S and for paranoid schizophrenia (p=0.022). Interestingly, there is a stronger finding with -521 C/T allele frequencies with heroin dependence (p=0.0002). These observations strongly suggest that the -120-bp duplication polymorphism of DRD4 is associated with schizophrenia and that the -521 C/T polymorphism is associated with heroin addiction.",
+  "entities": [
+    {
+      "id": "1815",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DRD4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 4
+        },
+        {
+          "text": "dopamine D4 receptor",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 238,
+          "length": 20
+        },
+        {
+          "text": "DRD4",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 260,
+          "length": 4
+        },
+        {
+          "text": "DRD4",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 573,
+          "length": 4
+        },
+        {
+          "text": "DRD4",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1158,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 275,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 413,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 868,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1182,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 10
+        },
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 290,
+          "length": 10
+        },
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 446,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D006556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "heroin addiction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 16
+        },
+        {
+          "text": "heroin addiction",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 306,
+          "length": 16
+        },
+        {
+          "text": "heroin addiction",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 476,
+          "length": 16
+        },
+        {
+          "text": "heroin dependence",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1047,
+          "length": 17
+        },
+        {
+          "text": "heroin addiction",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1250,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 399,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 432,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 462,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DUP|-120||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-120 bp duplication",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 579,
+          "length": 19
+        },
+        {
+          "text": "-120 bp duplication",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 824,
+          "length": 19
+        },
+        {
+          "text": "-120-bp duplication",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1122,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "rs747302",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-616C/G",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 600,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs1800955",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-521C/T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 613,
+          "length": 7
+        },
+        {
+          "text": "-521 C/T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1014,
+          "length": 8
+        },
+        {
+          "text": "-521 C/T",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1209,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|-1240|S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-1240 L/S",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 914,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012563",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "paranoid schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 932,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs1800955",
+      "tail_id": "D006556",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|L|-1240|S",
+      "tail_id": "D012563",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|DUP|-120||",
+      "tail_id": "D012559",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "1815",
+      "tail_id": "D006556",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "1815",
+      "tail_id": "D012563",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "1815",
+      "tail_id": "D012559",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

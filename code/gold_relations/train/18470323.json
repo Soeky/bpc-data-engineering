@@ -1,0 +1,214 @@
+{
+  "doc_id": "18470323",
+  "title": "Anticipation in familial lattice corneal dystrophy type I with R124C mutation in the TGFBI (BIGH3) gene.",
+  "body": "PURPOSE: To report the clinical, ophthalmic, and genetic characteristics for lattice corneal dystrophy type I (LCDI) in a Chilean family. METHODS: Six affected family members were examined clinically including visual acuity, color cornea photography, applanation tonography, and fundoscopy. Genomic DNA was extracted from peripheral leukocytes from six affected and three unaffected members of a family with lattice corneal dystrophy type I. Exon 4 of the transforming growth factor-induced gene (TGFBI) was screened for the most frequent mutation, R124C, in the proband by sequencing. We also designed a rapid polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method to analyze the same mutation, amplifying exon 4 and digesting with PstI restriction enzyme. Using this strategy, we analyzed the mutation in six affected and three healthy family members. RESULTS: Three generations of family members were positively diagnosed with lattice corneal dystrophy. Six participants demonstrated LCD1 in both eyes, most of whom were symmetric. Age at onset of symptoms was variable (3-42 years old). Moreover, in this family, the age of onset of the disease decreased in succeeding generations, which could be interpreted as anticipation. Visual acuity varied from 1.0 to 0.13. Two patients, ages 69 and 44 years old, demonstrated a degree of severity \"Bad\" according to best-corrected vision and corneal commitment. The exon 4 sequence of TGFBI of the proband exhibits the heterozygous single-nucleotide mutation, C417T, leading to amino acid substitution (R124C) in the encoded TGF-induced protein. Using PCR-RFLP, we confirmed the heterozygous mutation in six affected family members and excluded it in three healthy members. CONCLUSIONS: The R124C mutation in TGFBI cosegregated with LCD type I in the investigated family. This is the first report of a molecular analysis of LCD type I in Chilean patients. The early onset affected persons in the fourth generation raises the possibility of anticipation.",
+  "entities": [
+    {
+      "id": "C537881",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lattice corneal dystrophy type I",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 32
+        },
+        {
+          "text": "lattice corneal dystrophy type I",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 182,
+          "length": 32
+        },
+        {
+          "text": "LCDI",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 216,
+          "length": 4
+        },
+        {
+          "text": "lattice corneal dystrophy type I",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 513,
+          "length": 32
+        },
+        {
+          "text": "lattice corneal dystrophy",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1065,
+          "length": 25
+        },
+        {
+          "text": "LCD1",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1122,
+          "length": 4
+        },
+        {
+          "text": "LCD type I",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1914,
+          "length": 10
+        },
+        {
+          "text": "LCD type I",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 2005,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs121909210",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R124C",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 5
+        },
+        {
+          "text": "R124C",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 654,
+          "length": 5
+        },
+        {
+          "text": "C417T",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1641,
+          "length": 5
+        },
+        {
+          "text": "R124C",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1684,
+          "length": 5
+        },
+        {
+          "text": "R124C",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1872,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7045",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFBI",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 5
+        },
+        {
+          "text": "BIGH3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 92,
+          "length": 5
+        },
+        {
+          "text": "transforming growth factor-induced gene",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 561,
+          "length": 39
+        },
+        {
+          "text": "TGFBI",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 602,
+          "length": 5
+        },
+        {
+          "text": "TGFBI",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1566,
+          "length": 5
+        },
+        {
+          "text": "TGF-induced protein",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1706,
+          "length": 19
+        },
+        {
+          "text": "TGFBI",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1890,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6690",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PstI",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 868,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1408,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 2027,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7045",
+      "tail_id": "C537881",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs121909210",
+      "tail_id": "C537881",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

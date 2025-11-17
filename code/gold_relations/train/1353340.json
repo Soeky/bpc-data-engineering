@@ -1,0 +1,152 @@
+{
+  "doc_id": "1353340",
+  "title": "Late-onset metachromatic leukodystrophy: molecular pathology in two siblings.",
+  "body": "We report on a new allele at the arylsulfatase A (ARSA) locus causing late-onset metachromatic leukodystrophy (MLD). In that allele arginine84, a residue that is highly conserved in the arylsulfatase gene family, is replaced by glutamine. In contrast to alleles that cause early-onset MLD, the arginine84 to glutamine substitution is associated with some residual ARSA activity. A comparison of genotypes, ARSA activities, and clinical data on 4 individuals carrying the allele of 81 patients with MLD examined, further validates the concept that different degrees of residual ARSA activity are the basis of phenotypical variation in MLD..",
+  "entities": [
+    {
+      "id": "D007966",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metachromatic leukodystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 28
+        },
+        {
+          "text": "metachromatic leukodystrophy",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 159,
+          "length": 28
+        },
+        {
+          "text": "MLD",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 189,
+          "length": 3
+        },
+        {
+          "text": "MLD",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 363,
+          "length": 3
+        },
+        {
+          "text": "MLD",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 576,
+          "length": 3
+        },
+        {
+          "text": "MLD",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 712,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "410",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "arylsulfatase A",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 111,
+          "length": 15
+        },
+        {
+          "text": "ARSA",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 128,
+          "length": 4
+        },
+        {
+          "text": "arylsulfatase",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 264,
+          "length": 13
+        },
+        {
+          "text": "ARSA",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 442,
+          "length": 4
+        },
+        {
+          "text": "ARSA",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 484,
+          "length": 4
+        },
+        {
+          "text": "ARSA",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 655,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs74315458",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine84",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 210,
+          "length": 10
+        },
+        {
+          "text": "arginine84 to glutamine",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 372,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 78,
+          "char_offset": 562,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "410",
+      "tail_id": "D007966",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs74315458",
+      "tail_id": "D007966",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

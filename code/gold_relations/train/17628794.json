@@ -1,0 +1,220 @@
+{
+  "doc_id": "17628794",
+  "title": "Manganese superoxide dismutase (Mn-SOD) gene polymorphisms in urolithiasis.",
+  "body": "Polymorphism in manganese superoxide dismutase gene (Mn-SOD) is a new approach to identify its probable association with urolithiasis. Oxidative stress may be involved in the development of stone formation in the renal system. MnSOD is one of the primary enzymes that directly scavenges potential harmful oxidizing species. A valine (Val) to alanine (Ala) substitution at amino acid 16, occurring in the mitochondrial targeting sequence of the MnSOD gene, has been associated with an increase in urolithiasis risk. This study was conducted to investigate the association of MnSOD gene polymorphism with the risk of urolithiasis. We investigated the MnSOD in 66 stone-forming adults and 72 healthy volunteers. DNA was isolated from peripheral blood and genotyping was performed with PCR-based methods. Then PCR products were cut by BsaW1. Products were run on 3% agarose gel, 246 bp regions were 1-Ala-9, 164 and 82 bp products were determined as 2 Val-9. Chi-square test was used for comparison between patients and controls. In the control group the homozygote Ala allele was significantly higher than in the patient group (P < 0.01). The distribution of Ala/Val and homozygote Val alleles in the patient group was significantly higher than in the control group (P < 0.05). MnSOD genotype determination may provide a tool to identify individuals who are at risk of urolithiasis. This experiment also provides data about antioxidant status and stone formation.",
+  "entities": [
+    {
+      "id": "6648",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Manganese superoxide dismutase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 30
+        },
+        {
+          "text": "Mn-SOD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 6
+        },
+        {
+          "text": "manganese superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 92,
+          "length": 30
+        },
+        {
+          "text": "Mn-SOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 129,
+          "length": 6
+        },
+        {
+          "text": "MnSOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 303,
+          "length": 5
+        },
+        {
+          "text": "MnSOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 520,
+          "length": 5
+        },
+        {
+          "text": "MnSOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 650,
+          "length": 5
+        },
+        {
+          "text": "MnSOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 725,
+          "length": 5
+        },
+        {
+          "text": "MnSOD",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1351,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D052878",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "urolithiasis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 12
+        },
+        {
+          "text": "urolithiasis",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 197,
+          "length": 12
+        },
+        {
+          "text": "urolithiasis",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 572,
+          "length": 12
+        },
+        {
+          "text": "urolithiasis",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 691,
+          "length": 12
+        },
+        {
+          "text": "urolithiasis",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1442,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002137",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stone formation",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 266,
+          "length": 15
+        },
+        {
+          "text": "stone-forming",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 737,
+          "length": 13
+        },
+        {
+          "text": "stone formation",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1520,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|V|16|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "valine (Val) to alanine (Ala) substitution at amino acid 16",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 402,
+          "length": 59
+        }
+      ]
+    },
+    {
+      "id": "D012685",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "agarose",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 938,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1079,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1186,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 76,
+          "char_offset": 1274,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|V|16|A",
+      "tail_id": "D052878",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D052878",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "6648",
+      "tail_id": "D002137",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

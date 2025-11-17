@@ -1,0 +1,178 @@
+{
+  "doc_id": "18487244",
+  "title": "Depletion of mitochondrial DNA in fibroblast cultures from patients with POLG1 mutations is a consequence of catalytic mutations.",
+  "body": "We investigated clinical and cellular phenotypes of 24 children with mutations in the catalytic (alpha) subunit of the mitochondrial DNA (mtDNA) gamma polymerase (POLG1). Twenty-one had Alpers syndrome, the commonest severe POLG1 autosomal recessive phenotype, comprising hepatoencephalopathy and often mtDNA depletion. The cellular mtDNA content reflected the genotype more closely than did clinical features. Patients with tissue depletion of mtDNA all had at least one allele with either a missense mutation in a catalytic domain or a nonsense mutation. Four out of 12 patients exhibited a progressive, mosaic pattern of mtDNA depletion in cultured fibroblasts. All these patients had mutations in a catalytic domain in both POLG1 alleles, in either the polymerase or exonuclease domain or both. The tissue mtDNA content of patients who had two linker mutations was normal, and their phenotypes the mildest. Epilepsy and/or movement disorder were major features in all 21. Previous studies have implicated replication stalling as a mechanism for mtDNA depletion. The mosaic cellular depletion that we have demonstrated in cell cultures may be a manifestation of severe replication stalling. One patient with a severe cellular and clinical phenotype was a compound heterozygote with POLG1 mutations in the polymerase and exonuclease domain intrans. This suggests that POLG1 requires both polymerase and 3'-5' exonuclease activity in the same molecule. This is consistent with current functional models for eukaryotic DNA polymerases, which alternate between polymerizing and editing modes, as determined by competition between these two active sites for the 3' end of the DNA.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 541,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 702,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 805,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 957,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1328,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5428",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "POLG1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 5
+        },
+        {
+          "text": "mitochondrial DNA (mtDNA) gamma polymerase",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 249,
+          "length": 42
+        },
+        {
+          "text": "POLG1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 293,
+          "length": 5
+        },
+        {
+          "text": "POLG1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 354,
+          "length": 5
+        },
+        {
+          "text": "POLG1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 858,
+          "length": 5
+        },
+        {
+          "text": "POLG1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1415,
+          "length": 5
+        },
+        {
+          "text": "POLG1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1500,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002549",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alpers syndrome",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 316,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "C563797",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatoencephalopathy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 402,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D004827",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Epilepsy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1041,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "movement disorder",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1057,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5428",
+      "tail_id": "C563797",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002549",
+      "tail_id": "5428",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

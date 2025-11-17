@@ -1,0 +1,462 @@
+{
+  "doc_id": "15770495",
+  "title": "New mutations, hotspots, and founder effects in Brazilian patients with steroid 5alpha-reductase deficiency type 2.",
+  "body": "Mutations of the steroid 5alpha-reductase type 2 (SRD5A2) gene in 46,XY subjects cause masculinization defects of varying degrees, due to reduced or impaired enzymatic activity. In this study, sequence abnormalities of the SRD5A2 gene were assessed by polymerase chain reaction with specific primers and automated sequencing analysis in DNA samples from 20 patients with suspected steroid 5alpha-reductase type 2 deficiency from 18 Brazilian families. Eleven subjects presented SRD5A2 homozygous single-base mutations (two first cousins and four unrelated patients with G183S, two with R246W, one with del642T, one with G196S, and one with 217_218insC plus the A49T variant in heterozygosis), whereas four were compound heterozygotes (one with Q126R/IVS3+1G>A, one with Q126R/del418T, and two brothers with Q126R/G158R). Three patients were heterozygous for A207D, G196S, and R266W substitutions. The V89L polymorphism was found in heterozygosis in one of them (with A207D) and in one case with an otherwise normal gene sequence. The A49T variant was also detected in heterozygosis in the second case without other sequencing abnormalities. Four patients harbor yet non-described SRD5A2 gene mutations: a single nucleotide deletion (del642T), a G158R amino acid substitution, a splice junction mutation (IVS3+1G>A), and the insertion of a cytosine (217_218insC) occurring at a CCCC motif. This is the first report of a single-nucleotide insertion in the coding sequence of the SRD5A2 gene. In addition to these new mutations, this investigation reveals the prevalence of G183S substitution among a subset of African-Brazilian patients and presents evidences of the recurrence of already known mutations.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 473,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 672,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 943,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1262,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1742,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C535830",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "steroid 5alpha-reductase deficiency type 2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 42
+        },
+        {
+          "text": "steroid 5alpha-reductase type 2 deficiency",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 497,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "6716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "steroid 5alpha-reductase type 2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 133,
+          "length": 31
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 166,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 339,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 594,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1296,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1593,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs121434247",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G183S",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 686,
+          "length": 5
+        },
+        {
+          "text": "G183S",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1687,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs121434244",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R246W",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 702,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|642|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "del642T",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 718,
+          "length": 7
+        },
+        {
+          "text": "del642T",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1349,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs121434250",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G196S",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 736,
+          "length": 5
+        },
+        {
+          "text": "G196S",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 981,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|INS|217_218|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "217_218insC",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 756,
+          "length": 11
+        },
+        {
+          "text": "217_218insC",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1465,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "rs9282858",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A49T",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 777,
+          "length": 4
+        },
+        {
+          "text": "A49T",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1150,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs368386747",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Q126R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 860,
+          "length": 5
+        },
+        {
+          "text": "Q126R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 886,
+          "length": 5
+        },
+        {
+          "text": "Q126R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 923,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|IVS3+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS3+1G>A",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 866,
+          "length": 9
+        },
+        {
+          "text": "IVS3+1G>A",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1420,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|418|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "del418T",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 892,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|158|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G158R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 929,
+          "length": 5
+        },
+        {
+          "text": "G158R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1361,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs767564684",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A207D",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 974,
+          "length": 5
+        },
+        {
+          "text": "A207D",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1083,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|266|W",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R266W",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 992,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs523349",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V89L",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1017,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6716",
+      "tail_id": "C535830",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C535830",
+      "tail_id": "rs121434247",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C535830",
+      "tail_id": "rs523349",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C535830",
+      "tail_id": "p|SUB|R|266|W",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C535830",
+      "tail_id": "rs767564684",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C535830",
+      "tail_id": "p|SUB|G|158|R",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C535830",
+      "tail_id": "c|DEL|418|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C535830",
+      "tail_id": "c|SUB|G|IVS3+1|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C535830",
+      "tail_id": "rs368386747",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C535830",
+      "tail_id": "rs9282858",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C535830",
+      "tail_id": "c|INS|217_218|C",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C535830",
+      "tail_id": "rs121434250",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C535830",
+      "tail_id": "c|DEL|642|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C535830",
+      "tail_id": "rs121434244",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

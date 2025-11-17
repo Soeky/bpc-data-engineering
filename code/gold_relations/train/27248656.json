@@ -1,0 +1,722 @@
+{
+  "doc_id": "27248656",
+  "title": "Hsp90beta is involved in the development of high salt-diet-induced nephropathy via interaction with various signalling proteins.",
+  "body": "A high-salt diet often leads to a local intrarenal increase in renal hypoxia and oxidative stress, which are responsible for an excess production of pathogenic substances. Here, Wistar Kyoto/spontaneous hypertensive (WKY/SHR) rats fed a high-salt diet developed severe proteinuria, resulting from pronounced renal inflammation, fibrosis and tubular epithelial cell apoptosis. All these were mainly non-pressure-related effects. Hsp90beta, TGF-beta, HIF-1alpha, TNF-alpha, IL-6 and MCP-1 were shown to be highly expressed in response to salt loading. Next, we found that Hsp90beta might play the key role in non-pressure-related effects of salt loading through a series of cellular signalling events, including the NF-kappaB, p38 activation and Bcl-2 inactivation. Hsp90beta was previously proven to regulate the upstream mediators in multiple cellular signalling cascades through stabilizing and maintaining their activities. In our study, 17-dimethylaminoethylamino-17-demethoxygeldanamycin (17-DMAG) or Hsp90beta knockdown dramatically alleviated the high-salt-diet-induced proteinuria and renal damage without altering blood pressure significantly, when it reversed activations of NF-kappaB, mTOR and p38 signalling cascades. Meanwhile, Co-IP results demonstrated that Hsp90beta could interact with and stabilize TAK1, AMPKalpha, IKKalpha/beta, HIF-1alpha and Raptor, whereas Hsp90beta inhibition disrupted this process. In addition, Hsp90beta inhibition-mediated renal improvements also accompanied the reduction of renal oxidative stress. In conclusion, salt loading indeed exhibited non-pressure-related impacts on proteinuria and renal dysfunction in WKY/SHR rats. Hsp90beta inhibition caused the destabilization of upstream mediators in various pathogenic signalling events, thereby effectively ameliorating this nephropathy owing to renal hypoxia and oxidative stress.",
+  "entities": [
+    {
+      "id": "301252",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Hsp90beta",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 557,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 699,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 893,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1134,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1401,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1508,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1566,
+          "length": 9
+        },
+        {
+          "text": "Hsp90beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1801,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012492",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "salt",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 136,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 371,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 665,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 768,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1187,
+          "length": 4
+        },
+        {
+          "text": "salt",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1688,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 11
+        },
+        {
+          "text": "renal hypoxia",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 192,
+          "length": 13
+        },
+        {
+          "text": "renal inflammation",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 437,
+          "length": 18
+        },
+        {
+          "text": "renal damage",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1221,
+          "length": 12
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1950,
+          "length": 11
+        },
+        {
+          "text": "renal hypoxia",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1971,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 332,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 355,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1795,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 398,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1205,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1750,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fibrosis",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 457,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "59086",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGF-beta,",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 568,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "29560",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HIF-1alpha",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 578,
+          "length": 10
+        },
+        {
+          "text": "HIF-1alpha",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1477,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24835",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 590,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "24498",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 601,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24770",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCP-1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 610,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "81736",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 843,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1313,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "81649",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 854,
+          "length": 3
+        },
+        {
+          "text": "p38",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1333,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 873,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C448659",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "17-dimethylaminoethylamino-17-demethoxygeldanamycin",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1069,
+          "length": 51
+        },
+        {
+          "text": "17-DMAG",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1122,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "56718",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1324,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "313121",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TAK1",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1445,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "65248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMPKalpha",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1451,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "309361,84351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IKKalpha/beta",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1462,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "287871",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Raptor",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1492,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D051437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal dysfunction",
+          "passage_index": 1,
+          "passage_offset": 129,
+          "char_offset": 1766,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011507",
+      "tail_id": "56718",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011507",
+      "tail_id": "81649",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011507",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C448659",
+      "tail_id": "56718",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C448659",
+      "tail_id": "D011507",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C448659",
+      "tail_id": "81649",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C448659",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C448659",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C448659",
+      "tail_id": "D012492",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "24770",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "24498",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "24835",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "29560",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "59086",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D007674",
+      "tail_id": "56718",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D007674",
+      "tail_id": "81649",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D007674",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D012492",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D012492",
+      "tail_id": "D051437",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D012492",
+      "tail_id": "D011507",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D012492",
+      "tail_id": "24224",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D012492",
+      "tail_id": "81649",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D012492",
+      "tail_id": "81736",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D012492",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "301252",
+      "tail_id": "287871",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "301252",
+      "tail_id": "65248",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "301252",
+      "tail_id": "313121",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "301252",
+      "tail_id": "56718",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "301252",
+      "tail_id": "D011507",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "301252",
+      "tail_id": "24224",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "301252",
+      "tail_id": "81649",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "301252",
+      "tail_id": "81736",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "301252",
+      "tail_id": "29560",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "301252",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "301252",
+      "tail_id": "D012492",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "doc_id": "19445921",
+  "title": "Cardioprotective effect of salvianolic acid A on isoproterenol-induced myocardial infarction in rats.",
+  "body": "The present study was designed to evaluate the cardioprotective potential of salvianolic acid A on isoproterenol-induced myocardial infarction in rats. Hemodynamic parameters and lead II electrocardiograph were monitored and recorded continuously. Cardiac marker enzymes and antioxidative parameters in serum and heart tissues were measured. Assay for mitochondrial respiratory function and histopathological examination of heart tissues were performed. Isoproterenol-treated rats showed significant increases in the levels of lactate dehydrogenase, aspartate transaminase, creatine kinase and malondialdehyde and significant decreases in the activities of superoxide dismutase, catalase and glutathione peroxidase in serum and heart. These rats also showed declines in left ventricular systolic pressure, maximum and minimum rate of developed left ventricular pressure, and elevation of left ventricular end-diastolic pressure and ST-segment. In addition, mitochondrial respiratory dysfunction characterized by decreased respiratory control ratio and ADP/O was observed in isoproterenol-treated rats. Administration of salvianolic acid A for a period of 8 days significantly attenuated isoproterenol-induced cardiac dysfunction and myocardial injury and improved mitochondrial respiratory function. The protective role of salvianolic acid A against isoproterenol-induced myocardial damage was further confirmed by histopathological examination. The results of our study suggest that salvianolic acid A possessing antioxidant activity has a significant protective effect against isoproterenol-induced myocardial infarction.",
+  "entities": [
+    {
+      "id": "C066201",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "salvianolic acid A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 18
+        },
+        {
+          "text": "salvianolic acid A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 179,
+          "length": 18
+        },
+        {
+          "text": "salvianolic acid A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1222,
+          "length": 18
+        },
+        {
+          "text": "salvianolic acid A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1425,
+          "length": 18
+        },
+        {
+          "text": "salvianolic acid A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1586,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 201,
+          "length": 13
+        },
+        {
+          "text": "Isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 556,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1176,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1289,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1452,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1681,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 223,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1703,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 248,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 578,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 843,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1198,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24533",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactate dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 629,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "25721",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aspartate transaminase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 652,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "24264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "creatine kinase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 676,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D008315",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malondialdehyde",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 696,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "24786",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 759,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "24248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "catalase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 781,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24404",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione peroxidase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 794,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial respiratory dysfunction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1059,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "D000244",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ADP",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1154,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac dysfunction",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1311,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial injury",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1335,
+          "length": 17
+        },
+        {
+          "text": "myocardial damage",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1474,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C066201",
+      "tail_id": "D009202",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C066201",
+      "tail_id": "D006331",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C066201",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C066201",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D028361",
+      "tail_id": "D000244",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D028361",
+      "tail_id": "D007545",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007545",
+      "tail_id": "24404",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007545",
+      "tail_id": "24786",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007545",
+      "tail_id": "24264",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007545",
+      "tail_id": "25721",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007545",
+      "tail_id": "24533",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D007545",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D007545",
+      "tail_id": "D006331",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D007545",
+      "tail_id": "24248",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D007545",
+      "tail_id": "D008315",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D007545",
+      "tail_id": "D009203",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

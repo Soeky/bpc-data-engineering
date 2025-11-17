@@ -1,0 +1,436 @@
+{
+  "doc_id": "29049388",
+  "title": "An inducible mouse model of podocin-mutation-related nephrotic syndrome.",
+  "body": "Mutations in the NPHS2 gene, encoding podocin, cause hereditary nephrotic syndrome. The most common podocin mutation, R138Q, is associated with early disease onset and rapid progression to end-stage renal disease. Knock-in mice carrying a R140Q mutation, the mouse analogue of human R138Q, show developmental arrest of podocytes and lethal renal failure at neonatal age. Here we created a conditional podocin knock-in model named NPHS2 R140Q/-, using a tamoxifen-inducible Cre recombinase, which permits to study the effects of the mutation in postnatal life. Within the first week of R140Q hemizygosity induction the animals developed proteinuria, which peaked after 4-5 weeks. Subsequently the animals developed progressive renal failure, with a median survival time of 12 (95% CI: 11-13) weeks. Foot process fusion was observed within one week, progressing to severe and global effacement in the course of the disease. The number of podocytes per glomerulus gradually diminished to 18% compared to healthy controls 12-16 weeks after induction. The fraction of segmentally sclerosed glomeruli was 25%, 85% and 97% at 2, 4 and 8 weeks, respectively. Severe tubulointerstitial fibrosis was present at later disease stage and was correlated quantitatively with the level of proteinuria at early disease stages. While R140Q podocin mRNA expression was elevated, protein abundance was reduced by more than 50% within one week following induction. Whereas miRNA21 expression persistently increased during the first 4 weeks, miRNA-193a expression peaked 2 weeks after induction. In conclusion, the inducible R140Q-podocin mouse model is an auspicious model of the most common genetic cause of human nephrotic syndrome, with a spontaneous disease course strongly reminiscent of the human disorder. This model constitutes a valuable tool to test the efficacy of novel pharmacological interventions aimed to improve podocyte function and viability and attenuate proteinuria, glomerulosclerosis and progressive renal failure.",
+  "entities": [
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 296,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 332,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1690,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "170484",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "podocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 7
+        },
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 474,
+          "length": 7
+        },
+        {
+          "text": "NPHS2",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 503,
+          "length": 5
+        },
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1395,
+          "length": 7
+        },
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1682,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 137,
+          "length": 18
+        },
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1767,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "7827",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NPHS2",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 90,
+          "length": 5
+        },
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 111,
+          "length": 7
+        },
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 173,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs74315342",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R138Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 191,
+          "length": 5
+        },
+        {
+          "text": "R138Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 356,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal disease",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 272,
+          "length": 13
+        },
+        {
+          "text": "tubulointerstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1231,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|140|Q",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R140Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 312,
+          "length": 5
+        },
+        {
+          "text": "R140Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 509,
+          "length": 5
+        },
+        {
+          "text": "R140Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 658,
+          "length": 5
+        },
+        {
+          "text": "R140Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1389,
+          "length": 5
+        },
+        {
+          "text": "R140Q",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1676,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 350,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1761,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1849,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D051437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal failure",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 413,
+          "length": 13
+        },
+        {
+          "text": "renal failure",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 799,
+          "length": 13
+        },
+        {
+          "text": "renal failure",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 2075,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D013629",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tamoxifen",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 526,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 709,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1346,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 2027,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "406991",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "miRNA21",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1525,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "406968",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "miRNA-193a",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1593,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D005921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 2040,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7827",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "7827",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "7827",
+      "tail_id": "D011507",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "7827",
+      "tail_id": "D051437",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "170484",
+      "tail_id": "D009404",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "170484",
+      "tail_id": "D011507",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "170484",
+      "tail_id": "D051437",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs74315342",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "rs74315342",
+      "tail_id": "D051437",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "p|SUB|R|140|Q",
+      "tail_id": "D009404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "p|SUB|R|140|Q",
+      "tail_id": "D011507",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "p|SUB|R|140|Q",
+      "tail_id": "D051437",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

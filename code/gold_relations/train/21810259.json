@@ -1,0 +1,705 @@
+{
+  "doc_id": "21810259",
+  "title": "HIV-1 Tat activates indoleamine 2,3 dioxygenase in murine organotypic hippocampal slice cultures in a p38 mitogen-activated protein kinase-dependent manner.",
+  "body": "BACKGROUND: We have established that activation of the tryptophan degrading enzyme indoleamine 2,3 dioxygenase (IDO) mediates the switch from cytokine-induced sickness behavior to depressive-like behavior. Because human immunodeficiency virus type 1 (HIV-1) Tat protein causes depressive-like behavior in mice, we investigated its ability to activate IDO in organotypic hippocampal slice cultures (OHSCs) derived from neonatal C57BL/6 mice. METHODS: Depressive-like behavior in C57BL/6J mice was assessed by the forced swim test. Expression of cytokines and IDO mRNA in OHSCs was measured by real-time RT-PCR and cytokine protein was measured by enzyme-linked immunosorbent assays (ELISAs). p38 MAPK phosphorylation was analyzed by western blot. RESULTS: Intracerebroventricular (i.c.v.) administration of Tat (40 ng) induced depressive-like behavior in the absence of sickness. Addition of Tat (40 ng/slice) to the medium of OHSCs induced IDO steady-state mRNA that peaked at 6 h. This effect was potentiated by pretreatment with IFNg. Tat also induced the synthesis and release of TNFa and IL-6 protein in the supernatant of the slices and increased expression of the inducible isoform of nitric oxide synthase (iNOS) and the serotonin transporter (SERT). Tat had no effect on endogenous synthesis of IFNg. To explore the mechanisms of Tat-induced IDO expression, slices were pretreated with the p38 mitogen-activated protein kinase (MAPK) inhibitor SB 202190 for 30 min before Tat treatment. SB 202190 significantly decreased IDO expression induced by Tat, and this effect was accompanied by a reduction of Tat-induced expression of TNFa, IL-6, iNOS and SERT. CONCLUSION: These data establish that Tat induces IDO expression via an IFNg-independent mechanism that depends upon activation of p38 MAPK. Targeting IDO itself or the p38 MAPK signaling pathway could provide a novel therapy for comorbid depressive disorders in HIV-1-infected patients.",
+  "entities": [
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "human immunodeficiency virus type 1",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 371,
+          "length": 35
+        },
+        {
+          "text": "HIV-1",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 408,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "155871",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Tat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 415,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 963,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1048,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1194,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1415,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1495,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1637,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1712,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1767,
+          "length": 3
+        },
+        {
+          "text": "Tat",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1858,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "15930",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "indoleamine 2,3 dioxygenase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 27
+        },
+        {
+          "text": "indoleamine 2,3 dioxygenase",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 240,
+          "length": 27
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 269,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 508,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 715,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1097,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1507,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1686,
+          "length": 3
+        },
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1870,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 6
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 462,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 592,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 644,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "26416",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p38 mitogen-activated protein kinase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 36
+        },
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 848,
+          "length": 8
+        },
+        {
+          "text": "p38 mitogen-activated protein kinase",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1555,
+          "length": 36
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1593,
+          "length": 4
+        },
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1951,
+          "length": 8
+        },
+        {
+          "text": "p38 MAPK",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1989,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014364",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tryptophan",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 212,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000275",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressive",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 337,
+          "length": 10
+        },
+        {
+          "text": "depressive",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 434,
+          "length": 10
+        },
+        {
+          "text": "Depressive",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 607,
+          "length": 10
+        },
+        {
+          "text": "depressive",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 983,
+          "length": 10
+        },
+        {
+          "text": "depressive disorders",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2059,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "CVCL_5746",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "C57BL/6",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 584,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_5U84",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "C57BL/6J",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 635,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFNg",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1188,
+          "length": 4
+        },
+        {
+          "text": "IFNg",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1460,
+          "length": 4
+        },
+        {
+          "text": "IFNg",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1892,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1240,
+          "length": 4
+        },
+        {
+          "text": "TNFa",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1793,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1249,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1799,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18126",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "inducible isoform of nitric oxide synthase",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1327,
+          "length": 42
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1371,
+          "length": 4
+        },
+        {
+          "text": "iNOS",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1805,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "15567",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "serotonin transporter",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1385,
+          "length": 21
+        },
+        {
+          "text": "SERT",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1408,
+          "length": 4
+        },
+        {
+          "text": "SERT",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1814,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C090942",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "SB 202190",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1609,
+          "length": 9
+        },
+        {
+          "text": "SB 202190",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1652,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3620",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IDO",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1971,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D015658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HIV-1-infected",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2083,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2098,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3620",
+      "tail_id": "D015658",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3620",
+      "tail_id": "D000275",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014364",
+      "tail_id": "15930",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D014364",
+      "tail_id": "D000275",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "15978",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "15930",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "15930",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "15930",
+      "tail_id": "D000275",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "15930",
+      "tail_id": "155871",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C090942",
+      "tail_id": "15567",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C090942",
+      "tail_id": "18126",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C090942",
+      "tail_id": "16193",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C090942",
+      "tail_id": "21926",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C090942",
+      "tail_id": "15930",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C090942",
+      "tail_id": "155871",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "26416",
+      "tail_id": "D015658",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "26416",
+      "tail_id": "C090942",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "26416",
+      "tail_id": "D000275",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "155871",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "155871",
+      "tail_id": "15567",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "155871",
+      "tail_id": "18126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "155871",
+      "tail_id": "16193",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "155871",
+      "tail_id": "21926",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "155871",
+      "tail_id": "26416",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "155871",
+      "tail_id": "D000275",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

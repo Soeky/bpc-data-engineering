@@ -1,0 +1,605 @@
+{
+  "doc_id": "28260110",
+  "title": "Inhibitory effect of emodin on fatty acid synthase, colon cancer proliferation and apoptosis.",
+  "body": "Fatty acid synthase (FASN) is a key anabolic enzyme for de novo fatty acid synthesis, which is important in the development of colon carcinoma. The high expression of FASN is considered a promising molecular target for colon cancer therapy. Emodin, a naturally occurring anthraquinone, exhibits an anticancer effect in various types of human cancer, including colon cancer; however, the molecular mechanisms remain to be fully elucidated. Cell viability was evaluated using a Cell Counting Kit-8 assay. The apoptosis rate of cells was quantified via flow cytometry following Annexin V/propidium iodide staining. FASN activity was measured by monitoring oxidation of nicotinamide adenine dinucleotide phosphate at a wavelength of 340 nm, and intracellular free fatty acid levels were detected using a Free Fatty Acid Quantification kit. Western blot analysis and reverse transcription-polymerase chain reaction were used to detect target gene and protein expression. The present study was performed to investigate whether the gene expression of FASN and its enzymatic activity are regulated by emodin in a human colon cancer cell line. Emodin markedly inhibited the proliferation of HCT116 cells and a higher protein level of FASN was expressed, compared with that in SW480, SNU-C2A or SNU-C5 cells. Emodin significantly downregulated the protein expression of FASN in HCT116 cells, which was caused by protein degradation due to elevated protein ubiquitination. Emodin also inhibited intracellular FASN enzymatic activity and reduced the levels of intracellular free fatty acids. Emodin enhanced antiproliferation and apoptosis in a dose- and time-dependent manner. The combined treatment of emodin and cerulenin, a commercial FASN inhibitor, had an additive effect on these activities. Palmitate, the final product of the FASN reaction, rescued emodin-induced viability and apoptosis. In addition, emodin altered FASN-involved signaling pathways, including phosphatidylinositol 3-kinase/Akt and mitogen-activated protein kinases/extracellular signal-regulated kinases 1/2. These results suggested that emodin-regulated cell growth and apoptosis were mediated by inhibiting FASN and provide a molecular basis for colon cancer therapy.",
+  "entities": [
+    {
+      "id": "D004642",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "emodin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 6
+        },
+        {
+          "text": "Emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 335,
+          "length": 6
+        },
+        {
+          "text": "emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1187,
+          "length": 6
+        },
+        {
+          "text": "Emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1229,
+          "length": 6
+        },
+        {
+          "text": "Emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1393,
+          "length": 6
+        },
+        {
+          "text": "Emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1556,
+          "length": 6
+        },
+        {
+          "text": "Emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1674,
+          "length": 6
+        },
+        {
+          "text": "emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1786,
+          "length": 6
+        },
+        {
+          "text": "emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1940,
+          "length": 6
+        },
+        {
+          "text": "emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1993,
+          "length": 6
+        },
+        {
+          "text": "emodin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2197,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2194",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fatty acid synthase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 19
+        },
+        {
+          "text": "Fatty acid synthase",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 94,
+          "length": 19
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 115,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 261,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 706,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1138,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1319,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1454,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1592,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1821,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1917,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2008,
+          "length": 4
+        },
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2268,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colon cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 12
+        },
+        {
+          "text": "colon carcinoma",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 221,
+          "length": 15
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 313,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 454,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1205,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2307,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 158,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000880",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anthraquinone",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 365,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 430,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1199,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 436,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "308",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Annexin V",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 669,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D011419",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propidium iodide",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 679,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009249",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nicotinamide adenine dinucleotide phosphate",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 760,
+          "length": 43
+        }
+      ]
+    },
+    {
+      "id": "D005230",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "free fatty acid",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 849,
+          "length": 15
+        },
+        {
+          "text": "Free Fatty Acid",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 894,
+          "length": 15
+        },
+        {
+          "text": "free fatty acids",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1656,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0291",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HCT116",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1276,
+          "length": 6
+        },
+        {
+          "text": "HCT116",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1462,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0546",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SW480",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1361,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1709",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SNU-C2A",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1368,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_5112",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SNU-C5",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1379,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D002569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cerulenin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1797,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D010168",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Palmitate",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1881,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5291",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phosphatidylinositol 3-kinase",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2052,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2082,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5594,5595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mitogen-activated protein kinases/extracellular signal-regulated kinases 1/2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 2090,
+          "length": 76
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005227",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010168",
+      "tail_id": "2194",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010168",
+      "tail_id": "D004642",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002569",
+      "tail_id": "2194",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D002569",
+      "tail_id": "D015179",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "2194",
+      "tail_id": "D005227",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "2194",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "2194",
+      "tail_id": "5291",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "2194",
+      "tail_id": "D009249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "2194",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "2194",
+      "tail_id": "D004642",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D004642",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D004642",
+      "tail_id": "5291",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D004642",
+      "tail_id": "D002569",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D004642",
+      "tail_id": "D005230",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D004642",
+      "tail_id": "D015179",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D004642",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

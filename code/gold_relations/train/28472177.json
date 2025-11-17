@@ -1,0 +1,807 @@
+{
+  "doc_id": "28472177",
+  "title": "Ubiquitin carboxyl-terminal esterase L1 (UCHL1) is associated with stem-like cancer cell functions in pediatric high-grade glioma.",
+  "body": "Pediatric high-grade gliomas represent 8-12% of all primary tumors of the nervous system in children. Five-year survival for these pediatric aggressive tumors is poor (15-35%) indicating the need to develop better treatments for pediatric high-grade gliomas. In this work we used SF188 and SJ-GBM2 cell lines to study the function of the ubiquitin carboxyl-terminal esterase L1 (UCHL1), a deubiquitinase de-regulated in several cancers, in pediatric high-grade gliomas. UCHL1 depletion in SF188 and SJ-GBM2 glioma cells was associated with decreased cell proliferation and invasion, along with a reduced ability to grow in soft agar and to form spheres (i.e. self-renewal measure). A 70% reduction in Wnt signaling was also observed in the SF188 and SJ-GBM2 UCHL1 knockdowns (KDs) using a TCF-dependent TOPflash reporter assay. Transcriptome comparisons of UCHL1 KDs versus vector control identified a list of 306 differentially expressed genes (at least 2-fold change; p    <0.05) which included genes known to be involved in cancer like ACTA2, POSTN, LIF, FBXL7, FBXW11, GDF15, HEY2, but also potential novel genes such us IGLL5, ABCA4, AQP3, AQP4, CALB1, and ALK. Bioinformatics gene ontology (GO) analysis of these 306 genes revealed significant enrichment in \"signal peptides\", \"extracellular matrix\"and \"secreted proteins\" GO Terms. \"Angiogenesis and blood vessel development\", \"neuron differentiation/development\", cell adhesion\", and \"cell migration\" also showed significant enrichment in our GO analysis. Top canonical pathways identified by Ingenuity Pathway Analysis (IPA) included \"Clathrin-mediated Endocytosis Signaling\" (p = 5.14x10-4), \"Virus Entry via Endocytic Pathways\" (p = 6.15x 10-4), and \"High Mobility Group-Box 1 (HMGB1) Signaling\" (p = 6.15x10-4). While FGF2, IL1B, TNF and PDGFB were predicted as top upstream regulators (p    < 2x10-16) of the UCHL1 KD-associated transcriptome. Aberrant expression of UCHL1 in pediatric high-grade gliomas may promote cell invasion, transformation, and self-renewal properties, at least in part, by modulating Wnt/Beta catenin activity. UCHL1 might act as an oncogene in glioma within the gene network that imparts stem-like characteristics to these cancer cells.",
+  "entities": [
+    {
+      "id": "7345",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ubiquitin carboxyl-terminal esterase L1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 39
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 5
+        },
+        {
+          "text": "ubiquitin carboxyl-terminal esterase L1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 469,
+          "length": 39
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 510,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 601,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 889,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 988,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2003,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2061,
+          "length": 5
+        },
+        {
+          "text": "UCHL1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2230,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 191,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 283,
+          "length": 6
+        },
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 559,
+          "length": 7
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1158,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2343,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005910",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glioma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 6
+        },
+        {
+          "text": "gliomas",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 152,
+          "length": 7
+        },
+        {
+          "text": "gliomas",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 381,
+          "length": 7
+        },
+        {
+          "text": "gliomas",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 592,
+          "length": 7
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 638,
+          "length": 6
+        },
+        {
+          "text": "gliomas",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2091,
+          "length": 7
+        },
+        {
+          "text": "glioma",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2264,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "CVCL_6948",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SF188",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 411,
+          "length": 5
+        },
+        {
+          "text": "SF188",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 620,
+          "length": 5
+        },
+        {
+          "text": "SF188",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 871,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_M141",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SJ-GBM2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 421,
+          "length": 7
+        },
+        {
+          "text": "SJ-GBM2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 630,
+          "length": 7
+        },
+        {
+          "text": "SJ-GBM2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 881,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000362",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "agar",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 759,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7474",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Wnt",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 832,
+          "length": 3
+        },
+        {
+          "text": "Wnt",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2203,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6934",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TCF",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 920,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ACTA2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1170,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10631",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "POSTN",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1177,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3976",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1184,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "23194",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FBXL7",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1189,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "23291",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FBXW11",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1196,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9518",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GDF15",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1204,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "23493",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HEY2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1211,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "100423062",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGLL5",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1256,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ABCA4",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1263,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "360",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AQP3",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1270,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AQP4",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1276,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "793",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CALB1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1282,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "238",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALK",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1293,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1213",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Clathrin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1725,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3146",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "High Mobility Group-Box 1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1843,
+          "length": 25
+        },
+        {
+          "text": "HMGB1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1870,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2247",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGF2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1911,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL1B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1917,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1923,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5155",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDGFB",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1931,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1499",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Beta catenin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2207,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005910",
+      "tail_id": "1499",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005910",
+      "tail_id": "7474",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "5155",
+      "tail_id": "7345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "7124",
+      "tail_id": "7345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3553",
+      "tail_id": "7345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "2247",
+      "tail_id": "7345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "238",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "793",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009369",
+      "tail_id": "361",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009369",
+      "tail_id": "360",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "24",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009369",
+      "tail_id": "100423062",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D009369",
+      "tail_id": "23493",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D009369",
+      "tail_id": "9518",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D009369",
+      "tail_id": "23291",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D009369",
+      "tail_id": "23194",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D009369",
+      "tail_id": "3976",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D009369",
+      "tail_id": "10631",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D009369",
+      "tail_id": "59",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "7345",
+      "tail_id": "D005910",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "7345",
+      "tail_id": "1499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "7345",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "7345",
+      "tail_id": "238",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "7345",
+      "tail_id": "793",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "7345",
+      "tail_id": "361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "7345",
+      "tail_id": "360",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "7345",
+      "tail_id": "24",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "7345",
+      "tail_id": "100423062",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "7345",
+      "tail_id": "23493",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "7345",
+      "tail_id": "9518",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "7345",
+      "tail_id": "23291",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "7345",
+      "tail_id": "23194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "7345",
+      "tail_id": "3976",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "7345",
+      "tail_id": "10631",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "7345",
+      "tail_id": "59",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "7474",
+      "tail_id": "7345",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

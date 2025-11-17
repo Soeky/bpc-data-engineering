@@ -1,0 +1,322 @@
+{
+  "doc_id": "16822828",
+  "title": "Genotyping of five chinese patients with 17alpha-hydroxylase deficiency diagnosed through high-performance liquid chromatography serum adrenal profile: identification of two novel CYP17 mutations.",
+  "body": "CONTEXT: 17alpha-Hydroxylase deficiency is a rare form of congenital adrenal hyperplasia caused by CYP17 gene mutations. OBJECTIVE: Five Chinese patients with 17alpha-hydroxylase deficiency were genotyped. PATIENTS: The five patients derived from four families living in Shandong Province, China. The diagnosis of 17alpha-hydroxylase deficiency was initially established through HPLC serum adrenal profiles in Qilu Hospital, China, from 1983-1993. RESULTS: Three CYP17 gene mutations were identified from these patients. Among them, V311fs and Y329fs are two novel frame-shifting mutations. V311fs is an 8-bp nucleotide (TTAAATGG) deletion in exon 5. Y329fs is a deletion-insertion combined mutation (TAC-->AA) at codon 329 in exon 6. Two homozygotes for Y329fs and one compound heterozygote for Y329fs and V311fs were identified from three different families. Two homozygous sisters for the D487_S488_F489 deletion were identified. CONCLUSION: The results confirmed the diagnostic value of the HPLC serum adrenal profile for 17alpha-hydroxylase deficiency. The D487_S488_F489 deletion had been identified in two previously genotyped Chinese families. In our present study, a third Chinese family with this mutation was identified, suggesting that this mutation is a prevalent CYP17 mutation in the Chinese population. The identification of Y329fs mutation in addition to three previously identified mutations at codon 329 suggests that codon 329 is an unstable point of the CYP17 gene. The mutations identified from our five patients appear to be random, but the recurrence of the Y329fs mutation may be attributed to a founder effect. Our studies suggest that 17alpha-hydroxylase deficiency may not be rare in the Chinese population.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 342,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 403,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 422,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 708,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1723,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C538237",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "17alpha-hydroxylase deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 30
+        },
+        {
+          "text": "17alpha-Hydroxylase deficiency",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 206,
+          "length": 30
+        },
+        {
+          "text": "17alpha-hydroxylase deficiency",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 356,
+          "length": 30
+        },
+        {
+          "text": "17alpha-hydroxylase deficiency",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 511,
+          "length": 30
+        },
+        {
+          "text": "17alpha-hydroxylase deficiency",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1223,
+          "length": 30
+        },
+        {
+          "text": "17alpha-hydroxylase deficiency",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1859,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "1586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP17",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 180,
+          "length": 5
+        },
+        {
+          "text": "CYP17",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 296,
+          "length": 5
+        },
+        {
+          "text": "CYP17",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 660,
+          "length": 5
+        },
+        {
+          "text": "CYP17",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1474,
+          "length": 5
+        },
+        {
+          "text": "CYP17",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1672,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000312",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital adrenal hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 255,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "p|FS|V|311||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V311fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 730,
+          "length": 6
+        },
+        {
+          "text": "V311fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 788,
+          "length": 6
+        },
+        {
+          "text": "V311fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1004,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "p|FS|Y|329||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 741,
+          "length": 6
+        },
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 848,
+          "length": 6
+        },
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 952,
+          "length": 6
+        },
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 993,
+          "length": 6
+        },
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1538,
+          "length": 6
+        },
+        {
+          "text": "Y329fs",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1779,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||TTAAATGG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "8-bp nucleotide (TTAAATGG) deletion",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 801,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|TAC|CODON329|AA",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "(TAC-->AA) at codon 329",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 897,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|487_489|DSF",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D487_S488_F489 deletion",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1089,
+          "length": 23
+        },
+        {
+          "text": "D487_S488_F489 deletion",
+          "passage_index": 1,
+          "passage_offset": 197,
+          "char_offset": 1259,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1586",
+      "tail_id": "C538237",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|DEL|487_489|DSF",
+      "tail_id": "C538237",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|TAC|CODON329|AA",
+      "tail_id": "C538237",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|DEL||TTAAATGG",
+      "tail_id": "C538237",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "p|FS|Y|329||",
+      "tail_id": "C538237",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|FS|V|311||",
+      "tail_id": "C538237",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

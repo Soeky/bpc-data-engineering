@@ -1,0 +1,275 @@
+{
+  "doc_id": "16920333",
+  "title": "Anticonvulsant effect of eslicarbazepine acetate (BIA 2-093) on seizures induced by microperfusion of picrotoxin in the hippocampus of freely moving rats.",
+  "body": "Eslicarbazepine acetate (BIA 2-093, S-(-)-10-acetoxy-10,11-dihydro-5H-dibenzo/b,f/azepine-5-carboxamide) is a novel antiepileptic drug, now in Phase III clinical trials, designed with the aim of improving efficacy and safety in comparison with the structurally related drugs carbamazepine (CBZ) and oxcarbazepine (OXC). We have studied the effects of oral treatment with eslicarbazepine acetate on a whole-animal model in which partial seizures can be elicited repeatedly on different days without changes in threshold or seizure patterns. In the animals treated with threshold doses of picrotoxin, the average number of seizures was 2.3+/-1.2, and average seizure duration was 39.5+/-8.4s. Pre-treatment with a dose of 30 mg/kg 2h before picrotoxin microperfusion prevented seizures in the 75% of the rats. Lower doses (3 and 10mg/kg) did not suppress seizures, however, after administration of 10mg/kg, significant reductions in seizures duration (24.3+/-6.8s) and seizure number (1.6+/-0.34) were found. No adverse effects of eslicarbazepine acetate were observed in the behavioral/EEG patterns studied, including sleep/wakefulness cycle, at the doses studied.",
+  "entities": [
+    {
+      "id": "C416835",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "eslicarbazepine acetate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 23
+        },
+        {
+          "text": "BIA 2-093",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 9
+        },
+        {
+          "text": "Eslicarbazepine acetate",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 155,
+          "length": 23
+        },
+        {
+          "text": "BIA 2-093",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 180,
+          "length": 9
+        },
+        {
+          "text": "S-(-)-10-acetoxy-10,11-dihydro-5H-dibenzo/b,f/azepine-5-carboxamide",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 191,
+          "length": 67
+        },
+        {
+          "text": "eslicarbazepine acetate",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 526,
+          "length": 23
+        },
+        {
+          "text": "eslicarbazepine acetate",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1184,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizures",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 591,
+          "length": 8
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 677,
+          "length": 7
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 776,
+          "length": 8
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 812,
+          "length": 7
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 930,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1008,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1086,
+          "length": 8
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1122,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010852",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "picrotoxin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 10
+        },
+        {
+          "text": "picrotoxin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 742,
+          "length": 10
+        },
+        {
+          "text": "picrotoxin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 894,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 149,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 957,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000927",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antiepileptic drug",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 271,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D002220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 430,
+          "length": 13
+        },
+        {
+          "text": "CBZ",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 445,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C036006",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxcarbazepine",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 454,
+          "length": 13
+        },
+        {
+          "text": "OXC",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 469,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002220",
+      "tail_id": "C036006",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012640",
+      "tail_id": "D010852",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C416835",
+      "tail_id": "D002220",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C416835",
+      "tail_id": "C036006",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C416835",
+      "tail_id": "D010852",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C416835",
+      "tail_id": "D012640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

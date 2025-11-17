@@ -1,0 +1,166 @@
+{
+  "doc_id": "16541406",
+  "title": "Distinct patterns of germ-line deletions in MLH1 and MSH2: the implication of Alu repetitive element in the genetic etiology of Lynch syndrome (HNPCC).",
+  "body": "A relatively high frequency of germ-line genomic rearrangements in MLH1 and MSH2 has been reported among Lynch Syndrome (HNPCC) patients from different ethnic populations. To investigate the underlying molecular mechanisms, we characterized the DNA breakpoints of 11 germ-line deletions, six for MLH1 and five for MSH2. Distinct deletion patterns were found for the two genes. The five cases of MSH2 deletions result exclusively from intragenic unequal recombination mediated by repetitive Alu sequences. In contrast, five out of the six MLH1 deletions are due to recombinations involving sequences of no significant homology (P=0.015). A detailed analysis of the DNA breakpoints in the two genes, previously characterized by other groups, validated the observation that Alu-mediated unequal recombination is the main type of deletion in MSH2 (n=34), but not in MLH1 (n=21) (P<0.0001). Plotting the distribution of known DNA breakpoints among the introns of the two genes showed that, the highest breakpoint density is co-localized with the highest Alu density. Our study suggests that Alu is a promoting factor for the genomic recombinations in both MLH1 and MSH2, and the local Alu density may be involved in shaping the deletion pattern.",
+  "entities": [
+    {
+      "id": "4292",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MLH1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 4
+        },
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 219,
+          "length": 4
+        },
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 448,
+          "length": 4
+        },
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 690,
+          "length": 4
+        },
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1014,
+          "length": 4
+        },
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1303,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4436",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MSH2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 4
+        },
+        {
+          "text": "MSH2",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 228,
+          "length": 4
+        },
+        {
+          "text": "MSH2",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 466,
+          "length": 4
+        },
+        {
+          "text": "MSH2",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 547,
+          "length": 4
+        },
+        {
+          "text": "MSH2",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 990,
+          "length": 4
+        },
+        {
+          "text": "MSH2",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 1312,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003123",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Lynch syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 128,
+          "length": 14
+        },
+        {
+          "text": "HNPCC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 144,
+          "length": 5
+        },
+        {
+          "text": "Lynch Syndrome",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 257,
+          "length": 14
+        },
+        {
+          "text": "HNPCC",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 273,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 152,
+          "char_offset": 280,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4436",
+      "tail_id": "D003123",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "4292",
+      "tail_id": "D003123",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

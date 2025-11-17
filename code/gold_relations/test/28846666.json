@@ -1,0 +1,1021 @@
+{
+  "doc_id": "28846666",
+  "title": "Interleukin 6 (IL-6) and Tumor Necrosis Factor alpha (TNF-alpha) Single Nucleotide Polymorphisms (SNPs), Inflammation and Metabolism in Gestational Diabetes Mellitus in Inner Mongolia.",
+  "body": "BACKGROUND Gestational diabetes mellitus (GDM) is common all over the world. GDM women are with inflammatory and metabolisms abnormalities. However, few studies have focused on the association of IL-65-72C/G and TNF-alpha -857C/T single nucleotide polymorphisms (SNPs), inflammatory biomarkers, and metabolic indexes in women with GDM, especially in the Inner Mongolia population. The aim of this study was to investigate the associations of IL-65-72C/G and TNF-alpha -857C/T SNPs, and inflammation and metabolic biomarkers in women with GDM pregnancies. MATERIAL AND METHODS Blood samples and placentas from 140 women with GDM and 140 women with healthy pregnancies were collected. Matrix-assisted laser desorption ionization time of flight mass spectrometry (MALDI-TOF-MS) and MassARRAY-IPLEX were performed to analyze IL-65-72C/G and TNF-alpha -857C/T SNPs. Enzyme linked immunosorbent assay (ELISA) was performed to analyze inflammatory biomarkers and adipokines. RESULTS Distribution frequency of TNF-alpha -857CT (OR=3.316, 95% CI=1.092-8.304, p=0.025) in women with GDM pregnancies were obviously higher than that in women with healthy pregnancies. Women with GDM were of older maternal age, had higher BMI, were more nulliparous, and had T2DM and GDM history, compared to women with healthy pregnancies (p   <0.05). Inflammatory biomarkers in serum (hs-CRP, IL-6, IL-8, IL-6/IL-10 ratio) and placental (NF-kappaB, IL-6, IL-8, IL-6/IL-10 ratio, IL-1b, TNF-alpha) were significantly different (p   <0.05) between women with GDM and women with healthy pregnancies. Differences were found for serum FBG, FINS, HOMA-IR, and HOMA-beta, and placental IRS-1, IRS-2, leptin, adiponectin, visfatin, RBP-4, chemerin, nesfatin-1, FATP-4, EL, LPL, FABP-1, FABP-3, FABP-4, and FABP-5. CONCLUSIONS TNF-alpha -857C/T SNP, hs-CRP, IL-6, IL-8, and IL-6/IL-10 were associated with GDM in women from Inner Mongolia, as was serious inflammation and disordered lipid and glucose metabolisms.",
+  "entities": [
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Interleukin 6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 4
+        },
+        {
+          "text": "IL-65",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 381,
+          "length": 5
+        },
+        {
+          "text": "IL-65",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 627,
+          "length": 5
+        },
+        {
+          "text": "IL-65",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1006,
+          "length": 5
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1551,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1563,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1607,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1619,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2007,
+          "length": 4
+        },
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2023,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Tumor Necrosis Factor alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 27
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 397,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 643,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1022,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1187,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1644,
+          "length": 9
+        },
+        {
+          "text": "TNF-alpha",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1976,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Inflammation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 281,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 455,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 671,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1113,
+          "length": 12
+        },
+        {
+          "text": "Inflammatory",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1509,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2104,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D016640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Gestational Diabetes Mellitus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 136,
+          "length": 29
+        },
+        {
+          "text": "Gestational diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 196,
+          "length": 29
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 227,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 262,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 516,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 723,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 809,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1258,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1352,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1440,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1715,
+          "length": 3
+        },
+        {
+          "text": "GDM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2055,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 266,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 505,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 712,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 798,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 821,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1247,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1309,
+          "length": 5
+        },
+        {
+          "text": "Women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1341,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1465,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1704,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1723,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2062,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolisms abnormalities",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 298,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "rs1800796",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-72C/G",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 386,
+          "length": 6
+        },
+        {
+          "text": "-72C/G",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 632,
+          "length": 6
+        },
+        {
+          "text": "-72C/G",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1011,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs1799724",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-857C/T",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 407,
+          "length": 7
+        },
+        {
+          "text": "-857C/T",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 653,
+          "length": 7
+        },
+        {
+          "text": "-857C/T",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1032,
+          "length": 7
+        },
+        {
+          "text": "-857CT",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1197,
+          "length": 6
+        },
+        {
+          "text": "-857C/T",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1986,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3952,9370",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adipokines",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1141,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "T2DM",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1431,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1401",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CRP",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1546,
+          "length": 3
+        },
+        {
+          "text": "CRP",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2002,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1557,
+          "length": 4
+        },
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1613,
+          "length": 4
+        },
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2013,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1568,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1624,
+          "length": 5
+        },
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2028,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4790",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1596,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1b",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1637,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3667",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRS-1",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1837,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "8660",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRS-2",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1844,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3952",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leptin",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1851,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9370",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1859,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10135",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "visfatin",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1872,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "5950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RBP-4",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1882,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5919",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chemerin",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1889,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "4925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nesfatin-1",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1899,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10999",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FATP-4",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1911,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9388",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EL",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1919,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "4023",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPL",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1923,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2168",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP-1",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1928,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2170",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP-3",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1936,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2167",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP-4",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1944,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "2171",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP-5",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 1956,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D044882,D052439",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "disordered lipid and glucose metabolisms",
+          "passage_index": 1,
+          "passage_offset": 185,
+          "char_offset": 2121,
+          "length": 40
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4790",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "3586",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "3576",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "3569",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "1401",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D007249",
+      "tail_id": "3553",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D007249",
+      "tail_id": "4790",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D007249",
+      "tail_id": "3586",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D007249",
+      "tail_id": "3576",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D007249",
+      "tail_id": "3569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D007249",
+      "tail_id": "1401",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D007249",
+      "tail_id": "7124",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "rs1799724",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "rs1799724",
+      "tail_id": "D016640",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "7124",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "D016640",
+      "tail_id": "5919",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "D016640",
+      "tail_id": "5950",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "D016640",
+      "tail_id": "10135",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D016640",
+      "tail_id": "9370",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "D016640",
+      "tail_id": "3952",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D016640",
+      "tail_id": "8660",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "D016640",
+      "tail_id": "3667",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "D016640",
+      "tail_id": "3553",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D016640",
+      "tail_id": "2171",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "D016640",
+      "tail_id": "2167",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "D016640",
+      "tail_id": "2170",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D016640",
+      "tail_id": "2168",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "D016640",
+      "tail_id": "4023",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "D016640",
+      "tail_id": "9388",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "D016640",
+      "tail_id": "10999",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "D016640",
+      "tail_id": "4925",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

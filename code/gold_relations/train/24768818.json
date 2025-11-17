@@ -1,0 +1,554 @@
+{
+  "doc_id": "24768818",
+  "title": "Structural mechanisms determining inhibition of the collagen receptor DDR1 by selective and multi-targeted type II kinase inhibitors.",
+  "body": "The discoidin domain receptors (DDRs), DDR1 and DDR2, form a unique subfamily of receptor tyrosine kinases that are activated by the binding of triple-helical collagen. Excessive signaling by DDR1 and DDR2 has been linked to the progression of various human diseases, including fibrosis, atherosclerosis and cancer. We report the inhibition of these unusual receptor tyrosine kinases by the multi-targeted cancer drugs imatinib and ponatinib, as well as the selective type II inhibitor DDR1-IN-1. Ponatinib is identified as the more potent molecule, which inhibits DDR1 and DDR2 with an IC50 of 9nM. Co-crystal structures of human DDR1 reveal a DFG-out conformation (DFG, Asp-Phe-Gly) of the kinase domain that is stabilized by an unusual salt bridge between the activation loop and aD helix. Differences to Abelson kinase (ABL) are observed in the DDR1 P-loop, where a b-hairpin replaces the cage-like structure of ABL. P-loop residues in DDR1 that confer drug resistance in ABL are therefore accommodated outside the ATP pocket. Whereas imatinib and ponatinib bind potently to both the DDR and ABL kinases, the hydrophobic interactions of the ABL P-loop appear poorly satisfied by DDR1-IN-1 suggesting a structural basis for its DDR1 selectivity. Such inhibitors may have applications in clinical indications of DDR1 and DDR2 overexpression or mutation, including lung cancer.",
+  "entities": [
+    {
+      "id": "4921,780",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 17
+        },
+        {
+          "text": "discoidin domain receptors",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 138,
+          "length": 26
+        },
+        {
+          "text": "DDRs",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 166,
+          "length": 4
+        },
+        {
+          "text": "receptor tyrosine kinases",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 215,
+          "length": 25
+        },
+        {
+          "text": "receptor tyrosine kinases",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 492,
+          "length": 25
+        },
+        {
+          "text": "DDR",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1222,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "780",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DDR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 173,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 326,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 699,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 765,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 983,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1074,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1365,
+          "length": 4
+        },
+        {
+          "text": "DDR1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1448,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4921",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DDR2",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 182,
+          "length": 4
+        },
+        {
+          "text": "DDR2",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 335,
+          "length": 4
+        },
+        {
+          "text": "DDR2",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 708,
+          "length": 4
+        },
+        {
+          "text": "DDR2",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1457,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1277",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 293,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 386,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 759,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fibrosis",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 412,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D050197",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 422,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 442,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 540,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000068877",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "imatinib",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 553,
+          "length": 8
+        },
+        {
+          "text": "imatinib",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1173,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C545373",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ponatinib",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 566,
+          "length": 9
+        },
+        {
+          "text": "Ponatinib",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 631,
+          "length": 9
+        },
+        {
+          "text": "ponatinib",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1186,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "DDR1-IN-1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 620,
+          "length": 9
+        },
+        {
+          "text": "DDR1-IN-1",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1317,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C553185",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "DFG",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 779,
+          "length": 3
+        },
+        {
+          "text": "DFG",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 801,
+          "length": 3
+        },
+        {
+          "text": "Asp-Phe-Gly",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 806,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Abelson kinase",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 942,
+          "length": 14
+        },
+        {
+          "text": "ABL",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 958,
+          "length": 3
+        },
+        {
+          "text": "ABL",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1050,
+          "length": 3
+        },
+        {
+          "text": "ABL",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1110,
+          "length": 3
+        },
+        {
+          "text": "ABL",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1230,
+          "length": 3
+        },
+        {
+          "text": "ABL",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1279,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1153,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 134,
+          "char_offset": 1500,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C545373",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C545373",
+      "tail_id": "25",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C545373",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000068877",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000068877",
+      "tail_id": "25",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000068877",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4921",
+      "tail_id": "1277",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "4921",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "4921",
+      "tail_id": "C545373",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "4921",
+      "tail_id": "D000068877",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "4921",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "4921",
+      "tail_id": "D050197",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "4921",
+      "tail_id": "D005355",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "780",
+      "tail_id": "1277",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "780",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "780",
+      "tail_id": "C553185",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "780",
+      "tail_id": "C545373",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "780",
+      "tail_id": "D000068877",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "780",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "780",
+      "tail_id": "D050197",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "780",
+      "tail_id": "D005355",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

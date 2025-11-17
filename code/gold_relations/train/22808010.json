@@ -1,0 +1,758 @@
+{
+  "doc_id": "22808010",
+  "title": "Defining an EPOR- regulated transcriptome for primary progenitors, including Tnfr-sf13c as a novel mediator of EPO- dependent erythroblast formation.",
+  "body": "Certain concepts concerning EPO/EPOR action modes have been challenged by in vivo studies: Bcl-x levels are elevated in maturing erythroblasts, but not in their progenitors; truncated EPOR alleles that lack a major p85/PI3K recruitment site nonetheless promote polycythemia; and Erk1 disruption unexpectedly bolsters erythropoiesis. To discover novel EPO/EPOR action routes, global transcriptome analyses presently are applied to interrogate EPO/EPOR effects on primary bone marrow-derived CFUe-like progenitors. Overall, 160 EPO/EPOR target transcripts were significantly modulated 2-to 21.8-fold. A unique set of EPO-regulated survival factors included Lyl1, Gas5, Pim3, Pim1, Bim, Trib3 and Serpina 3g. EPO/EPOR-modulated cell cycle mediators included Cdc25a, Btg3, Cyclin-d2, p27-kip1, Cyclin-g2 and CyclinB1-IP-1. EPO regulation of signal transduction factors was also interestingly complex. For example, not only Socs3 plus Socs2 but also Spred2, Spred1 and Eaf1 were EPO-induced as negative-feedback components. Socs2, plus five additional targets, further proved to comprise new EPOR/Jak2/Stat5 response genes (which are important for erythropoiesis during anemia). Among receptors, an atypical TNF-receptor Tnfr-sf13c was up-modulated    >5-fold by EPO. Functionally, Tnfr-sf13c ligation proved to both promote proerythroblast survival, and substantially enhance erythroblast formation. The EPOR therefore engages a sophisticated set of transcriptome response circuits, with Tnfr-sf13c deployed as one novel positive regulator of proerythroblast formation.",
+  "entities": [
+    {
+      "id": "13857",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EPOR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 182,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 334,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 505,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 596,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 680,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 860,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1237,
+          "length": 4
+        },
+        {
+          "text": "EPOR",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1550,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "72049",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Tnfr-sf13c",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 10
+        },
+        {
+          "text": "TNF-receptor",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1353,
+          "length": 12
+        },
+        {
+          "text": "Tnfr-sf13c",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1366,
+          "length": 10
+        },
+        {
+          "text": "Tnfr-sf13c",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1427,
+          "length": 10
+        },
+        {
+          "text": "Tnfr-sf13c",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1634,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "13856",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EPO",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 178,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 501,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 592,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 676,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 765,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 856,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 969,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1124,
+          "length": 3
+        },
+        {
+          "text": "EPO",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1408,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12048",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-x",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 241,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "18708",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p85/PI3K",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 365,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011086",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "polycythemia",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 411,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 429,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17095",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Lyl1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 805,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14455",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Gas5",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 811,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "223775",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Pim3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 817,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18712",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Pim1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 823,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bim",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 829,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "228775",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Trib3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 834,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20715",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Serpina 3g",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 844,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "12530",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cdc25a",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 905,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "12228",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Btg3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 913,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12444",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cyclin-d2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 919,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27-kip1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 930,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "12452",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cyclin-g2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 940,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "239083",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CyclinB1-IP-1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 954,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12702",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Socs3",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1069,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "216233",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Socs2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1080,
+          "length": 5
+        },
+        {
+          "text": "Socs2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1169,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "114716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Spred2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1095,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "114715",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Spred1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1103,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "74427",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Eaf1",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1114,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16452",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Jak2",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1242,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20850",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Stat5",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1247,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000740",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 150,
+          "char_offset": 1315,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "20850",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "16452",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "74427",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "114715",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "114716",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "216233",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "216233",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "12702",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "13856",
+      "tail_id": "17095",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "13856",
+      "tail_id": "239083",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "13856",
+      "tail_id": "12452",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "13856",
+      "tail_id": "12576",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "13856",
+      "tail_id": "12444",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "13856",
+      "tail_id": "12228",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "13856",
+      "tail_id": "12530",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "13856",
+      "tail_id": "20715",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "13856",
+      "tail_id": "228775",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "13856",
+      "tail_id": "12125",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "13856",
+      "tail_id": "18712",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "13856",
+      "tail_id": "223775",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "13856",
+      "tail_id": "14455",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "13856",
+      "tail_id": "13857",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "72049",
+      "tail_id": "13856",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "13857",
+      "tail_id": "18708",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "13857",
+      "tail_id": "D011086",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "13857",
+      "tail_id": "D000740",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "13857",
+      "tail_id": "239083",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "13857",
+      "tail_id": "12452",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "13857",
+      "tail_id": "12576",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R29",
+      "head_id": "13857",
+      "tail_id": "12444",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R30",
+      "head_id": "13857",
+      "tail_id": "12228",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "13857",
+      "tail_id": "12530",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "13857",
+      "tail_id": "72049",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

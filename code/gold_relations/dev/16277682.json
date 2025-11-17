@@ -1,0 +1,339 @@
+{
+  "doc_id": "16277682",
+  "title": "Segregation of a M404V mutation of the p62/sequestosome 1 (p62/SQSTM1) gene with polyostotic Paget's disease of bone in an Italian family.",
+  "body": "Mutations of the p62/Sequestosome 1 gene (p62/SQSTM1) account for both sporadic and familial forms of Paget's disease of bone (PDB). We originally described a methionine-->valine substitution at codon 404 (M404V) of exon 8, in the ubiquitin protein-binding domain of p62/SQSTM1 gene in an Italian PDB patient. The collection of data from the patient's pedigree provided evidence for a familial form of PDB. Extension of the genetic analysis to other relatives in this family demonstrated segregation of the M404V mutation with the polyostotic PDB phenotype and provided the identification of six asymptomatic gene carriers. DNA for mutational analysis of the exon 8 coding sequence was obtained from 22 subjects, 4 PDB patients and 18 clinically unaffected members. Of the five clinically ascertained affected members of the family, four possessed the M404V mutation and exhibited the polyostotic form of PDB, except one patient with a single X-ray-assessed skeletal localization and one with a polyostotic disease who had died several years before the DNA analysis. By both reconstitution and mutational analysis of the pedigree, six unaffected subjects were shown to bear the M404V mutation, representing potential asymptomatic gene carriers whose circulating levels of alkaline phosphatase were recently assessed as still within the normal range. Taken together, these results support a genotype-phenotype correlation between the M404V mutation in the p62/SQSTM1 gene and a polyostotic form of PDB in this family. The high penetrance of the PDB trait in this family together with the study of the asymptomatic gene carriers will allow us to confirm the proposed genotype-phenotype correlation and to evaluate the potential use of mutational analysis of the p62/SQSTM1 gene in the early detection of relatives at risk for PDB.",
+  "entities": [
+    {
+      "id": "rs771966860",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M404V",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 5
+        },
+        {
+          "text": "methionine-->valine substitution at codon 404",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 298,
+          "length": 45
+        },
+        {
+          "text": "M404V",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 345,
+          "length": 5
+        },
+        {
+          "text": "M404V",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 646,
+          "length": 5
+        },
+        {
+          "text": "M404V",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 991,
+          "length": 5
+        },
+        {
+          "text": "M404V",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1317,
+          "length": 5
+        },
+        {
+          "text": "M404V",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1572,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "8878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p62",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 3
+        },
+        {
+          "text": "sequestosome 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 14
+        },
+        {
+          "text": "p62",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 3
+        },
+        {
+          "text": "SQSTM1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 6
+        },
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 156,
+          "length": 3
+        },
+        {
+          "text": "Sequestosome 1",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 160,
+          "length": 14
+        },
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 181,
+          "length": 3
+        },
+        {
+          "text": "SQSTM1",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 185,
+          "length": 6
+        },
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 406,
+          "length": 3
+        },
+        {
+          "text": "SQSTM1",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 410,
+          "length": 6
+        },
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1594,
+          "length": 3
+        },
+        {
+          "text": "SQSTM1",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1598,
+          "length": 6
+        },
+        {
+          "text": "p62",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1899,
+          "length": 3
+        },
+        {
+          "text": "SQSTM1",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1903,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C538098",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Paget's disease of bone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 23
+        },
+        {
+          "text": "Paget's disease of bone",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 241,
+          "length": 23
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 266,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 436,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 541,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 682,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 854,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1044,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1636,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1683,
+          "length": 3
+        },
+        {
+          "text": "PDB",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1963,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 440,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 481,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 858,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1060,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005357",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "polyostotic disease",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1134,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D000469",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alkaline phosphatase",
+          "passage_index": 1,
+          "passage_offset": 139,
+          "char_offset": 1411,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "8878",
+      "tail_id": "D005357",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "8878",
+      "tail_id": "C538098",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs771966860",
+      "tail_id": "D005357",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C538098",
+      "tail_id": "rs771966860",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

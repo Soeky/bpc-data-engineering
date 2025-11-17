@@ -1,0 +1,248 @@
+{
+  "doc_id": "28411266",
+  "title": "Genetic Variation at the Sulfonylurea Receptor, Type 2 Diabetes, and Coronary Heart Disease.",
+  "body": "Despite widespread clinical use in the treatment of type 2 diabetes, the impact of sulfonylurea therapy on cardiovascular outcomes remains uncertain. Studies of naturally occurring genetic variation can be used to anticipate the expected clinical consequences of a pharmacological therapy. A common missense variant in the gene encoding a component of the sulfonylurea receptor (ABCC8 p.A1369S) promotes closure of the target channel of sulfonylurea therapy and is associated with increased insulin secretion, thus mimicking the effects of sulfonylurea therapy. Using individual-level data from 120,286 participants in the UK Biobank and summary association results from four large-scale genome-wide association studies, we examined the impact of this variant on cardiometabolic traits, type 2 diabetes, and coronary heart disease. The p.A1369S variant was associated with a significantly lower risk of type 2 diabetes (odds ratio [OR] 0.93; 95% CI 0.91, 0.95; P = 1.2 x 10(-11)). The variant was associated with increased BMI (+0.062 kg/m(2); 95% CI 0.037, 0.086; P = 8.1 x 10(-7)) but lower waist-to-hip ratio adjusted for BMI, a marker of abdominal fat distribution. Furthermore, p.A1369S was associated with a reduced risk of coronary heart disease (OR 0.98; 95% CI 0.96, 0.99; P = 5.9 x 10(-4)). These results suggest that, despite a known association with increased weight, long-term sulfonylurea therapy may reduce the risk of coronary heart disease.",
+  "entities": [
+    {
+      "id": "6833",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sulfonylurea Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 21
+        },
+        {
+          "text": "sulfonylurea receptor",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 449,
+          "length": 21
+        },
+        {
+          "text": "ABCC8",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 472,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Type 2 Diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 145,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 880,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 996,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D003324",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Coronary Heart Disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 22
+        },
+        {
+          "text": "coronary heart disease",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 901,
+          "length": 22
+        },
+        {
+          "text": "coronary heart disease",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1323,
+          "length": 22
+        },
+        {
+          "text": "coronary heart disease",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1527,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D013453",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sulfonylurea",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 176,
+          "length": 12
+        },
+        {
+          "text": "sulfonylurea",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 530,
+          "length": 12
+        },
+        {
+          "text": "sulfonylurea",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 633,
+          "length": 12
+        },
+        {
+          "text": "sulfonylurea",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1483,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs757110",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.A1369S",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 478,
+          "length": 8
+        },
+        {
+          "text": "p.A1369S",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 929,
+          "length": 8
+        },
+        {
+          "text": "p.A1369S",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1276,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 584,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6833",
+      "tail_id": "D003324",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "6833",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "6833",
+      "tail_id": "D013453",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003924",
+      "tail_id": "D013453",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs757110",
+      "tail_id": "D003324",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs757110",
+      "tail_id": "D003924",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs757110",
+      "tail_id": "D013453",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D013453",
+      "tail_id": "D003324",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3630",
+      "tail_id": "6833",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "3630",
+      "tail_id": "D013453",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "doc_id": "24717468",
+  "title": "A comparison of severe hemodynamic disturbances between dexmedetomidine and propofol for sedation in neurocritical care patients.",
+  "body": "OBJECTIVE: Dexmedetomidine and propofol are commonly used sedatives in neurocritical care as they allow for frequent neurologic examinations. However, both agents are associated with significant hemodynamic side effects. The primary objective of this study is to compare the prevalence of severe hemodynamic effects in neurocritical care patients receiving dexmedetomidine and propofol. DESIGN: Multicenter, retrospective, propensity-matched cohort study. SETTING: Neurocritical care units at two academic medical centers with dedicated neurocritical care teams and board-certified neurointensivists. PATIENTS: Neurocritical care patients admitted between July 2009 and September 2012 were evaluated and then matched 1:1 based on propensity scoring of baseline characteristics. INTERVENTIONS: Continuous sedation with dexmedetomidine or propofol. MEASUREMENTS AND MAIN RESULTS: A total of 342 patients (105 dexmedetomidine and 237 propofol) were included in the analysis, with 190 matched (95 in each group) by propensity score. The primary outcome of this study was a composite of severe hypotension (mean arterial pressure < 60 mm Hg) and bradycardia (heart rate < 50 beats/min) during sedative infusion. No difference in the primary composite outcome in both the unmatched (30% vs 30%, p = 0.94) or matched cohorts (28% vs 34%, p = 0.35) could be found. When analyzed separately, no differences could be found in the prevalence of severe hypotension or bradycardia in either the unmatched or matched cohorts. CONCLUSIONS: Severe hypotension and bradycardia occur at similar prevalence in neurocritical care patients who receive dexmedetomidine or propofol. Providers should similarly consider the likelihood of hypotension or bradycardia before starting either sedative.",
+  "entities": [
+    {
+      "id": "D020927",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexmedetomidine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 15
+        },
+        {
+          "text": "Dexmedetomidine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 141,
+          "length": 15
+        },
+        {
+          "text": "dexmedetomidine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 487,
+          "length": 15
+        },
+        {
+          "text": "dexmedetomidine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 948,
+          "length": 15
+        },
+        {
+          "text": "dexmedetomidine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1037,
+          "length": 15
+        },
+        {
+          "text": "dexmedetomidine",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1761,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D015742",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propofol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 161,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 507,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 967,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1061,
+          "length": 8
+        },
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1780,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 120,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 468,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 731,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 760,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1023,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1740,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1219,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1571,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1662,
+          "length": 11
+        },
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1844,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1271,
+          "length": 11
+        },
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1586,
+          "length": 11
+        },
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1678,
+          "length": 11
+        },
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1859,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D015742",
+      "tail_id": "D001919",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D015742",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D020927",
+      "tail_id": "D001919",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D020927",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D020927",
+      "tail_id": "D015742",
+      "type": "Comparison",
+      "novel": "Novel"
+    }
+  ]
+}

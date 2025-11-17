@@ -1,0 +1,385 @@
+{
+  "doc_id": "17608141",
+  "title": "Attenuation of methamphetamine-induced nigrostriatal dopaminergic neurotoxicity in mice by lipopolysaccharide pretreatment.",
+  "body": "Immunological activation has been proposed to play a role in methamphetamine-induced dopaminergic terminal damage. In this study, we examined the roles of lipopolysaccharide, a pro-inflammatory and inflammatory factor, treatment in modulating the methamphetamine-induced nigrostriatal dopamine neurotoxicity. Lipopolysaccharide pretreatment did not affect the basal body temperature or methamphetamine-elicited hyperthermia three days later. Such systemic lipopolysaccharide treatment mitigated methamphetamine-induced striatal dopamine and 3,4-dihydroxyphenylacetic acid depletions in a dose-dependent manner. As the most potent dose (1 mg/kg) of lipopolysaccharide was administered two weeks, one day before or after the methamphetamine dosing regimen, methamphetamine-induced striatal dopamine and 3,4-dihydroxyphenylacetic acid depletions remained unaltered. Moreover, systemic lipopolysaccharide pretreatment (1 mg/kg) attenuated local methamphetamine infusion-produced dopamine and 3,4-dihydroxyphenylacetic acid depletions in the striatum, indicating that the protective effect of lipopolysaccharide is less likely due to interrupted peripheral distribution or metabolism of methamphetamine. We concluded a critical time window for systemic lipopolysaccharide pretreatment in exerting effective protection against methamphetamine-induced nigrostriatal dopamine neurotoxicity.",
+  "entities": [
+    {
+      "id": "D008694",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 185,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 371,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 510,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 619,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 847,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 879,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1065,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1306,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1445,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopaminergic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 12
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 409,
+          "length": 8
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 652,
+          "length": 8
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 912,
+          "length": 8
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1099,
+          "length": 8
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1483,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 418,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1492,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 279,
+          "length": 18
+        },
+        {
+          "text": "Lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 433,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 580,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 772,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1006,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1212,
+          "length": 18
+        },
+        {
+          "text": "lipopolysaccharide",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1372,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dopaminergic terminal damage",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 209,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 305,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 322,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D005334",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperthermia",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 535,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D015102",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3,4-dihydroxyphenylacetic acid",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 665,
+          "length": 30
+        },
+        {
+          "text": "3,4-dihydroxyphenylacetic acid",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 925,
+          "length": 30
+        },
+        {
+          "text": "3,4-dihydroxyphenylacetic acid",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1112,
+          "length": 30
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004298",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008070",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D008070",
+      "tail_id": "D020258",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008070",
+      "tail_id": "D015102",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008070",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008070",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008694",
+      "tail_id": "D009422",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008694",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008694",
+      "tail_id": "D015102",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008694",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008694",
+      "tail_id": "D005334",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "doc_id": "28512644",
+  "title": "Analysis of Serum Cytokines and Single-Nucleotide Polymorphisms of SOD1, SOD2, and CAT in Erysipelas Patients.",
+  "body": "Increased free radical production had been documented in group A (beta-hemolytic) streptococcus infection cases. Comparing 71 erysipelas patients to 55 age-matched healthy individuals, we sought for CAT, SOD1, and SOD2 single polymorphism mutation (SNPs) interactions with erysipelas' predisposition and serum cytokine levels in the acute and recovery phases of erysipelas infection. Whereas female patients had a higher predisposition to erysipelas, male patients were prone to having a facial localization of the infection. The presence of SOD1 G7958, SOD2 T2734, and CAT C262 alleles was linked to erysipelas' predisposition. T and C alleles of SOD2 T2734C individually were linked to patients with bullous and erythematous erysipelas, respectively. G and A alleles of SOD1 G7958A individually were associated with lower limbs and higher body part localizations of the infection, respectively. Serum levels of IL-1beta, CCL11, IL-2Ralpha, CXCL9, TRAIL, PDGF-BB, and CCL4 were associated with symptoms accompanying the infection, while IL-6, IL-9, IL-10, IL-13, IL-15, IL-17, G-CSF, and VEGF were associated with predisposition and recurrence of erysipelas. While variations of IL-1beta, IL-7, IL-8, IL-17, CCL5, and HGF were associated with the SOD2 T2734C SNP, variations of PDFG-BB and CCL2 were associated with the CAT C262T SNP.",
+  "entities": [
+    {
+      "id": "6647",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOD1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 315,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 653,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 883,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6648",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOD2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 4
+        },
+        {
+          "text": "SOD2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 325,
+          "length": 4
+        },
+        {
+          "text": "SOD2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 665,
+          "length": 4
+        },
+        {
+          "text": "SOD2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 759,
+          "length": 4
+        },
+        {
+          "text": "SOD2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1359,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "847",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CAT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 3
+        },
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 310,
+          "length": 3
+        },
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 681,
+          "length": 3
+        },
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1432,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004886",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Erysipelas",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 10
+        },
+        {
+          "text": "erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 237,
+          "length": 10
+        },
+        {
+          "text": "erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 384,
+          "length": 10
+        },
+        {
+          "text": "erysipelas infection",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 473,
+          "length": 20
+        },
+        {
+          "text": "erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 550,
+          "length": 10
+        },
+        {
+          "text": "erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 712,
+          "length": 10
+        },
+        {
+          "text": "erythematous erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 825,
+          "length": 23
+        },
+        {
+          "text": "erysipelas",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1259,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 248,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 510,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 567,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 799,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D013290",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "streptococcus infection",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 193,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 626,
+          "length": 9
+        },
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 983,
+          "length": 9
+        },
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1132,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|Aelle|G|7958",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G7958",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 658,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|Aelle|T|2734",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T2734",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 670,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|Aelle|C|262",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C262",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 685,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SYB|T2734|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T2734C",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 764,
+          "length": 6
+        },
+        {
+          "text": "T2734C",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1364,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs4998557",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G7958A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 888,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1024,
+          "length": 8
+        },
+        {
+          "text": "IL-1beta",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1291,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "6356",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL11",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1034,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3559",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-2Ralpha",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1041,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "4283",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL9",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1053,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "8743",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TRAIL",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1060,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5155",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PDGF-BB",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1067,
+          "length": 7
+        },
+        {
+          "text": "PDFG-BB",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1390,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "6351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1080,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1149,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3578",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-9",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1155,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1161,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1168,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3600",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-15",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1175,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3605",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1182,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1313,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1440",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "G-CSF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1189,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1200,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3574",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-7",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1301,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-8",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1307,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6352",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1320,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3082",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HGF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1330,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6347",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1402,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|262|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C262T",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1436,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|Aelle|C|262",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|Aelle|T|2734",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|Aelle|G|7958",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "6347",
+      "tail_id": "847",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3082",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "6352",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "3576",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "3574",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "7422",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "1440",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3605",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "3605",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "3600",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "3596",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "3586",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "3578",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "3569",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "c|SYB|T2734|C",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "6351",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "5155",
+      "tail_id": "847",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "5155",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "8743",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "4283",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "3559",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "6356",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "3553",
+      "tail_id": "6648",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "3553",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "rs4998557",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "847",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "6648",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "6647",
+      "tail_id": "D004886",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

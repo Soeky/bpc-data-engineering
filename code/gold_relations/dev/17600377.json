@@ -1,0 +1,413 @@
+{
+  "doc_id": "17600377",
+  "title": "A novel compound, maltolyl p-coumarate, attenuates cognitive deficits and shows neuroprotective effects in vitro and in vivo dementia models.",
+  "body": "To develop a novel and effective drug that could enhance cognitive function and neuroprotection, we newly synthesized maltolyl p-coumarate by the esterification of maltol and p-coumaric acid. In the present study, we investigated whether maltolyl p-coumarate could improve cognitive decline in scopolamine-injected rats and in amyloid beta peptide(1-42)-infused rats. Maltolyl p-coumarate was found to attenuate cognitive deficits in both rat models using passive avoidance test and to reduce apoptotic cell death observed in the hippocampus of the amyloid beta peptide(1-42)-infused rats. We also examined the neuroprotective effects of maltolyl p-coumarate in vitro using SH-SY5Y cells. Cells were pretreated with maltolyl p-coumarate, before exposed to amyloid beta peptide(1-42), glutamate or H2O2. We found that maltolyl p-coumarate significantly decreased apoptotic cell death and reduced reactive oxygen species, cytochrome c release, and caspase 3 activation. Taking these in vitro and in vivo results together, our study suggests that maltolyl p-coumarate is a potentially effective candidate against Alzheimer's disease that is characterized by wide spread neuronal death and progressive decline of cognitive function.",
+  "entities": [
+    {
+      "id": "C524754",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 260,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 380,
+          "length": 20
+        },
+        {
+          "text": "Maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 510,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 780,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 858,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 959,
+          "length": 20
+        },
+        {
+          "text": "maltolyl p-coumarate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1186,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive deficits",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 18
+        },
+        {
+          "text": "cognitive decline",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 415,
+          "length": 17
+        },
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 554,
+          "length": 18
+        },
+        {
+          "text": "decline of cognitive function",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1340,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D003704",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dementia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 125,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C008316",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "maltol",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 306,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C495469",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "p-coumaric acid",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 317,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 436,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 457,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 504,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 581,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 726,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C544092",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amyloid beta peptide(1-42)",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 469,
+          "length": 26
+        },
+        {
+          "text": "amyloid beta peptide(1-42)",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 691,
+          "length": 26
+        },
+        {
+          "text": "amyloid beta peptide(1-42)",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 898,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0019",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SH-SY5Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 816,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 926,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006861",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "H2O2",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 939,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1037,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D045304",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cytochrome c",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1062,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "25402",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase 3",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1088,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1252,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D009410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuronal death",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1309,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C008316",
+      "tail_id": "C495469",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003072",
+      "tail_id": "D012601",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003072",
+      "tail_id": "C544092",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C524754",
+      "tail_id": "C495469",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C524754",
+      "tail_id": "C008316",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C524754",
+      "tail_id": "D009410",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C524754",
+      "tail_id": "D000544",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C524754",
+      "tail_id": "D045304",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C524754",
+      "tail_id": "25402",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C524754",
+      "tail_id": "D017382",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C524754",
+      "tail_id": "C544092",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C524754",
+      "tail_id": "D003704",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C524754",
+      "tail_id": "D003072",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

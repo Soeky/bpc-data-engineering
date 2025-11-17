@@ -1,0 +1,444 @@
+{
+  "doc_id": "23791840",
+  "title": "Superoxide dismutase 1 overexpression in mice abolishes maternal diabetes-induced endoplasmic reticulum stress in diabetic embryopathy.",
+  "body": "OBJECTIVE: Both oxidative stress and endoplasmic reticulum stress (ER stress) are causal events in diabetic embryopathy. We tested whether oxidative stress causes ER stress. STUDY DESIGN: Wild-type (WT) and superoxide dismutase 1 (SOD1)-overexpressing day 8.75 embryos from nondiabetic WT control with SOD1 transgenic male and diabetic WT female with SOD1 transgenic male were analyzed for ER stress markers: C/EBP-homologous protein (CHOP), calnexin, eukaryotic initiation factor 2a (eIF2a), protein kinase ribonucleic acid (RNA)-like ER kinase (PERK), binding immunoglobulin protein, protein disulfide isomerase family A member 3, kinases inositol-requiring protein-1a (IRE1a), and the X-box binding protein (XBP1) messenger RNA (mRNA) splicing. RESULTS: Maternal diabetes significantly increased the levels of CHOP, calnexin, phosphorylated (p)-eIF2a, p-PERK, and p-IRE1a; triggered XBP1 mRNA splicing; and enhanced ER chaperone gene expression in WT embryos. SOD1 overexpression blocked these diabetes-induced ER stress markers. CONCLUSION: Mitigating oxidative stress via SOD1 overexpression blocks maternal diabetes-induced ER stress in vivo.",
+  "entities": [
+    {
+      "id": "20655",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Superoxide dismutase 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 22
+        },
+        {
+          "text": "superoxide dismutase 1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 343,
+          "length": 22
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 367,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 438,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 487,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1099,
+          "length": 4
+        },
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1213,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D016640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "maternal diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 17
+        },
+        {
+          "text": "Maternal diabetes",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 893,
+          "length": 17
+        },
+        {
+          "text": "maternal diabetes",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1240,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 8
+        },
+        {
+          "text": "diabetic",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 235,
+          "length": 8
+        },
+        {
+          "text": "diabetic",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 463,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1133,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005315",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "embryopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 11
+        },
+        {
+          "text": "embryopathy",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 244,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "13198",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C/EBP-homologous protein",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 545,
+          "length": 24
+        },
+        {
+          "text": "CHOP",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 571,
+          "length": 4
+        },
+        {
+          "text": "CHOP",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 949,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12330",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "calnexin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 578,
+          "length": 8
+        },
+        {
+          "text": "calnexin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 955,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "229317",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "eukaryotic initiation factor 2a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 588,
+          "length": 31
+        },
+        {
+          "text": "eIF2a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 621,
+          "length": 5
+        },
+        {
+          "text": "eIF2a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 984,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13666",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "protein kinase ribonucleic acid (RNA)-like ER kinase",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 629,
+          "length": 52
+        },
+        {
+          "text": "PERK",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 683,
+          "length": 4
+        },
+        {
+          "text": "PERK",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 993,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14828",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "binding immunoglobulin protein",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 690,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "14827",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "protein disulfide isomerase family A member 3",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 722,
+          "length": 45
+        }
+      ]
+    },
+    {
+      "id": "78943",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "kinases inositol-requiring protein-1a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 769,
+          "length": 37
+        },
+        {
+          "text": "IRE1a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 808,
+          "length": 5
+        },
+        {
+          "text": "IRE1a",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1005,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "22433",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "X-box binding protein",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 824,
+          "length": 21
+        },
+        {
+          "text": "XBP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 847,
+          "length": 4
+        },
+        {
+          "text": "XBP1",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1022,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005315",
+      "tail_id": "20655",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "12330",
+      "tail_id": "D016640",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003920",
+      "tail_id": "20655",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "22433",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "78943",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "13666",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "229317",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D016640",
+      "tail_id": "13198",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "20655",
+      "tail_id": "12330",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "20655",
+      "tail_id": "22433",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "20655",
+      "tail_id": "78943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "20655",
+      "tail_id": "13666",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "20655",
+      "tail_id": "229317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "20655",
+      "tail_id": "13198",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "20655",
+      "tail_id": "D016640",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

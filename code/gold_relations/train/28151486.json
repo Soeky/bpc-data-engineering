@@ -1,0 +1,330 @@
+{
+  "doc_id": "28151486",
+  "title": "Star-PAP, a poly(A) polymerase, functions as a tumor suppressor in an orthotopic human breast cancer model.",
+  "body": "Star-PAP is a noncanonical poly(A) polymerase and required for the expression of a select set of mRNAs. However, the pathological role of Star-PAP in cancer largely remains unknown. In this study, we observed decreased expression of Star-PAP in breast cancer cell lines and tissues. Ectopic Star-PAP expression inhibited proliferation as well as colony-forming ability of breast cancer cells. In breast cancer patients, high levels of Star-PAP correlated with an improved prognosis. Moreover, by regulating the expression of BIK (BCL2-interacting killer), Star-PAP induced apoptosis of breast cancer cells through the mitochondrial pathway. The growth of breast cancer xenografts in NOD/SCID mice was also inhibited by the doxycycline-induced Star-PAP overexpression. Furthermore, Star-PAP sensitized breast cancer cells to chemotherapy drugs both in vitro and in vivo. In mammary epithelial cells, Star-PAP knockdown partially transformed these cells and induced them to undergo epithelial-mesenchymal transition (EMT). These findings suggested that Star-PAP possesses tumor-suppressing activity and can be a valuable target for developing new cancer therapeutic strategies.",
+  "entities": [
+    {
+      "id": "64852",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Star-PAP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "poly(A) polymerase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 18
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 108,
+          "length": 8
+        },
+        {
+          "text": "poly(A) polymerase",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 135,
+          "length": 18
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 246,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 341,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 399,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 543,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 664,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 851,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 889,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1007,
+          "length": 8
+        },
+        {
+          "text": "Star-PAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1159,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 258,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1178,
+          "length": 5
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1253,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 518,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 353,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 480,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 504,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 694,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 763,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 909,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "638",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BIK",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 633,
+          "length": 3
+        },
+        {
+          "text": "BCL2-interacting killer",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 638,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D016511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "SCID",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 795,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 800,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004318",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxycycline",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 831,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004318",
+      "tail_id": "D016511",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004318",
+      "tail_id": "D001943",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004318",
+      "tail_id": "64852",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "638",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "638",
+      "tail_id": "64852",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "64852",
+      "tail_id": "D016511",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "64852",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "64852",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

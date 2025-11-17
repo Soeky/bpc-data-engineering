@@ -1,0 +1,343 @@
+{
+  "doc_id": "15122708",
+  "title": "Desmin-related myopathy with Mallory body-like inclusions is caused by mutations of the selenoprotein N gene.",
+  "body": "Desmin-related myopathies (DRMs) are a heterogeneous group of muscle disorders, morphologically defined by intrasarcoplasmic aggregates of desmin. Mutations in the desmin and the alpha-B crystallin genes account for approximately one third of the DRM cases. The genetic basis of the other forms remain unknown, including the early-onset, recessive form with Mallory body-like inclusions (MB-DRMs), first described in five related German patients. Recently, we identified the selenoprotein N gene (SEPN1) as responsible for SEPN-related myopathy (SEPN-RM), a unique early-onset myopathy formerly divided in two different nosological categories: rigid spine muscular dystrophy and the severe form of classical multiminicore disease. The finding of Mallory body-like inclusions in two cases of genetically documented SEPN-RM led us to suspect a relationship between MB-DRM and SEPN1. In the original MB-DRM German family, we demonstrated a linkage of the disease to the SEPN1 locus (1p36), and subsequently a homozygous SEPN1 deletion (del 92 nucleotide -19/+73) in the affected patients. A comparative reevaluation showed that MB-DRM and SEPN-RM share identical clinical features. Therefore, we propose that MB-DRM should be categorized as SEPN-RM. These findings substantiate the molecular heterogeneity of DRM, expand the morphological spectrum of SEPN-RM, and implicate a necessary reassessment of the nosological boundaries in early-onset myopathies.",
+  "entities": [
+    {
+      "id": "C563319",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Desmin-related myopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 23
+        },
+        {
+          "text": "Desmin-related myopathies",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 110,
+          "length": 25
+        },
+        {
+          "text": "DRMs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 137,
+          "length": 4
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 357,
+          "length": 3
+        },
+        {
+          "text": "DRMs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 501,
+          "length": 4
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 976,
+          "length": 3
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1010,
+          "length": 3
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1238,
+          "length": 3
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1319,
+          "length": 3
+        },
+        {
+          "text": "DRM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1416,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "57190",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "selenoprotein N",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 15
+        },
+        {
+          "text": "selenoprotein N",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 585,
+          "length": 15
+        },
+        {
+          "text": "SEPN1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 607,
+          "length": 5
+        },
+        {
+          "text": "SEPN1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 984,
+          "length": 5
+        },
+        {
+          "text": "SEPN1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1077,
+          "length": 5
+        },
+        {
+          "text": "SEPN1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1127,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009135",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscle disorders",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 172,
+          "length": 16
+        },
+        {
+          "text": "SEPN-related myopathy",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 633,
+          "length": 21
+        },
+        {
+          "text": "SEPN-RM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 656,
+          "length": 7
+        },
+        {
+          "text": "myopathy",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 687,
+          "length": 8
+        },
+        {
+          "text": "SEPN-RM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 924,
+          "length": 7
+        },
+        {
+          "text": "SEPN-RM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1246,
+          "length": 7
+        },
+        {
+          "text": "SEPN-RM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1348,
+          "length": 7
+        },
+        {
+          "text": "SEPN-RM",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1458,
+          "length": 7
+        },
+        {
+          "text": "myopathies",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1551,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "1674",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 249,
+          "length": 6
+        },
+        {
+          "text": "desmin",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 274,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1410",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "alpha-B crystallin",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 289,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 547,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1186,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C535683",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rigid spine muscular dystrophy",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 754,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "C564969",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiminicore disease",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 818,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|-19_+73|92",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "del 92 nucleotide -19/+73",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1143,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1410",
+      "tail_id": "C563319",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "1674",
+      "tail_id": "C563319",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "57190",
+      "tail_id": "C564969",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "57190",
+      "tail_id": "C535683",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "57190",
+      "tail_id": "D009135",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C563319",
+      "tail_id": "c|DEL|-19_+73|92",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C563319",
+      "tail_id": "57190",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

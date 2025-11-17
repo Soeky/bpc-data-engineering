@@ -1,0 +1,894 @@
+{
+  "doc_id": "20105310",
+  "title": "Association of adipocyte genes with ASP expression: a microarray analysis of subcutaneous and omental adipose tissue in morbidly obese subjects.",
+  "body": "BACKGROUND: Prevalence of obesity is increasing to pandemic proportions. However, obese subjects differ in insulin resistance, adipokine production and co-morbidities. Based on fasting plasma analysis, obese subjects were grouped as Low Acylation Stimulating protein (ASP) and Triglyceride (TG) (LAT) vs High ASP and TG (HAT). Subcutaneous (SC) and omental (OM) adipose tissues (n = 21) were analysed by microarray, and biologic pathways in lipid metabolism and inflammation were specifically examined. METHODS: LAT and HAT groups were matched in age, obesity, insulin, and glucose, and had similar expression of insulin-related genes (InsR, IRS-1). ASP related genes tended to be increased in the HAT group and were correlated (factor B, adipsin, complement C3, p < 0.01 each). Differences between LAT and HAT group were almost exclusively in SC tissue, with little difference in OM tissue. Increased C5L2 (p < 0.01), an ASP receptor, in HAT suggests a compensatory ASP pathway, associated with increased TG storage. RESULTS: HAT adipose tissue demonstrated increased lipid related genes for storage (CD36, DGAT1, DGAT2, SCD1, FASN, and LPL), lipolysis (HSL, CES1, perilipin), fatty acid binding proteins (FABP1, FABP3) and adipocyte differentiation markers (CEBPalpha, CEBPbeta, PPARgamma). By contrast, oxidation related genes were decreased (AMPK, UCP1, CPT1, FABP7). HAT subjects had increased anti-inflammatory genes TGFB1, TIMP1, TIMP3, and TIMP4 while proinflammatory PIG7 and MMP2 were also significantly increased; all genes, p < 0.025. CONCLUSION: Taken together, the profile of C5L2 receptor, ASP gene expression and metabolic factors in adipose tissue from morbidly obese HAT subjects suggests a compensatory response associated with the increased plasma ASP and TG.",
+  "entities": [
+    {
+      "id": "718",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ASP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 3
+        },
+        {
+          "text": "Acylation Stimulating protein",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 382,
+          "length": 29
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 413,
+          "length": 3
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 454,
+          "length": 3
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 795,
+          "length": 3
+        },
+        {
+          "text": "complement C3",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 893,
+          "length": 13
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1112,
+          "length": 3
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1750,
+          "length": 3
+        },
+        {
+          "text": "ASP",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1913,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obese",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 129,
+          "length": 5
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 171,
+          "length": 7
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 227,
+          "length": 5
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 347,
+          "length": 5
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 697,
+          "length": 7
+        },
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1824,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 252,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9370",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adipokine",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 272,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014280",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Triglyceride",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 422,
+          "length": 12
+        },
+        {
+          "text": "TG",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 436,
+          "length": 2
+        },
+        {
+          "text": "TG",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 462,
+          "length": 2
+        },
+        {
+          "text": "TG",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1151,
+          "length": 2
+        },
+        {
+          "text": "TG",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1921,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 586,
+          "length": 5
+        },
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1214,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 607,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1549,
+          "length": 12
+        },
+        {
+          "text": "proinflammatory",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1605,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 706,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 758,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 719,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3643",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "InsR",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 781,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3667",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRS-1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 787,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "629",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "factor B",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 874,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1675",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adipsin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 884,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "27202",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C5L2",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1047,
+          "length": 4
+        },
+        {
+          "text": "ASP receptor",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1067,
+          "length": 12
+        },
+        {
+          "text": "C5L2",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1735,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "948",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD36",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1247,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "8694",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DGAT1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1253,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "84649",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DGAT2",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1260,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6319",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SCD1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1267,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2194",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FASN",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1273,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4023",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPL",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1283,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3991",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HSL",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1300,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1066",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CES1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1305,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5346",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "perilipin",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1311,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "2168,2170",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fatty acid binding proteins",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1323,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "2168",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1352,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2170",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP3",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1359,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1050",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CEBPalpha",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1405,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "1051",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CEBPbeta",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1416,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "5468",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PPARgamma",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1426,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1491,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7350",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "UCP1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1497,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1374",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CPT1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1503,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2173",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FABP7",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1509,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7040",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFB1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1568,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7076",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIMP1",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1575,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7078",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIMP3",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1582,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7079",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIMP4",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1593,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9516",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PIG7",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1621,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4313",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP2",
+          "passage_index": 1,
+          "passage_offset": 145,
+          "char_offset": 1630,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007249",
+      "tail_id": "4313",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007249",
+      "tail_id": "9516",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007249",
+      "tail_id": "7079",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007249",
+      "tail_id": "7078",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007249",
+      "tail_id": "7076",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007249",
+      "tail_id": "7040",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "1675",
+      "tail_id": "718",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "629",
+      "tail_id": "1675",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "629",
+      "tail_id": "718",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "718",
+      "tail_id": "D014280",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009765",
+      "tail_id": "718",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009765",
+      "tail_id": "9370",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D009765",
+      "tail_id": "D014280",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D008055",
+      "tail_id": "5468",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D008055",
+      "tail_id": "1051",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D008055",
+      "tail_id": "1050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D008055",
+      "tail_id": "2170",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D008055",
+      "tail_id": "2168",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D008055",
+      "tail_id": "5346",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D008055",
+      "tail_id": "1066",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D008055",
+      "tail_id": "3991",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D008055",
+      "tail_id": "4023",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D008055",
+      "tail_id": "2194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D008055",
+      "tail_id": "6319",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D008055",
+      "tail_id": "84649",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "D008055",
+      "tail_id": "8694",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "D008055",
+      "tail_id": "948",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "27202",
+      "tail_id": "718",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "27202",
+      "tail_id": "D014280",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R29",
+      "head_id": "3630",
+      "tail_id": "3667",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R30",
+      "head_id": "3630",
+      "tail_id": "3643",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

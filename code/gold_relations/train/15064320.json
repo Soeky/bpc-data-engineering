@@ -1,0 +1,309 @@
+{
+  "doc_id": "15064320",
+  "title": "Compound heterozygous mutations in the SRD5A2 gene exon 4 in a male pseudohermaphrodite patient of Chinese origin.",
+  "body": "The goal of this study was to perform 5-alpha-reductase type 2 gene (SRD5A2) analysis in a male pseudohermaphrodite (MPH) patient with normal testosterone (T) production and normal androgen receptor (AR) gene coding sequences. A patient of Chinese origin with ambiguous genitalia at 14 months, a 46,XY karyotype, and normal T secretion under human chorionic gonadotropin (hCG) stimulation underwent a gonadectomy at 20 months. Exons 1-8 of the AR gene and exons 1-5 of the SRD5A2 gene were sequenced from peripheral blood DNA. AR gene coding sequences were normal. SRD5A2 gene analysis revealed 2 consecutive mutations in exon 4, each located in a different allele: 1) a T nucleotide deletion, which predicts a frameshift mutation from codon 219, and 2) a missense mutation at codon 227, where the substitution of guanine (CGA) by adenine (CAA) predicts a glutamine replacement of arginine (R227Q). Testes located in the inguinal canal showed a normal morphology for age. The patient was a compound heterozygote for SRD5A2 mutations, carrying 2 mutations in exon 4. The patient showed an R227Q mutation that has been described in an Asian population and MPH patients, along with a novel frameshift mutation, Tdel219. Testis morphology showed that, during early infancy, the 5-alpha-reductase enzyme deficiency may not have affected interstitial or tubular development.",
+  "entities": [
+    {
+      "id": "6716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SRD5A2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 6
+        },
+        {
+          "text": "5-alpha-reductase type 2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 153,
+          "length": 24
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 184,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 588,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 680,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1131,
+          "length": 6
+        },
+        {
+          "text": "5-alpha-reductase",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1389,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D058490",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "male pseudohermaphrodite",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 24
+        },
+        {
+          "text": "male pseudohermaphrodite",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 206,
+          "length": 24
+        },
+        {
+          "text": "MPH",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 232,
+          "length": 3
+        },
+        {
+          "text": "MPH",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1269,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 237,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 344,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1091,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1185,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1273,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D013739",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 257,
+          "length": 12
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 271,
+          "length": 1
+        },
+        {
+          "text": "T",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 439,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 296,
+          "length": 17
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 315,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 559,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 642,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D006063",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "human chorionic gonadotropin",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 457,
+          "length": 28
+        },
+        {
+          "text": "hCG",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 487,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|CODON219|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T nucleotide deletion, which predicts a frameshift mutation from codon 219",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 786,
+          "length": 74
+        },
+        {
+          "text": "Tdel219",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1323,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs9332964",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "guanine (CGA) by adenine (CAA)",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 929,
+          "length": 30
+        },
+        {
+          "text": "glutamine replacement of arginine",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 971,
+          "length": 33
+        },
+        {
+          "text": "R227Q",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1006,
+          "length": 5
+        },
+        {
+          "text": "R227Q",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1203,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013739",
+      "tail_id": "D006063",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL|CODON219|T",
+      "tail_id": "D058490",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs9332964",
+      "tail_id": "D058490",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "6716",
+      "tail_id": "D058490",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

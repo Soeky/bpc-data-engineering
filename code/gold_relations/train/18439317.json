@@ -1,0 +1,179 @@
+{
+  "doc_id": "18439317",
+  "title": "Association between promoter -1607 polymorphism of MMP1 and lumbar disc disease in Southern Chinese.",
+  "body": "BACKGROUND: Matrix metalloproteinases (MMPs) are involved in the degradation of the extracellular matrix of the intervertebral disc. A SNP for guanine insertion/deletion (G/D), the -1607 promoter polymorphism, of the MMP1 gene was found significantly affecting promoter activity and corresponding transcription level. Hence it is a good candidate for genetic studies in DDD. METHODS: Southern Chinese volunteers between 18 and 55 years were recruited from the population. DDD in the lumbar spine was defined by MRI using Schneiderman's classification. Genomic DNA was isolated from the leukocytes and genotyping was performed using the Sequenom platform. Association and Hardy-Weinberg equilibrium checking were assessed by Chi-square test and Mann-Whitney U test. RESULTS: Our results showed substantial evidence of association between -1607 promoter polymorphism of MMP1 and DDD in the Southern Chinese subjects. D allelic was significantly associated with DDD (p value = 0.027, odds ratio = 1.41 with 95% CI = 1.04-1.90) while Genotypic association on the presence of D allele was also significantly associated with DDD (p value = 0.046, odds ratio = 1.50 with 95% CI = 1.01-2.24). Further age stratification showed significant genotypic as well as allelic association in the group of over 40 years (genotypic: p value = 0.035, odds ratio = 1.617 with 95% CI = 1.033-2.529; allelic: p value = 0.033, odds ratio = 1.445 with 95% CI = 1.029-2.029). Disc bulge, annular tears and the Schmorl's nodes were not associated with the D allele. CONCLUSION: We demonstrated that individuals with the presence of D allele for the -1607 promoter polymorphism of MMP1 are about 1.5 times more susceptible to develop DDD when compared with those having G allele only. Further association was identified in individuals over 40 years of age. Disc bulge, annular tear as well as Schmorl's nodes were not associated with this polymorphism.",
+  "entities": [
+    {
+      "id": "4312",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MMP1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 4
+        },
+        {
+          "text": "Matrix metalloproteinases",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 113,
+          "length": 25
+        },
+        {
+          "text": "MMPs",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 140,
+          "length": 4
+        },
+        {
+          "text": "MMP1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 318,
+          "length": 4
+        },
+        {
+          "text": "MMP1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 969,
+          "length": 4
+        },
+        {
+          "text": "MMP1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1754,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C535531",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lumbar disc disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|-1607|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "guanine insertion/deletion (G/D), the -1607 promoter polymorphism",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 244,
+          "length": 65
+        }
+      ]
+    },
+    {
+      "id": "D055959",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 471,
+          "length": 3
+        },
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 573,
+          "length": 3
+        },
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 978,
+          "length": 3
+        },
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1060,
+          "length": 3
+        },
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1220,
+          "length": 3
+        },
+        {
+          "text": "DDD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1807,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|D|-1607",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D allele for the -1607",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1706,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL|-1607|G",
+      "tail_id": "C535531",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D055959",
+      "tail_id": "c|DEL|-1607|G",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|Allele|D|-1607",
+      "tail_id": "D055959",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4312",
+      "tail_id": "D055959",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C535531",
+      "tail_id": "4312",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

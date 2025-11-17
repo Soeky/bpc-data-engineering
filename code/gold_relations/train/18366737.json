@@ -1,0 +1,378 @@
+{
+  "doc_id": "18366737",
+  "title": "The FH mutation database: an online database of fumarate hydratase mutations involved in the MCUL (HLRCC) tumor syndrome and congenital fumarase deficiency.",
+  "body": "BACKGROUND: Fumarate hydratase (HGNC approved gene symbol - FH), also known as fumarase, is an enzyme of the tricarboxylic acid (TCA) cycle, involved in fundamental cellular energy production. First described by Zinn et al in 1986, deficiency of FH results in early onset, severe encephalopathy. In 2002, the Multiple Leiomyoma Consortium identified heterozygous germline mutations of FH in patients with multiple cutaneous and uterine leiomyomas, (MCUL: OMIM 150800). In some families renal cell cancer also forms a component of the complex and as such has been described as hereditary leiomyomatosis and renal cell cancer (HLRCC: OMIM 605839). The identification of FH as a tumor suppressor was an unexpected finding and following the identification of subunits of succinate dehydrogenase in 2000 and 2001, was only the second description of the involvement of an enzyme of intermediary metabolism in tumorigenesis. DESCRIPTION: The FH mutation database is a part of the TCA cycle gene mutation database (formerly the succinate dehydrogenase gene mutation database) and is based on the Leiden Open (source) Variation Database (LOVD) system. The variants included in the database were derived from the published literature and annotated to conform to current mutation nomenclature. The FH database applies HGVS nomenclature guidelines, and will assist researchers in applying these guidelines when directly submitting new sequence variants online. Since the first molecular characterization of an FH mutation by Bourgeron et al in 1994, a series of reports of both FH deficiency patients and patients with MCUL/HLRRC have described 107 variants, of which 93 are thought to be pathogenic. The most common type of mutation is missense (57%), followed by frameshifts & nonsense (27%), and diverse deletions, insertions and duplications. Here we introduce an online database detailing all reported FH sequence variants. CONCLUSION: The FH mutation database strives to systematically unify all current genetic knowledge of FH variants. We believe that this knowledge will assist clinical geneticists and treating physicians when advising patients and their families, will provide a rapid and convenient resource for research scientists, and may eventually assist in gaining novel insights into FH and its related clinical syndromes.",
+  "entities": [
+    {
+      "id": "2271",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 2
+        },
+        {
+          "text": "fumarate hydratase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 18
+        },
+        {
+          "text": "Fumarate hydratase",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 169,
+          "length": 18
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 217,
+          "length": 2
+        },
+        {
+          "text": "fumarase",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 236,
+          "length": 8
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 542,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 825,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1092,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1444,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1655,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2052,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2090,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2176,
+          "length": 2
+        },
+        {
+          "text": "FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2447,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "C535516",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "MCUL",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 4
+        },
+        {
+          "text": "HLRCC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 5
+        },
+        {
+          "text": "multiple cutaneous and uterine leiomyomas",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 562,
+          "length": 41
+        },
+        {
+          "text": "MCUL",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 606,
+          "length": 4
+        },
+        {
+          "text": "OMIM 150800",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 612,
+          "length": 11
+        },
+        {
+          "text": "hereditary leiomyomatosis and renal cell cancer",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 733,
+          "length": 47
+        },
+        {
+          "text": "HLRCC",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 782,
+          "length": 5
+        },
+        {
+          "text": "OMIM 605839",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 789,
+          "length": 11
+        },
+        {
+          "text": "MCUL",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1764,
+          "length": 4
+        },
+        {
+          "text": "HLRRC",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1769,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 14
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 833,
+          "length": 5
+        },
+        {
+          "text": "tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1060,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C538191",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fumarase deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 136,
+          "length": 19
+        },
+        {
+          "text": "deficiency of FH",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 389,
+          "length": 16
+        },
+        {
+          "text": "FH deficiency",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1723,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D014233",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tricarboxylic acid",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 266,
+          "length": 18
+        },
+        {
+          "text": "TCA",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 286,
+          "length": 3
+        },
+        {
+          "text": "TCA",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1130,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 437,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007889",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Leiomyoma",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 475,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 548,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1737,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 1750,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 2291,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002292",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal cell cancer",
+          "passage_index": 1,
+          "passage_offset": 157,
+          "char_offset": 643,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2271",
+      "tail_id": "D014233",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2271",
+      "tail_id": "C538191",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2271",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2271",
+      "tail_id": "C535516",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2271",
+      "tail_id": "D001927",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

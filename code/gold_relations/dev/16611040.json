@@ -1,0 +1,145 @@
+{
+  "doc_id": "16611040",
+  "title": "Gene therapy for cystic fibrosis airway disease- is clinical success imminent?",
+  "body": "Cystic fibrosis (CF) was one of the first inherited disorders for which gene therapy was seriously considered as a realistic option for treatment, and as such, it has long provided a paradigm for gene therapy of inherited diseases. However, despite the cloning of the cystic fibrosis transmembrane conductance regulator gene in 1989, over 15 years later a practical gene therapy for CF has not eventuated. There are a number of reasons for this, and analysis of the specific issues that have delayed the successful development of gene therapy for CF also provides general insights into the practical complexities involved in the development of gene therapy for inherited disorders. The issues which have prevented the application of gene therapy for CF to date include the lack of suitable gene delivery technologies, the complexities of the interactions between the host and vector, the biology of the lung airways, and the nature of the pathology found in individuals with CF. We will discuss the history of CF gene therapy with specific reference to these and other issues that pre-occupy the field at present: namely, the question of what vectors appear to be suitable for airway gene delivery in CF, what cells must be targeted, how airway epithelium defences can be overcome or eluded to allow efficient gene delivery, how to ensure safe and long-term transgene expression and the need to identify relevant surrogate success measures that can be used to assess the outcome of gene therapy in CF patients.",
+  "entities": [
+    {
+      "id": "D003550",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cystic fibrosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 15
+        },
+        {
+          "text": "Cystic fibrosis",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 79,
+          "length": 15
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 96,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 462,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 626,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 829,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1054,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1089,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1280,
+          "length": 2
+        },
+        {
+          "text": "CF",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1577,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited disorders",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 121,
+          "length": 19
+        },
+        {
+          "text": "inherited diseases",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 291,
+          "length": 18
+        },
+        {
+          "text": "inherited disorders",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 740,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "1080",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cystic fibrosis transmembrane conductance regulator",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 347,
+          "length": 51
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1580,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1080",
+      "tail_id": "D003550",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "doc_id": "16112787",
+  "title": "In vivo evidences suggesting the role of oxidative stress in pathogenesis of vancomycin-induced nephrotoxicity: protection by erdosteine.",
+  "body": "The aims of this study were to examine vancomycin (VCM)-induced oxidative stress that promotes production of reactive oxygen species (ROS) and to investigate the role of erdosteine, an expectorant agent, which has also antioxidant properties, on kidney tissue against the possible VCM-induced renal impairment in rats. Rats were divided into three groups: sham, VCM and VCM plus erdosteine. VCM was administrated intraperitoneally (i.p.) with 200mgkg(-1) twice daily for 7 days. Erdosteine was administered orally. VCM administration to control rats significantly increased renal malondialdehyde (MDA) and urinary N-acetyl-beta-d-glucosaminidase (NAG, a marker of renal tubular injury) excretion but decreased superoxide dismutase (SOD) and catalase (CAT) activities. Erdosteine administration with VCM injections caused significantly decreased renal MDA and urinary NAG excretion, and increased SOD activity, but not CAT activity in renal tissue when compared with VCM alone. Erdosteine showed histopathological protection against VCM-induced nephrotoxicity. There were a significant dilatation of tubular lumens, extensive epithelial cell vacuolization, atrophy, desquamation, and necrosis in VCM-treated rats more than those of the control and the erdosteine groups. Erdosteine caused a marked reduction in the extent of tubular damage. It is concluded that oxidative tubular damage plays an important role in the VCM-induced nephrotoxicity and the modulation of oxidative stress with erdosteine reduces the VCM-induced kidney damage both at the biochemical and histological levels.",
+  "entities": [
+    {
+      "id": "D014640",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vancomycin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 10
+        },
+        {
+          "text": "vancomycin",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 177,
+          "length": 10
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 189,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 419,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 500,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 508,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 529,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 653,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 937,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1104,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1170,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1333,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1555,
+          "length": 3
+        },
+        {
+          "text": "VCM",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1649,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 14
+        },
+        {
+          "text": "renal impairment",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 431,
+          "length": 16
+        },
+        {
+          "text": "renal tubular injury",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 802,
+          "length": 20
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1182,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1567,
+          "length": 14
+        },
+        {
+          "text": "kidney damage",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1661,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "C048498",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "erdosteine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 126,
+          "length": 10
+        },
+        {
+          "text": "erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 308,
+          "length": 10
+        },
+        {
+          "text": "erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 517,
+          "length": 10
+        },
+        {
+          "text": "Erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 617,
+          "length": 10
+        },
+        {
+          "text": "Erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 906,
+          "length": 10
+        },
+        {
+          "text": "Erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1115,
+          "length": 10
+        },
+        {
+          "text": "erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1389,
+          "length": 10
+        },
+        {
+          "text": "Erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1408,
+          "length": 10
+        },
+        {
+          "text": "erdosteine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1626,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 247,
+          "length": 23
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 272,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antioxidant",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 357,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 451,
+          "length": 4
+        },
+        {
+          "text": "Rats",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 457,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 683,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1345,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008315",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malondialdehyde",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 718,
+          "length": 15
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 735,
+          "length": 3
+        },
+        {
+          "text": "MDA",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 989,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "154968",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-acetyl-beta-d-glucosaminidase",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 752,
+          "length": 31
+        },
+        {
+          "text": "NAG",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 785,
+          "length": 3
+        },
+        {
+          "text": "NAG",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1005,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013482",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "superoxide dismutase",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 848,
+          "length": 20
+        },
+        {
+          "text": "SOD",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 870,
+          "length": 3
+        },
+        {
+          "text": "SOD",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1034,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24248",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "catalase",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 879,
+          "length": 8
+        },
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 889,
+          "length": 3
+        },
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1056,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001284",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atrophy",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1294,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012871",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "desquamation",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1303,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009336",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "necrosis",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1321,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013482",
+      "tail_id": "C048498",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "24248",
+      "tail_id": "D014640",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "154968",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "C048498",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C048498",
+      "tail_id": "154968",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C048498",
+      "tail_id": "D008315",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014640",
+      "tail_id": "D017382",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D014640",
+      "tail_id": "D009336",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D014640",
+      "tail_id": "D012871",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D014640",
+      "tail_id": "D001284",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D014640",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D014640",
+      "tail_id": "D013482",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D014640",
+      "tail_id": "154968",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D014640",
+      "tail_id": "D008315",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D014640",
+      "tail_id": "C048498",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

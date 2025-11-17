@@ -1,0 +1,314 @@
+{
+  "doc_id": "10491763",
+  "title": "Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.",
+  "body": "The transcription factor hepatocyte nuclear factor (HNF)-6 is an upstream regulator of several genes involved in the pathogenesis of maturity-onset diabetes of the young. We therefore tested the hypothesis that variability in the HNF-6 gene is associated with subsets of Type II (non-insulin-dependent) diabetes mellitus and estimates of insulin secretion in glucose tolerant subjects.   We cloned the coding region as well as the intron-exon boundaries of the HNF-6 gene. We then examined them on genomic DNA in six MODY probands without mutations in the MODY1, MODY3 and MODY4 genes and in 54 patients with late-onset Type II diabetes by combined single strand conformational polymorphism-heteroduplex analysis followed by direct sequencing of identified variants. An identified missense variant was examined in association studies and genotype-phenotype studies.   We identified two silent and one missense (Pro75 Ala) variant. In an association study the allelic frequency of the Pro75Ala polymorphism was 3.2% (95% confidence interval, 1.9-4.5) in 330 patients with Type II diabetes mellitus compared with 4.2% (2.4-6.0) in 238 age-matched glucose tolerant control subjects. Moreover, in studies of 238 middle-aged glucose tolerant subjects, of 226 glucose tolerant offspring of Type II diabetic patients and of 367 young healthy subjects, the carriers of the polymorphism did not differ from non-carriers in glucose induced serum insulin or C-peptide responses.   Mutations in the coding region of the HNF-6 gene are not associated with Type II diabetes or with changes in insulin responses to glucose among the Caucasians examined.",
+  "entities": [
+    {
+      "id": "3175",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Hepatocyte nuclear factor-6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 27
+        },
+        {
+          "text": "hepatocyte nuclear factor (HNF)-6",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 184,
+          "length": 33
+        },
+        {
+          "text": "HNF-6",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 389,
+          "length": 5
+        },
+        {
+          "text": "HNF-6",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 620,
+          "length": 5
+        },
+        {
+          "text": "HNF-6",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1667,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type II diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 16
+        },
+        {
+          "text": "maturity-onset diabetes",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 292,
+          "length": 23
+        },
+        {
+          "text": "Type II (non-insulin-dependent) diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 430,
+          "length": 49
+        },
+        {
+          "text": "Type II diabetes",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 779,
+          "length": 16
+        },
+        {
+          "text": "Type II diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1230,
+          "length": 25
+        },
+        {
+          "text": "Type II diabetic",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1443,
+          "length": 16
+        },
+        {
+          "text": "Type II diabetes",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1702,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 140,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 497,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1595,
+          "length": 7
+        },
+        {
+          "text": "C-peptide",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1606,
+          "length": 9
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1738,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 518,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1304,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1379,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1413,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1573,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1759,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3172,3651,6927",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MODY",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 676,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3172",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MODY1",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 715,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6927",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MODY3",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 722,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MODY4",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 732,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 754,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1216,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1460,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs74805019",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Pro75 Ala",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1070,
+          "length": 9
+        },
+        {
+          "text": "Pro75Ala",
+          "passage_index": 1,
+          "passage_offset": 159,
+          "char_offset": 1143,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3175",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005947",
+      "tail_id": "3630",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005947",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

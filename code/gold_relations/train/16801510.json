@@ -1,0 +1,337 @@
+{
+  "doc_id": "16801510",
+  "title": "Drug-induced long QT syndrome in injection drug users receiving methadone: high frequency in hospitalized patients and risk factors.",
+  "body": "BACKGROUND: Drug-induced long QT syndrome is a serious adverse drug reaction. Methadone prolongs the QT interval in vitro in a dose-dependent manner. In the inpatient setting, the frequency of QT interval prolongation with methadone treatment, its dose dependence, and the importance of cofactors such as drug-drug interactions remain unknown. METHODS: We performed a systematic, retrospective study comparing active or former intravenous drug users receiving methadone and those not receiving methadone among all patients hospitalized over a 5-year period in a tertiary care hospital. A total of 167 patients receiving methadone fulfilled the inclusion criteria and were compared with a control group of 80 injection drug users not receiving methadone. In addition to methadone dose, 15 demographic, biological, and pharmacological variables were considered as potential risk factors for QT prolongation. RESULTS: Among 167 methadone maintenance patients, the prevalence of QTc prolongation to 0.50 second((1/2)) or longer was 16.2% compared with 0% in 80 control subjects. Six patients (3.6%) in the methadone group presented torsades de pointes. QTc length was weakly but significantly associated with methadone daily dose (Spearman rank correlation coefficient, 0.20; P<.01). Multivariate regression analysis allowed attribution of 31.8% of QTc variability to methadone dose, cytochrome P-450 3A4 drug-drug interactions, hypokalemia, and altered liver function. CONCLUSIONS: QT interval prolongation in methadone maintenance patients hospitalized in a tertiary care center is a frequent finding. Methadone dose, presence of cytochrome P-450 3A4 inhibitors, potassium level, and liver function contribute to QT prolongation. Long QT syndrome can occur with low doses of methadone.",
+  "entities": [
+    {
+      "id": "D008133",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "long QT syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 16
+        },
+        {
+          "text": "long QT syndrome",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 158,
+          "length": 16
+        },
+        {
+          "text": "QT interval prolongation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 326,
+          "length": 24
+        },
+        {
+          "text": "QT prolongation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1022,
+          "length": 15
+        },
+        {
+          "text": "QTc prolongation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1108,
+          "length": 16
+        },
+        {
+          "text": "QT interval prolongation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1612,
+          "length": 24
+        },
+        {
+          "text": "QT prolongation",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1844,
+          "length": 15
+        },
+        {
+          "text": "Long QT syndrome",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1861,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D008691",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methadone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 9
+        },
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 211,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 356,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 593,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 627,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 753,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 876,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 902,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1058,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1235,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1338,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1497,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1640,
+          "length": 9
+        },
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1733,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1906,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 8
+        },
+        {
+          "text": "inpatient",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 290,
+          "length": 9
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 647,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 734,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1080,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1212,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1662,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "torsades de pointes",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1261,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "1576",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cytochrome P-450 3A4",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1513,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D007008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypokalemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1558,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D065692",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cytochrome P-450 3A4 inhibitors",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1761,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1794,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D065692",
+      "tail_id": "D008133",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1576",
+      "tail_id": "D065692",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011188",
+      "tail_id": "D008133",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008691",
+      "tail_id": "D016171",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008691",
+      "tail_id": "D008133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

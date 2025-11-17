@@ -1,0 +1,532 @@
+{
+  "doc_id": "20801540",
+  "title": "Hepatic but not brain iron is rapidly chelated by deferasirox in aceruloplasminemia due to a novel gene mutation.",
+  "body": "BACKGROUND _#38; AIMS: Aceruloplasminemia is a rare autosomal recessive neurodegenerative disease associated with brain and liver iron accumulation which typically presents with movement disorders, retinal degeneration, and diabetes mellitus. Ceruloplasmin is a multi-copper ferroxidase that is secreted into plasma and facilitates cellular iron export and iron binding to transferrin. RESULTS: A novel homozygous ceruloplasmin gene mutation, c.2554+1G>T, was identified as the cause of aceruloplasminemia in three affected siblings. Two siblings presented with movement disorders and diabetes. Complementary DNA sequencing showed that this mutation causes skipping of exon 14 and deletion of amino acids 809-852 while preserving the open reading frame. Western blotting of liver extracts and sera of affected patients showed retention of the abnormal protein in the liver. Aceruloplasminemia was associated with severe brain and liver iron overload, where hepatic mRNA expression of the iron hormone hepcidin was increased, corresponding to the degree of iron overload. Hepatic iron concentration normalized after 3 and 5months of iron chelation therapy with deferasirox, which was also associated with reduced insulin demands. During short term treatment there was no clinical or imaging evidence for significant effects on brain iron overload. CONCLUSIONS: Aceruloplasminemia can show an incomplete clinical penetrance but is invariably associated with iron accumulation in the liver and in the brain. Iron accumulation in aceruloplasminemia is a result of defective cellular iron export, where hepcidin regulation is appropriate for the degree of iron overload. Iron chelation with deferasirox was effective in mobilizing hepatic iron but has no effect on brain iron.",
+  "entities": [
+    {
+      "id": "D007501",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "iron",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 244,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 455,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 471,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1102,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1193,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1246,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1570,
+          "length": 4
+        },
+        {
+          "text": "Iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1619,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1693,
+          "length": 4
+        },
+        {
+          "text": "Iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1780,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1848,
+          "length": 4
+        },
+        {
+          "text": "iron",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1880,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000077588",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "deferasirox",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 11
+        },
+        {
+          "text": "deferasirox",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1274,
+          "length": 11
+        },
+        {
+          "text": "deferasirox",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1800,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C536004",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "aceruloplasminemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 18
+        },
+        {
+          "text": "Aceruloplasminemia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 137,
+          "length": 18
+        },
+        {
+          "text": "aceruloplasminemia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 601,
+          "length": 18
+        },
+        {
+          "text": "Aceruloplasminemia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 988,
+          "length": 18
+        },
+        {
+          "text": "Aceruloplasminemia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1474,
+          "length": 18
+        },
+        {
+          "text": "aceruloplasminemia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1640,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D020271",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive neurodegenerative disease",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 166,
+          "length": 45
+        }
+      ]
+    },
+    {
+      "id": "D009069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "movement disorders",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 292,
+          "length": 18
+        },
+        {
+          "text": "movement disorders",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 676,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D012162",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinal degeneration",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 312,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 338,
+          "length": 17
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 699,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1356",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ceruloplasmin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 357,
+          "length": 13
+        },
+        {
+          "text": "ceruloplasmin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 528,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ferroxidase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 389,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "7018",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "transferrin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 487,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|2554+1|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2554+1G>T",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 557,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|809_852|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion of amino acids 809-852",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 795,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 924,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D019190",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "iron overload",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1050,
+          "length": 13
+        },
+        {
+          "text": "iron overload",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1170,
+          "length": 13
+        },
+        {
+          "text": "iron overload",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1446,
+          "length": 13
+        },
+        {
+          "text": "iron overload",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1765,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "57817",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hepcidin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1115,
+          "length": 8
+        },
+        {
+          "text": "hepcidin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1712,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1326,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "57817",
+      "tail_id": "D019190",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019190",
+      "tail_id": "D000077588",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019190",
+      "tail_id": "D007501",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|SUB|G|2554+1|T",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|G|2554+1|T",
+      "tail_id": "D009069",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "c|SUB|G|2554+1|T",
+      "tail_id": "C536004",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "1356",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "1356",
+      "tail_id": "D009069",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "1356",
+      "tail_id": "C536004",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "1356",
+      "tail_id": "D007501",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "C536004",
+      "tail_id": "57817",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C536004",
+      "tail_id": "D007501",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D000077588",
+      "tail_id": "3630",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D000077588",
+      "tail_id": "C536004",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D007501",
+      "tail_id": "D012162",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D007501",
+      "tail_id": "D003920",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D007501",
+      "tail_id": "D009069",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "D007501",
+      "tail_id": "7018",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "D007501",
+      "tail_id": "D000077588",
+      "type": "Bind",
+      "novel": "Novel"
+    }
+  ]
+}

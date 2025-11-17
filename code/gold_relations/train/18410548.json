@@ -1,0 +1,268 @@
+{
+  "doc_id": "18410548",
+  "title": "Aryl hydrocarbon receptor interacting protein (AIP) gene mutation analysis in children and adolescents with sporadic pituitary adenomas.",
+  "body": "OBJECTIVE: Pituitary adenomas occur rarely in childhood and adolescence. Pituitary adenoma predisposition (PAP) has been recently associated with germline mutations in the aryl hydrocarbon receptor interacting protein (AIP) gene. The aim of the study was to examine the proportion of germline AIP mutations in apparently sporadic paediatric pituitary adenomas. DESIGN: Genomic DNA was analysed for mutations in the AIP gene, by PCR amplification and direct sequencing. PATIENTS: A population-based cohort consisting of 36 apparently sporadic paediatric pituitary adenoma patients, referred to two medical centres in Italy, was included in the study. Patients were either less than 18 years at diagnosis, or showed clinical evidence of adenoma development before the age of 18 years. RESULTS: A heterozygous in-frame deletion Y248del (c.742_744delTAC) was identified in one GH-secreting adenoma patient. Loss of heterozygosity (LOH) analysis of tumour DNA revealed the loss of the wild-type allele. First degree relatives carrying the mutation were clinically unaffected. CONCLUSIONS: While mutations were absent in non-GH-secreting adenoma patients, germline AIP mutations can be found in children and adolescents with GH-secreting tumours, even in the absence of family history. The present study reports the AIP mutation analysis results on patients of a single ethnic origin. Clearly, further studies are needed to improve our knowledge on the role of AIP in paediatric pituitary adenomas.",
+  "entities": [
+    {
+      "id": "9049",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Aryl hydrocarbon receptor interacting protein",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 45
+        },
+        {
+          "text": "AIP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 3
+        },
+        {
+          "text": "aryl hydrocarbon receptor interacting protein",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 309,
+          "length": 45
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 356,
+          "length": 3
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 430,
+          "length": 3
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 552,
+          "length": 3
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1296,
+          "length": 3
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1447,
+          "length": 3
+        },
+        {
+          "text": "AIP",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1592,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010911",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pituitary adenomas",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 18
+        },
+        {
+          "text": "Pituitary adenomas",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 148,
+          "length": 18
+        },
+        {
+          "text": "Pituitary adenoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 210,
+          "length": 17
+        },
+        {
+          "text": "pituitary adenomas",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 478,
+          "length": 18
+        },
+        {
+          "text": "pituitary adenoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 690,
+          "length": 17
+        },
+        {
+          "text": "pituitary adenomas",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1610,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 606,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 708,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 787,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1031,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1277,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1480,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000236",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adenoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 872,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs267606574",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Y248del",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 962,
+          "length": 7
+        },
+        {
+          "text": "c.742_744delTAC",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 971,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D049912",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GH-secreting adenoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1010,
+          "length": 20
+        },
+        {
+          "text": "GH-secreting adenoma",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1256,
+          "length": 20
+        },
+        {
+          "text": "GH-secreting tumours",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1356,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumour",
+          "passage_index": 1,
+          "passage_offset": 137,
+          "char_offset": 1081,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010911",
+      "tail_id": "9049",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "9049",
+      "tail_id": "D049912",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs267606574",
+      "tail_id": "D049912",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

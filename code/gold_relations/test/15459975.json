@@ -1,0 +1,178 @@
+{
+  "doc_id": "15459975",
+  "title": "Fine mapping and identification of a candidate gene SSH1 in disseminated superficial actinic porokeratosis.",
+  "body": "Disseminated superficial actinic porokeratosis (DSAP) is an uncommon autosomal dominant chronic keratinization disorder, characterized by multiple superficial keratotic lesions surrounded by a slightly raised keratotic border. Thus far, although two loci for DSAP have been identified, the genetic basis and pathogenesis of this disorder have not been elucidated yet. In this study, we performed a genome-wide linkage analysis in three Chinese affected families and localized the gene in an 8.0 cM interval defined by D12S330 and D12S354 on chromosome 12. Upon screening 30 candidate genes, we identified a missense mutation, p.Ser63Asn in SSH1 in one family, a frameshift mutation, p.Ser19CysfsX24 in an alternative variant (isoform f) of SSH1 in another family, and a frameshift mutation, p.Pro27ProfsX54 in the same alternative variant in one non-familial case with DSAP. SSH1 encodes a phosphatase that plays a pivotal role in actin dynamics. Our data suggested that cytoskeleton disorganization in epidermal cells is likely associated with the pathogenesis of DSAP.",
+  "entities": [
+    {
+      "id": "54434",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SSH1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 4
+        },
+        {
+          "text": "SSH1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 748,
+          "length": 4
+        },
+        {
+          "text": "SSH1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 848,
+          "length": 4
+        },
+        {
+          "text": "SSH1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 983,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D017499",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "disseminated superficial actinic porokeratosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 46
+        },
+        {
+          "text": "Disseminated superficial actinic porokeratosis",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 108,
+          "length": 46
+        },
+        {
+          "text": "DSAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 156,
+          "length": 4
+        },
+        {
+          "text": "DSAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 367,
+          "length": 4
+        },
+        {
+          "text": "DSAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 977,
+          "length": 4
+        },
+        {
+          "text": "DSAP",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1173,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007642",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "keratinization disorder",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 204,
+          "length": 23
+        },
+        {
+          "text": "keratotic lesions",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 267,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|63|N",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ser63Asn",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 734,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|FS|S|19|C|24",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ser19CysfsX24",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 791,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "p|FS|P|63|P|54",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Pro27ProfsX54",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 899,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "54434",
+      "tail_id": "D017499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|S|63|N",
+      "tail_id": "D017499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|FS|P|63|P|54",
+      "tail_id": "D017499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|FS|S|19|C|24",
+      "tail_id": "D017499",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

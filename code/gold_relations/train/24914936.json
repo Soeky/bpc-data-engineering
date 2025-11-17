@@ -1,0 +1,407 @@
+{
+  "doc_id": "24914936",
+  "title": "Thyroid hormone receptor a mutation causes a severe and thyroxine-resistant skeletal dysplasia in female mice.",
+  "body": "A new genetic disorder has been identified that results from mutation of THRA, encoding thyroid hormone receptor a1 (TRa1). Affected children have a high serum T3:T4 ratio and variable degrees of intellectual deficit and constipation but exhibit a consistently severe skeletal dysplasia. In an attempt to improve developmental delay and alleviate symptoms of hypothyroidism, patients are receiving varying doses and durations of T4 treatment, but responses have been inconsistent so far. Thra1(PV/+) mice express a similar potent dominant-negative mutant TRa1 to affected individuals, and thus represent an excellent disease model. We hypothesized that Thra1(PV/+) mice could be used to predict the skeletal outcome of human THRA mutations and determine whether prolonged treatment with a supraphysiological dose of T4 ameliorates the skeletal abnormalities. Adult female Thra1(PV/+) mice had short stature, grossly abnormal bone morphology but normal bone strength despite high bone mass. Although T4 treatment suppressed TSH secretion, it had no effect on skeletal maturation, linear growth, or bone mineralization, thus demonstrating profound tissue resistance to thyroid hormone. Despite this, prolonged T4 treatment abnormally increased bone stiffness and strength, suggesting the potential for detrimental consequences in the long term. Our studies establish that TRa1 has an essential role in the developing and adult skeleton and predict that patients with different THRA mutations will display variable responses to T4 treatment, which depend on the severity of the causative mutation.",
+  "entities": [
+    {
+      "id": "21833",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Thyroid hormone receptor a",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 26
+        },
+        {
+          "text": "Thra1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 599,
+          "length": 5
+        },
+        {
+          "text": "TRa1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 666,
+          "length": 4
+        },
+        {
+          "text": "Thra1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 764,
+          "length": 5
+        },
+        {
+          "text": "Thra1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 983,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013974",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thyroxine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 9
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 274,
+          "length": 2
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 540,
+          "length": 2
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 927,
+          "length": 2
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1110,
+          "length": 2
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1319,
+          "length": 2
+        },
+        {
+          "text": "T4",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1636,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D001848",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skeletal dysplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 18
+        },
+        {
+          "text": "skeletal dysplasia",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 379,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 105,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 611,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 776,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 995,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7067",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "THRA",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 184,
+          "length": 4
+        },
+        {
+          "text": "thyroid hormone receptor a1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 199,
+          "length": 27
+        },
+        {
+          "text": "TRa1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 228,
+          "length": 4
+        },
+        {
+          "text": "THRA",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 836,
+          "length": 4
+        },
+        {
+          "text": "TRa1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1481,
+          "length": 4
+        },
+        {
+          "text": "THRA",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1586,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014284",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "T3",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 271,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intellectual deficit",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 307,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D003248",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "constipation",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 332,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "developmental delay",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 424,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D007037",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypothyroidism",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 470,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 486,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 830,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1562,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001847",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skeletal abnormalities",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 946,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "short stature",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1004,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12640,22094",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TSH",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1134,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018382",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "resistance to thyroid hormone",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1264,
+          "length": 29
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002658",
+      "tail_id": "D013974",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007037",
+      "tail_id": "D013974",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "7067",
+      "tail_id": "D003248",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "7067",
+      "tail_id": "D008607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "7067",
+      "tail_id": "D001848",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D013974",
+      "tail_id": "D001848",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "21833",
+      "tail_id": "D006130",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "21833",
+      "tail_id": "D001848",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

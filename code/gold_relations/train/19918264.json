@@ -1,0 +1,248 @@
+{
+  "doc_id": "19918264",
+  "title": "FGFR4 Gly388Arg polymorphism and prostate cancer risk in Scottish men.",
+  "body": "Fibroblast growth factor receptor 4 (FGFR4), a member of the fibroblast growth receptor family, was recently reported to be more abundantly expressed in malignant than benign prostate cells. A single nucleotide polymorphism at position 388 of the FGFR4 amino-acid sequence results in the substitution of glycine (Gly) with arginine (Arg) and higher frequency of the ArgArg genotype was previously found in prostate cancer patients. DNA was extracted from the blood drawn from 399 prostate cancer patients, 150 BPH patients and 294 healthy community controls. Polymerase chain reaction was carried out and single nucleotide polymorphisms of FGFR4 were identified by restriction enzyme digestion. No overall association is detectable between the Arg allele and increased prostate cancer risk. Subgroup analysis shows a higher incidence of the heterozygous ArgGly genotype in cancer cases than in the combined group of BPH and controls (P<0.05); this difference is statistically significant between cancer and BPH patients but not between cancer cases and community controls. The single nucleotide polymorphism Gly(388)Arg in FGFR4 is not associated with increased risk of prostate cancer in Scottish men. This observation is in contrast with results from two previous studies conducted in the USA and Japan.",
+  "entities": [
+    {
+      "id": "2264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "Fibroblast growth factor receptor 4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 71,
+          "length": 35
+        },
+        {
+          "text": "FGFR4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 108,
+          "length": 5
+        },
+        {
+          "text": "fibroblast growth receptor",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 132,
+          "length": 26
+        },
+        {
+          "text": "FGFR4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 318,
+          "length": 5
+        },
+        {
+          "text": "FGFR4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 711,
+          "length": 5
+        },
+        {
+          "text": "FGFR4",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1194,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs351855",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Gly388Arg",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 9
+        },
+        {
+          "text": "glycine (Gly) with arginine (Arg)",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 375,
+          "length": 33
+        },
+        {
+          "text": "Gly(388)Arg",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1179,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 477,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 551,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 840,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1241,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "men",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 3
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 493,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 567,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 585,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1082,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1269,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D011470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "BPH",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 581,
+          "length": 3
+        },
+        {
+          "text": "BPH",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 987,
+          "length": 3
+        },
+        {
+          "text": "BPH",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1078,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 944,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1067,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1107,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs351855",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "2264",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

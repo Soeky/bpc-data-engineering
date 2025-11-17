@@ -1,0 +1,384 @@
+{
+  "doc_id": "21684788",
+  "title": "Large contiguous gene deletions in Sjogren-Larsson syndrome.",
+  "body": "Sjogren-Larsson syndrome (SLS) is an autosomal recessive disorder characterized by ichthyosis, mental retardation, spasticity and mutations in the ALDH3A2 gene for fatty aldehyde dehydrogenase, an enzyme that catalyzes the oxidation of fatty aldehyde to fatty acid. More than 70 mutations have been identified in SLS patients, including small deletions or insertions, missense mutations, splicing defects and complex nucleotide changes. We now describe 2 SLS patients whose disease is caused by large contiguous gene deletions of the ALDH3A2 locus on 17p11.2. The deletions were defined using long distance inverse PCR and microarray-based comparative genomic hybridization. A 24-year-old SLS female was homozygous for a 352-kb deletion involving ALDH3A2 and 4 contiguous genes including ALDH3A1, which codes for the major soluble protein in cornea. Although lacking corneal disease, she showed severe symptoms of SLS with uncommon deterioration in oral motor function and loss of ambulation. The other 19-month-old female patient was a compound heterozygote for a 1.44-Mb contiguous gene deletion and a missense mutation (c.407C>T, P136L) in ALDH3A2. These studies suggest that large gene deletions may account for up to 5% of the mutant alleles in SLS. Geneticists should consider the possibility of compound heterozygosity for large deletions in patients with SLS and other inborn errors of metabolism, which has implications for carrier testing and prenatal diagnosis.",
+  "entities": [
+    {
+      "id": "D016111",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Sjogren-Larsson syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 24
+        },
+        {
+          "text": "Sjogren-Larsson syndrome",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 61,
+          "length": 24
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 87,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 374,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 516,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 750,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 975,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1311,
+          "length": 3
+        },
+        {
+          "text": "SLS",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1424,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disorder",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 98,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D007057",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ichthyosis",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 144,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 156,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D009128",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "spasticity",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 176,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALDH3A2",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 208,
+          "length": 7
+        },
+        {
+          "text": "fatty aldehyde dehydrogenase",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 225,
+          "length": 28
+        },
+        {
+          "text": "ALDH3A2",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 595,
+          "length": 7
+        },
+        {
+          "text": "ALDH3A2",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1204,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C001634",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty aldehyde",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 297,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 315,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 378,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 520,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1084,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1410,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||352K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "352-kb deletion",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 782,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "223,224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALDH3A2 and 4",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 808,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALDH3A1",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 849,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003316",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "corneal disease",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 928,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||1.44M",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1.44-Mb contiguous gene deletion",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1126,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|407|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.407C>T",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1184,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|P|136|L",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "P136L",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1194,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008661",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inborn errors of metabolism",
+          "passage_index": 1,
+          "passage_offset": 61,
+          "char_offset": 1438,
+          "length": 27
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL||1.44M",
+      "tail_id": "D016111",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|P|136|L",
+      "tail_id": "D016111",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|C|407|T",
+      "tail_id": "D016111",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "218",
+      "tail_id": "D016111",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|DEL||352K",
+      "tail_id": "D016111",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016111",
+      "tail_id": "224",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "224",
+      "tail_id": "C001634",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "224",
+      "tail_id": "D005227",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "doc_id": "11773892",
+  "title": "End-stage renal disease (ESRD) after orthotopic liver transplantation (OLTX) using calcineurin-based immunotherapy: risk of development and treatment.",
+  "body": "BACKGROUND: The calcineurin inhibitors cyclosporine and tacrolimus are both known to be nephrotoxic. Their use in orthotopic liver transplantation (OLTX) has dramatically improved success rates. Recently, however, we have had an increase of patients who are presenting after OLTX with end-stage renal disease (ESRD). This retrospective study examines the incidence and treatment of ESRD and chronic renal failure (CRF) in OLTX patients. METHODS: Patients receiving an OLTX only from June 1985 through December of 1994 who survived 6 months postoperatively were studied (n=834). Our prospectively collected database was the source of information. Patients were divided into three groups: Controls, no CRF or ESRD, n=748; CRF, sustained serum creatinine >2.5 mg/dl, n=41; and ESRD, n=45. Groups were compared for preoperative laboratory variables, diagnosis, postoperative variables, survival, type of ESRD therapy, and survival from onset of ESRD. RESULTS: At 13 years after OLTX, the incidence of severe renal dysfunction was 18.1% (CRF 8.6% and ESRD 9.5%). Compared with control patients, CRF and ESRD patients had higher preoperative serum creatinine levels, a greater percentage of patients with hepatorenal syndrome, higher percentage requirement for dialysis in the first 3 months postoperatively, and a higher 1-year serum creatinine. Multivariate stepwise logistic regression analysis using preoperative and postoperative variables identified that an increase of serum creatinine compared with average at 1 year, 3 months, and 4 weeks postoperatively were independent risk factors for the development of CRF or ESRD with odds ratios of 2.6, 2.2, and 1.6, respectively. Overall survival from the time of OLTX was not significantly different among groups, but by year 13, the survival of the patients who had ESRD was only 28.2% compared with 54.6% in the control group. Patients developing ESRD had a 6-year survival after onset of ESRD of 27% for the patients receiving hemodialysis versus 71.4% for the patients developing ESRD who subsequently received kidney transplants. CONCLUSIONS: Patients who are more than 10 years post-OLTX have CRF and ESRD at a high rate. The development of ESRD decreases survival, particularly in those patients treated with dialysis only. Patients who develop ESRD have a higher preoperative and 1-year serum creatinine and are more likely to have hepatorenal syndrome. However, an increase of serum creatinine at various times postoperatively is more predictive of the development of CRF or ESRD. New strategies for long-term immunosuppression may be needed to decrease this complication.",
+  "entities": [
+    {
+      "id": "D007676",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "End-stage renal disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 23
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 4
+        },
+        {
+          "text": "end-stage renal disease",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 436,
+          "length": 23
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 461,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 533,
+          "length": 4
+        },
+        {
+          "text": "chronic renal failure",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 542,
+          "length": 21
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 565,
+          "length": 3
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 851,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 858,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 871,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 925,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1051,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1092,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1184,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1197,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1241,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1249,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1762,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1769,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1965,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2047,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2089,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2182,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2297,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2305,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2345,
+          "length": 4
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2450,
+          "length": 4
+        },
+        {
+          "text": "CRF",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2675,
+          "length": 3
+        },
+        {
+          "text": "ESRD",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2682,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5530",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "calcineurin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 11
+        },
+        {
+          "text": "calcineurin",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 167,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D016572",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclosporine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 190,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D016559",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tacrolimus",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 207,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxic",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 239,
+          "length": 11
+        },
+        {
+          "text": "renal dysfunction",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1155,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 392,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 578,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 597,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 797,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1231,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1254,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1336,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1948,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2027,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2109,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2162,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2246,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2392,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2429,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 892,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1293,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1480,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1627,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2499,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2590,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D006530",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatorenal syndrome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1350,
+          "length": 20
+        },
+        {
+          "text": "hepatorenal syndrome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2538,
+          "length": 20
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5530",
+      "tail_id": "D016559",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "5530",
+      "tail_id": "D016572",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006530",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D016559",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007676",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016572",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

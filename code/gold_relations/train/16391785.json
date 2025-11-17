@@ -1,0 +1,275 @@
+{
+  "doc_id": "16391785",
+  "title": "Homozygous deletion and reduced expression of the DOCK8 gene in human lung cancer.",
+  "body": "A homozygous deletion of the DOCK8 (dedicator of cytokinesis 8) locus at chromosome 9p24 was found in a lung cancer cell line by array-CGH analysis. Cloning of the full-length DOCK8 cDNA led us to define that the DOCK8 gene encodes a protein consisting of 2,099 amino acids. DOCK8 was expressed in a variety of human organs, including the lungs, and was also expressed in type II alveolar, bronchiolar epithelial and bronchial epithelial cells, which are considered as being progenitors for lung cancer cells. DOCK8 expression was reduced in 62/71 (87%) primary lung cancers compared with normal lung tissue, and the reduction occurred irrespective of the histological type of lung cancer. 5-Aza-2'-deoxy-cytidine and/or Trichostatin A treatments induced DOCK8 expression in lung cancer cell lines with reduced DOCK8 expression. Therefore, epigenetic mechanisms, including DNA methylation and histone deacetylation, were indicated to be involved in DOCK8 down-regulation in lung cancer cells. Further screening revealed homozygous deletions of the DOCK8 gene in a gastric and a breast cancer cell line. DOCK family proteins have been shown to play roles in regulation of migration, morphology, adhesion and growth of cells. Thus, the present results suggest that genetic and epigenetic inactivation of DOCK8 is involved in the development and/or progression of lung and other cancers by disturbing such regulations.",
+  "entities": [
+    {
+      "id": "81704",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DOCK8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 112,
+          "length": 5
+        },
+        {
+          "text": "dedicator of cytokinesis 8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 119,
+          "length": 26
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 259,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 296,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 358,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 593,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 838,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 894,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1032,
+          "length": 5
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1131,
+          "length": 5
+        },
+        {
+          "text": "DOCK",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1186,
+          "length": 4
+        },
+        {
+          "text": "DOCK8",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1385,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 394,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 187,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 574,
+          "length": 11
+        },
+        {
+          "text": "lung cancers",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 645,
+          "length": 12
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 760,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 858,
+          "length": 11
+        },
+        {
+          "text": "lung cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1057,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000077209",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-Aza-2'-deoxy-cytidine",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 773,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "C012589",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Trichostatin A",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 804,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1161,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D008175,D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung and other cancers",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1444,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C012589",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C012589",
+      "tail_id": "81704",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000077209",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000077209",
+      "tail_id": "81704",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "81704",
+      "tail_id": "D001943",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "81704",
+      "tail_id": "D008175",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

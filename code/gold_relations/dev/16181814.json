@@ -1,0 +1,275 @@
+{
+  "doc_id": "16181814",
+  "title": "Mono-allelic POLG expression resulting from nonsense-mediated decay and alternative splicing in a patient with Alpers syndrome.",
+  "body": "Alpers syndrome is an autosomal recessive mitochondrial DNA depletion disorder that affects children and young adults. It is characterized by a progressive, fatal brain and liver disease. This syndrome has been associated with mutations in POLG, the gene encoding the mitochondrial DNA polymerase (pol gamma). Most patients with Alpers syndrome have been found to be compound heterozygotes, carrying two pathogenic mutations in trans at the POLG locus. POLG is a nuclear-encoded gene whose protein product is imported into mitochondria, where it is essential for mtDNA replication and repair. We studied the skin fibroblasts of a patient with Alpers syndrome having the genotype E873stop/A467T. The E873stop mutation produces a premature termination codon (TAG) in exon 17. The A467T mutation produces a threonine to alanine substitution at a highly conserved site in exon 7. The allele bearing the stop codon (E873-TAG) is predicted to produce a truncated, catalytically inactive polymerase. However, only full-length pol gamma protein was detected by Western blot analysis. Here, we show that transcripts containing this stop codon undergo nonsense-associated alternative splicing and nonsense-mediated decay. More than 95% of the functional POLG mRNA was derived from the allele bearing the A467T mutation and less than 5% contained the E873stop mutation. These events ensured that virtually all POLG protein in the cell was expressed from the A467T allele. Therefore, the Alpers phenotype in this patient was a consequence of a single-copy gene dose of the A467T allele, and selective elimination of transcripts bearing the E873stop mutation.",
+  "entities": [
+    {
+      "id": "5428",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "POLG",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 4
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 368,
+          "length": 4
+        },
+        {
+          "text": "pol gamma",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 426,
+          "length": 9
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 569,
+          "length": 4
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 581,
+          "length": 4
+        },
+        {
+          "text": "pol gamma",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1147,
+          "length": 9
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1372,
+          "length": 4
+        },
+        {
+          "text": "POLG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1527,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 443,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 758,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1629,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002549",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alpers syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 15
+        },
+        {
+          "text": "Alpers syndrome",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 128,
+          "length": 15
+        },
+        {
+          "text": "Alpers syndrome",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 457,
+          "length": 15
+        },
+        {
+          "text": "Alpers syndrome",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 771,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial DNA depletion",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 170,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D008107",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "liver disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 301,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "rs121918047",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E873stop",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 807,
+          "length": 8
+        },
+        {
+          "text": "E873stop",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 827,
+          "length": 8
+        },
+        {
+          "text": "E873-TAG",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1039,
+          "length": 8
+        },
+        {
+          "text": "E873stop",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1468,
+          "length": 8
+        },
+        {
+          "text": "E873stop",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1756,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs113994095",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A467T",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 816,
+          "length": 5
+        },
+        {
+          "text": "A467T",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 906,
+          "length": 5
+        },
+        {
+          "text": "threonine to alanine",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 932,
+          "length": 20
+        },
+        {
+          "text": "A467T",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1422,
+          "length": 5
+        },
+        {
+          "text": "A467T",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1575,
+          "length": 5
+        },
+        {
+          "text": "A467T",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1689,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002549",
+      "tail_id": "rs113994095",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002549",
+      "tail_id": "rs121918047",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002549",
+      "tail_id": "5428",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

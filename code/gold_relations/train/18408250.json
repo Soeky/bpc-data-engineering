@@ -1,0 +1,302 @@
+{
+  "doc_id": "18408250",
+  "title": "A single nucleotide polymorphism in the IRF5 promoter region is associated with susceptibility to rheumatoid arthritis in the Japanese population.",
+  "body": "OBJECTIVES: Interferon regulatory factor 5 (IRF5) is a member of the IRF family of transcription factors, which regulate the production of proinflammatory cytokines. Polymorphisms in the IRF5 gene have been associated with susceptibility to systemic lupus erythaematosus (SLE) in Caucasian and Asian populations, but their involvement in other autoimmune diseases is still uncertain. Here, we assessed the genetic role of IRF5 in susceptibility to rheumatoid arthritis (RA) in Japanese subjects. METHODS: We selected 13 single nucleotide polymorphisms (SNPs) and a CGGGG insertion-deletion polymorphism in the IRF5 gene. We performed 2 sets of case-control comparisons using Japanese subjects (first set: 830 patients with RA and 658 controls; second set: 1112 patients with RA and 940 controls), and then performed a stratified analysis using human leukocyte antigen (HLA)-DRB1 shared epitope (SE) status. We genotyped the SNPs using TaqMan assays. RESULTS: A significant association of the rs729302 A allele with RA susceptibility was found in both sets (odds ratio (OR) 1.22, 95% CI 1.09 to 1.35, p<0.001 in the combined analysis). When the patients were stratified by the SE, the rs729302 A allele was found to confer increased risk to RA in patients that were SE negative (OR 1.50, 95% CI 1.17 to 1.92, p = 0.001) as compared with patients carrying the SE (OR 1.11, 95% CI 0.93 to 1.33, p = 0.24). In both sets, no genotyped polymorphisms were significantly associated with RA susceptibility, but rs729302 was significantly associated. CONCLUSIONS: These findings indicate that the promoter polymorphism of IRF5 is a genetic factor conferring predisposition to RA, and that it contributes considerably to disease pathogenesis in patients that were SE negative.",
+  "entities": [
+    {
+      "id": "3663",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRF5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 40,
+          "length": 4
+        },
+        {
+          "text": "Interferon regulatory factor 5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 159,
+          "length": 30
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 191,
+          "length": 4
+        },
+        {
+          "text": "IRF",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 216,
+          "length": 3
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 334,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 569,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 757,
+          "length": 4
+        },
+        {
+          "text": "IRF5",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1759,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001172",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 98,
+          "length": 20
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 595,
+          "length": 20
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 617,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 870,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 922,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1162,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1387,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1626,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1813,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "3553",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "proinflammatory cytokines",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 286,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D008180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lupus erythaematosus",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 388,
+          "length": 29
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 419,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autoimmune diseases",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 491,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 856,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 908,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 991,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1291,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1393,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1483,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1881,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3123",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leukocyte antigen (HLA)-DRB1",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 997,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "rs729302",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs729302",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1139,
+          "length": 8
+        },
+        {
+          "text": "rs729302",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1331,
+          "length": 8
+        },
+        {
+          "text": "rs729302",
+          "passage_index": 1,
+          "passage_offset": 147,
+          "char_offset": 1649,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3663",
+      "tail_id": "D008180",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3663",
+      "tail_id": "D001172",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs729302",
+      "tail_id": "D001172",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

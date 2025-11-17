@@ -1,0 +1,235 @@
+{
+  "doc_id": "19631624",
+  "title": "Learning and memory deficits in ecstasy users and their neural correlates during a face-learning task.",
+  "body": "It has been consistently shown that ecstasy users display impairments in learning and memory performance. In addition, working memory processing in ecstasy users has been shown to be associated with neural alterations in hippocampal and/or cortical regions as measured by functional magnetic resonance imaging (fMRI). Using functional imaging and a face-learning task, we investigated neural correlates of encoding and recalling face-name associations in 20 recreational drug users whose predominant drug use was ecstasy and 20 controls. To address the potential confounding effects of the cannabis use of the ecstasy using group, a second analysis included 14 previously tested cannabis users (Nestor, L., Roberts, G., Garavan, H., Hester, R., 2008. Deficits in learning and memory: parahippocampal hyperactivity and frontocortical hypoactivity in cannabis users. Neuroimage 40, 1328-1339). Ecstasy users performed significantly worse in learning and memory compared to controls and cannabis users. A conjunction analysis of the encode and recall phases of the task revealed ecstasy-specific hyperactivity in bilateral frontal regions, left temporal, right parietal, bilateral temporal, and bilateral occipital brain regions. Ecstasy-specific hypoactivity was evident in the right dorsal anterior cingulated cortex (ACC) and left posterior cingulated cortex. In both ecstasy and cannabis groups brain activation was decreased in the right medial frontal gyrus, left parahippocampal gyrus, left dorsal cingulate gyrus, and left caudate. These results elucidated ecstasy-related deficits, only some of which might be attributed to cannabis use. These ecstasy-specific effects may be related to the vulnerability of isocortical and allocortical regions to the neurotoxic effects of ecstasy.",
+  "entities": [
+    {
+      "id": "D007859,D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Learning and memory deficits",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 28
+        },
+        {
+          "text": "impairments in learning and memory",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 161,
+          "length": 34
+        },
+        {
+          "text": "Deficits in learning and memory",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 854,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D018817",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ecstasy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 139,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 251,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 616,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 713,
+          "length": 7
+        },
+        {
+          "text": "Ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 995,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1179,
+          "length": 7
+        },
+        {
+          "text": "Ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1330,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1471,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1665,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1753,
+          "length": 7
+        },
+        {
+          "text": "ecstasy",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1883,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 693,
+          "length": 8
+        },
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 782,
+          "length": 8
+        },
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 952,
+          "length": 8
+        },
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1087,
+          "length": 8
+        },
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1483,
+          "length": 8
+        },
+        {
+          "text": "cannabis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1733,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006948",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 903,
+          "length": 13
+        },
+        {
+          "text": "hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1196,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxic",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1861,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020258",
+      "tail_id": "D018817",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018817",
+      "tail_id": "D006948",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018817",
+      "tail_id": "D002188",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006948",
+      "tail_id": "D002188",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

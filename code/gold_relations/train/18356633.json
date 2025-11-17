@@ -1,0 +1,211 @@
+{
+  "doc_id": "18356633",
+  "title": "An evaluation of amikacin nephrotoxicity in the hematology/oncology population.",
+  "body": "Amikacin is an aminoglycoside commonly used to provide empirical double gram-negative treatment for febrile neutropenia and other suspected infections. Strategies of extended-interval and conventional dosing have been utilized extensively in the general medical population; however, data are lacking to support a dosing strategy in the hematology/oncology population. To evaluate amikacin-associated nephrotoxicity in an adult hematology/oncology population, a prospective, randomized, open-label trial was conducted at a university-affiliated medical center. Forty patients with a diagnosis consistent with a hematologic/oncologic disorder that required treatment with an aminoglycoside were randomized to either conventional or extended-interval amikacin. The occurrence of nephrotoxicity by means of an increase in serum creatinine and evaluation of efficacy via amikacin serum concentrations with respective pathogens were assessed. The occurrence of nephrotoxicity was similar between the conventional and extended-interval groups, at 10% and 5%, respectively (P = 1.00). Six patients in the conventional group had a positive culture, compared with none in the extended-interval group (P = 0.002). The occurrence of nephrotoxicity was similar between the two dosing regimens, but the distribution of risk factors was variable between the two groups. Efficacy could not be assessed.",
+  "entities": [
+    {
+      "id": "D000583",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amikacin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 8
+        },
+        {
+          "text": "Amikacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 80,
+          "length": 8
+        },
+        {
+          "text": "amikacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 460,
+          "length": 8
+        },
+        {
+          "text": "amikacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 828,
+          "length": 8
+        },
+        {
+          "text": "amikacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 946,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 480,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 856,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1035,
+          "length": 14
+        },
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1301,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000617",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aminoglycoside",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 95,
+          "length": 14
+        },
+        {
+          "text": "aminoglycoside",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 753,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D009503",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "febrile neutropenia",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 180,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infections",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 220,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 646,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1161,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006402,D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hematologic/oncologic disorder",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 690,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 904,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R4",
+      "head_id": "D007674",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000583",
+      "tail_id": "D007239",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000583",
+      "tail_id": "D009503",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000583",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "doc_id": "17639754",
+  "title": "Interaction between warfarin and levofloxacin: case series.",
+  "body": "Warfarin is the most widely used oral anticoagulant and is indicated for many clinical conditions. Levofloxacin, a fluoroquinolone, is one of the most commonly prescribed antibiotics in clinical practice and is effective against Gram-positive, Gram-negative, and atypical bacteria. While small prospective studies have not revealed any significant drug-drug interaction between warfarin and levofloxacin, several case reports have indicated that levofloxacin may significantly potentiate the anticoagulation effect of warfarin. We report 3 cases of serious bleeding complications that appear to be the result of the interaction between warfarin and levofloxacin. Physicians should be aware of this potential interaction and use caution when prescribing levofloxacin to patients taking warfarin.",
+  "entities": [
+    {
+      "id": "D014859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "warfarin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 8
+        },
+        {
+          "text": "Warfarin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 60,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 438,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 578,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 696,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 845,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D064704",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levofloxacin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 12
+        },
+        {
+          "text": "Levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 159,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 451,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 506,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 709,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 813,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D024841",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluoroquinolone",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 175,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "bacteria",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 332,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bleeding",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 617,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 60,
+          "char_offset": 829,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D064704",
+      "tail_id": "D014859",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006470",
+      "tail_id": "D064704",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006470",
+      "tail_id": "D014859",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

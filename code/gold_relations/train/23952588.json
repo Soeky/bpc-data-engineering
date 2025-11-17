@@ -1,0 +1,278 @@
+{
+  "doc_id": "23952588",
+  "title": "Risk factors and predictors of levodopa-induced dyskinesia among multiethnic Malaysians with Parkinson's disease.",
+  "body": "Chronic pulsatile levodopa therapy for Parkinson's disease (PD) leads to the development of motor fluctuations and dyskinesia. We studied the prevalence and predictors of levodopa-induced dyskinesia among multiethnic Malaysian patients with PD. METHODS: This is a cross-sectional study involving 95 patients with PD on uninterrupted levodopa therapy for at least 6 months. The instrument used was the UPDRS questionnaires. The predictors of dyskinesia were determined using multivariate logistic regression analysis. RESULTS: The mean age was 65.6 + 8.5 years. The mean onset age was 58.5 + 9.8 years. The median disease duration was 6 (7) years. Dyskinesia was present in 44% (n = 42) with median levodopa therapy of 3 years. There were 64.3% Chinese, 31% Malays, and 3.7% Indians and other ethnic groups. Eighty-one percent of patients with dyskinesia had clinical fluctuations. Patients with dyskinesia had lower onset age ( p < 0.001), longer duration of levodopa therapy ( p < 0.001), longer disease duration ( p < 0.001), higher total daily levodopa dose ( p < 0.001), and higher total UPDRS scores ( p = 0.005) than patients without dyskinesia. The three significant predictors of dyskinesia were duration of levodopa therapy, onset age, and total daily levodopa dose. CONCLUSIONS: The prevalence of levodopa-induced dyskinesia in our patients was 44%. The most significant predictors were duration of levodopa therapy, total daily levodopa dose, and onset age.",
+  "entities": [
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 132,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 285,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 447,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 812,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1073,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1161,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1330,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1375,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1421,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1523,
+          "length": 8
+        },
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1553,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004409",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyskinesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 229,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 302,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 555,
+          "length": 10
+        },
+        {
+          "text": "Dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 761,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 957,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1009,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1254,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1302,
+          "length": 10
+        },
+        {
+          "text": "dyskinesia",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1438,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010300",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 19
+        },
+        {
+          "text": "Parkinson's disease",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 153,
+          "length": 19
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 174,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 355,
+          "length": 2
+        },
+        {
+          "text": "PD",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 427,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 341,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 413,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 943,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 995,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1237,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1456,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007980",
+      "tail_id": "D010300",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007980",
+      "tail_id": "D004409",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

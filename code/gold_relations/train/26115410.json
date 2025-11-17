@@ -1,0 +1,138 @@
+{
+  "doc_id": "26115410",
+  "title": "Mechanisms Underlying Latent Disease Risk Associated with Early-Life Arsenic Exposure: Current Research Trends and Scientific Gaps.",
+  "body": "BACKGROUND: Millions of individuals worldwide, particularly those living in rural and developing areas, are exposed to harmful levels of inorganic arsenic (iAs) in their drinking water. Inorganic As exposure during key developmental periods is associated with a variety of adverse health effects including those that are evident in adulthood. There is considerable interest in identifying the molecular mechanisms that relate early-life iAs exposure to the development of these latent diseases, particularly in relationship to cancer. OBJECTIVES: This work summarizes research on the molecular mechanisms that underlie the increased risk of cancer development in adulthood that is associated with early-life iAs exposure. DISCUSSION: Epigenetic reprogramming that imparts functional changes in gene expression, the development of cancer stem cells, and immunomodulation are plausible underlying mechanisms by which early-life iAs exposure elicits latent carcinogenic effects. CONCLUSIONS: Evidence is mounting that relates early-life iAs exposure and cancer development later in life. Future research should include animal studies that address mechanistic hypotheses and studies of human populations that integrate early-life exposure, molecular alterations, and latent disease outcomes.",
+  "entities": [
+    {
+      "id": "D001151",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Arsenic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D001152",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "inorganic arsenic",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 269,
+          "length": 17
+        },
+        {
+          "text": "iAs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 288,
+          "length": 3
+        },
+        {
+          "text": "Inorganic As",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 318,
+          "length": 12
+        },
+        {
+          "text": "iAs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 569,
+          "length": 3
+        },
+        {
+          "text": "iAs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 840,
+          "length": 3
+        },
+        {
+          "text": "iAs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1058,
+          "length": 3
+        },
+        {
+          "text": "iAs",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1166,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 659,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 773,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 962,
+          "length": 6
+        },
+        {
+          "text": "carcinogenic",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1086,
+          "length": 12
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1183,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1314,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001152",
+      "tail_id": "D009369",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

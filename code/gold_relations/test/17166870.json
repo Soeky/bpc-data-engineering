@@ -1,0 +1,405 @@
+{
+  "doc_id": "17166870",
+  "title": "Association between an endoglin gene polymorphism and systemic sclerosis-related pulmonary arterial hypertension.",
+  "body": "Systemic sclerosis (SSc) is a connective tissue disorder characterized by early generalized microangiopathy with disturbed angiogenesis. Endoglin gene (ENG) encodes a transmembrane glycoprotein which acts as an accessory receptor for the transforming growth factor-beta (TGF-beta) superfamily, and is crucial for maintaining vascular integrity. A 6-base insertion in intron 7 (6bINS) of ENG has been reported to be associated with microvascular disturbance. OBJECTIVES: Our objective was to investigate the relationship between 6bINS and the vascular complication pulmonary arterial hypertension (PAH) in SSc in a French Caucasian population. METHODS: Two hundred eighty SSc cases containing 29/280 having PAH diagnosed by catheterism were compared with 140 patients with osteoarthritis. Genotyping was performed by polymerase-chain-reaction-based fluorescence and direct sequencing of genomic DNA. RESULTS: The polymorphism was in Hardy-Weinberg equilibrium. We observed a significant lower frequency of 6bINS allele in SSc patients with associated PAH compared with controls [10.3 vs 23.9%, P = 0.01; odds ratio (OR) 0.37, 95% confidence interval (CI) 0.15-0.89], and a trend in comparison with SSc patients without PAH (10.3 vs 20.3%, P = 0.05; OR: 0.45, 95% CI: 0.19-1.08). Genotypes carrying allele 6bINS were also less frequent in SSc patients with PAH than in controls (20.7 vs 42.9%, P = 0.02). CONCLUSIONS: Thus the frequency of 6bINS differs between SSc patients with or without PAH, suggesting the implication of ENG in this devastating vascular complication of SSc.",
+  "entities": [
+    {
+      "id": "2022",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "endoglin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 8
+        },
+        {
+          "text": "Endoglin",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 251,
+          "length": 8
+        },
+        {
+          "text": "ENG",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 266,
+          "length": 3
+        },
+        {
+          "text": "ENG",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 501,
+          "length": 3
+        },
+        {
+          "text": "ENG",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1638,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012595",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic sclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 18
+        },
+        {
+          "text": "Systemic sclerosis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 114,
+          "length": 18
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 134,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 719,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 785,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1135,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1311,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1451,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1574,
+          "length": 3
+        },
+        {
+          "text": "SSc",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1687,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000081029",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pulmonary arterial hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 31
+        },
+        {
+          "text": "pulmonary arterial hypertension",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 678,
+          "length": 31
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 711,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 820,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1164,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1332,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1469,
+          "length": 3
+        },
+        {
+          "text": "PAH",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1603,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D057049",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "microangiopathy",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 206,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "351",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 295,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "7040",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "transforming growth factor-beta",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 352,
+          "length": 31
+        },
+        {
+          "text": "TGF-beta",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 385,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|INS||6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "6-base insertion",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 461,
+          "length": 16
+        },
+        {
+          "text": "6bINS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 491,
+          "length": 5
+        },
+        {
+          "text": "6bINS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 642,
+          "length": 5
+        },
+        {
+          "text": "6bINS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1119,
+          "length": 5
+        },
+        {
+          "text": "6bINS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1418,
+          "length": 5
+        },
+        {
+          "text": "6bINS",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1552,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D014652",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vascular complication",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 656,
+          "length": 21
+        },
+        {
+          "text": "vascular complication",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1662,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 872,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1139,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1315,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1455,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1578,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010003",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "osteoarthritis",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 886,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000081029",
+      "tail_id": "2022",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|INS||6",
+      "tail_id": "D000081029",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|INS||6",
+      "tail_id": "D012595",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|INS||6",
+      "tail_id": "D014652",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2022",
+      "tail_id": "7040",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "2022",
+      "tail_id": "D012595",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "2022",
+      "tail_id": "D014652",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

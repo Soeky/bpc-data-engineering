@@ -1,0 +1,493 @@
+{
+  "doc_id": "26615423",
+  "title": "Upregulation of centrosomal protein 55 is associated with unfavorable prognosis and tumor invasion in epithelial ovarian carcinoma.",
+  "body": "Centrosomal protein 55 (CEP55) is a cell cycle regulator implicated in development of certain cancers. However, characteristics of CEP55 expression and its clinical/prognostic significance are unclear in human epithelial ovarian carcinoma (EOC). Therefore, we investigated the expression and clinicopathological significance of CEP55 in patients with EOC and its role in regulating invasion and metastasis of ovarian cell lines. CEP55 mRNA and protein expression levels were detected by quantitative real-time PCR (qRT-PCR), Western blotting, and immunohistochemistry (IHC). Potential associations of CEP55 expression scores with clinical parameters and patient survival were evaluated. CEP55 function was investigated further using RNA interference, wound healing assay, transwell assay, immunofluorescence analysis, qRT-PCR, and Western blotting. CEP55 was significantly upregulated in ovarian cancer cell lines and lesions compared with normal cells and adjacent noncancerous ovarian tissues. In the 213 EOC samples, CEP55 protein levels were positively correlated with clinical stage (P < 0.001), lymph node metastasis (P < 0.001), intraperitoneal metastasis (P < 0.001), tumor recurrence (P < 0.001), differentiation grade (P < 0.001), residual tumor size (P < 0.001), ascites see tumor cells (P = 0.020), and serum CA153 level (P < 0.001). Moreover, patients with aberrant CEP55 protein expression showed tendencies to receive neoadjuvant chemotherapy (P < 0.001) and cytoreductive surgery (P = 0.020). By contrast, no significant correlation was detected between the protein levels and patient age, histological type, or serum CA125, CA199, CA724, NSE, CEA, and b-HCG levels. Patients with high CEP55 protein expression had shorter overall survival and disease-free survival compared with those with low CEP55 expression. Multivariate analysis implicated CEP55 as an independent prognostic indicator for EOC patients. Additionally, downregulation of CEP55 in ovarian cancer cells remarkably inhibited cellular motility and invasion. Aberrant CEP55 expression may predict unfavorable clinical outcomes in EOC patients and play an important role in regulating invasion in ovarian cancer cells. Thus, CEP55 may serve as a prognostic marker and therapeutic target for EOC.",
+  "entities": [
+    {
+      "id": "55165",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "centrosomal protein 55",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 22
+        },
+        {
+          "text": "Centrosomal protein 55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 132,
+          "length": 22
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 156,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 263,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 460,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 561,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 733,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 819,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 981,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1152,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1511,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1834,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1943,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1994,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2089,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2181,
+          "length": 5
+        },
+        {
+          "text": "CEP55",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2337,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 5
+        },
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 226,
+          "length": 7
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1308,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1382,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1418,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000077216",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "epithelial ovarian carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 28
+        },
+        {
+          "text": "epithelial ovarian carcinoma",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 342,
+          "length": 28
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 372,
+          "length": 3
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 483,
+          "length": 3
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1139,
+          "length": 3
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2043,
+          "length": 3
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2243,
+          "length": 3
+        },
+        {
+          "text": "EOC",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2403,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 336,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 469,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 786,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1488,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1725,
+          "length": 7
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1815,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2047,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2247,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010051",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastasis of ovarian",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 527,
+          "length": 21
+        },
+        {
+          "text": "ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1020,
+          "length": 14
+        },
+        {
+          "text": "ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2098,
+          "length": 14
+        },
+        {
+          "text": "ovarian cancer",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 2309,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D008207",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lymph node metastasis",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1233,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intraperitoneal metastasis",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1268,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D001201",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ascites",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1406,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "4582",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CA153",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1453,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "94025",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CA125",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1766,
+          "length": 5
+        },
+        {
+          "text": "CA199",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1773,
+          "length": 5
+        },
+        {
+          "text": "CA724",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1780,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NSE",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1787,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1084",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CEA",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1792,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "93659",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "b-HCG",
+          "passage_index": 1,
+          "passage_offset": 132,
+          "char_offset": 1801,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "55165",
+      "tail_id": "D000077216",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "55165",
+      "tail_id": "D009362",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "55165",
+      "tail_id": "D008207",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "55165",
+      "tail_id": "4582",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "55165",
+      "tail_id": "D009369",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "55165",
+      "tail_id": "D010051",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "doc_id": "16731636",
+  "title": "Enhanced isoproterenol-induced cardiac hypertrophy in transgenic rats with low brain angiotensinogen.",
+  "body": "We have previously shown that a permanent deficiency in the brain renin-angiotensin system (RAS) may increase the sensitivity of the baroreflex control of heart rate. In this study we aimed at studying the involvement of the brain RAS in the cardiac reactivity to the beta-adrenoceptor (beta-AR) agonist isoproterenol (Iso). Transgenic rats with low brain angiotensinogen (TGR) were used. In isolated hearts, Iso induced a significantly greater increase in left ventricular (LV) pressure and maximal contraction (+dP/dt(max)) in the TGR than in the Sprague-Dawley (SD) rats. LV hypertrophy induced by Iso treatment was significantly higher in TGR than in SD rats (in g LV wt/100 g body wt, 0.28 +/- 0.004 vs. 0.24 +/- 0.004, respectively). The greater LV hypertrophy in TGR rats was associated with more pronounced downregulation of beta-AR and upregulation of LV beta-AR kinase-1 mRNA levels compared with those in SD rats. The decrease in the heart rate (HR) induced by the beta-AR antagonist metoprolol in conscious rats was significantly attenuated in TGR compared with SD rats (-9.9 +/- 1.7% vs. -18.1 +/- 1.5%), whereas the effect of parasympathetic blockade by atropine on HR was similar in both strains. These results indicate that TGR are more sensitive to beta-AR agonist-induced cardiac inotropic response and hypertrophy, possibly due to chronically low sympathetic outflow directed to the heart.",
+  "entities": [
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 406,
+          "length": 13
+        },
+        {
+          "text": "Iso",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 421,
+          "length": 3
+        },
+        {
+          "text": "Iso",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 511,
+          "length": 3
+        },
+        {
+          "text": "Iso",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 703,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006332",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac hypertrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 19
+        },
+        {
+          "text": "LV hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 677,
+          "length": 14
+        },
+        {
+          "text": "LV hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 854,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 438,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 671,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 760,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 876,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1021,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1121,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1179,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24179",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensinogen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 15
+        },
+        {
+          "text": "angiotensin",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 174,
+          "length": 11
+        },
+        {
+          "text": "angiotensinogen",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 458,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "24715",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "renin",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 168,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-adrenoceptor",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 370,
+          "length": 17
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 389,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 935,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1078,
+          "length": 7
+        },
+        {
+          "text": "beta-AR",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1368,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25238",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-AR kinase-1",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 966,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D008790",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "metoprolol",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1097,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001285",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "atropine",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1270,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006984",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1423,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24715",
+      "tail_id": "24179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "24925",
+      "tail_id": "D006984",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "24925",
+      "tail_id": "D008790",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "24925",
+      "tail_id": "24179",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "24925",
+      "tail_id": "D007545",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "24179",
+      "tail_id": "D006984",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "24179",
+      "tail_id": "D006332",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "24179",
+      "tail_id": "D007545",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D006332",
+      "tail_id": "25238",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D006332",
+      "tail_id": "24925",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007545",
+      "tail_id": "D006332",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

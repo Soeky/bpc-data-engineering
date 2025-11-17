@@ -1,0 +1,238 @@
+{
+  "doc_id": "17033974",
+  "title": "Mutation in the auxiliary calcium-channel subunit CACNA2D4 causes autosomal recessive cone dystrophy.",
+  "body": "Retinal signal transmission depends on the activity of high voltage-gated l-type calcium channels in photoreceptor ribbon synapses. We recently identified a truncating frameshift mutation in the Cacna2d4 gene in a spontaneous mouse mutant with profound loss of retinal signaling and an abnormal morphology of ribbon synapses in rods and cones. The Cacna2d4 gene encodes an l-type calcium-channel auxiliary subunit of the alpha (2) delta type. Mutations in its human orthologue, CACNA2D4, were not yet known to be associated with a disease. We performed mutation analyses of 34 patients who received an initial diagnosis of night blindness, and, in two affected siblings, we detected a homozygous nucleotide substitution (c.2406C-->A) in CACNA2D4. The mutation introduces a premature stop codon that truncates one-third of the corresponding open reading frame. Both patients share symptoms of slowly progressing cone dystrophy. These findings represent the first report of a mutation in the human CACNA2D4 gene and define a novel gene defect that causes autosomal recessive cone dystrophy.",
+  "entities": [
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 183,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "93589",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CACNA2D4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 8
+        },
+        {
+          "text": "CACNA2D4",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 580,
+          "length": 8
+        },
+        {
+          "text": "CACNA2D4",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 839,
+          "length": 8
+        },
+        {
+          "text": "CACNA2D4",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1098,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000077765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cone dystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 14
+        },
+        {
+          "text": "cone dystrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1013,
+          "length": 14
+        },
+        {
+          "text": "cone dystrophy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1175,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "319734",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cacna2d4",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 297,
+          "length": 8
+        },
+        {
+          "text": "Cacna2d4",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 450,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 328,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "781",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "l-type calcium-channel auxiliary subunit of the alpha (2) delta type",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 475,
+          "length": 68
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 562,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 679,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 967,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1092,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009755",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "night blindness",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 725,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs71454844",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2406C-->A",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 823,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "319734",
+      "tail_id": "781",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs71454844",
+      "tail_id": "D009755",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs71454844",
+      "tail_id": "D000077765",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "93589",
+      "tail_id": "D009755",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "93589",
+      "tail_id": "D000077765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D002118",
+      "tail_id": "93589",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "doc_id": "15198485",
+  "title": "Evaluation of the Lys198Asn and -134delA genetic polymorphisms of the endothelin-1 gene.",
+  "body": "Endothelin-1 (ET-1) is a potent vasoconstrictor and shows various pharmacological responses. Two single nucleotide polymorphisms in the ET-1 gene (EDN1) have been reported to be associated with blood pressure (BP). One is the Lys198Asn polymorphism, which showed a positive association with BP in overweight people. Another is the 3A/4A polymorphism (-134delA) located in the 5'-untranslated region. In this study, we investigated the expression of the Lys198Asn polymorphism in ET-1 in vitro, as well as the association between either of the two polymorphisms and the plasma ET-1 level. We expressed both the major (Lys-type) and minor type (Asn-type) preproET-1 in three different cell lines, and measured the levels of ET-1 and big ET-1 in the culture supernatant. There was no significant difference in the levels of ET-1 or big ET-1 between the Asn-type and Lys-type transfectant. In the association study, the plasma levels of ET-1 in 54 hypertensive patients having an amino acid substitution from Lys to Asn at position 198 were not different from those of hypertensives without the substitution. However, we found a significant difference in ET-1 levels between individuals with the 3A/3A and 3A/4A genotypes. Our transient expression study indicates that the Lys198Asn polymorphism may not directly affect ET-1 and big ET-1 production. Another variant in the EDN1 gene in linkage disequilibrium with the Lys198Asn polymorphism may be responsible for the association with BP, or the interaction between the EDN1 Lys198Asn polymorphism and other factors such as obesity may be involved in the mechanisms elevating BP in vivo.",
+  "entities": [
+    {
+      "id": "rs5370",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Lys198Asn",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 9
+        },
+        {
+          "text": "Lys198Asn",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 315,
+          "length": 9
+        },
+        {
+          "text": "Lys198Asn",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 542,
+          "length": 9
+        },
+        {
+          "text": "Asn-type and Lys-type transfectant",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 939,
+          "length": 34
+        },
+        {
+          "text": "Lys to Asn at position 198",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1094,
+          "length": 26
+        },
+        {
+          "text": "Lys198Asn",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1358,
+          "length": 9
+        },
+        {
+          "text": "Lys198Asn",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1503,
+          "length": 9
+        },
+        {
+          "text": "Lys198Asn",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1610,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs1800997",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-134delA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 8
+        },
+        {
+          "text": "-134delA",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 440,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1906",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "endothelin-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 12
+        },
+        {
+          "text": "Endothelin-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 89,
+          "length": 12
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 103,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 225,
+          "length": 4
+        },
+        {
+          "text": "EDN1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 236,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 568,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 665,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 748,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 811,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 824,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 910,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 922,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1022,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1240,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1405,
+          "length": 4
+        },
+        {
+          "text": "ET-1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1418,
+          "length": 4
+        },
+        {
+          "text": "EDN1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1458,
+          "length": 4
+        },
+        {
+          "text": "EDN1",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1605,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D050177",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "overweight",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 386,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1033,
+          "length": 12
+        },
+        {
+          "text": "hypertensives",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1154,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1046,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1659,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs5370",
+      "tail_id": "D050177",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs5370",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1906",
+      "tail_id": "D050177",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "1906",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

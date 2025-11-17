@@ -1,0 +1,219 @@
+{
+  "doc_id": "19110214",
+  "title": "A recessive skeletal dysplasia, SEMD aggrecan type, results from a missense mutation affecting the C-type lectin domain of aggrecan.",
+  "body": "Analysis of a nuclear family with three affected offspring identified an autosomal-recessive form of spondyloepimetaphyseal dysplasia characterized by severe short stature and a unique constellation of radiographic findings. Homozygosity for a haplotype that was identical by descent between two of the affected individuals identified a locus for the disease gene within a 17.4 Mb interval on chromosome 15, a region containing 296 genes. These genes were assessed and ranked by cartilage selectivity with whole-genome microarray data, revealing only two genes, encoding aggrecan and chondroitin sulfate proteoglycan 4, that were selectively expressed in cartilage. Sequence analysis of aggrecan complementary DNA from an affected individual revealed homozygosity for a missense mutation (c.6799G --> A) that predicts a p.D2267N amino acid substitution in the C-type lectin domain within the G3 domain of aggrecan. The D2267 residue is predicted to coordinate binding of a calcium ion, which influences the conformational binding loops of the C-type lectin domain that mediate interactions with tenascins and other extracellular-matrix proteins. Expression of the normal and mutant G3 domains in mammalian cells showed that the mutation created a functional N-glycosylation site but did not adversely affect protein trafficking and secretion. Surface-plasmon-resonance studies showed that the mutation influenced the binding and kinetics of the interactions between the aggrecan G3 domain and tenascin-C. These findings identify an autosomal-recessive skeletal dysplasia and a significant role for the aggrecan C-type lectin domain in regulating endochondral ossification and, thereby, height.",
+  "entities": [
+    {
+      "id": "D010009",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "recessive skeletal dysplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 2,
+          "length": 28
+        },
+        {
+          "text": "SEMD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 4
+        },
+        {
+          "text": "spondyloepimetaphyseal dysplasia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 234,
+          "length": 32
+        },
+        {
+          "text": "autosomal-recessive skeletal dysplasia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1665,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aggrecan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 123,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 704,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 820,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1038,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1603,
+          "length": 8
+        },
+        {
+          "text": "aggrecan",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1735,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "short stature",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 291,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "1464",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chondroitin sulfate proteoglycan 4",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 717,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "rs545688154",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.6799G --> A",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 922,
+          "length": 13
+        },
+        {
+          "text": "p.D2267N",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 953,
+          "length": 8
+        },
+        {
+          "text": "D2267",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1052,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1106,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "3371",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tenascin-C",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 1626,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs545688154",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010009",
+      "tail_id": "1464",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010009",
+      "tail_id": "3371",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D010009",
+      "tail_id": "rs545688154",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "176",
+      "tail_id": "3371",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "176",
+      "tail_id": "D010009",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

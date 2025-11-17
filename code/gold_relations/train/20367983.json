@@ -1,0 +1,273 @@
+{
+  "doc_id": "20367983",
+  "title": "Mutation analysis in a Chinese family with multiple endocrine neoplasia type 1.",
+  "body": "BACKGROUND: Multiple endocrine neoplasia type 1 (MEN1) is an autosomal dominant cancer syndrome which is caused by germline mutations of the tumor suppressor gene MEN1. This study aimed to identify mutations in a Chinese pedigree with MEN1. METHODS: A large Chinese family with MEN1 was collected. All of the coded regions and their adjacent sequences of the MEN1 gene were amplified and sequenced. RESULTS: In this family, a heterozygous cytosine insertion in exon 10 (c.1546_1547insC) inducing a frame shift mutation of MEN1 was found in the proband and the other two suffering members of his family. This mutation was linked to a novel single nucleotide polymorphism (SNP) in intron 3 (IVS3 + 18C > T). CONCLUSIONS: The mutation in exon 10 of MEN1 gene might induce development of parathyroid hyperplasia and pituitary adenoma and cosegregate with MEN1 syndrome. The significance of the new found IVS3 + 18C > T of MEN1 needs a further investigation.",
+  "entities": [
+    {
+      "id": "D018761",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiple endocrine neoplasia type 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 35
+        },
+        {
+          "text": "Multiple endocrine neoplasia type 1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 92,
+          "length": 35
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 129,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 315,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 358,
+          "length": 4
+        },
+        {
+          "text": "MEN1 syndrome",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 931,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009386",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant cancer syndrome",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 141,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 221,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4221",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 243,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 439,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 602,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 826,
+          "length": 4
+        },
+        {
+          "text": "MEN1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 998,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|INS||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "cytosine insertion",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 519,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|INS|1546_1547|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1546_1547insC",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 550,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|IVS3+18|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS3 + 18C > T",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 769,
+          "length": 14
+        },
+        {
+          "text": "IVS3 + 18C > T",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 980,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006965",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "parathyroid hyperplasia",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 864,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D010911",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pituitary adenoma",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 892,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "4221",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|INS||C",
+      "tail_id": "D018761",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|INS||C",
+      "tail_id": "D010911",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|INS||C",
+      "tail_id": "D006965",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4221",
+      "tail_id": "D018761",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "4221",
+      "tail_id": "D010911",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4221",
+      "tail_id": "D006965",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "c|INS|1546_1547|C",
+      "tail_id": "D018761",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "c|INS|1546_1547|C",
+      "tail_id": "D010911",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "c|INS|1546_1547|C",
+      "tail_id": "D006965",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "c|INS|1546_1547|C",
+      "tail_id": "c|SUB|C|IVS3+18|T",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "doc_id": "28747658",
+  "title": "A single amino acid substitution confers B-cell clonogenic activity to the HIV-1 matrix protein p17.",
+  "body": "Recent data highlight the presence, in HIV-1-seropositive patients with lymphoma, of p17 variants (vp17s) endowed with B-cell clonogenicity, suggesting a role of vp17s in lymphomagenesis. We investigated the mechanisms responsible for the functional disparity on B cells between a wild-type p17 (refp17) and a vp17 named S75X. Here, we show that a single Arginine (R) to Glycine (G) mutation at position 76 in the refp17 backbone (p17R76G), as in the S75X variant, is per se sufficient to confer a B-cell clonogenic potential to the viral protein and modulate, through activation of the PTEN/PI3K/Akt signaling pathway, different molecules involved in apoptosis inhibition (CASP-9, CASP-7, DFF-45, NPM, YWHAZ, Src, PAX2, MAPK8), cell cycle promotion and cancer progression (CDK1, CDK2, CDK8, CHEK1, CHEK2, GSK-3 beta, NPM, PAK1, PP2C-alpha). Moreover, the only R to G mutation at position 76 was found to strongly impact on protein folding and oligomerization by altering the hydrogen bond network. This generates a conformational shift in the p17 R76G mutant which enables a functional epitope(s), masked in refp17, to elicit B-cell growth-promoting signals after its interaction with a still unknown receptor(s). Our findings offer new opportunities to understand the molecular mechanisms accounting for the B-cell growth-promoting activity of vp17s.",
+  "entities": [
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "155348",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p17",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 3
+        },
+        {
+          "text": "p17",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 186,
+          "length": 3
+        },
+        {
+          "text": "p17",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 392,
+          "length": 3
+        },
+        {
+          "text": "p17",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 532,
+          "length": 3
+        },
+        {
+          "text": "p17",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1145,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006679",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HIV-1-seropositive",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 140,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 159,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lymphoma",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 173,
+          "length": 8
+        },
+        {
+          "text": "lymphomagenesis",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 272,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|75|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S75X",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 422,
+          "length": 4
+        },
+        {
+          "text": "S75X",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 552,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|76|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arginine (R) to Glycine (G) mutation at position 76",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 456,
+          "length": 51
+        },
+        {
+          "text": "R76G",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 535,
+          "length": 4
+        },
+        {
+          "text": "R to G mutation at position 76",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 962,
+          "length": 30
+        },
+        {
+          "text": "R76G",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1149,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTEN",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 688,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5291",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 693,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 698,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "842",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CASP-9",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 775,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CASP-7",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 783,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1676",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DFF-45",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 791,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4869",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NPM",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 799,
+          "length": 3
+        },
+        {
+          "text": "NPM",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 919,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "7534",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "YWHAZ",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 804,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6714",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Src",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 811,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5076",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAX2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 816,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK8",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 822,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 855,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDK1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 875,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1017",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDK2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 881,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1024",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDK8",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 887,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1111",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHEK1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 893,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11200",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHEK2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 900,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2932",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GSK-3 beta",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 907,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "5058",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAK1",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 924,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5494",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PP2C-alpha",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 930,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|S|75|X",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|R|76|G",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009369",
+      "tail_id": "5494",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009369",
+      "tail_id": "5058",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009369",
+      "tail_id": "2932",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009369",
+      "tail_id": "11200",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "1111",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "1024",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009369",
+      "tail_id": "1017",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009369",
+      "tail_id": "983",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "4869",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "155348",
+      "tail_id": "D008223",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "155348",
+      "tail_id": "5494",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "155348",
+      "tail_id": "5058",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "155348",
+      "tail_id": "2932",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "155348",
+      "tail_id": "11200",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "155348",
+      "tail_id": "1111",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "155348",
+      "tail_id": "1024",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "155348",
+      "tail_id": "1017",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "155348",
+      "tail_id": "983",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "155348",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "155348",
+      "tail_id": "5599",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "155348",
+      "tail_id": "5076",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "155348",
+      "tail_id": "6714",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "155348",
+      "tail_id": "7534",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "155348",
+      "tail_id": "4869",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "155348",
+      "tail_id": "1676",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "155348",
+      "tail_id": "840",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "155348",
+      "tail_id": "842",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

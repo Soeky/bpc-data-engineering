@@ -1,0 +1,396 @@
+{
+  "doc_id": "17634480",
+  "title": "Common germline genetic variation in antioxidant defense genes and survival after diagnosis of breast cancer.",
+  "body": "PURPOSE: The prognosis of breast cancer varies considerably among individuals, and inherited genetic factors may help explain this variability. Of particular interest are genes involved in defense against reactive oxygen species (ROS) because ROS are thought to cause DNA damage and contribute to the pathogenesis of cancer. PATIENTS AND METHODS: We examined associations between 54 polymorphisms that tag the known common variants (minor allele frequency > 0.05) in 10 genes involved in oxidative damage repair (CAT, SOD1, SOD2, GPX1, GPX4, GSR, TXN, TXN2, TXNRD1, and TXNRD2) and survival in 4,470 women with breast cancer. RESULTS: Two single nucleotide polymorphisms (SNPs) in GPX4 (rs713041 and rs757229) were associated with all-cause mortality even after adjusting for multiple hypothesis testing (adjusted P = .0041 and P = .0035). These SNPs are correlated with each other (r2 = 0.61). GPX4 rs713041 is located near the selenocysteine insertion sequence element in the GPX4 3' untranslated region, and the rare allele of this SNP is associated with an increased risk of death, with a hazard ratio of 1.27 per rare allele carried (95% CI, 1.13 to 11.43). This effect was not attenuated after adjusting for tumor stage, grade, or estrogen receptor status. We found that the common allele is preferentially expressed in normal lymphocytes, normal breast, and breast tumors compared with the rare allele, but there were no differences in total levels of GPX4 mRNA across genotypes. CONCLUSION: These data provide strong support for the hypothesis that common variation in GPX4 is associated with prognosis after a diagnosis of breast cancer.",
+  "entities": [
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 136,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 721,
+          "length": 13
+        },
+        {
+          "text": "breast tumors",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1475,
+          "length": 13
+        },
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1742,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 315,
+          "length": 23
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 340,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 353,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 427,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1324,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 435,
+          "length": 8
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 710,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "847",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CAT",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 623,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6647",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOD1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 628,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6648",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOD2",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 634,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2876",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GPX1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 640,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2879",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 646,
+          "length": 4
+        },
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 791,
+          "length": 4
+        },
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1005,
+          "length": 4
+        },
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1088,
+          "length": 4
+        },
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1569,
+          "length": 4
+        },
+        {
+          "text": "GPX4",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1687,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2936",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GSR",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 652,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "7295",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TXN",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 657,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25828",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TXN2",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 662,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TXNRD1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 668,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10587",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TXNRD2",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 680,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs713041",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs713041",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 797,
+          "length": 8
+        },
+        {
+          "text": "rs713041",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1010,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs757229",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs757229",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 810,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D017279",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "selenocysteine",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1039,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1189,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2099",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "estrogen receptor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1347,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017382",
+      "tail_id": "D009369",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "2879",
+      "tail_id": "D003643",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "2879",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs713041",
+      "tail_id": "D003643",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001943",
+      "tail_id": "rs757229",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001943",
+      "tail_id": "rs713041",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

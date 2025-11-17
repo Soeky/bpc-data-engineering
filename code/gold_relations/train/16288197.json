@@ -1,0 +1,436 @@
+{
+  "doc_id": "16288197",
+  "title": "Genetic homogeneity for inherited congenital microcoria loci in an Asian Indian pedigree.",
+  "body": "PURPOSE: Congenital microcoria is a rare autosomal dominant developmental disorder of the iris associated with myopia and juvenile open angle glaucoma. Linkage to the chromosomal locus 13q31-q32 has previously been reported in a large French family. In the current study, a three generation Asian Indian family with 15 congenital microcoria (pupils with a diameter <2 mm) affected members was studied for linkage to candidate microsatellite markers at the 13q31-q32 locus. METHODS: Twenty-four members of the family were clinically examined and genomic DNA was extracted. Microsatellite markers at 13q31-q32 were PCR amplified and run on an ABI Prism 310 genetic analyzer and genotyped with the GeneScan analysis. Two point and multipoint linkage analyses were performed using the MLINK and SUPERLINK programs. RESULTS: Peak two point LOD scores of 3.5, 4.7, and 5.3 were found co-incident with consecutive markers D13S154, DCT, and D13S1280. Multipoint analysis revealed a 4 cM region encompassing D13S1300 to D13S1280 where the LOD remains just over 6.0 Thus we confirm localization of the congenital microcoria locus to chromosomal locus 13q31-q32. In addition, eight individuals who had both microcoria and glaucoma were screened for glaucoma genes: myocilin (MYOC), optineurin (OPTN) and CYP1B1. Using direct sequencing a point mutation (144 G>A) resulting in a Q48H substitution in exon 1 of the MYOC gene was observed in five of the eight glaucoma patients, but not in unaffected family members and 100 unrelated controls. CONCLUSIONS: We have confirmed the localization of the congenital microcoria locus (MCOR) to 13q31-q32 in a large Asian Indian family and conclude that current information suggests this is a single locus disorder and genetically homogeneous. When combined with the initial linkage paper our haplotype and linkage data map the MCOR locus to a 6-7 cM region between D13S265 and D13S1280. The DCT locus, a member of the tyrosinase family involved in pigmentation, maps within this region. Data presented here supports the hypothesis that congenital microcoria is a potential risk factor for glaucoma, although this observation is complicated by the partial segregation of MYOC Q48H (1q24.3-q25.2), a mutation known to be associated with glaucoma in India. Fine mapping and candidate gene analysis continues with the hope that characterizing the micocoria gene will lead to a better understanding of microcoria and glaucoma causation. The relationship between microcoria, glaucoma, and the MYOC Q48H mutation in this family is discussed.",
+  "entities": [
+    {
+      "id": "C537550",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital microcoria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 21
+        },
+        {
+          "text": "Congenital microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 99,
+          "length": 21
+        },
+        {
+          "text": "congenital microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 409,
+          "length": 21
+        },
+        {
+          "text": "congenital microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1182,
+          "length": 21
+        },
+        {
+          "text": "microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1286,
+          "length": 10
+        },
+        {
+          "text": "congenital microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1675,
+          "length": 21
+        },
+        {
+          "text": "congenital microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2155,
+          "length": 21
+        },
+        {
+          "text": "microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2516,
+          "length": 10
+        },
+        {
+          "text": "microcoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2576,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D007499",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant developmental disorder of the iris",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 131,
+          "length": 53
+        }
+      ]
+    },
+    {
+      "id": "D009216",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myopia",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 201,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005902",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "juvenile open angle glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 212,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "1638",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DCT",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1014,
+          "length": 3
+        },
+        {
+          "text": "DCT",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2010,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005901",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1301,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1328,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1536,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2208,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2354,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2531,
+          "length": 8
+        },
+        {
+          "text": "glaucoma",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2588,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "4653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "myocilin",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1344,
+          "length": 8
+        },
+        {
+          "text": "MYOC",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1354,
+          "length": 4
+        },
+        {
+          "text": "MYOC",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1492,
+          "length": 4
+        },
+        {
+          "text": "MYOC",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2289,
+          "length": 4
+        },
+        {
+          "text": "MYOC",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2606,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10133",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "optineurin",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1361,
+          "length": 10
+        },
+        {
+          "text": "OPTN",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1373,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1545",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP1B1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1383,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs74315339",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "144 G>A",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1433,
+          "length": 7
+        },
+        {
+          "text": "Q48H",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1457,
+          "length": 4
+        },
+        {
+          "text": "Q48H",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2294,
+          "length": 4
+        },
+        {
+          "text": "Q48H",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2611,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1545,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "8104",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCOR",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1704,
+          "length": 4
+        },
+        {
+          "text": "MCOR",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1946,
+          "length": 4
+        },
+        {
+          "text": "micocoria",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2462,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "7299",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tyrosinase",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2037,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010859",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pigmentation",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 2067,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1638",
+      "tail_id": "D010859",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs74315339",
+      "tail_id": "D005901",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1545",
+      "tail_id": "D005901",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "10133",
+      "tail_id": "D005901",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "C537550",
+      "tail_id": "8104",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "C537550",
+      "tail_id": "rs74315339",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C537550",
+      "tail_id": "1545",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "C537550",
+      "tail_id": "10133",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "C537550",
+      "tail_id": "4653",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "4653",
+      "tail_id": "D005901",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

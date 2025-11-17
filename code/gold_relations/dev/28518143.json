@@ -1,0 +1,648 @@
+{
+  "doc_id": "28518143",
+  "title": "Calcium sensing receptor protects high glucose-induced energy metabolism disorder via blocking gp78-ubiquitin proteasome pathway.",
+  "body": "Diabetic cardiomyopathy (DCM) is a major complication and fatal cause of the patients with diabetes. The calcium sensing receptor (CaSR) is a G protein-coupled receptor, which is involved in maintaining calcium homeostasis, regulating cell proliferation and apoptosis, and so on. In our previous study, we found that CaSR expression, intracellular calcium levels and cardiac function were all significantly decreased in DCM rats; however, the exact mechanism are not clear yet. The present study revealed the protective role of CaSR in myocardial energy metabolism disorder induced by high glucose (HG) as well as the underlying mechanism. Here, we demonstrated that HG decreased the expression of CaSR, mitochondrial fusion proteins (Mfn1, Mfn2), cell gap junction related proteins (Cx43, beta-catenin, N-cadherin), and intracellular ATP concentration. In contrast, HG increased extracellular ATP concentration, the expression of gp78, mitochondrial fission proteins (Fis1, Drp1), and the ubiquitination levels of Mfn1, Mfn2 and Cx43. Moreover, CaSR agonist and gp78-siRNA significantly reduced the above changes. Taken together, these results suggest that HG induces myocardial energy metabolism disorder via decrease of CaSR expression, and activation of gp78-ubiquitin proteasome system. In turn, these effects disrupt the structure and function of the mitochondria and the cell gap junction, result in the reduced ATP synthesis and the increased ATP leakage. Stimulation of CaSR significantly attenuates HG-induced abnormal myocardial energy metabolism, suggesting CaSR would be a promising potential therapeutic target for DCM.",
+  "entities": [
+    {
+      "id": "24247",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Calcium sensing receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 24
+        },
+        {
+          "text": "calcium sensing receptor",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 235,
+          "length": 24
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 261,
+          "length": 4
+        },
+        {
+          "text": "G protein-coupled receptor",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 272,
+          "length": 26
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 447,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 658,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 828,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1176,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1353,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1609,
+          "length": 4
+        },
+        {
+          "text": "CaSR",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1700,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 720,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008659",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metabolism disorder",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "361367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gp78",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 4
+        },
+        {
+          "text": "gp78",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1061,
+          "length": 4
+        },
+        {
+          "text": "gp78",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1193,
+          "length": 4
+        },
+        {
+          "text": "gp78",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1388,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D058065",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Diabetic cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 130,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D002311",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "DCM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 155,
+          "length": 3
+        },
+        {
+          "text": "DCM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 550,
+          "length": 3
+        },
+        {
+          "text": "DCM",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1759,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 207,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 221,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 333,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 478,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 554,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial energy metabolism disorder",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 666,
+          "length": 37
+        },
+        {
+          "text": "myocardial energy metabolism disorder",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1299,
+          "length": 37
+        },
+        {
+          "text": "abnormal myocardial energy metabolism",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1650,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "192647",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mfn1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 865,
+          "length": 4
+        },
+        {
+          "text": "Mfn1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1145,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "64476",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mfn2",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 871,
+          "length": 4
+        },
+        {
+          "text": "Mfn2",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1151,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24392",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cx43",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 914,
+          "length": 4
+        },
+        {
+          "text": "Cx43",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1160,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "84353",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-catenin",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 920,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "83501",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-cadherin",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 934,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 965,
+          "length": 3
+        },
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1024,
+          "length": 3
+        },
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1549,
+          "length": 3
+        },
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1581,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "288584",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fis1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1099,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "114114",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Drp1",
+          "passage_index": 1,
+          "passage_offset": 130,
+          "char_offset": 1105,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "361367",
+      "tail_id": "114114",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "361367",
+      "tail_id": "288584",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "361367",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "361367",
+      "tail_id": "24392",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "361367",
+      "tail_id": "64476",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "361367",
+      "tail_id": "192647",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "361367",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000255",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002118",
+      "tail_id": "D002311",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005947",
+      "tail_id": "114114",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D005947",
+      "tail_id": "288584",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D005947",
+      "tail_id": "361367",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D005947",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D005947",
+      "tail_id": "83501",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D005947",
+      "tail_id": "84353",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D005947",
+      "tail_id": "24392",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D005947",
+      "tail_id": "64476",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D005947",
+      "tail_id": "192647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D005947",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D005947",
+      "tail_id": "D008659",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "24247",
+      "tail_id": "114114",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "24247",
+      "tail_id": "288584",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "24247",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "24247",
+      "tail_id": "24392",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "24247",
+      "tail_id": "64476",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "24247",
+      "tail_id": "192647",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "24247",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "24247",
+      "tail_id": "D002311",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "24247",
+      "tail_id": "D002118",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R29",
+      "head_id": "24247",
+      "tail_id": "D005947",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "24247",
+      "tail_id": "D008659",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

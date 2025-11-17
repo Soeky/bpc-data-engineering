@@ -1,0 +1,379 @@
+{
+  "doc_id": "27134166",
+  "title": "Metabolic Symbiosis Enables Adaptive Resistance to Anti-angiogenic Therapy that Is Dependent on mTOR Signaling.",
+  "body": "Therapeutic targeting of tumor angiogenesis with VEGF inhibitors results in demonstrable, but transitory efficacy in certain human tumors and mouse models of cancer, limited by unconventional forms of adaptive/evasive resistance. In one such mouse model, potent angiogenesis inhibitors elicit compartmental reorganization of cancer cells around remaining blood vessels. The glucose and lactate transporters GLUT1 and MCT4 are induced in distal hypoxic cells in a HIF1a-dependent fashion, indicative of glycolysis. Tumor cells proximal to blood vessels instead express the lactate transporter MCT1, and p-S6, the latter reflecting mTOR signaling. Normoxic cancer cells import and metabolize lactate, resulting in upregulation of mTOR signaling via glutamine metabolism enhanced by lactate catabolism. Thus, metabolic symbiosis is established in the face of angiogenesis inhibition, whereby hypoxic cancer cells import glucose and export lactate, while normoxic cells import and catabolize lactate. mTOR signaling inhibition disrupts this metabolic symbiosis, associated with upregulation of the glucose transporter GLUT2.",
+  "entities": [
+    {
+      "id": "56717",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mTOR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 742,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 840,
+          "length": 4
+        },
+        {
+          "text": "mTOR",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1109,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 137,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 243,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 270,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 437,
+          "length": 6
+        },
+        {
+          "text": "Tumor",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 626,
+          "length": 5
+        },
+        {
+          "text": "Normoxic cancer",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 758,
+          "length": 15
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1009,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "22339,7422",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VEGF",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 161,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 237,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 254,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 354,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20525",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT1",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 519,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "80879",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCT4",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 529,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 556,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "15251",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HIF1a",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 575,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20501",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCT1",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 704,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "72508",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p-S6",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 714,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019344",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 802,
+          "length": 7
+        },
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 892,
+          "length": 7
+        },
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1048,
+          "length": 7
+        },
+        {
+          "text": "lactate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1100,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005973",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 859,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1029,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "20526",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLUT2",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1226,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005973",
+      "tail_id": "D019344",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D019344",
+      "tail_id": "56717",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "56717",
+      "tail_id": "20526",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "56717",
+      "tail_id": "D005973",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "80879",
+      "tail_id": "15251",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "20525",
+      "tail_id": "15251",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "D005973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009369",
+      "tail_id": "D019344",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009369",
+      "tail_id": "56717",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009369",
+      "tail_id": "72508",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D009369",
+      "tail_id": "20501",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

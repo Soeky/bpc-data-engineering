@@ -1,0 +1,429 @@
+{
+  "doc_id": "18779591",
+  "title": "Identification of a gain-of-function mutation of the prolactin receptor in women with benign breast tumors.",
+  "body": "There is currently no known genetic disease linked to prolactin (Prl) or its receptor (PrlR) in humans. Given the essential role of this hormonal system in breast physiology, we reasoned that genetic anomalies of Prl/PrlR genes may be related to the occurrence of breast diseases with high proliferative potential. Multiple fibroadenomas (MFA) are benign breast tumors which appear most frequently in young women, including at puberty, when Prl has well-recognized proliferative actions on the breast. In a prospective study involving 74 MFA patients and 170 control subjects, we identified four patients harboring a heterozygous single nucleotide polymorphism in exon 6 of the PrlR gene, encoding Ile(146)-->Leu substitution in its extracellular domain. This sole substitution was sufficient to confer constitutive activity to the receptor variant (PrlR(I146L)), as assessed in three reconstituted cell models (Ba/F3, HEK293 and MCF-7 cells) by Prl-independent (i) PrlR tyrosine phosphorylation, (ii) activation of signal transducer and activator of transcription 5 (STAT5) signaling, (iii) transcriptional activity toward a Prl-responsive reporter gene, and (iv) cell proliferation and protection from cell death. Constitutive activity of PrlR(I146L) in the breast sample from a patient was supported by increased STAT5 signaling. This is a unique description of a functional mutation of the PrlR associated with a human disease. Hallmarks of constitutive activity were all reversed by a specific PrlR antagonist, which opens potential therapeutic approaches for MFA, or any other disease that could be associated with this mutation in future.",
+  "entities": [
+    {
+      "id": "5618",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 18
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 195,
+          "length": 4
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 325,
+          "length": 4
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 786,
+          "length": 4
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1074,
+          "length": 4
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1349,
+          "length": 4
+        },
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1502,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 75,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 204,
+          "length": 6
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 515,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 650,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 704,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1389,
+          "length": 7
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1525,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "benign breast tumors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 86,
+          "length": 20
+        },
+        {
+          "text": "benign breast tumors",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 456,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genetic disease",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 136,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "5617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 162,
+          "length": 9
+        },
+        {
+          "text": "Prl",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 173,
+          "length": 3
+        },
+        {
+          "text": "Prl",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 321,
+          "length": 3
+        },
+        {
+          "text": "Prl",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 549,
+          "length": 3
+        },
+        {
+          "text": "Prl",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1054,
+          "length": 3
+        },
+        {
+          "text": "Prl",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1234,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001941",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast diseases",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 372,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D018226",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Multiple fibroadenomas",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 423,
+          "length": 22
+        },
+        {
+          "text": "MFA",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 447,
+          "length": 3
+        },
+        {
+          "text": "MFA",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 646,
+          "length": 3
+        },
+        {
+          "text": "MFA",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1673,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs72478580",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ile(146)-->Leu",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 806,
+          "length": 14
+        },
+        {
+          "text": "I146L",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 963,
+          "length": 5
+        },
+        {
+          "text": "I146L",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1354,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "19116",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PrlR",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 958,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0161",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "Ba/F3",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1020,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0045",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HEK293",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1027,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0031",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MCF-7",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1038,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6776",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "signal transducer and activator of transcription 5",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1124,
+          "length": 50
+        },
+        {
+          "text": "STAT5",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1176,
+          "length": 5
+        },
+        {
+          "text": "STAT5",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1424,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "PrlR antagonist",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1607,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001943",
+      "tail_id": "5618",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D018226",
+      "tail_id": "rs72478580",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018226",
+      "tail_id": "5618",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "5618",
+      "tail_id": "6776",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5618",
+      "tail_id": "D001941",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5617",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5617",
+      "tail_id": "D018226",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "5617",
+      "tail_id": "5618",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "5617",
+      "tail_id": "D001941",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

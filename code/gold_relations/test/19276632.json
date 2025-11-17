@@ -1,0 +1,471 @@
+{
+  "doc_id": "19276632",
+  "title": "Mutation analysis of FOXF2 in patients with disorders of sex development (DSD) in combination with cleft palate.",
+  "body": "In contrast to disorders of sexual differentiation caused by lack of androgen production or inhibited androgen action, defects affecting development of the bipotent genital anlagen have rarely been investigated in humans. We have previously documented that the transcription factor FOXF2 is highly expressed in human foreskin. Moreover, Foxf2 knockout mice present with cleft palate in combination with hypoplasia of the genital tubercle. We hypothesized that humans with disorders of sex development (DSD) in combination with cleft palate could have mutations in the FOXF2 gene. Eighteen children with DSD and cleft palate were identified in the L beck DSD database (about 1,500 entries). Genomic DNA sequence analysis of the FOXF2 gene was performed and compared with 10 normal female and 10 normal male controls, respectively. Two heterozygous DNA sequence variations were solely present in one single patient each but in none of the 20 normal controls: a duplication of GCC (c.97GCC[9]+[10]) resulting in an extra alanine within exon 1 and a 25*G>A substitution in the 3'-untranslated region. Two patients carried a c.262G>A sequence variation predicting for an Ala88Thr exchange which was also detected in 2 normal controls. Two silent mutations, c.1272C>T (Ser424Ser) and c.1284T>C (Tyr428Tyr), respectively, occurred in the coding region of exon 2, again in both patients and normal controls. In conclusion, the majority of the detected sequence alterations were polymorphisms without obvious functional relevance. However, it cannot be excluded that the 2 unique DNA sequence alterations could have affected FOXF2 on the mRNA or protein level thus contributing to the observed disturbances in genital and palate development.",
+  "entities": [
+    {
+      "id": "2295",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FOXF2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 5
+        },
+        {
+          "text": "FOXF2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 395,
+          "length": 5
+        },
+        {
+          "text": "FOXF2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 681,
+          "length": 5
+        },
+        {
+          "text": "FOXF2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 840,
+          "length": 5
+        },
+        {
+          "text": "FOXF2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1729,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 8
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 327,
+          "length": 6
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 424,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 573,
+          "length": 6
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1018,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1214,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1483,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D012734",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "disorders of sex development",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 28
+        },
+        {
+          "text": "DSD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 3
+        },
+        {
+          "text": "disorders of sexual differentiation",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 128,
+          "length": 35
+        },
+        {
+          "text": "disorders of sex development",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 585,
+          "length": 28
+        },
+        {
+          "text": "DSD",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 615,
+          "length": 3
+        },
+        {
+          "text": "DSD",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 716,
+          "length": 3
+        },
+        {
+          "text": "DSD",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 767,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cleft palate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 12
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 483,
+          "length": 12
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 640,
+          "length": 12
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 724,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000728",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "androgen",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 182,
+          "length": 8
+        },
+        {
+          "text": "androgen",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 215,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "14238",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Foxf2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 450,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 465,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C537540",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoplasia of the genital tubercle",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 516,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "c|DUP||GCC|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "duplication of GCC",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1072,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "c|DUP|97|GCC|9-10",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.97GCC[9]+[10]",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1092,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|*25|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "25*G>A",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1159,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs72667003",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.262G>A",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1233,
+          "length": 8
+        },
+        {
+          "text": "Ala88Thr",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1279,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs61753348",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1272C>T",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1365,
+          "length": 9
+        },
+        {
+          "text": "Ser424Ser",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1376,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2293783",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.1284T>C",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1391,
+          "length": 9
+        },
+        {
+          "text": "Tyr428Tyr",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1402,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2293783",
+      "tail_id": "D012734",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2293783",
+      "tail_id": "D002972",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs61753348",
+      "tail_id": "D012734",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs61753348",
+      "tail_id": "D002972",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs72667003",
+      "tail_id": "D012734",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs72667003",
+      "tail_id": "D002972",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D012734",
+      "tail_id": "c|SUB|G|*25|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D012734",
+      "tail_id": "c|DUP|97|GCC|9-10",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D012734",
+      "tail_id": "c|DUP||GCC|",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D012734",
+      "tail_id": "2295",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D012734",
+      "tail_id": "D000728",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002972",
+      "tail_id": "c|SUB|G|*25|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D002972",
+      "tail_id": "c|DUP|97|GCC|9-10",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D002972",
+      "tail_id": "c|DUP||GCC|",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D002972",
+      "tail_id": "2295",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "14238",
+      "tail_id": "C537540",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "14238",
+      "tail_id": "D002972",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

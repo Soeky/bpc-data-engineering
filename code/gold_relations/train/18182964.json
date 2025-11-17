@@ -1,0 +1,276 @@
+{
+  "doc_id": "18182964",
+  "title": "Clonidine for attention-deficit/hyperactivity disorder: II. ECG changes and adverse events analysis.",
+  "body": "OBJECTIVE: To examine the safety and tolerability of clonidine used alone or with methylphenidate in children with attention-deficit/hyperactivity disorder (ADHD). METHOD: In a 16-week multicenter, double-blind trial, 122 children with ADHD were randomly assigned to clonidine (n = 31), methylphenidate (n = 29), clonidine and methylphenidate (n = 32), or placebo (n = 30). Doses were flexibly titrated up to 0.6 mg/day for clonidine and 60 mg/day for methylphenidate (both with divided dosing). Groups were compared regarding adverse events and changes from baseline to week 16 in electrocardiograms and vital signs. RESULTS: There were more incidents of bradycardia in subjects treated with clonidine compared with those not treated with clonidine (17.5% versus 3.4%; p =.02), but no other significant group differences regarding electrocardiogram and other cardiovascular outcomes. There were no suggestions of interactions between clonidine and methylphenidate regarding cardiovascular outcomes. Moderate or severe adverse events were more common in subjects on clonidine (79.4% versus 49.2%; p =.0006) but not associated with higher rates of early study withdrawal. Drowsiness was common on clonidine, but generally resolved by 6 to 8 weeks. CONCLUSIONS: Clonidine, used alone or with methylphenidate, appears safe and well tolerated in childhood ADHD. Physicians prescribing clonidine should monitor for bradycardia and advise patients about the high likelihood of initial drowsiness.",
+  "entities": [
+    {
+      "id": "D003000",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Clonidine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 154,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 368,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 414,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 525,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 794,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 841,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1036,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1167,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1297,
+          "length": 9
+        },
+        {
+          "text": "Clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1361,
+          "length": 9
+        },
+        {
+          "text": "clonidine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1482,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001289",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "attention-deficit/hyperactivity disorder",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 40
+        },
+        {
+          "text": "attention-deficit/hyperactivity disorder",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 216,
+          "length": 40
+        },
+        {
+          "text": "ADHD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 258,
+          "length": 4
+        },
+        {
+          "text": "ADHD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 337,
+          "length": 4
+        },
+        {
+          "text": "ADHD",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1453,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008774",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 183,
+          "length": 15
+        },
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 388,
+          "length": 15
+        },
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 428,
+          "length": 15
+        },
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 553,
+          "length": 15
+        },
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1050,
+          "length": 15
+        },
+        {
+          "text": "methylphenidate",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1391,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D001919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 757,
+          "length": 11
+        },
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1511,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006970",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Drowsiness",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1272,
+          "length": 10
+        },
+        {
+          "text": "drowsiness",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1580,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1534,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008774",
+      "tail_id": "D001289",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006970",
+      "tail_id": "D003000",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003000",
+      "tail_id": "D001289",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003000",
+      "tail_id": "D008774",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003000",
+      "tail_id": "D001919",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

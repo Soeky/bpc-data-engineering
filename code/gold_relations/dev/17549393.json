@@ -1,0 +1,279 @@
+{
+  "doc_id": "17549393",
+  "title": "A novel IRF6 nonsense mutation (Y67X) in a German family with Van der Woude syndrome.",
+  "body": "Van der Woude syndrome (VWS) is the most common type of syndromic orofacial cleft, which accounts for approximately 2% of all cleft lip and palate cases. It is characterised by variable association of lower lip pits, cleft lip and cleft palate, and hypodontia. VWS arises as the result of mutations in the gene encoding interferon regulatory factor 6 (IRF6). The disorder is transmitted in an autosomal dominant manner, with high penetrance and variable expressivity. Very recently, mutations of the IRF6 gene in exons 2-9 have been found in VWS patients, suggesting that this gene plays an important role in orofacial development. We report a novel mutation of the IRF6 gene in a German family. Five out of the 12 persons affected were able to be investigated. The mutation produced a stop codon within exon 4 of the IRF6 gene. All 5 patients were heterozygous for a base substitution c.201C>A changing the tyrosine codon at amino acid position 67 into a stop codon (p.Y67X) in exon 4. The premature stop codon was responsible for a truncated protein lacking parts of the DNA- binding domain and the complete Smad-interferon regulatory factor-binding domain probably essential for interactions with the Smad transcription factors.",
+  "entities": [
+    {
+      "id": "3664",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRF6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 4
+        },
+        {
+          "text": "interferon regulatory factor 6",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 406,
+          "length": 30
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 438,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 586,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 752,
+          "length": 4
+        },
+        {
+          "text": "IRF6",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 904,
+          "length": 4
+        },
+        {
+          "text": "interferon regulatory factor",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1201,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Y|67|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Y67X",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 4
+        },
+        {
+          "text": "tyrosine codon at amino acid position 67 into a stop",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 994,
+          "length": 52
+        },
+        {
+          "text": "p.Y67X",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1054,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C536528",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Van der Woude syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 22
+        },
+        {
+          "text": "Van der Woude syndrome",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 86,
+          "length": 22
+        },
+        {
+          "text": "VWS",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 110,
+          "length": 3
+        },
+        {
+          "text": "lip pits",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 293,
+          "length": 8
+        },
+        {
+          "text": "VWS",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 347,
+          "length": 3
+        },
+        {
+          "text": "VWS",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 628,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "syndromic orofacial cleft",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 142,
+          "length": 25
+        },
+        {
+          "text": "cleft palate",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 317,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002971,D002972",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cleft lip and palate",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 212,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D002971",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cleft lip",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 303,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000848",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypodontia",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 335,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 632,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 921,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|201|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.201C>A",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 972,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "4086",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1196,
+          "length": 4
+        },
+        {
+          "text": "Smad",
+          "passage_index": 1,
+          "passage_offset": 86,
+          "char_offset": 1290,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3664",
+      "tail_id": "4086",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3664",
+      "tail_id": "C536528",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "C536528",
+      "tail_id": "c|SUB|C|201|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|Y|67|X",
+      "tail_id": "C536528",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "doc_id": "1711760",
+  "title": "Delayed institution of hypertension during focal cerebral ischemia: effect on brain edema.",
+  "body": "The effect of induced hypertension instituted after a 2-h delay following middle cerebral artery occlusion (MCAO) on brain edema formation and histochemical injury was studied. Under isoflurane anesthesia, the MCA of 14 spontaneously hypertensive rats was occluded. In the control group (n = 7), the mean arterial pressure (MAP) was not manipulated. In the hypertensive group (n = 7), the MAP was elevated by 25-30 mm Hg beginning 2 h after MCAO. Four hours after MCAO, the rats were killed and the brains harvested. The brains were sectioned along coronal planes spanning the distribution of ischemia produced by MCAO. Specific gravity (SG) was determined in the subcortex and in two sites in the cortex (core and periphery of the ischemic territory). The extent of neuronal injury was determined by 2,3,5-triphenyltetrazolium staining. In the ischemic core, there was no difference in SG in the subcortex and cortex in the two groups. In the periphery of the ischemic territory, SG in the cortex was greater (less edema accumulation) in the hypertensive group (1.041 +/- 0.001 vs 1.039 +/- 0.001, P less than 0.05). The area of histochemical injury (as a percent of the cross-sectional area of the hemisphere) was less in the hypertensive group (33 +/- 3% vs 21 +/- 2%, P less than 0.05). The data indicate that phenylephrine-induced hypertension instituted 2 h after MCAO does not aggravate edema in the ischemic core, that it improves edema in the periphery of the ischemic territory, and that it reduces the area of histochemical neuronal dysfunction.",
+  "entities": [
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 113,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 325,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 448,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1134,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1319,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1427,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D002545",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebral ischemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D001929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "brain edema",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 11
+        },
+        {
+          "text": "brain edema",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 208,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D020244",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "middle cerebral artery occlusion",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 165,
+          "length": 32
+        },
+        {
+          "text": "MCAO",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 199,
+          "length": 4
+        },
+        {
+          "text": "MCAO",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 532,
+          "length": 4
+        },
+        {
+          "text": "MCAO",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 555,
+          "length": 4
+        },
+        {
+          "text": "MCAO",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 705,
+          "length": 4
+        },
+        {
+          "text": "MCAO",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1461,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007530",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoflurane",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 274,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 338,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 565,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemia",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 684,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 823,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 936,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1052,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1498,
+          "length": 8
+        },
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1560,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuronal injury",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 858,
+          "length": 15
+        },
+        {
+          "text": "neuronal dysfunction",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1626,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C009591",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "2,3,5-triphenyltetrazolium",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 892,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D004487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1107,
+          "length": 5
+        },
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1485,
+          "length": 5
+        },
+        {
+          "text": "edema",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1530,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010656",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phenylephrine",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1405,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010656",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

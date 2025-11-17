@@ -1,0 +1,379 @@
+{
+  "doc_id": "17344330",
+  "title": "Syncope and QT prolongation among patients treated with methadone for heroin dependence in the city of Copenhagen.",
+  "body": "BACKGROUND: Methadone is prescribed to heroin addicts to decrease illicit opioid use. Prolongation of the QT interval in the ECG of patients with torsade de pointes (TdP) has been reported in methadone users. As heroin addicts sometimes faint while using illicit drugs, doctors might attribute too many episodes of syncope to illicit drug use and thereby underestimate the incidence of TdP in this special population, and the high mortality in this population may, in part, be caused by the proarrhythmic effect of methadone. METHODS: In this cross-sectional study interview, ECGs and blood samples were collected in a population of adult heroin addicts treated with methadone or buprenorphine on a daily basis. Of the patients at the Drug Addiction Service in the municipal of Copenhagen, 450 (approximately 52%) were included. The QT interval was estimated from 12 lead ECGs. All participants were interviewed about any experience of syncope. The association between opioid dose and QT, and methadone dose and reporting of syncope was assessed using multivariate linear regression and logistic regression, respectively. RESULTS: Methadone dose was associated with longer QT interval of 0.140 ms/mg (p = 0.002). No association between buprenorphine and QTc was found. Among the subjects treated with methadone, 28% men and 32% women had prolonged QTc interval. None of the subjects treated with buprenorphine had QTc interval >0.440 s((1/2)). A 50 mg higher methadone dose was associated with a 1.2 (95% CI 1.1 to 1.4) times higher odds for syncope. CONCLUSIONS: Methadone is associated with QT prolongation and higher reporting of syncope in a population of heroin addicts.",
+  "entities": [
+    {
+      "id": "D013575",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Syncope",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 430,
+          "length": 7
+        },
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1051,
+          "length": 7
+        },
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1140,
+          "length": 7
+        },
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1657,
+          "length": 7
+        },
+        {
+          "text": "syncope",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1748,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008133",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "QT prolongation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 12,
+          "length": 15
+        },
+        {
+          "text": "Prolongation of the QT interval",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 201,
+          "length": 31
+        },
+        {
+          "text": "longer QT interval",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1281,
+          "length": 18
+        },
+        {
+          "text": "prolonged QTc interval",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1453,
+          "length": 22
+        },
+        {
+          "text": "QT prolongation",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1708,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 247,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 834,
+          "length": 8
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1431,
+          "length": 3
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1443,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008691",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methadone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 9
+        },
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 127,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 307,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 630,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 782,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1108,
+          "length": 9
+        },
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1246,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1416,
+          "length": 9
+        },
+        {
+          "text": "methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1574,
+          "length": 9
+        },
+        {
+          "text": "Methadone",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1679,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006556",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "heroin dependence",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 17
+        },
+        {
+          "text": "heroin addicts",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 154,
+          "length": 14
+        },
+        {
+          "text": "heroin addicts",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 327,
+          "length": 14
+        },
+        {
+          "text": "heroin addicts",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 754,
+          "length": 14
+        },
+        {
+          "text": "heroin addicts",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1775,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opioid",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 189,
+          "length": 6
+        },
+        {
+          "text": "opioid",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1084,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D016171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "torsade de pointes",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 261,
+          "length": 18
+        },
+        {
+          "text": "TdP",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 281,
+          "length": 3
+        },
+        {
+          "text": "TdP",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 501,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002047",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "buprenorphine",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 795,
+          "length": 13
+        },
+        {
+          "text": "buprenorphine",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1351,
+          "length": 13
+        },
+        {
+          "text": "buprenorphine",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1511,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016171",
+      "tail_id": "D008691",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002047",
+      "tail_id": "D006556",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002047",
+      "tail_id": "D008691",
+      "type": "Comparison",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008691",
+      "tail_id": "D000701",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008691",
+      "tail_id": "D006556",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008691",
+      "tail_id": "D008133",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008691",
+      "tail_id": "D013575",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

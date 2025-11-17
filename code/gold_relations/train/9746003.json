@@ -1,0 +1,226 @@
+{
+  "doc_id": "9746003",
+  "title": "Inappropriate use of carbamazepine and vigabatrin in typical absence seizures.",
+  "body": "Carbamazepine and vigabatrin are contraindicated in typical absence seizures. Of 18 consecutive referrals of children with resistant typical absences only, eight were erroneously treated with carbamazepine either as monotherapy or as an add-on. Vigabatrin was also used in the treatment of two children. Frequency of absences increased in four children treated with carbamazepine and two of these developed myoclonic jerks, which resolved on withdrawal of carbamazepine. Absences were aggravated in both cases where vigabatrin was added on to concurrent treatment. Optimal control of the absences was achieved with sodium valproate, lamotrigine, or ethosuximide alone or in combination.",
+  "entities": [
+    {
+      "id": "D002220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carbamazepine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 13
+        },
+        {
+          "text": "Carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 79,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 271,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 445,
+          "length": 13
+        },
+        {
+          "text": "carbamazepine",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 535,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D020888",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vigabatrin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 10
+        },
+        {
+          "text": "vigabatrin",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 97,
+          "length": 10
+        },
+        {
+          "text": "Vigabatrin",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 324,
+          "length": 10
+        },
+        {
+          "text": "vigabatrin",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 595,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D004832",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "absence seizures",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 16
+        },
+        {
+          "text": "absence seizures",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 139,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009207",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myoclonic jerks",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 486,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D014635",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium valproate",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 694,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D000077213",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lamotrigine",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 712,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D005013",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ethosuximide",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 728,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000077213",
+      "tail_id": "D005013",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014635",
+      "tail_id": "D005013",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014635",
+      "tail_id": "D000077213",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004832",
+      "tail_id": "D005013",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004832",
+      "tail_id": "D000077213",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004832",
+      "tail_id": "D014635",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004832",
+      "tail_id": "D020888",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004832",
+      "tail_id": "D002220",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002220",
+      "tail_id": "D020888",
+      "type": "Comparison",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009207",
+      "tail_id": "D002220",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "doc_id": "17683901",
+  "title": "An improved tetra-primer PCR approach for the detection of the FGFR3 G380R mutation responsible for achondroplasia.",
+  "body": "Achondroplasia is the most common form of dwarfism and has an incidence of approximately 1/7500. In more than 98% of cases, the disease is associated with a G to A or G to C substitution at nucleotide position 1138 (p.G380R) of the fibroblast growth factor receptor 3 (FGFR3) gene. We have developed a sensitive single tube tetra-primer PCR assay to detect both the c.1138G>A and c.1138G>C mutations and can successfully distinguish DNA samples that are homozygous and heterozygous for the c.1138G>A mutation. Titration studies showed that the assay could reliably detect one copy of the mutant allele in a mix of 100 wild-type alleles. The assay has been tested in 50 healthy controls, 3 known patients with achondroplasia, and 5 amniotic fluids suspected of having achondroplasia and for whom we had previously determined the genotypes for the c.1138G>A mutation by PCR-RFLP. We have observed complete concordance between methods. Our tetra-primer PCR assay is sensitive, low-cost, and easy to use method for FGFR3 p.G380R genotyping, which could be used even in \"low-tech\" laboratories.",
+  "entities": [
+    {
+      "id": "2261",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FGFR3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 5
+        },
+        {
+          "text": "fibroblast growth factor receptor 3",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 348,
+          "length": 35
+        },
+        {
+          "text": "FGFR3",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 385,
+          "length": 5
+        },
+        {
+          "text": "FGFR3",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1127,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs28931614",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G380R",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 5
+        },
+        {
+          "text": "G to A or G to C substitution at nucleotide position 1138",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 273,
+          "length": 57
+        },
+        {
+          "text": "p.G380R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 332,
+          "length": 7
+        },
+        {
+          "text": "c.1138G>A",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 482,
+          "length": 9
+        },
+        {
+          "text": "c.1138G>C",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 496,
+          "length": 9
+        },
+        {
+          "text": "c.1138G>A",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 606,
+          "length": 9
+        },
+        {
+          "text": "c.1138G>A",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 962,
+          "length": 9
+        },
+        {
+          "text": "p.G380R",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1133,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "achondroplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 14
+        },
+        {
+          "text": "Achondroplasia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 116,
+          "length": 14
+        },
+        {
+          "text": "achondroplasia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 825,
+          "length": 14
+        },
+        {
+          "text": "achondroplasia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 883,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D004392",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dwarfism",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 158,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 811,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2261",
+      "tail_id": "D000130",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs28931614",
+      "tail_id": "D000130",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

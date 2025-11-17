@@ -1,0 +1,396 @@
+{
+  "doc_id": "15983230",
+  "title": "Polymorphisms in the SLC2A2 (GLUT2) gene are associated with the conversion from impaired glucose tolerance to type 2 diabetes: the Finnish Diabetes Prevention Study.",
+  "body": "Impaired insulin secretion is a fundamental defect in type 2 diabetes. The aim of this study was to investigate whether single nucleotide polymorphisms (SNPs) in the genes regulating insulin secretion (SLC2A2 [encoding GLUT2], GCK, TCF1 [encoding HNF-1alpha], HNF4A, GIP, and GLP1R) are associated with the conversion from impaired glucose tolerance (IGT) to type 2 diabetes in participants of the Finnish Diabetes Prevention Study. With the exception of SLC2A2, other genes were not associated with the risk of type 2 diabetes. All four SNPs of SLC2A2 predicted the conversion to diabetes, and rs5393 (AA genotype) increased the risk of type 2 diabetes in the entire study population by threefold (odds ratio 3.04, 95% CI 1.34-6.88, P = 0.008). The risk for type 2 diabetes in the AA genotype carriers was increased in the control group (5.56 [1.78-17.39], P = 0.003) but not in the intervention group. We conclude that the SNPs of SLC2A2 predict the conversion to diabetes in obese subjects with IGT.",
+  "entities": [
+    {
+      "id": "6514",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SLC2A2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 6
+        },
+        {
+          "text": "GLUT2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 5
+        },
+        {
+          "text": "SLC2A2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 369,
+          "length": 6
+        },
+        {
+          "text": "GLUT2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 386,
+          "length": 5
+        },
+        {
+          "text": "SLC2A2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 622,
+          "length": 6
+        },
+        {
+          "text": "SLC2A2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 713,
+          "length": 6
+        },
+        {
+          "text": "SLC2A2",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1100,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D018149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired glucose tolerance",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 26
+        },
+        {
+          "text": "impaired glucose tolerance",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 490,
+          "length": 26
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 518,
+          "length": 3
+        },
+        {
+          "text": "IGT",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1165,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 221,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 526,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 679,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 805,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 926,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 140,
+          "length": 8
+        },
+        {
+          "text": "Impaired insulin secretion",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 167,
+          "length": 26
+        },
+        {
+          "text": "Diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 573,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 748,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1133,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 350,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "2645",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GCK",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 394,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "6927",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TCF1",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 399,
+          "length": 4
+        },
+        {
+          "text": "HNF-1alpha",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 414,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "3172",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HNF4A",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 427,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2695",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GIP",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 434,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2740",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLP1R",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 443,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs5393",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs5393",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 762,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obese",
+          "passage_index": 1,
+          "passage_offset": 167,
+          "char_offset": 1145,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs5393",
+      "tail_id": "D018149",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs5393",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs5393",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs5393",
+      "tail_id": "D003924",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "6514",
+      "tail_id": "D018149",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "6514",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "6514",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "6514",
+      "tail_id": "D003924",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "3630",
+      "tail_id": "6514",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "3630",
+      "tail_id": "2740",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "3630",
+      "tail_id": "2695",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "3630",
+      "tail_id": "3172",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "3630",
+      "tail_id": "6927",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "3630",
+      "tail_id": "2645",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

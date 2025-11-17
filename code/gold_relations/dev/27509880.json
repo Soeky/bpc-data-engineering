@@ -1,0 +1,546 @@
+{
+  "doc_id": "27509880",
+  "title": "Combination of the histone deacetylase inhibitor depsipeptide and 5-fluorouracil upregulates major histocompatibility complex class II and p21 genes and activates caspase-3/7 in human colon cancer HCT-116 cells.",
+  "body": "Epigenetic anticancer drugs such as histone deacetylase (HDAC) inhibitors have been combined with existing anticancer drugs for synergistic or additive effects. In the present study, we found that a very low concentration of depsipeptide, an HDAC inhibitor, potentiated the antitumor activity of 5-fluorouracil (5-FU) in a human colon cancer cell model using HCT-116, HT29, and SW48 cells via the inhibition of colony formation ability or cellular viability. Exposure to a combination of 5-FU (1.75 uM) and 1 nM depsipeptide for 24 and 48 h resulted in a 3- to 4-fold increase in activated caspase-3/7, while 5-FU alone failed to activate caspase-3/7. Microarray and subsequent gene ontology analyses revealed that compared to 5-FU or depsipeptide alone, the combination treatment of 5-FU and depsipeptide upregulated genes related to cell death and the apoptotic process consistent with the inhibition of colony formation and caspase-3/7 activation. These analyses indicated marked upregulation of antigen processing and presentation of peptide or polysaccharide antigen via major histocompatibility complex (MHC) class (GO:0002504) and MHC protein complex (GO:0042611). Compared with vehicle controls, the cells treated with the combination of 5-FU and depsipeptide showed marked induction (3- to 8.5-fold) of expression of MHC class II genes, but not of MHC class I genes. Furthermore, our global analysis of gene expression, which was focused on genes involved in the molecular regulation of MHC class II genes, showed enhancement of pro-apoptotic PCAF and CIITA after the combination of 5-FU and depsipeptide. These results may indicate a closer relationship between elevation of MHC class II expression and cellular apoptosis induced by the combination of depsipeptide and 5-FU. To the best of our knowledge, this is the first study to report that the combination of 5-FU and depsipeptide induces human colon cancer cell apoptosis in a concerted manner with the induction of MHC class II gene expression.",
+  "entities": [
+    {
+      "id": "3065",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "histone deacetylase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 19,
+          "length": 19
+        },
+        {
+          "text": "histone deacetylase",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 248,
+          "length": 19
+        },
+        {
+          "text": "HDAC",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 269,
+          "length": 4
+        },
+        {
+          "text": "HDAC",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 454,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D047630",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "depsipeptide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 437,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 724,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 947,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1005,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1467,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1813,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1974,
+          "length": 12
+        },
+        {
+          "text": "depsipeptide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 2094,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D005472",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "5-fluorouracil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 14
+        },
+        {
+          "text": "5-fluorouracil",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 508,
+          "length": 14
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 524,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 700,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 821,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 939,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 996,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1458,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1804,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1991,
+          "length": 4
+        },
+        {
+          "text": "5-FU",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 2085,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3119",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "major histocompatibility complex class II",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 41
+        },
+        {
+          "text": "MHC class II genes",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1538,
+          "length": 18
+        },
+        {
+          "text": "MHC class II genes",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1708,
+          "length": 18
+        },
+        {
+          "text": "MHC class II",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1897,
+          "length": 12
+        },
+        {
+          "text": "MHC class II",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 2193,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p21",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 139,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "836,840",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "caspase-3/7",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 163,
+          "length": 11
+        },
+        {
+          "text": "caspase-3/7",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 802,
+          "length": 11
+        },
+        {
+          "text": "caspase-3/7",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 851,
+          "length": 11
+        },
+        {
+          "text": "caspase-3/7",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1139,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 178,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 535,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 2115,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003110",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colon cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 184,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 541,
+          "length": 12
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 2121,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0291",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HCT-116",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 197,
+          "length": 7
+        },
+        {
+          "text": "HCT-116",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 571,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0320",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HT29",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 580,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1724",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SW48",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 590,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011134",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "polysaccharide",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1261,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "3123",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "major histocompatibility complex (MHC) class",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1288,
+          "length": 44
+        },
+        {
+          "text": "MHC protein complex",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1350,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "3106",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MHC class I genes",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1569,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "8850",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PCAF",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1764,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4261",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CIITA",
+          "passage_index": 1,
+          "passage_offset": 212,
+          "char_offset": 1773,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011134",
+      "tail_id": "3123",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3065",
+      "tail_id": "D047630",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005472",
+      "tail_id": "D003110",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005472",
+      "tail_id": "4261",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005472",
+      "tail_id": "8850",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005472",
+      "tail_id": "1026",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D047630",
+      "tail_id": "D003110",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D047630",
+      "tail_id": "4261",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D047630",
+      "tail_id": "8850",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D047630",
+      "tail_id": "D005472",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D047630",
+      "tail_id": "1026",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "3119",
+      "tail_id": "D005472",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "3119",
+      "tail_id": "D047630",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

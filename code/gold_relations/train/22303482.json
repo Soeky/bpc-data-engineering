@@ -1,0 +1,759 @@
+{
+  "doc_id": "22303482",
+  "title": "TBX21 and HLX1 polymorphisms influence cytokine secretion at birth.",
+  "body": "BACKGROUND: TBX21 (T cell specific T-box transcription factor) and HLX1 (H.20-like homeobox 1) are crucial transcription factors of T(H)1-cells, inducing their differentiation and suppressing T(H)2 commitment, particularly important for early life immune development. This study investigated the influence of TBX21 and HLX1 single nucleotide polymorphisms (SNPs), which have previously been shown to be associated with asthma, on T(H)1/T(H)2 lineage cytokines at birth. METHODS AND FINDINGS: Cord blood mononuclear cells (CBMCs) of 200 neonates were genotyped for two TBX21 and three HLX1 SNPs. CBMCs were stimulated with innate (Lipid A, LpA; Peptidoglycan, Ppg), adaptive stimuli (house dust mite Dermatophagoides pteronyssinus 1, Derp1) or mitogen (phytohemagglutinin, PHA). Cytokines, T-cells and mRNA expression of T(H)1/T(H)2-related genes were assessed. Atopic diseases during the first 3 years of life were assessed by questionnaire answered by the parents. Carriers of TBX21 promoter SNP rs17250932 and HLX1 promoter SNP rs2738751 showed reduced or trendwise reduced (p<0.07) IL-5, IL-13 and TNF-a secretion after LpA-stimulation. Carriers of HLX1 SNP rs2738751 had lower IL-13 levels following Ppg-stimulation (p = 0.08). Carriers of HLX1 exon 1 SNP rs12141189 showed increased IL-5 (LpA, p = 0.007; Ppg, p = 0.10), trendwise increased IL-13 (LpA), higher GM-CSF (LpA/Ppg, p<0.05) and trendwise decreased IFN-g secretion (Derp1+LpA-stimulation, p = 0.1). Homozygous carriers of HLX1 promoter SNP rs3806325 showed increased IL-13 and IL-6 (unstimulated, p<0.03). In carriers of TBX21 intron 3 SNP rs11079788 no differences in cytokine secretion were observed. mRNA expression of T(H)1/T(H)2-related genes partly correlated with cytokines at protein level. TBX21 SNP rs11079788 carriers developed less symptoms of atopic dermatitis at 3 years of age (p = 0.03). CONCLUSIONS: Polymorphisms in TBX21 and HLX1 influenced primarily IL-5 and IL-13 secretion after LpA-stimulation in cord blood suggesting that genetic variations in the transcription factors essential for the T(H)1-pathway may contribute to modified T(H)2-immune responses already early in life. Further follow-up of the cohort is required to study the polymorphisms' relevance for immune-mediated diseases such as childhood asthma.",
+  "entities": [
+    {
+      "id": "30009",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TBX21",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 80,
+          "length": 5
+        },
+        {
+          "text": "T cell specific T-box transcription factor",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 87,
+          "length": 42
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 377,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 636,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1046,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1655,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1833,
+          "length": 5
+        },
+        {
+          "text": "TBX21",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1968,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3142",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HLX1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 135,
+          "length": 4
+        },
+        {
+          "text": "H.20-like homeobox 1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 141,
+          "length": 20
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 387,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 652,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1080,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1220,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1312,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1556,
+          "length": 4
+        },
+        {
+          "text": "HLX1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1978,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "asthma",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 487,
+          "length": 6
+        },
+        {
+          "text": "asthma",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 2363,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008050",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Lipid A",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 698,
+          "length": 7
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 707,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1191,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1362,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1421,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1442,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1506,
+          "length": 3
+        },
+        {
+          "text": "LpA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 2035,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010457",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Peptidoglycan",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 712,
+          "length": 13
+        },
+        {
+          "text": "Ppg",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 727,
+          "length": 3
+        },
+        {
+          "text": "Ppg",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1272,
+          "length": 3
+        },
+        {
+          "text": "Ppg",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1378,
+          "length": 3
+        },
+        {
+          "text": "Ppg",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1446,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "113791973",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Dermatophagoides pteronyssinus 1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 767,
+          "length": 32
+        },
+        {
+          "text": "Derp1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 801,
+          "length": 5
+        },
+        {
+          "text": "Derp1",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1500,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010835",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phytohemagglutinin",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 820,
+          "length": 18
+        },
+        {
+          "text": "PHA",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 840,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs17250932",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs17250932",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1065,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs2738751",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2738751",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1098,
+          "length": 9
+        },
+        {
+          "text": "rs2738751",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1229,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3567",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1153,
+          "length": 4
+        },
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1356,
+          "length": 4
+        },
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 2004,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3596",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1159,
+          "length": 5
+        },
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1249,
+          "length": 5
+        },
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1414,
+          "length": 5
+        },
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1601,
+          "length": 5
+        },
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 2013,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7124",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNF-a",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1169,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs12141189",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs12141189",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1328,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "1437",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GM-CSF",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1434,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3458",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1483,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs3806325",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs3806325",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1574,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3569",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1611,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs11079788",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs11079788",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1674,
+          "length": 10
+        },
+        {
+          "text": "rs11079788",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1843,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003876",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atopic dermatitis",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1890,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007154",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "immune-mediated diseases",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 2320,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs11079788",
+      "tail_id": "D003876",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs12141189",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs12141189",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "3458",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "1437",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "1437",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "rs2738751",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "rs2738751",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "rs17250932",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "7124",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3596",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "3596",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "3567",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "3567",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "3142",
+      "tail_id": "3569",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "3142",
+      "tail_id": "113791973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "3142",
+      "tail_id": "3458",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "3142",
+      "tail_id": "1437",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "3142",
+      "tail_id": "D010457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "3142",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "3142",
+      "tail_id": "7124",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "3142",
+      "tail_id": "3596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "3142",
+      "tail_id": "3567",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "3142",
+      "tail_id": "D001249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "30009",
+      "tail_id": "D003876",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "30009",
+      "tail_id": "D008050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "30009",
+      "tail_id": "7124",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "30009",
+      "tail_id": "3596",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "30009",
+      "tail_id": "3567",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "30009",
+      "tail_id": "D001249",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

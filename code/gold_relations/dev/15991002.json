@@ -1,0 +1,324 @@
+{
+  "doc_id": "15991002",
+  "title": "Nicotine antagonizes caffeine- but not pentylenetetrazole-induced anxiogenic effect in mice.",
+  "body": "RATIONALE: Nicotine and caffeine are widely consumed licit psychoactive drugs worldwide. Epidemiological studies showed that they were generally used concurrently. Although some studies in experimental animals indicate clear pharmacological interactions between them, no studies have shown a specific interaction on anxiety responses. OBJECTIVES: The present study investigates the effects of nicotine on anxiety induced by caffeine and another anxiogenic drug, pentylenetetrazole, in mice. The elevated plus-maze (EPM) test was used to evaluate the effects of drugs on anxiety. METHODS: Adult male Swiss Webster mice (25-32 g) were given nicotine (0.05-0.25 mg/kg s.c.) or saline 10 min before caffeine (70 mg/kg i.p.) or pentylenetetrazole (15 and 30 mg/kg i.p.) injections. After 15 min, mice were evaluated for their open- and closed-arm time and entries on the EPM for a 10-min session. Locomotor activity was recorded for individual groups by using the same treatment protocol with the EPM test. RESULTS: Nicotine (0.05-0.25 mg/kg) itself did not produce any significant effect in the EPM test, whereas caffeine (70 mg/kg) and pentylenetetrazole (30 mg/kg) produced an anxiogenic effect, apparent with decreases in open-arm time and entry. Nicotine (0.25 mg/kg) pretreatment blocked the caffeine- but not pentylenetetrazole-induced anxiety. Administration of each drug and their combinations did not produce any effect on locomotor activity. CONCLUSIONS: Our results suggest that the antagonistic effect of nicotine on caffeine-induced anxiety is specific to caffeine, instead of a non-specific anxiolytic effect. Thus, it may extend the current findings on the interaction between nicotine and caffeine.",
+  "entities": [
+    {
+      "id": "D009538",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Nicotine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "Nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 104,
+          "length": 8
+        },
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 486,
+          "length": 8
+        },
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 732,
+          "length": 8
+        },
+        {
+          "text": "Nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1104,
+          "length": 8
+        },
+        {
+          "text": "Nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1339,
+          "length": 8
+        },
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1606,
+          "length": 8
+        },
+        {
+          "text": "nicotine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1781,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002110",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "caffeine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 117,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 517,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 788,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1202,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1386,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1618,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1658,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1794,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010433",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pentylenetetrazole",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 39,
+          "length": 18
+        },
+        {
+          "text": "pentylenetetrazole",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 555,
+          "length": 18
+        },
+        {
+          "text": "pentylenetetrazole",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 816,
+          "length": 18
+        },
+        {
+          "text": "pentylenetetrazole",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1226,
+          "length": 18
+        },
+        {
+          "text": "pentylenetetrazole",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1404,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anxiogenic effect",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 17
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 409,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 498,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 663,
+          "length": 7
+        },
+        {
+          "text": "anxiogenic effect",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1268,
+          "length": 17
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1431,
+          "length": 7
+        },
+        {
+          "text": "anxiety",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1635,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 578,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 706,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 884,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011619",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "psychoactive drugs",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 152,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D014151",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anxiogenic drug",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 538,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010433",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002110",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009538",
+      "tail_id": "D001008",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009538",
+      "tail_id": "D002110",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "doc_id": "9672936",
+  "title": "Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain control.",
+  "body": "A healthy 17-year-old male received standard intermittent doses of pethidine via a patient-controlled analgesia (PCA) pump for management of postoperative pain control. Twenty-three h postoperatively he developed a brief self-limited seizure. Both plasma pethidine and norpethidine were elevated in the range associated with clinical manifestations of central nervous system excitation. No other risk factors for CNS toxicity were identified. This method allowed frequent self-dosing of pethidine at short time intervals and rapid accumulation of pethidine and norpethidine. The routine use of pethidine via PCA even for a brief postoperative analgesia should be reconsidered.",
+  "entities": [
+    {
+      "id": "D008614",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Pethidine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 172,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 360,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 592,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 652,
+          "length": 9
+        },
+        {
+          "text": "pethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 699,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "seizure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 7
+        },
+        {
+          "text": "seizure",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 339,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postoperative pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 18
+        },
+        {
+          "text": "postoperative pain",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 246,
+          "length": 18
+        },
+        {
+          "text": "postoperative analgesia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 734,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 188,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C002752",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "norpethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 374,
+          "length": 12
+        },
+        {
+          "text": "norpethidine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 666,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 522,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D008614",
+      "tail_id": "D012640",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D008614",
+      "tail_id": "D010149",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

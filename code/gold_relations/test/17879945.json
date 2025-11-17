@@ -1,0 +1,448 @@
+{
+  "doc_id": "17879945",
+  "title": "Estrogen prevents cholesteryl ester accumulation in macrophages induced by the HIV protease inhibitor ritonavir.",
+  "body": "Individuals with HIV can now live long lives with drug therapy that often includes protease inhibitors such as ritonavir. Many patients, however, develop negative long-term side effects such as premature atherosclerosis. We have previously demonstrated that ritonavir treatment increases atherosclerotic lesion formation in male mice to a greater extent than in female mice. Furthermore, peripheral blood monocytes isolated from ritonavir-treated females had less cholesteryl ester accumulation. In the present study, we have investigated the molecular mechanisms by which female hormones influence cholesterol metabolism in macrophages in response to the HIV protease inhibitor ritonavir. We have utilized the human monocyte cell line, THP-1 as a model to address this question. Briefly, cells were differentiated for 72 h with 100 nM PMA to obtain a macrophage-like phenotype in the presence or absence of 1 nM 17beta-estradiol (E2), 100 nM progesterone or vehicle (0.01% ethanol). Cells were then treated with 30 ng/ml ritonavir or vehicle in the presence of aggregated LDL for 24 h. Cell extracts were harvested, and lipid or total RNA was isolated. E2 decreased the accumulation of cholesteryl esters in macrophages following ritonavir treatment. Ritonavir increased the expression of the scavenger receptor, CD36 mRNA, responsible for the uptake of LDL. Additionally, ritonavir treatment selectively increased the relative levels of PPARgamma mRNA, a transcription factor responsible for the regulation of CD36 mRNA expression. Treatment with E2, however, failed to prevent these increases at the mRNA level. E2 did, however, significantly suppress CD36 protein levels as measured by fluorescent immunocytochemistry. This data suggests that E2 modifies the expression of CD36 at the level of protein expression in monocyte-derived macrophages resulting in reduced cholesteryl ester accumulation following ritonavir treatment.",
+  "entities": [
+    {
+      "id": "D004967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Estrogen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002788",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesteryl ester",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 17
+        },
+        {
+          "text": "cholesteryl ester",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 577,
+          "length": 17
+        },
+        {
+          "text": "cholesteryl esters",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1300,
+          "length": 18
+        },
+        {
+          "text": "cholesteryl ester",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1983,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HIV protease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 12
+        },
+        {
+          "text": "HIV protease",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 769,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D019438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ritonavir",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 224,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 371,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 542,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 792,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1135,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1344,
+          "length": 9
+        },
+        {
+          "text": "Ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1365,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1487,
+          "length": 9
+        },
+        {
+          "text": "ritonavir",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 2024,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "11676",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HIV",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 130,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D050197",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "premature atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 307,
+          "length": 25
+        },
+        {
+          "text": "atherosclerotic lesion",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 401,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 442,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 482,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 712,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 824,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0006",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "THP-1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 850,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004958",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "17beta-estradiol",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1026,
+          "length": 16
+        },
+        {
+          "text": "E2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1044,
+          "length": 2
+        },
+        {
+          "text": "E2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1267,
+          "length": 2
+        },
+        {
+          "text": "E2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1662,
+          "length": 2
+        },
+        {
+          "text": "E2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1728,
+          "length": 2
+        },
+        {
+          "text": "E2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1860,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D011374",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "progesterone",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1056,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000431",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ethanol",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1087,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1234,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "948",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD36",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1427,
+          "length": 4
+        },
+        {
+          "text": "CD36",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1625,
+          "length": 4
+        },
+        {
+          "text": "CD36",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1768,
+          "length": 4
+        },
+        {
+          "text": "CD36",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1890,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5468",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PPARgamma",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1552,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5468",
+      "tail_id": "948",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "948",
+      "tail_id": "D002788",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004958",
+      "tail_id": "948",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004958",
+      "tail_id": "D002788",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019438",
+      "tail_id": "5468",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019438",
+      "tail_id": "948",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019438",
+      "tail_id": "D004958",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D019438",
+      "tail_id": "D050197",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D019438",
+      "tail_id": "D002788",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D004967",
+      "tail_id": "D002788",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "doc_id": "15000256",
+  "title": "Single-strand conformation polymorphism analysis of the FMR1 gene in autistic and mentally retarded children in Japan.",
+  "body": "Fragile X syndrome is one of the most common causes of mental retardation in males, and patients with fragile X syndrome occasionally develop autism. It is usually caused by an expansion of the trinucleotide repeat in the 5'-untranslated region of the FMR1 gene, but in a small number of patients deletions and point mutations have been identified. We screened all 17 exons of the FMR1 gene for mutations in 90 autistic or mentally retarded children using polymerase chain reaction (PCR)-single strand conformation polymorphism (SSCP) analysis. No mutations were found in 76 male patients. However, one female patient was heterozygous for a normal allele and a mutant allele with an A to C substitution at nucleotide 879 in exon 9. This mutation was not found in 50 controls. Reverse transcription-PCR revealed that a large proportion of the mutant transcripts were spliced aberrantly, causing premature termination of the protein synthesis. Although uncommon, point mutations in the FMR1 gene may be a cause of autism and mental retardation in Japanese patients.",
+  "entities": [
+    {
+      "id": "2332",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FMR1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 4
+        },
+        {
+          "text": "FMR1",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 371,
+          "length": 4
+        },
+        {
+          "text": "FMR1",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 500,
+          "length": 4
+        },
+        {
+          "text": "FMR1",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1103,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001321",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autistic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 8
+        },
+        {
+          "text": "autism",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 261,
+          "length": 6
+        },
+        {
+          "text": "autistic",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 530,
+          "length": 8
+        },
+        {
+          "text": "autism",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1131,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mentally retarded",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 17
+        },
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 174,
+          "length": 18
+        },
+        {
+          "text": "mentally retarded",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 542,
+          "length": 17
+        },
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1142,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D005600",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Fragile X syndrome",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 119,
+          "length": 18
+        },
+        {
+          "text": "fragile X syndrome",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 221,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 207,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 407,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 699,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 729,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1173,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs782013865",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A to C substitution at nucleotide 879",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 802,
+          "length": 37
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs782013865",
+      "tail_id": "D001321",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs782013865",
+      "tail_id": "D008607",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs782013865",
+      "tail_id": "D005600",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2332",
+      "tail_id": "D001321",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "2332",
+      "tail_id": "D008607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "2332",
+      "tail_id": "D005600",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

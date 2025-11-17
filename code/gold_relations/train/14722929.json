@@ -1,0 +1,461 @@
+{
+  "doc_id": "14722929",
+  "title": "Low frequency of deafness-associated GJB2 variants in Kenya and Sudan and novel GJB2 variants.",
+  "body": "A large proportion of non-syndromic autosomal recessive deafness (NSARD) in many populations is caused by variants of the GJB2 gene. Here, the frequency of GJB2 variants was studied in 406 and 183 apparently unrelated children from Kenya and Sudan, respectively, with mostly severe to profound non-syndromic deafness. Nine (2.2 %) Kenyan and 12 (6.6 %) of the Sudanese children only were carriers of variants within the coding sequence of the GJB2 gene. Variants in the 5'-adjacent region were detected in further 115 individuals. A total of 10 novel variants was recognized, among them four variants in the adjacent 5'-region of the GJB2 coding exon 2 (g.3318-6T>A, g.3318-15C>T, g.3318-34C>T, g.3318-35T>G), a 6 base-pair deletion (g.3455_3460del [p.Asp46_Gln48delinsGlu]), a variant leading to a stop codon (g.3512C>A [p.Tyr65X]), synonymous variants (g.3395C>T [p.Thr26], g.3503C>T [p.Asn62], g.3627A>C [p.Arg104]), and one non-synonymous variant (g.3816C>A [p.Val167Met]). In addition, the previously described variants g.3352delG (commonly designated 30delG or 35 delG), g.3426G>A [p.Val37Ile], g.3697G>A [p.Arg127His], g.3774G>A [p.Val153Ile], and g.3795G>A [p.Gly160Ser] were identified. With the exception of g.3318-34C>T and g.3352delG, all variants occurred heterozygously. For most of the variants identified in the Kenyan and Sudanese study population, a causative association with NSARD appears to be unlikely. Compared to many other ethnic groups, deafness-associated variants of the coding region of GJB2 are rare in Sudan and Kenya, suggesting a role of other genetic, or epigenetic factors as a cause for deafness in these countries.",
+  "entities": [
+    {
+      "id": "D003638",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "deafness",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 8
+        },
+        {
+          "text": "non-syndromic deafness",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 389,
+          "length": 22
+        },
+        {
+          "text": "deafness",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1558,
+          "length": 8
+        },
+        {
+          "text": "deafness",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1718,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2706",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GJB2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 217,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 251,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 538,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 729,
+          "length": 4
+        },
+        {
+          "text": "GJB2",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1611,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C567134",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "non-syndromic autosomal recessive deafness",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 117,
+          "length": 42
+        },
+        {
+          "text": "NSARD",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 161,
+          "length": 5
+        },
+        {
+          "text": "NSARD",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1490,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|T|3318-6|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3318-6T>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 749,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|C|3318-15|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3318-15C>T",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 762,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|C|3318-34|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3318-34C>T",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 776,
+          "length": 12
+        },
+        {
+          "text": "g.3318-34C>T",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1313,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|T|3318-35|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3318-35T>G",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 790,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "g|DEL|3455_3460|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3455_3460del",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 829,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "p|INDEL|46_48|Glu",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Asp46_Gln48delinsGlu",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 845,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "rs763572195",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3512C>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 906,
+          "length": 9
+        },
+        {
+          "text": "p.Tyr65X",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 917,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|C|3395|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3395C>T",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 950,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|T|26",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Thr26",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 961,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|C|3503|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3503C>T",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 971,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|N|62",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Asn62",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 982,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "g|SUB|A|3627|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3627A>C",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 992,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|R|104",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Arg104",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1003,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs111033360",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3816C>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1047,
+          "length": 9
+        },
+        {
+          "text": "p.Val167Met",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1058,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "g|DEL|3352|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3352delG",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1120,
+          "length": 10
+        },
+        {
+          "text": "g.3352delG",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1330,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|30|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "30delG",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1152,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|35|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "35 delG",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1162,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs72474224",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3426G>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1172,
+          "length": 9
+        },
+        {
+          "text": "p.Val37Ile",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1183,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs111033196",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3697G>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1196,
+          "length": 9
+        },
+        {
+          "text": "p.Arg127His",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1207,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "rs111033186",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3774G>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1221,
+          "length": 9
+        },
+        {
+          "text": "p.Val153Ile",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1232,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "rs34988750",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.3795G>A",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1250,
+          "length": 9
+        },
+        {
+          "text": "p.Gly160Ser",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 1261,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2706",
+      "tail_id": "C567134",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

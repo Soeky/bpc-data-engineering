@@ -1,0 +1,97 @@
+{
+  "doc_id": "16526029",
+  "title": "Evaluation of RGS4 as a candidate gene for schizophrenia.",
+  "body": "Several studies have suggested that the regulator of G-protein signaling 4 (RGS4) may be a positional and functional candidate gene for schizophrenia. Three single nucleotide polymorphisms (SNP) located at the promoter region (SNP4 and SNP7) and the intron 1 (SNP18) of RGS4 have been verified in different ethnic groups. Positive results have been reported in these SNPs with different numbers of SNP combinatory haplotypes. In this study, these three SNP markers were genotyped in 218 schizophrenia pedigrees of Taiwan (864 individuals) for association analysis. Among these three SNPs, neither SNP4, SNP7, SNP18 has shown significant association with schizophrenia in single locus association analysis, nor any compositions of the three SNP haplotypes has shown significantly associations with the DSM-IV diagnosed schizophrenia. Our results fail to support the RGS4 as a candidate gene for schizophrenia when evaluated from these three SNP markers.",
+  "entities": [
+    {
+      "id": "5999",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RGS4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 4
+        },
+        {
+          "text": "regulator of G-protein signaling 4",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 98,
+          "length": 34
+        },
+        {
+          "text": "RGS4",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 134,
+          "length": 4
+        },
+        {
+          "text": "RGS4",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 328,
+          "length": 4
+        },
+        {
+          "text": "RGS4",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 923,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 194,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 545,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 712,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 876,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 58,
+          "char_offset": 952,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

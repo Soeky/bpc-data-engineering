@@ -1,0 +1,259 @@
+{
+  "doc_id": "18754075",
+  "title": "Massive proteinuria and acute renal failure after oral bisphosphonate (alendronate) administration in a patient with focal segmental glomerulosclerosis.",
+  "body": "A 61-year-old Japanese man with nephrotic syndrome due to focal segmental glomerulosclerosis was initially responding well to steroid therapy. The amount of daily urinary protein decreased from 15.6 to 2.8 g. Within 14 days of the oral bisphosphonate (alendronate sodium) administration, the amount of daily urinary protein increased rapidly up to 12.8 g with acute renal failure. After discontinuing the oral alendronate, the patient underwent six cycles of hemodialysis and four cycles of LDL apheresis. Urinary volume and serum creatinine levels recovered to the normal range, with urinary protein disappearing completely within 40 days. This report demonstrates that not only intravenous, but also oral bisphosphonates can aggravate proteinuria and acute renal failure.",
+  "entities": [
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 11
+        },
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 890,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 19
+        },
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 513,
+          "length": 19
+        },
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 906,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D004164",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bisphosphonate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 14
+        },
+        {
+          "text": "bisphosphonate",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 389,
+          "length": 14
+        },
+        {
+          "text": "bisphosphonates",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 860,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D019386",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alendronate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 11
+        },
+        {
+          "text": "alendronate sodium",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 405,
+          "length": 18
+        },
+        {
+          "text": "alendronate",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 563,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 104,
+          "length": 7
+        },
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 176,
+          "length": 3
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 580,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005923",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "focal segmental glomerulosclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 34
+        },
+        {
+          "text": "focal segmental glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 211,
+          "length": 34
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 185,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D013256",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 279,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 153,
+          "char_offset": 684,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013256",
+      "tail_id": "D009404",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013256",
+      "tail_id": "D005923",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D058186",
+      "tail_id": "D019386",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D058186",
+      "tail_id": "D004164",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019386",
+      "tail_id": "D003404",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019386",
+      "tail_id": "D005923",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004164",
+      "tail_id": "D005923",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D011507",
+      "tail_id": "D019386",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D011507",
+      "tail_id": "D004164",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

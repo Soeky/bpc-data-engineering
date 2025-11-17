@@ -1,0 +1,599 @@
+{
+  "doc_id": "29045486",
+  "title": "Thiamine deficiency activates hypoxia inducible factor-1a to facilitate pro-apoptotic responses in mouse primary astrocytes.",
+  "body": "Thiamine is an essential enzyme cofactor required for proper metabolic function and maintenance of metabolism and energy production in the brain. In developed countries, thiamine deficiency (TD) is most often manifested following chronic alcohol consumption leading to impaired mitochondrial function, oxidative stress, inflammation and excitotoxicity. These biochemical lesions result in apoptotic cell death in both neurons and astrocytes. Comparable histological injuries in patients with hypoxia/ischemia and TD have been described in the thalamus and mammillary bodies, suggesting a congruency between the cellular responses to these stresses. Consistent with hypoxia/ischemia, TD stabilizes and activates Hypoxia Inducible Factor-1a (HIF-1a) under physiological oxygen levels. However, the role of TD-induced HIF-1a in neurological injury is currently unknown. Using Western blot analysis and RT-PCR, we have demonstrated that TD induces HIF-1a expression and activity in primary mouse astrocytes. We observed a time-dependent increase in mRNA and protein expression of the pro-apoptotic and pro-inflammatory HIF-1a target genes MCP1, BNIP3, Nix and Noxa during TD. We also observed apoptotic cell death in TD as demonstrated by PI/Annexin V staining, TUNEL assay, and Cell Death ELISA. Pharmacological inhibition of HIF-1a activity using YC1 and thiamine repletion both reduced expression of pro-apoptotic HIF-1a target genes and apoptotic cell death in TD. These results demonstrate that induction of HIF-1a mediated transcriptional up-regulation of pro-apoptotic/inflammatory signaling contributes to astrocyte cell death during thiamine deficiency.",
+  "entities": [
+    {
+      "id": "D013832",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Thiamine deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 19
+        },
+        {
+          "text": "thiamine deficiency",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 295,
+          "length": 19
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 316,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 638,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 808,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 929,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1058,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1293,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1338,
+          "length": 2
+        },
+        {
+          "text": "TD",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1586,
+          "length": 2
+        },
+        {
+          "text": "thiamine deficiency",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1763,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "15251",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hypoxia inducible factor-1a",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 27
+        },
+        {
+          "text": "Hypoxia Inducible Factor-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 836,
+          "length": 27
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 865,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 940,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1069,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1240,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1448,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1538,
+          "length": 6
+        },
+        {
+          "text": "HIF-1a",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1634,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1111,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013831",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Thiamine",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 125,
+          "length": 8
+        },
+        {
+          "text": "thiamine",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1478,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alcohol",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 363,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired mitochondrial function",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 394,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 445,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1227,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1697,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "excitotoxicity",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 462,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 603,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 617,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 790,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemia",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 625,
+          "length": 8
+        },
+        {
+          "text": "ischemia",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 798,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 893,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological injury",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 950,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "20296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MCP1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1260,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12176",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BNIP3",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1266,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "12177",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nix",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1273,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "58801",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Noxa",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1281,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11747",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Annexin V",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1363,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "56878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "YC1",
+          "passage_index": 1,
+          "passage_offset": 125,
+          "char_offset": 1470,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000438",
+      "tail_id": "D028361",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000438",
+      "tail_id": "D064420",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000438",
+      "tail_id": "D007249",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D013831",
+      "tail_id": "15251",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D013831",
+      "tail_id": "D013832",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "56878",
+      "tail_id": "D013832",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007249",
+      "tail_id": "58801",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007249",
+      "tail_id": "12177",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007249",
+      "tail_id": "12176",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007249",
+      "tail_id": "20296",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007511",
+      "tail_id": "15251",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D000860",
+      "tail_id": "15251",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "15251",
+      "tail_id": "56878",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "15251",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "15251",
+      "tail_id": "58801",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "15251",
+      "tail_id": "12177",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "15251",
+      "tail_id": "12176",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "15251",
+      "tail_id": "20296",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D013832",
+      "tail_id": "D000438",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "D013832",
+      "tail_id": "11747",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D013832",
+      "tail_id": "58801",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "D013832",
+      "tail_id": "12177",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "D013832",
+      "tail_id": "12176",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "D013832",
+      "tail_id": "20296",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D013832",
+      "tail_id": "15251",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

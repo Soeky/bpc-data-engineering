@@ -1,0 +1,377 @@
+{
+  "doc_id": "16867246",
+  "title": "Association of DRD2 polymorphisms and chlorpromazine-induced extrapyramidal syndrome in Chinese schizophrenic patients.",
+  "body": "AIM: Extrapyramidal syndrome (EPS) is most commonly affected by typical antipsychotic drugs that have a high affinity with the D2 receptor. Recently, many research groups have reported on the positive relationship between the genetic variations in the DRD2 gene and the therapeutic response in schizophrenia patients as a result of the role of variations in the receptor in modulating receptor expression. In this study, we evaluate the role DRD2 plays in chlorpromazine-induced EPS in schizophrenic patients. METHODS: We identified seven SNP(single nucleotide polymorphism) (-141Cins>del, TaqIB, TaqID, Ser311Cys, rs6275, rs6277 and TaqIA) in the DRD2 gene in 146 schizophrenic inpatients (59 with EPS and 87 without EPS according to the Simpson-Angus Scale) treated with chlorpromazine after 8 weeks. The alleles of all loci were determined by PCR (polymerase chain reaction). RESULTS: Polymorphisms TaqID, Ser311Cys and rs6277 were not polymorphic in the population recruited in the present study. No statistical significance was found in the allele distribution of -141Cins>del, TaqIB, rs6275 and TaqIA or in the estimated haplotypes (constituted by TaqIB, rs6275 and TaqIA) in linkage disequilibrium between the two groups. CONCLUSION: Our results did not lend strong support to the view that the genetic variation of the DRD2 gene plays a major role in the individually variable adverse effect induced by chlorpromazine, at least in Chinese patients with schizophrenia. Our results confirmed a previous study on the relationship between DRD2 and EPS in Caucasians.",
+  "entities": [
+    {
+      "id": "1813",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DRD2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 4
+        },
+        {
+          "text": "D2 receptor",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 247,
+          "length": 11
+        },
+        {
+          "text": "DRD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 372,
+          "length": 4
+        },
+        {
+          "text": "DRD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 562,
+          "length": 4
+        },
+        {
+          "text": "DRD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 768,
+          "length": 4
+        },
+        {
+          "text": "DRD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1447,
+          "length": 4
+        },
+        {
+          "text": "DRD2",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1663,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002746",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "chlorpromazine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 14
+        },
+        {
+          "text": "chlorpromazine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 576,
+          "length": 14
+        },
+        {
+          "text": "chlorpromazine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 893,
+          "length": 14
+        },
+        {
+          "text": "chlorpromazine",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1531,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D001480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "extrapyramidal syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 23
+        },
+        {
+          "text": "Extrapyramidal syndrome",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 125,
+          "length": 23
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 150,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 599,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 819,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 838,
+          "length": 3
+        },
+        {
+          "text": "EPS",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1672,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012559",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "schizophrenic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 414,
+          "length": 13
+        },
+        {
+          "text": "schizophrenic",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 606,
+          "length": 13
+        },
+        {
+          "text": "schizophrenic",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 785,
+          "length": 13
+        },
+        {
+          "text": "schizophrenia",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1581,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 428,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 620,
+          "length": 8
+        },
+        {
+          "text": "inpatients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 799,
+          "length": 10
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1567,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014150",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antipsychotic drugs",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 192,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL|0141|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-141Cins>del",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 696,
+          "length": 12
+        },
+        {
+          "text": "-141Cins>del",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1189,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|S|311|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Ser311Cys",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 724,
+          "length": 9
+        },
+        {
+          "text": "Ser311Cys",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1029,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs6275",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs6275",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 735,
+          "length": 6
+        },
+        {
+          "text": "rs6275",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1210,
+          "length": 6
+        },
+        {
+          "text": "rs6275",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1281,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs6277",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs6277",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 743,
+          "length": 6
+        },
+        {
+          "text": "rs6277",
+          "passage_index": 1,
+          "passage_offset": 120,
+          "char_offset": 1043,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1813",
+      "tail_id": "D012559",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014150",
+      "tail_id": "1813",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012559",
+      "tail_id": "D002746",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001480",
+      "tail_id": "1813",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001480",
+      "tail_id": "D014150",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D002746",
+      "tail_id": "D001480",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

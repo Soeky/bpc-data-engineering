@@ -1,0 +1,241 @@
+{
+  "doc_id": "22048266",
+  "title": "Exploratory investigation on functional significance of ETS2 and SIM2 genes in Down syndrome.",
+  "body": "Trisomy of the 21{st} chromosome leads to an over dosage of several regulatory genes in Down syndrome (DS). Though allelic and genotypic combinations formed between genes are interesting, till date, this particular area has never been explored in DS. In the present investigation four SNPs in two transcription factors, Single minded 2 (SIM2) and V-ets erythroblastosis virus E26 oncogene homolog2 (ETS2), located in the 21{st} chromosome were genotyped to understand their role in DS. Genomic DNA of eastern Indian probands with DS (N=132), their parents (N=209) and ethnically matched controls (N=149) was subjected to PCR-based analyses of functionally important SNPs followed by statistical analyses. ETS2 rs461155 showed high heterozygosity in DS. Significantly lower frequency of SIM2 C-G haplotype (rs2073601-rs2073416) was noticed in individuals with DS (P value =0.01669) and their fathers (P value=0.01185). Significantly lower frequency of the A-C-C-G with higher frequency of A-C-A-G haplotypes was also noticed in subjects with DS (P value =0.02089 and 0.00588 respectively). Data obtained indicate that the rs2073601 'A' allele, responsible for nonsynonymous substitution of leucine to methionine, may have some role in DS in this population.",
+  "entities": [
+    {
+      "id": "2114",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ETS2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 56,
+          "length": 4
+        },
+        {
+          "text": "V-ets erythroblastosis virus E26 oncogene homolog2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 441,
+          "length": 50
+        },
+        {
+          "text": "ETS2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 493,
+          "length": 4
+        },
+        {
+          "text": "ETS2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 799,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "6493",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SIM2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 4
+        },
+        {
+          "text": "Single minded 2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 414,
+          "length": 15
+        },
+        {
+          "text": "SIM2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 431,
+          "length": 4
+        },
+        {
+          "text": "SIM2",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 880,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D004314",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Down syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 13
+        },
+        {
+          "text": "Down syndrome",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 182,
+          "length": 13
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 197,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 341,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 576,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 624,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 843,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 953,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1135,
+          "length": 2
+        },
+        {
+          "text": "DS",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1328,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "rs461155",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs461155",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 804,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs2073601",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2073601",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 900,
+          "length": 9
+        },
+        {
+          "text": "rs2073601",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1215,
+          "length": 9
+        },
+        {
+          "text": "leucine to methionine",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1283,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "rs2073416",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2073416",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 910,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2073416",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2073601",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs461155",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "2114",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "6493",
+      "tail_id": "D004314",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

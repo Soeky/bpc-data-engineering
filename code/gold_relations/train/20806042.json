@@ -1,0 +1,226 @@
+{
+  "doc_id": "20806042",
+  "title": "A novel mutation in GJA8 causing congenital cataract-microcornea syndrome in a Chinese pedigree.",
+  "body": "PURPOSE: To identify the underlying genetic defect in a four-generation family of Chinese origin with autosomal dominant congenital cataract-microcornea syndrome (CCMC). METHODS: All individuals in the study underwent a full clinical examination and the details of history were collected . Genomic DNA extracted from peripheral blood was amplified by polymerase chain reaction (PCR) method and the exons of all candidate genes were sequenced. RESULTS: Direct sequencing of the encoding regions of the candidate genes revealed a heterozygous mutation c.592C-->T in exon 2 of the gap junction protein, alpha 8 (GJA8) gene. This mutation was responsible for the familial disorder through the substitution of a highly conserved arginine to tryptophan at codon 198 (p.R198W). This change co-segregated with all affected members of the family, but was not detected either in the non-carrier relatives or in the 100 normal controls. CONCLUSIONS: This report is the first to relate p.R198W mutation in GJA8 with CCMC. The result expands the mutation spectrum of GJA8 in associated with congenital cataract and microcornea, and implies that this gene has direct involvement with the development of the lens as well as the other anterior segment of the eye.",
+  "entities": [
+    {
+      "id": "2703",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GJA8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 4
+        },
+        {
+          "text": "gap junction protein, alpha 8",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 675,
+          "length": 29
+        },
+        {
+          "text": "GJA8",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 706,
+          "length": 4
+        },
+        {
+          "text": "GJA8",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1091,
+          "length": 4
+        },
+        {
+          "text": "GJA8",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1151,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C538287",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cataract-microcornea syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 29
+        },
+        {
+          "text": "cataract-microcornea syndrome",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 229,
+          "length": 29
+        },
+        {
+          "text": "CCMC",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 260,
+          "length": 4
+        },
+        {
+          "text": "CCMC",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1101,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "genetic defect",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 133,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|592|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.592C-->T",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 647,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|198|W",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine to tryptophan at codon 198",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 821,
+          "length": 35
+        },
+        {
+          "text": "p.R198W",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 858,
+          "length": 7
+        },
+        {
+          "text": "p.R198W",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1071,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D002386",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cataract",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1186,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005124",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "microcornea",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1199,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|C|592|T",
+      "tail_id": "D005124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|C|592|T",
+      "tail_id": "C538287",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002386",
+      "tail_id": "c|SUB|C|592|T",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|R|198|W",
+      "tail_id": "D005124",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "p|SUB|R|198|W",
+      "tail_id": "D002386",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|SUB|R|198|W",
+      "tail_id": "C538287",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "2703",
+      "tail_id": "D005124",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "2703",
+      "tail_id": "D002386",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C538287",
+      "tail_id": "2703",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

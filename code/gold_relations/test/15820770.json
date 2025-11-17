@@ -1,0 +1,313 @@
+{
+  "doc_id": "15820770",
+  "title": "Vitamin D-binding protein gene polymorphism association with IA-2 autoantibodies in type 1 diabetes.",
+  "body": "BACKGROUND: Vitamin D-binding protein (DBP) is the main systemic transporter of 1.25(OH)2D3 and is essential for its cellular endocytosis. There are two known polymorphisms in exon 11 of the DBP gene resulting in amino acid variants: GAT-->GAG substitution replaces aspartic acid by glutamic acid in codon 416; and ACG-->AAG substitution in codon 420 leads to an exchange of threonine for lysine. These DBP variants lead to differences in the affinity for 1.25(OH)2D3. Correlations between DBP alleles and type 1 diabetes have been described in different populations. Therefore, we investigated the polymorphism in codon 416 of the DBP gene for an association with autoimmune markers of type 1 diabetes. DESIGN AND METHODS: The present analysis was a case control study. 110 patients, 68 controls, and 115 first-degree relatives were genotyped for the DBP polymorphism in codon 416. DNA typing of DBP locus was performed by the PCR-restriction fragment length polymorphism method (RFLP). RESULTS: The frequencies of the Asp/Glu and Glu/Glu were significantly increased in diabetic subjects with detectable IA-2 antibodies (P < 0.01). On the contrary, the DBP Glu-containing genotype was not accompanied by differences in the prevalence of GAD65 antibodies. These finding supports a role of the vitamin D endocrine system in the autoimmune process of type 1 diabetes.",
+  "entities": [
+    {
+      "id": "2638",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vitamin D-binding protein",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 25
+        },
+        {
+          "text": "Vitamin D-binding protein",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 113,
+          "length": 25
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 140,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 292,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 504,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 591,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 733,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 953,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 998,
+          "length": 3
+        },
+        {
+          "text": "DBP",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1256,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5798",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IA-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 4
+        },
+        {
+          "text": "IA-2",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1207,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003922",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 607,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 788,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1451,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D002117",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "1.25(OH)2D3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 181,
+          "length": 11
+        },
+        {
+          "text": "1.25(OH)2D3",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 557,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|D|416|E",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "GAT-->GAG substitution replaces aspartic acid by glutamic acid in codon 416",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 335,
+          "length": 75
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|T|420|K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "ACG-->AAG substitution in codon 420",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 416,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|T||K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "threonine for lysine",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 476,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 876,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1173,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "2572",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GAD65",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1340,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D014807",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vitamin D",
+          "passage_index": 1,
+          "passage_offset": 101,
+          "char_offset": 1395,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|T||K",
+      "tail_id": "D002117",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|T|420|K",
+      "tail_id": "D002117",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|D|416|E",
+      "tail_id": "D002117",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D014807",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5798",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5798",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "2638",
+      "tail_id": "D002117",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "2638",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "2638",
+      "tail_id": "5798",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

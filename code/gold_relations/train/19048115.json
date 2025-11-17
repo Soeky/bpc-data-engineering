@@ -1,0 +1,452 @@
+{
+  "doc_id": "19048115",
+  "title": "Neurofibromin 1 (NF1) defects are common in human ovarian serous carcinomas and co-occur with TP53 mutations.",
+  "body": "Ovarian serous carcinoma (OSC) is the most common and lethal histologic type of ovarian epithelial malignancy. Mutations of TP53 and dysfunction of the Brca1 and/or Brca2 tumor-suppressor proteins have been implicated in the molecular pathogenesis of a large fraction of OSCs, but frequent somatic mutations in other well-established tumor-suppressor genes have not been identified. Using a genome-wide screen of DNA copy number alterations in 36 primary OSCs, we identified two tumors with apparent homozygous deletions of the NF1 gene. Subsequently, 18 ovarian carcinoma-derived cell lines and 41 primary OSCs were evaluated for NF1 alterations. Markedly reduced or absent expression of Nf1 protein was observed in 6 of the 18 cell lines, and using the protein truncation test and sequencing of cDNA and genomic DNA, NF1 mutations resulting in deletion of exons and/or aberrant splicing of NF1 transcripts were detected in 5 of the 6 cell lines with loss of NF1 expression. Similarly, NF1 alterations including homozygous deletions and splicing mutations were identified in 9 (22%) of 41 primary OSCs. As expected, tumors and cell lines with NF1 defects lacked mutations in KRAS or BRAF but showed Ras pathway activation based on immunohistochemical detection of phosphorylated MAPK (primary tumors) or increased levels of GTP-bound Ras (cell lines). The TP53 tumor-suppressor gene was mutated in all OSCs with documented NF1 mutation, suggesting that the pathways regulated by these two tumor-suppressor proteins often cooperate in the development of ovarian carcinomas with serous differentiation.",
+  "entities": [
+    {
+      "id": "4763",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Neurofibromin 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "NF1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 638,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 741,
+          "length": 3
+        },
+        {
+          "text": "Nf1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 799,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 929,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1002,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1070,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1097,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1254,
+          "length": 3
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1534,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D010051",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ovarian serous carcinomas",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 25
+        },
+        {
+          "text": "Ovarian serous carcinoma",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 110,
+          "length": 24
+        },
+        {
+          "text": "OSC",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 136,
+          "length": 3
+        },
+        {
+          "text": "OSCs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 381,
+          "length": 4
+        },
+        {
+          "text": "OSCs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 565,
+          "length": 4
+        },
+        {
+          "text": "ovarian carcinoma",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 665,
+          "length": 17
+        },
+        {
+          "text": "OSCs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 717,
+          "length": 4
+        },
+        {
+          "text": "OSCs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1208,
+          "length": 4
+        },
+        {
+          "text": "OSCs",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1513,
+          "length": 4
+        },
+        {
+          "text": "ovarian carcinomas",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1664,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TP53",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 94,
+          "length": 4
+        },
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 234,
+          "length": 4
+        },
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1467,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002277",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ovarian epithelial malignancy",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 190,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "672",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Brca1",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 262,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "675",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Brca2",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 275,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 281,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 444,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 589,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1227,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1404,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1472,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1600,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3845",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1286,
+          "length": 4
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1310,
+          "length": 3
+        },
+        {
+          "text": "Ras",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1445,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "673",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1294,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1390,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006160",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GTP",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1435,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5594",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006160",
+      "tail_id": "3845",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010051",
+      "tail_id": "4763",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "675",
+      "tail_id": "D010051",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "672",
+      "tail_id": "D010051",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D009369",
+      "tail_id": "3845",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D009369",
+      "tail_id": "675",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009369",
+      "tail_id": "672",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009369",
+      "tail_id": "4763",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "7157",
+      "tail_id": "D010051",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "7157",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "4763",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

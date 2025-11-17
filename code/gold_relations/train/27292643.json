@@ -1,0 +1,226 @@
+{
+  "doc_id": "27292643",
+  "title": "Negative Selection and Chromosome Instability Induced by Mad2 Overexpression Delay Breast Cancer but Facilitate Oncogene-Independent Outgrowth.",
+  "body": "Chromosome instability (CIN) is associated with poor survival and therapeutic outcome in a number of malignancies. Despite this correlation, CIN can also lead to growth disadvantages. Here, we show that simultaneous overexpression of the mitotic checkpoint protein Mad2 with Kras(G12D) or Her2 in mammary glands of adult mice results in mitotic checkpoint overactivation and a delay in tumor onset. Time-lapse imaging of organotypic cultures and pathologic analysis prior to tumor establishment reveals error-prone mitosis, mitotic arrest, and cell death. Nonetheless, Mad2 expression persists and increases karyotype complexity in Kras tumors. Faced with the selective pressure of oncogene withdrawal, Mad2-positive tumors have a higher frequency of developing persistent subclones that avoid remission and continue to grow.",
+  "entities": [
+    {
+      "id": "D043171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Chromosome Instability",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 22
+        },
+        {
+          "text": "Chromosome instability",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 144,
+          "length": 22
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 168,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 285,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "56150",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mad2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 4
+        },
+        {
+          "text": "Mad2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 409,
+          "length": 4
+        },
+        {
+          "text": "Mad2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 713,
+          "length": 4
+        },
+        {
+          "text": "Mad2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 847,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Breast Cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignancies",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 245,
+          "length": 12
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 530,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 619,
+          "length": 5
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 781,
+          "length": 6
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 861,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 419,
+          "length": 4
+        },
+        {
+          "text": "G12D",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 424,
+          "length": 4
+        },
+        {
+          "text": "Kras",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 776,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "13866",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Her2",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 433,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 465,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "13866",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "16653",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "56150",
+      "tail_id": "16653",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "56150",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "56150",
+      "tail_id": "D001943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D043171",
+      "tail_id": "56150",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

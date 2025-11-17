@@ -1,0 +1,383 @@
+{
+  "doc_id": "28398555",
+  "title": "Biophysical and functional characterization of hippocalcin mutants responsible for human dystonia.",
+  "body": "Dystonia is a neurological movement disorder that forces the body into twisting, repetitive movements or sometimes painful abnormal postures. With the advent of next-generation sequencing technologies, the homozygous mutations T71N and A190T in the neuronal calcium sensor (NCS) hippocalcin were identified as the genetic cause of primary isolated dystonia (DYT2 dystonia). However, the effect of these mutations on the physiological role of hippocalcin has not yet been elucidated. Using a multidisciplinary approach, we demonstrated that hippocalcin oligomerises in a calcium-dependent manner and binds to voltage-gated calcium channels. Mutations T71N and A190T in hippocalcin did not affect stability, calcium-binding affinity or translocation to cellular membranes (Ca2+/myristoyl switch). We obtained the first crystal structure of hippocalcin and alignment with other NCS proteins showed significant variability in the orientation of the C-terminal part of the molecule, the region expected to be important for target binding. We demonstrated that the disease-causing mutations did not affect the structure of the protein, however both mutants showed a defect in oligomerisation. In addition, we observed an increased calcium influx in KCl-depolarised cells expressing mutated hippocalcin, mostly driven by N-type voltage-gated calcium channels. Our data demonstrate that the dystonia-causing mutations strongly affect hippocalcin cellular functions which suggest a central role for perturbed calcium signalling in DYT2 dystonia.",
+  "entities": [
+    {
+      "id": "3208",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hippocalcin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 11
+        },
+        {
+          "text": "neuronal calcium sensor",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 348,
+          "length": 23
+        },
+        {
+          "text": "NCS",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 373,
+          "length": 3
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 378,
+          "length": 11
+        },
+        {
+          "text": "DYT2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 457,
+          "length": 4
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 541,
+          "length": 11
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 639,
+          "length": 11
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 767,
+          "length": 11
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 937,
+          "length": 11
+        },
+        {
+          "text": "NCS",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 974,
+          "length": 3
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1383,
+          "length": 11
+        },
+        {
+          "text": "hippocalcin",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1525,
+          "length": 11
+        },
+        {
+          "text": "DYT2",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1621,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004421",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dystonia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 8
+        },
+        {
+          "text": "Dystonia",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 99,
+          "length": 8
+        },
+        {
+          "text": "primary isolated dystonia",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 430,
+          "length": 25
+        },
+        {
+          "text": "dystonia",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 462,
+          "length": 8
+        },
+        {
+          "text": "dystonia",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1482,
+          "length": 8
+        },
+        {
+          "text": "dystonia",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1626,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological movement disorder",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 113,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "rs775863165",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "T71N",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 326,
+          "length": 4
+        },
+        {
+          "text": "T71N",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 749,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs550921485",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "A190T",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 335,
+          "length": 5
+        },
+        {
+          "text": "A190T",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 758,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 669,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 805,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1324,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1599,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "783",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "voltage-gated calcium channels",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 707,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D000069285",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 870,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011189",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "KCl",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1342,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "774",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-type voltage-gated calcium channels",
+          "passage_index": 1,
+          "passage_offset": 99,
+          "char_offset": 1413,
+          "length": 37
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "774",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011189",
+      "tail_id": "774",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002118",
+      "tail_id": "D011189",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D002118",
+      "tail_id": "D004421",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004421",
+      "tail_id": "rs550921485",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004421",
+      "tail_id": "rs775863165",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "3208",
+      "tail_id": "774",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "3208",
+      "tail_id": "D011189",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "3208",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "3208",
+      "tail_id": "783",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "3208",
+      "tail_id": "D004421",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "doc_id": "16419642",
+  "title": "A novel missense mutation, F826Y, in the mineralocorticoid receptor gene in Japanese hypertensives: its implications for clinical phenotypes.",
+  "body": "A gain-of-function mutation resulting in the S810L amino acid substitution in the hormone-binding domain of the mineralocorticoid receptor (MR, locus symbol NR3C2) is responsible for early-onset hypertension that is exacerbated in pregnancy. The objective of this study was to test whether other types of missense mutations in the hormone-binding domain could be implicated in hypertension in Japanese. Here, we screened 942 Japanese patients with hypertension for the S810L mutation in exon 6 in the MR. We did not identify the S810L mutation in our hypertensive population, indicating that S810L does not play a major role in the etiology of essential hypertension in Japanese. However, we identified a novel missense mutation, F826Y, in three patients in a heterozygous state, in addition to four single nucleotide polymorphisms, including one synonymous mutation (L809L). The F826Y mutation is present in the MR hormone-binding domain and might affect the ligand affinity. The F826Y mutation was also identified in 13 individuals (5 hypertensives and 8 normotensives) in a Japanese general population (n=3,655). The allele frequency was 0.00178. The frequencies of the F826Y mutation in the hypertensive population (3/942) and in the hypertensive group (5/ 1,480) and the normotensive group (8/2,175) in the general population were not significantly different, suggesting that this mutation does not greatly affect hypertension. Although it is unclear at present whether or not the F826Y mutation makes a substantial contribution to the mineralocorticoid receptor activity, this missense mutation may contribute, to some extent, to clinical phenotypes through its effects on MR.",
+  "entities": [
+    {
+      "id": "rs13306592",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "F826Y",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 5
+        },
+        {
+          "text": "F826Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 872,
+          "length": 5
+        },
+        {
+          "text": "F826Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1022,
+          "length": 5
+        },
+        {
+          "text": "F826Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1123,
+          "length": 5
+        },
+        {
+          "text": "F826Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1315,
+          "length": 5
+        },
+        {
+          "text": "F826Y",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1628,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4306",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mineralocorticoid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 26
+        },
+        {
+          "text": "mineralocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 254,
+          "length": 26
+        },
+        {
+          "text": "MR",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 282,
+          "length": 2
+        },
+        {
+          "text": "NR3C2",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 299,
+          "length": 5
+        },
+        {
+          "text": "MR",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 643,
+          "length": 2
+        },
+        {
+          "text": "MR",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1055,
+          "length": 2
+        },
+        {
+          "text": "mineralocorticoid receptor",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1683,
+          "length": 26
+        },
+        {
+          "text": "MR",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1821,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertensives",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 13
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 337,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 519,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 590,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 693,
+          "length": 12
+        },
+        {
+          "text": "hypertensives",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1179,
+          "length": 13
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1337,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1380,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1561,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "rs41511344",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S810L",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 187,
+          "length": 5
+        },
+        {
+          "text": "S810L",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 611,
+          "length": 5
+        },
+        {
+          "text": "S810L",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 671,
+          "length": 5
+        },
+        {
+          "text": "S810L",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 734,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 576,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 888,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000075222",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "essential hypertension",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 786,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "rs145670736",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L809L",
+          "passage_index": 1,
+          "passage_offset": 142,
+          "char_offset": 1010,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs41511344",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000075222",
+      "tail_id": "rs145670736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "4306",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs13306592",
+      "tail_id": "D006973",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

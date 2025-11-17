@@ -1,0 +1,374 @@
+{
+  "doc_id": "24709919",
+  "title": "Effects of ginsenosides on opioid-induced hyperalgesia in mice.",
+  "body": "Opioid-induced hyperalgesia (OIH) is characterized by nociceptive sensitization caused by the cessation of chronic opioid use. OIH can limit the clinical use of opioid analgesics and complicate withdrawal from opioid addiction. In this study, we investigated the effects of Re, Rg1, and Rb1 ginsenosides, the bioactive components of ginseng, on OIH. OIH was achieved in mice after subcutaneous administration of morphine for 7 consecutive days three times per day. During withdrawal (days 8 and 9), these mice were administered Re, Rg1, or Rb1 intragastrically two times per day. On the test day (day 10), mice were subjected to the thermal sensitivity test and the acetic acid-induced writhing test. Re (300 mg/kg) inhibited OIH in both the thermal sensitivity test and the acetic acid-induced writhing test. However, the Rg1 and Rb1 ginsenosides failed to prevent OIH in either test. Furthermore, Rg1 showed a tendency to aggravate OIH in the acetic acid-induced writhing test. Our data suggested that the ginsenoside Re, but not Rg1 or Rb1, may contribute toward reversal of OIH.",
+  "entities": [
+    {
+      "id": "D036145",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ginsenosides",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000701",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opioid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 6
+        },
+        {
+          "text": "Opioid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 64,
+          "length": 6
+        },
+        {
+          "text": "opioid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 179,
+          "length": 6
+        },
+        {
+          "text": "opioid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 225,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006930",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperalgesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 12
+        },
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 79,
+          "length": 12
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 93,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 191,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 409,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 414,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 790,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 930,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 998,
+          "length": 3
+        },
+        {
+          "text": "OIH",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1142,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 434,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 569,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 670,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009293",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "opioid addiction",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 274,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "C035054,C049864,C442759",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Re, Rg1, and Rb1 ginsenosides",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 338,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "4054",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "ginseng",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 397,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009020",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "morphine",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 476,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C049864",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Re",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 592,
+          "length": 2
+        },
+        {
+          "text": "Re",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 765,
+          "length": 2
+        },
+        {
+          "text": "ginsenoside Re",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1072,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "C035054",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 596,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 963,
+          "length": 3
+        },
+        {
+          "text": "Rg1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1096,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C442759",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Rb1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 604,
+          "length": 3
+        },
+        {
+          "text": "Rb1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1103,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D019342",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetic acid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 730,
+          "length": 11
+        },
+        {
+          "text": "acetic acid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 839,
+          "length": 11
+        },
+        {
+          "text": "acetic acid",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1009,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C035054,C442759",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Rg1 and Rb1 ginsenosides",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 887,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C049864",
+      "tail_id": "D000701",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C049864",
+      "tail_id": "D006930",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C035054",
+      "tail_id": "D006930",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000701",
+      "tail_id": "D006930",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D036145",
+      "tail_id": "D000701",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D036145",
+      "tail_id": "D006930",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

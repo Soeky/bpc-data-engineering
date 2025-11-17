@@ -1,0 +1,415 @@
+{
+  "doc_id": "16970763",
+  "title": "Mutations in the NDP gene: contribution to Norrie disease, familial exudative vitreoretinopathy and retinopathy of prematurity.",
+  "body": "BACKGROUND: To examine the contribution of mutations within the Norrie disease (NDP) gene to the clinically similar retinal diseases Norrie disease, X-linked familial exudative vitreoretinopathy (FEVR), Coat's disease and retinopathy of prematurity (ROP). METHODS: A dataset comprising 13 Norrie-FEVR, one Coat's disease, 31 ROP patients and 90 ex-premature babies of <32 weeks' gestation underwent an ophthalmologic examination and were screened for mutations within the NDP gene by direct DNA sequencing, denaturing high-performance liquid chromatography or gel electrophoresis. Controls were only screened using denaturing high-performance liquid chromatography and gel electrophoresis. Confirmation of mutations identified was obtained by DNA sequencing. RESULTS: Evidence for two novel mutations in the NDP gene was presented: Leu103Val in one FEVR patient and His43Arg in monozygotic twin Norrie disease patients. Furthermore, a previously described 14-bp deletion located in the 5' unstranslated region of the NDP gene was detected in three cases of regressed ROP. A second heterozygotic 14-bp deletion was detected in an unaffected ex-premature girl. Only two of the 13 Norrie-FEVR index cases had the full features of Norrie disease with deafness and mental retardation. CONCLUSION: Two novel mutations within the coding region of the NDP gene were found, one associated with a severe disease phenotypes of Norrie disease and the other with FEVR. A deletion within the non-coding region was associated with only mild-regressed ROP, despite the presence of low birthweight, prematurity and exposure to oxygen. In full-term children with retinal detachment only 15% appear to have the full features of Norrie disease and this is important for counselling parents on the possible long-term outcome.",
+  "entities": [
+    {
+      "id": "4693",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NDP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 3
+        },
+        {
+          "text": "NDP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 208,
+          "length": 3
+        },
+        {
+          "text": "NDP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 600,
+          "length": 3
+        },
+        {
+          "text": "NDP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 936,
+          "length": 3
+        },
+        {
+          "text": "NDP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1145,
+          "length": 3
+        },
+        {
+          "text": "NDP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1472,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C537849",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Norrie disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 14
+        },
+        {
+          "text": "Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 192,
+          "length": 14
+        },
+        {
+          "text": "retinal diseases Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 244,
+          "length": 31
+        },
+        {
+          "text": "Norrie-FEVR",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 417,
+          "length": 11
+        },
+        {
+          "text": "Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1023,
+          "length": 14
+        },
+        {
+          "text": "Norrie-FEVR",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1306,
+          "length": 11
+        },
+        {
+          "text": "Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1355,
+          "length": 14
+        },
+        {
+          "text": "Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1544,
+          "length": 14
+        },
+        {
+          "text": "Norrie disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1837,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000080345",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "familial exudative vitreoretinopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 36
+        },
+        {
+          "text": "X-linked familial exudative vitreoretinopathy",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 277,
+          "length": 45
+        },
+        {
+          "text": "FEVR",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 324,
+          "length": 4
+        },
+        {
+          "text": "FEVR",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 977,
+          "length": 4
+        },
+        {
+          "text": "FEVR",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1578,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012178",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinopathy of prematurity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 26
+        },
+        {
+          "text": "retinopathy of prematurity",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 350,
+          "length": 26
+        },
+        {
+          "text": "ROP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 378,
+          "length": 3
+        },
+        {
+          "text": "ROP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 453,
+          "length": 3
+        },
+        {
+          "text": "ROP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1195,
+          "length": 3
+        },
+        {
+          "text": "ROP",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1664,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D058456",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Coat's disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 331,
+          "length": 14
+        },
+        {
+          "text": "Coat's disease",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 434,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 457,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 982,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1038,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|103|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Leu103Val",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 960,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|H|43|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "His43Arg",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 994,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||14",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "14-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1084,
+          "length": 14
+        },
+        {
+          "text": "14-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1223,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D003638",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "deafness",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1375,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1388,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007235",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prematurity",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1710,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1738,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D012163",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinal detachment",
+          "passage_index": 1,
+          "passage_offset": 128,
+          "char_offset": 1773,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL||14",
+      "tail_id": "D012178",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "p|SUB|H|43|R",
+      "tail_id": "C537849",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|L|103|V",
+      "tail_id": "D000080345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4693",
+      "tail_id": "D012178",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4693",
+      "tail_id": "D000080345",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "4693",
+      "tail_id": "C537849",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

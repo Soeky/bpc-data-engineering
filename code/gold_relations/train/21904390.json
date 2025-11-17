@@ -1,0 +1,417 @@
+{
+  "doc_id": "21904390",
+  "title": "Two novel mutations of the PAX6 gene causing different phenotype in a cohort of Chinese patients.",
+  "body": "PURPOSE: Aniridia (AN) is a rare congenital panocular disorder caused by the mutations of the paired box homeotic gene 6(PAX6) gene. The PAX6 gene is also involved in other anterior segment malformations including Peters anomaly. We studied the PAX6 gene mutations in a cohort of affected individuals with different clinical phenotype including AN, coloboma of iris and choroid, or anterior segment malformations. PATIENTS AND METHODS: Six unrelated families and 10 sporadic patients were examined clinically. After informed consent was obtained, genomic DNA was extracted from the venous blood of all participants. Mutation screening of all exons of the PAX6 gene was performed by direct sequencing of PCR-amplified DNA fragments. Multiplex ligation-dependent probe amplification (MLPA) was performed to detect large deletions. RESULTS: By clinical examination, the patients and the pedigrees were divided into the following three groups: AN, coloboma of iris and choroids, and the anterior segment malformations including peters anomaly. Sequencing of the PAX6 gene, three intragenic mutations including a novel heterozygous splicing-site mutations c.357-3C>G (p.Ser119fsX) were identified in the patients of the AN group. A novel missense mutation c.643T>C (p.S216P) was detected in the anterior segment malformation group. The mutation p.S216P located in the homeodomain region of the PAX6 caused the phenotype of Peters anomaly in family A6 with different expressing. Through MLPA analysis, a large deletion including the whole PAX6 gene and DKFZ p686k1684 gene was detected in one sporadic patient from the AN group. Neither intragenic mutation nor large deletion was identified in the group with coloboma of iris and choroid. CONCLUSION: Our findings further confirmed that different kind of mutations might cause different ocular phenotype, and clearly clinical phenotype classification might increase the mutation detection rate of the PAX6 gene.",
+  "entities": [
+    {
+      "id": "5080",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PAX6",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 4
+        },
+        {
+          "text": "paired box homeotic gene 6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 192,
+          "length": 26
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 219,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 235,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 343,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 753,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1156,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1487,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1631,
+          "length": 4
+        },
+        {
+          "text": "PAX6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 2043,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 512,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 573,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 965,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1297,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1694,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D015783",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Aniridia",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 107,
+          "length": 8
+        },
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 117,
+          "length": 2
+        },
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 443,
+          "length": 2
+        },
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1038,
+          "length": 2
+        },
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1313,
+          "length": 2
+        },
+        {
+          "text": "AN",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1711,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D000013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital panocular disorder",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 131,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "C537775",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anterior segment malformations",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 271,
+          "length": 30
+        },
+        {
+          "text": "anterior segment malformations",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 480,
+          "length": 30
+        },
+        {
+          "text": "anterior segment malformations",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1081,
+          "length": 30
+        },
+        {
+          "text": "anterior segment malformation",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1388,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "C537884",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Peters anomaly",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 312,
+          "length": 14
+        },
+        {
+          "text": "peters anomaly",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1122,
+          "length": 14
+        },
+        {
+          "text": "Peters anomaly",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1516,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D003103",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "coloboma of iris and choroid",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 447,
+          "length": 28
+        },
+        {
+          "text": "coloboma of iris and choroids",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1042,
+          "length": 29
+        },
+        {
+          "text": "coloboma of iris and choroid",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1801,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|357-3|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.357-3C>G",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1249,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "p|FS|S|119||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.Ser119fsX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1261,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|643|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.643T>C",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1349,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|S|216|P",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.S216P",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1359,
+          "length": 7
+        },
+        {
+          "text": "p.S216P",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1438,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DKFZ p686k1684",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1645,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|T|643|C",
+      "tail_id": "C537884",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|T|643|C",
+      "tail_id": "C537775",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|SUB|S|216|P",
+      "tail_id": "C537884",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|S|216|P",
+      "tail_id": "C537775",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|SUB|C|357-3|G",
+      "tail_id": "D015783",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|FS|S|119||",
+      "tail_id": "D015783",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5080",
+      "tail_id": "C537884",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "5080",
+      "tail_id": "C537775",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D015783",
+      "tail_id": "5080",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

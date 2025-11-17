@@ -1,0 +1,342 @@
+{
+  "doc_id": "16506214",
+  "title": "Genetic variation in the COX-2 gene and the association with prostate cancer risk.",
+  "body": "COX-2 is a key enzyme in the conversion of arachidonic acid to prostaglandins. The prostaglandins produced by COX-2 are involved in inflammation and pain response in different tissues in the body. Accumulating evidence from epidemiologic studies, chemical carcinogen-induced rodent models and clinical trials indicate that COX-2 plays a role in human carcinogenesis and is overexpressed in prostate cancer tissue. We examined whether sequence variants in the COX-2 gene are associated with prostate cancer risk. We analyzed a large population-based case-control study, cancer prostate in Sweden (CAPS) consisting of 1,378 cases and 782 controls. We evaluated 16 single nucleotide polymorphisms (SNPs) spanning the entire COX-2 gene in 94 subjects of the control group. Five SNPs had a minor allele frequency of more than 5% in our study population and these were genotyped in all case patients and control subjects and gene-specific haplotypes were constructed. A statistically significant difference in allele frequency between cases and controls was observed for 2 of the SNPs (+3100 T/G and +8365 C/T), with an odds ratio of 0.78 (95% CI=0.64-0.96) and 0.65 (95% CI=0.45-0.94) respectively. In the haplotype analysis, 1 haplotype carrying the variant allele from both +3100 T/G and +8365 C/T, with a population frequency of 3%, was also significantly associated with decreased risk of prostate cancer (p=0.036, global simulated p-value=0.046). This study supports the hypothesis that inflammation is involved in prostate carcinogenesis and that sequence variation within the COX-2 gene influence the risk of prostate cancer.",
+  "entities": [
+    {
+      "id": "4513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COX-2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 83,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 193,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 406,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 542,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 804,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1661,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 473,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 573,
+          "length": 15
+        },
+        {
+          "text": "cancer prostate",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 652,
+          "length": 15
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1471,
+          "length": 15
+        },
+        {
+          "text": "prostate carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1598,
+          "length": 23
+        },
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1694,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D016718",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "arachidonic acid",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 126,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D011453",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "prostaglandins",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 146,
+          "length": 14
+        },
+        {
+          "text": "prostaglandins",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 166,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 215,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1570,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 232,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 428,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 968,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "carcinogenesis",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 434,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|T|+3100|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "+3100 T/G",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1163,
+          "length": 9
+        },
+        {
+          "text": "+3100 T/G",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1354,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|+8365|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "+8365 C/T",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1177,
+          "length": 9
+        },
+        {
+          "text": "+8365 C/T",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1368,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|C|+8365|T",
+      "tail_id": "D011471",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|T|+3100|G",
+      "tail_id": "c|SUB|C|+8365|T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|SUB|T|+3100|G",
+      "tail_id": "D011471",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011453",
+      "tail_id": "D010146",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D011453",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016718",
+      "tail_id": "D011453",
+      "type": "Conversion",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4513",
+      "tail_id": "D010146",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "4513",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "4513",
+      "tail_id": "D011453",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "4513",
+      "tail_id": "D016718",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "4513",
+      "tail_id": "D011471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "4513",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

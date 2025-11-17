@@ -1,0 +1,514 @@
+{
+  "doc_id": "15859361",
+  "title": "Safety of celecoxib in patients with adverse skin reactions to acetaminophen (paracetamol) and nimesulide associated or not with common non-steroidal anti-inflammatory drugs.",
+  "body": "BACKGROUND: Acetaminophen (paracetamol--P) and Nimesulide (N) are widely used analgesic-antipyretic/anti-inflammatory drugs. The rate of adverse hypersensitivity reactions to these agents is generally low. On the contrary non-steroidal anti-inflammatory drugs (NSAIDs) are commonly involved in such reactions. Celecoxib (CE) is a novel drug, with high selectivity and affinity for COX-2 enzyme. OBJECTIVE: We evaluated the tolerability of CE in a group of patients with documented history of adverse cutaneous reactions to P and N associated or not to classic NSAIDs. METHODS: We studied 9 patients with hypersensitivity to P and N with or without associated reactions to classic NSAIDs. The diagnosis of P and N-induced skin reactions was based in vivo challenge. The placebo was blindly administered at the beginning of each challenge. After three days, a cumulative dosage of 200 mg of CE in refracted doses were given. After 2-3 days, a single dose of 200 mg was administered. All patients were observed for 6 hours after each challenge, and controlled again after 24 hours to exclude delayed reactions. The challenge was considered positive if one or more of the following appeared: erythema, rush or urticaria-angioedema. RESULTS: No reaction was observed with placebo and eight patients (88.8%) tolerated CE. Only one patient developed a moderate angioedema of the lips. CONCLUSION: Only one hypersensitivity reaction to CE was documented among 9 P and N-highly NSAIDs intolerant patients. Thus, we conclude that CE is a reasonably safe alternative to be used in subjects who do not tolerate P and N.",
+  "entities": [
+    {
+      "id": "C105934",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "celecoxib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 9
+        },
+        {
+          "text": "Celecoxib",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 485,
+          "length": 9
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 496,
+          "length": 2
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 614,
+          "length": 2
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1064,
+          "length": 2
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1487,
+          "length": 2
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1603,
+          "length": 2
+        },
+        {
+          "text": "CE",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1695,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 631,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 765,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1160,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1460,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1500,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1662,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003875",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "skin reactions",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 14
+        },
+        {
+          "text": "cutaneous reactions",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 675,
+          "length": 19
+        },
+        {
+          "text": "skin reactions",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 896,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000082",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetaminophen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 13
+        },
+        {
+          "text": "paracetamol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 11
+        },
+        {
+          "text": "Acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 187,
+          "length": 13
+        },
+        {
+          "text": "paracetamol",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 202,
+          "length": 11
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 215,
+          "length": 1
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 698,
+          "length": 1
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 799,
+          "length": 1
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 880,
+          "length": 1
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1629,
+          "length": 1
+        },
+        {
+          "text": "P",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1774,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "C012655",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nimesulide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 10
+        },
+        {
+          "text": "Nimesulide",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 222,
+          "length": 10
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 234,
+          "length": 1
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 704,
+          "length": 1
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 805,
+          "length": 1
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 886,
+          "length": 1
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1635,
+          "length": 1
+        },
+        {
+          "text": "N",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1780,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "id": "D000894",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "non-steroidal anti-inflammatory drugs",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 136,
+          "length": 37
+        },
+        {
+          "text": "non-steroidal anti-inflammatory drugs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 397,
+          "length": 37
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 436,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 735,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 855,
+          "length": 6
+        },
+        {
+          "text": "NSAIDs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1644,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D058633",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antipyretic",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 263,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000893",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anti-inflammatory drugs",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 275,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D004342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 320,
+          "length": 16
+        },
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 779,
+          "length": 16
+        },
+        {
+          "text": "hypersensitivity",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1574,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "4513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 556,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004890",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "erythema",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1363,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014581",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "urticaria",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1381,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000799",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "angioedema",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1391,
+          "length": 10
+        },
+        {
+          "text": "angioedema",
+          "passage_index": 1,
+          "passage_offset": 175,
+          "char_offset": 1529,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C012655",
+      "tail_id": "D003875",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C012655",
+      "tail_id": "D004342",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D004342",
+      "tail_id": "D000894",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000082",
+      "tail_id": "D003875",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000082",
+      "tail_id": "D004342",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C105934",
+      "tail_id": "D000799",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C105934",
+      "tail_id": "C012655",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C105934",
+      "tail_id": "D000082",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C105934",
+      "tail_id": "4513",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

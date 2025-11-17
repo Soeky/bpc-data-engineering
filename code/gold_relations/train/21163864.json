@@ -1,0 +1,280 @@
+{
+  "doc_id": "21163864",
+  "title": "The M235T polymorphism of the angiotensinogen gene in South Indian patients of hypertrophic cardiomyopathy.",
+  "body": "INTRODUCTION: Hypertrophic cardiomyopathy (HCM) is a complex disorder and genetically transmitted cardiac disease with a diverse clinical course. The objective of the present study was to examine the association of the T704C polymorphism of exon 2 of the angiotensinogen (AGT) gene with HCM in a South Indian population from Andhra Pradesh. Subjects and methods. One-hundred and fifty HCM (90 sporadic hypertrophic cardiomyopathy [SHCM] and 60 familial hypertrophic cardiomyopathy [FHCM]) patients and 165 age- and sex-matched normal healthy controls without known hypertension and left ventricular hypertrophy were included in the study. DNA was isolated from peripheral leukocytes and the region of interest in the AGT gene bearing a missense mutation methionine to threonine substitution at codon 235 (M235T) of exon 2, was amplified by polymerase chain reaction (PCR). The PCR products were subjected to restriction digestion with the enzyme SfaNI. RESULTS: Significant differences were detected in genotypic distribution (p = 0.04) as well as the allelic frequency (p = 0.003) between the SHCM patients and controls. The polymorphism did not show any association with FHCM. CONCLUSION: Our results suggest that the T allele of the AGT gene is significantly associated with SHCM in a South Indian population from Andhra Pradesh. However, we did not find significant association of this polymorphism with FHCM.",
+  "entities": [
+    {
+      "id": "rs699",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "M235T",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 5
+        },
+        {
+          "text": "T704C",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 327,
+          "length": 5
+        },
+        {
+          "text": "methionine to threonine substitution at codon 235",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 862,
+          "length": 49
+        },
+        {
+          "text": "M235T",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 913,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensinogen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 15
+        },
+        {
+          "text": "angiotensinogen",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 363,
+          "length": 15
+        },
+        {
+          "text": "AGT",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 380,
+          "length": 3
+        },
+        {
+          "text": "AGT",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 825,
+          "length": 3
+        },
+        {
+          "text": "AGT",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1344,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 67,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 597,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1207,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002312",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertrophic cardiomyopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 27
+        },
+        {
+          "text": "Hypertrophic cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 122,
+          "length": 27
+        },
+        {
+          "text": "HCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 151,
+          "length": 3
+        },
+        {
+          "text": "HCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 395,
+          "length": 3
+        },
+        {
+          "text": "HCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 493,
+          "length": 3
+        },
+        {
+          "text": "sporadic hypertrophic cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 501,
+          "length": 36
+        },
+        {
+          "text": "SHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 539,
+          "length": 4
+        },
+        {
+          "text": "SHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1202,
+          "length": 4
+        },
+        {
+          "text": "SHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1386,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006331",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac disease",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 206,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D024741",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "familial hypertrophic cardiomyopathy",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 552,
+          "length": 36
+        },
+        {
+          "text": "FHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 590,
+          "length": 4
+        },
+        {
+          "text": "FHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1281,
+          "length": 4
+        },
+        {
+          "text": "FHCM",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1516,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 673,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D017379",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "left ventricular hypertrophy",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 690,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "SfaNI",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1054,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "183",
+      "tail_id": "D002312",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002312",
+      "tail_id": "rs699",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "doc_id": "19463742",
+  "title": "Melanocortin-4 receptor activation inhibits c-Jun N-terminal kinase activity and promotes insulin signaling.",
+  "body": "The melanocortin system is crucial to regulation of energy homeostasis. The melanocortin receptor type 4 (MC4R) modulates insulin signaling via effects on c-Jun N-terminal kinase (JNK). The melanocortin agonist NDP-MSH dose-dependently inhibited JNK activity in HEK293 cells stably expressing the human MC4R; effects were reversed by melanocortin receptor antagonist. NDP-MSH time- and dose-dependently inhibited IRS-1(ser307) phosphorylation, effects also reversed by a specific melanocortin receptor antagonist. NDP-MSH augmented insulin-stimulated AKT phosphorylation in vitro. The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo. NDP-MSH increased insulin-stimulated glucose uptake in hypothalamic GT1-1 cells. The current study shows that the melanocortinergic system interacts with insulin signaling via novel effects on JNK activity.",
+  "entities": [
+    {
+      "id": "17202,25635,4160",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Melanocortin-4 receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "116554,26419,5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-Jun N-terminal kinase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 23
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1003,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16333,24505,3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 90,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 964,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5443",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "melanocortin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 113,
+          "length": 12
+        },
+        {
+          "text": "melanocortin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 299,
+          "length": 12
+        },
+        {
+          "text": "melanocortin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 694,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "4160",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "melanocortin receptor type 4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 185,
+          "length": 28
+        },
+        {
+          "text": "MC4R",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 215,
+          "length": 4
+        },
+        {
+          "text": "MC4R",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 412,
+          "length": 4
+        },
+        {
+          "text": "melanocortin receptor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 443,
+          "length": 21
+        },
+        {
+          "text": "melanocortin receptor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 589,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 231,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 641,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-Jun N-terminal kinase",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 264,
+          "length": 23
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 289,
+          "length": 3
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 355,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C027756",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NDP-MSH",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 320,
+          "length": 7
+        },
+        {
+          "text": "NDP-MSH",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 477,
+          "length": 7
+        },
+        {
+          "text": "NDP-MSH",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 623,
+          "length": 7
+        },
+        {
+          "text": "NDP-MSH",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 810,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0045",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HEK293",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 371,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 406,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3667",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRS-1",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 522,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 660,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C079282",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "melanotan II",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 715,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "24505",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 738,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "24185",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 757,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 784,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16333",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 828,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 847,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "CVCL_6236",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "GT1-1",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 878,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005947",
+      "tail_id": "16333",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C079282",
+      "tail_id": "24185",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C079282",
+      "tail_id": "24505",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "3667",
+      "tail_id": "4160",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5443",
+      "tail_id": "C079282",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "5443",
+      "tail_id": "24185",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5443",
+      "tail_id": "C027756",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "5443",
+      "tail_id": "24505",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "5443",
+      "tail_id": "4160",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "5443",
+      "tail_id": "5599",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C027756",
+      "tail_id": "D005947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C027756",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C027756",
+      "tail_id": "3667",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C027756",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C027756",
+      "tail_id": "16333",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "C027756",
+      "tail_id": "4160",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "C027756",
+      "tail_id": "5599",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "3630",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "3630",
+      "tail_id": "5599",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "24505",
+      "tail_id": "24185",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "24505",
+      "tail_id": "5599",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "16333",
+      "tail_id": "5599",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "4160",
+      "tail_id": "3630",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "4160",
+      "tail_id": "24505",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "4160",
+      "tail_id": "16333",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "4160",
+      "tail_id": "5599",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

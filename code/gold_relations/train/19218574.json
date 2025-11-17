@@ -1,0 +1,455 @@
+{
+  "doc_id": "19218574",
+  "title": "Phosphatidylinositol 3-kinase p85alpha regulatory subunit gene Met326Ile polymorphism in women with polycystic ovary syndrome.",
+  "body": "BACKGROUND: Insulin resistance is a core feature of polycystic ovary syndrome (PCOS). Phosphatidylinositol (PI) 3-kinase is an important enzyme in the early insulin signaling cascade and plays a key role in insulin-mediated glucose transport. In its regulatory subunit, p85alpha, there is a common amino acid substitution (the Met326Ile polymorphism), and this amino acid may be crucial for the function of the p85alpha regulatory subunit and PI3-kinase. METHODS: Analysis of the Met326Ile polymorphism was carried out on DNA samples from 256 PCOS patients and 283 controls. Clinical and biochemical profiles of participants were also compared. RESULTS: The genotype distribution of the Met326Ile polymorphism in the PCOS group was not different from that of the controls (Met326Met/Met326Ile/Ile326Ile rates were 73.4%/23.4%/3.2% and 70.3%/26.1%/3.6% for the PCOS and control groups, respectively, P = 0.72). The PCOS group was divided into two subgroups according to the presence of the variant 326Ile allele. Compared with those carrying at least one variant 326Ile allele, carriers with the Met326Met genotype had higher serum 17-hydroxyprogesterone (17-OHP) {1.1 [95% confidence interval (CI) 1.1-1.3] ng/ml in those with the Met326Met genotype versus 0.8 (95% CI 0.7-1.0) ng/ml in those with Ile326Ile and Met326Ile genotypes, P = 0.0073} and free testosterone levels [1.2 (95% CI 1.1-1.4) pg/ml for Met326Met genotype versus 0.9 (95% CI 0.6-1.3) pg/ml for Ile326Ile and Met326Ile genotypes, P = 0.038]. CONCLUSIONS: Our results suggest that the PI3-kinase gene Met326Ile polymorphism may not be a major determinant for the development of PCOS, but it may modulate the concentrations of serum 17-OHP or free testosterone in PCOS patients.",
+  "entities": [
+    {
+      "id": "5295",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Phosphatidylinositol 3-kinase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 29
+        },
+        {
+          "text": "p85alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 8
+        },
+        {
+          "text": "Phosphatidylinositol (PI) 3-kinase",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 213,
+          "length": 34
+        },
+        {
+          "text": "p85alpha",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 397,
+          "length": 8
+        },
+        {
+          "text": "p85alpha",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 538,
+          "length": 8
+        },
+        {
+          "text": "PI3-kinase",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 570,
+          "length": 10
+        },
+        {
+          "text": "PI3-kinase",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1679,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs3730089",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Met326Ile",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 454,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 607,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 814,
+          "length": 9
+        },
+        {
+          "text": "Met326Met",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 900,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 910,
+          "length": 9
+        },
+        {
+          "text": "Ile326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 920,
+          "length": 9
+        },
+        {
+          "text": "326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1124,
+          "length": 6
+        },
+        {
+          "text": "326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1189,
+          "length": 6
+        },
+        {
+          "text": "Met326Met",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1222,
+          "length": 9
+        },
+        {
+          "text": "Met326Met",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1358,
+          "length": 9
+        },
+        {
+          "text": "Ile326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1425,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1439,
+          "length": 9
+        },
+        {
+          "text": "Met326Met",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1533,
+          "length": 9
+        },
+        {
+          "text": "Ile326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1590,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1604,
+          "length": 9
+        },
+        {
+          "text": "Met326Ile",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1695,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 675,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1862,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011085",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "polycystic ovary syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 25
+        },
+        {
+          "text": "polycystic ovary syndrome",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 179,
+          "length": 25
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 206,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 670,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 844,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 987,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1041,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1772,
+          "length": 4
+        },
+        {
+          "text": "PCOS",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1857,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Insulin resistance",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 139,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 284,
+          "length": 7
+        },
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 334,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 351,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D019326",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "17-hydroxyprogesterone",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1258,
+          "length": 22
+        },
+        {
+          "text": "17-OHP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1282,
+          "length": 6
+        },
+        {
+          "text": "17-OHP",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1826,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D013739",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1481,
+          "length": 12
+        },
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 127,
+          "char_offset": 1841,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013739",
+      "tail_id": "rs3730089",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013739",
+      "tail_id": "D011085",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019326",
+      "tail_id": "D011085",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs3730089",
+      "tail_id": "D019326",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs3730089",
+      "tail_id": "D011085",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5295",
+      "tail_id": "D013739",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5295",
+      "tail_id": "D019326",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "5295",
+      "tail_id": "D011085",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "5295",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "5295",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "3630",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "doc_id": "26684240",
+  "title": "Identification of the BRAF V600E mutation in gastroenteropancreatic neuroendocrine tumors.",
+  "body": "Genomic profiles of gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are still insufficiently understood, and the genetic alterations associated with drug responses have not been studied. Here, we performed whole exome sequencing of 12 GEP-NETs from patients enrolled in a nonrandomized, open-labeled, single-center phase II study for pazopanib, and integrated our results with previously published results on pancreas (n = 12) and small intestine NETs (n = 50). The mean numbers of somatic mutations in each case varied widely from 20 to 4682. Among 12 GEP-NETs, eight showed mutations of more than one cancer-related gene, including TP53, CNBD1, RB1, APC, BCOR, BRAF, CTNNB1, EGFR, EP300, ERBB3, KDM6A, KRAS, MGA, MLL3, PTEN, RASA1, SMARCB1, SPEN, TBC1D12, and VHL. TP53 was recurrently mutated in three cases, whereas CNBD1 and RB1 mutations were identified in two cases. Three GEP-NET patients with TP53 mutations demonstrated a durable response and one small intestinal grade (G) 1 NET patient with BRAF V600E mutation showed progression after pazopanib treatment. We found BRAF V600E (G1 NET from rectum and two G3 NETs from colon) and BRAF G593S (G2 NET from pancreas) missense mutations (9.1%) in an independent cohort of 44 GEP-NETs from the rectum (n = 26), colon (n = 7), pancreas (n = 4), small intestine (n = 3), stomach (n = 3) and appendix (n = 1) by Sanger sequencing. All tumor specimens were obtained before chemotherapy. In conclusion, BRAF V600E mutation is likely to result in resistance to pazopanib but may be a potentianally actionable mutation in metastatic GEP-NETs patients.",
+  "entities": [
+    {
+      "id": "673",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRAF",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 4
+        },
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 762,
+          "length": 4
+        },
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1102,
+          "length": 4
+        },
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1177,
+          "length": 4
+        },
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1240,
+          "length": 4
+        },
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1553,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs113488022",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "V600E",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 5
+        },
+        {
+          "text": "V600E",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1107,
+          "length": 5
+        },
+        {
+          "text": "V600E",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1182,
+          "length": 5
+        },
+        {
+          "text": "V600E",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1558,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C535650",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastroenteropancreatic neuroendocrine tumors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 44
+        },
+        {
+          "text": "gastroenteropancreatic neuroendocrine tumors",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 111,
+          "length": 44
+        },
+        {
+          "text": "GEP-NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 157,
+          "length": 8
+        },
+        {
+          "text": "GEP-NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 334,
+          "length": 8
+        },
+        {
+          "text": "GEP-NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 652,
+          "length": 8
+        },
+        {
+          "text": "GEP-NET",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 979,
+          "length": 7
+        },
+        {
+          "text": "GEP-NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1331,
+          "length": 8
+        },
+        {
+          "text": "GEP-NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1681,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 348,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 987,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1089,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1690,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C516667",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pazopanib",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 433,
+          "length": 9
+        },
+        {
+          "text": "pazopanib",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1147,
+          "length": 9
+        },
+        {
+          "text": "pazopanib",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1610,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007414",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intestine NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 536,
+          "length": 14
+        },
+        {
+          "text": "intestinal grade (G) 1 NET",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1062,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 702,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1487,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 733,
+          "length": 4
+        },
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 866,
+          "length": 4
+        },
+        {
+          "text": "TP53",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1001,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "168975",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CNBD1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 739,
+          "length": 5
+        },
+        {
+          "text": "CNBD1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 919,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 746,
+          "length": 3
+        },
+        {
+          "text": "RB1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 929,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "324",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "APC",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 751,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "54880",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCOR",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 756,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1499",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CTNNB1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 768,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1956",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGFR",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 776,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2033",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EP300",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 782,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "2065",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERBB3",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 789,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "7403",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KDM6A",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 796,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3845",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 803,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "23269",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MGA",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 809,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "58508",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MLL3",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 814,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTEN",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 820,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "5921",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RASA1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 826,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6598",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SMARCB1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 833,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "23013",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SPEN",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 842,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "23232",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TBC1D12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 848,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "7428",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VHL",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 861,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018358",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "NET",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1192,
+          "length": 3
+        },
+        {
+          "text": "NETs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1219,
+          "length": 4
+        },
+        {
+          "text": "NET",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1255,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p.G593S",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G593S",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1245,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p.G593S",
+      "tail_id": "D018358",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007414",
+      "tail_id": "C516667",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007414",
+      "tail_id": "rs113488022",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007414",
+      "tail_id": "673",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "7428",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "23232",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "23013",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "6598",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "5921",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "5728",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "58508",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "23269",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "3845",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "7403",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "2033",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "1956",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "1499",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R17",
+      "head_id": "54880",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "324",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "5925",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "168975",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "D009369",
+      "tail_id": "2065",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "7157",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "rs113488022",
+      "tail_id": "D018358",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "rs113488022",
+      "tail_id": "C516667",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "rs113488022",
+      "tail_id": "C535650",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "C535650",
+      "tail_id": "p.G593S",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "C535650",
+      "tail_id": "C516667",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "C535650",
+      "tail_id": "7428",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "C535650",
+      "tail_id": "23232",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "C535650",
+      "tail_id": "23013",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "C535650",
+      "tail_id": "6598",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "C535650",
+      "tail_id": "5921",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "C535650",
+      "tail_id": "5728",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "C535650",
+      "tail_id": "58508",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "C535650",
+      "tail_id": "23269",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "C535650",
+      "tail_id": "3845",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "C535650",
+      "tail_id": "7403",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "C535650",
+      "tail_id": "2065",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "C535650",
+      "tail_id": "2033",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "C535650",
+      "tail_id": "1956",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "C535650",
+      "tail_id": "1499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "C535650",
+      "tail_id": "54880",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R43",
+      "head_id": "C535650",
+      "tail_id": "324",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R44",
+      "head_id": "C535650",
+      "tail_id": "5925",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R45",
+      "head_id": "C535650",
+      "tail_id": "168975",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R46",
+      "head_id": "C535650",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R47",
+      "head_id": "673",
+      "tail_id": "D018358",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R48",
+      "head_id": "673",
+      "tail_id": "C516667",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R49",
+      "head_id": "673",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R50",
+      "head_id": "673",
+      "tail_id": "C535650",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

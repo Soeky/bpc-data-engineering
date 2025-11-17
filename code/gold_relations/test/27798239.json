@@ -1,0 +1,428 @@
+{
+  "doc_id": "27798239",
+  "title": "Phosphatidylinositol 4-kinase IIb negatively regulates invadopodia formation and suppresses an invasive cellular phenotype.",
+  "body": "The type II phosphatidylinositol 4-kinase (PI4KII) enzymes synthesize the lipid phosphatidylinositol 4-phosphate (PI(4)P), which has been detected at the Golgi complex and endosomal compartments and recruits clathrin adaptors. Despite common mechanistic similarities between the isoforms, the extent of their redundancy is unclear. We found that depletion of PI4KIIa and PI4KIIb using small interfering RNA led to actin remodeling. Depletion of PI4KIIb also induced the formation of invadopodia containing membrane type I matrix metalloproteinase (MT1-MMP). Depletion of PI4KII isoforms also differentially affected trans-Golgi network (TGN) pools of PI(4)P and post-TGN traffic. PI4KIIb depletion caused increased MT1-MMP trafficking to invasive structures at the plasma membrane and was accompanied by reduced colocalization of MT1-MMP with membranes containing the endosomal markers Rab5 and Rab7 but increased localization with the exocytic Rab8. Depletion of PI4KIIb was sufficient to confer an aggressive invasive phenotype on minimally invasive HeLa and MCF-7 cell lines. Mining oncogenomic databases revealed that loss of the PI4K2B allele and underexpression of PI4KIIb mRNA are associated with human cancers. This finding supports the cell data and suggests that PI4KIIb may be a clinically significant suppressor of invasion. We propose that PI4KIIb synthesizes a pool of PI(4)P that maintains MT1-MMP traffic in the degradative pathway and suppresses the formation of invadopodia.",
+  "entities": [
+    {
+      "id": "55300",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Phosphatidylinositol 4-kinase IIb",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 33
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 495,
+          "length": 7
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 569,
+          "length": 7
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 804,
+          "length": 7
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1088,
+          "length": 7
+        },
+        {
+          "text": "PI4K2B",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1258,
+          "length": 6
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1295,
+          "length": 7
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1397,
+          "length": 7
+        },
+        {
+          "text": "PI4KIIb",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1477,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "55300,55361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type II phosphatidylinositol 4-kinase",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 128,
+          "length": 37
+        },
+        {
+          "text": "PI4KII",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 167,
+          "length": 6
+        },
+        {
+          "text": "PI4KII",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 695,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 198,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C037178",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "phosphatidylinositol 4-phosphate",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 204,
+          "length": 32
+        },
+        {
+          "text": "PI(4)P",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 238,
+          "length": 6
+        },
+        {
+          "text": "PI(4)P",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 775,
+          "length": 6
+        },
+        {
+          "text": "PI(4)P",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1507,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1213",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "clathrin",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 332,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "55361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI4KIIa",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 483,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 538,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "4323",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "membrane type I matrix metalloproteinase",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 630,
+          "length": 40
+        },
+        {
+          "text": "MT1-MMP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 672,
+          "length": 7
+        },
+        {
+          "text": "MT1-MMP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 839,
+          "length": 7
+        },
+        {
+          "text": "MT1-MMP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 954,
+          "length": 7
+        },
+        {
+          "text": "MT1-MMP",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1529,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "5868",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rab5",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1010,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "338382",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rab7",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1019,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4218",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rab8",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1069,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0030",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HeLa",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1176,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0031",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MCF-7",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1185,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1328,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 124,
+          "char_offset": 1334,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "55361",
+      "tail_id": "60",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "55361",
+      "tail_id": "1213",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "55361",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "55361",
+      "tail_id": "C037178",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C037178",
+      "tail_id": "4323",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "4323",
+      "tail_id": "338382",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "4323",
+      "tail_id": "5868",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "4323",
+      "tail_id": "4218",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "55300",
+      "tail_id": "60",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "55300",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "55300",
+      "tail_id": "1213",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "55300",
+      "tail_id": "D008055",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "55300",
+      "tail_id": "4218",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "55300",
+      "tail_id": "C037178",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "55300",
+      "tail_id": "4323",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

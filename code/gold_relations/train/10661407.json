@@ -1,0 +1,98 @@
+{
+  "doc_id": "10661407",
+  "title": "Langerin, a novel C-type lectin specific to Langerhans cells, is an endocytic receptor that induces the formation of Birbeck granules.",
+  "body": "We have identified a type II Ca2+-dependent lectin displaying mannose-binding specificity, exclusively expressed by Langerhans cells (LC), and named Langerin. LC are uniquely characterized by Birbeck granules (BG), which are organelles consisting of superimposed and zippered membranes. Here, we have shown that Langerin is constitutively associated with BG and that antibody to Langerin is internalized into these structures. Remarkably, transfection of Langerin cDNA into fibroblasts created a compact network of membrane structures with typical features of BG. Langerin is thus a potent inducer of membrane superimposition and zippering leading to BG formation. Our data suggest that induction of BG is a consequence of the antigen-capture function of Langerin, allowing routing into these organelles and providing access to a nonclassical antigen-processing pathway.",
+  "entities": [
+    {
+      "id": "50489",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Langerin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "C-type lectin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 13
+        },
+        {
+          "text": "type II Ca2+-dependent lectin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 156,
+          "length": 29
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 284,
+          "length": 8
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 447,
+          "length": 8
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 514,
+          "length": 8
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 590,
+          "length": 8
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 699,
+          "length": 8
+        },
+        {
+          "text": "Langerin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 890,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D008358",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mannose",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 197,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "50489",
+      "tail_id": "D008358",
+      "type": "Bind",
+      "novel": "Novel"
+    }
+  ]
+}

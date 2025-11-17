@@ -1,0 +1,253 @@
+{
+  "doc_id": "19696792",
+  "title": "Single nucleotide polymorphism in ABCG2 is associated with irinotecan-induced severe myelosuppression.",
+  "body": "Irinotecan is an anti-neoplastic agent that is widely used for treating colorectal and lung cancers, but often causes toxicities such as severe myelosuppression and diarrhea. In this study, we performed a two-stage case-control association study for irinotecan-induced severe myelosuppression (grades 3 and 4). In the first stage, 23 patients who developed severe myelosuppression and 58 patients who did not develop any toxicity were examined for 170 single nucleotide polymorphisms (SNPs) in 14 genes involved in the metabolism and transport of irinotecan. A total of five SNPs were identified to show the possible association with severe myelosuppression (P(Fisher)<0.01) and were further examined in 7 cases and 20 controls in the second stage of the study. An intronic SNP, rs2622604, in ABCG2 showed P(Fisher)=0.0419 in the second stage and indicated a significant association with severe myelosuppression in the combined study (P(Fisher)=0.000237; P(Corrected)=0.036). Although only limited subjects were investigated, our results suggested that a genetic polymorphism in ABCG2 might alter the transport activity for the drug and elevate the systemic circulation level of irinotecan, leading to severe myelosuppression.",
+  "entities": [
+    {
+      "id": "9429",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ABCG2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 5
+        },
+        {
+          "text": "ABCG2",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 896,
+          "length": 5
+        },
+        {
+          "text": "ABCG2",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1182,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000077146",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "irinotecan",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 10
+        },
+        {
+          "text": "Irinotecan",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 103,
+          "length": 10
+        },
+        {
+          "text": "irinotecan",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 353,
+          "length": 10
+        },
+        {
+          "text": "irinotecan",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 650,
+          "length": 10
+        },
+        {
+          "text": "irinotecan",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1282,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001855",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myelosuppression",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 247,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 379,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 467,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 744,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 998,
+          "length": 16
+        },
+        {
+          "text": "myelosuppression",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1312,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D008175,D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal and lung cancers",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 175,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicities",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 221,
+          "length": 10
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 524,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003967",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diarrhea",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 268,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 437,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 491,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs2622604",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2622604",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 882,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs2622604",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs2622604",
+      "tail_id": "D000077146",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001855",
+      "tail_id": "9429",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000077146",
+      "tail_id": "D003967",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000077146",
+      "tail_id": "D001855",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000077146",
+      "tail_id": "9429",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

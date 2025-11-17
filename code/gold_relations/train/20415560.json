@@ -1,0 +1,380 @@
+{
+  "doc_id": "20415560",
+  "title": "Vitamin E reduces cardiovascular disease in individuals with diabetes mellitus and the haptoglobin 2-2 genotype.",
+  "body": "AIMS: Individuals with both diabetes mellitus (DM) and the Haptoglobin (Hp) 2-2 genotype are at increased risk of cardiovascular disease. As the antioxidant function of the Hp 2-2 protein is impaired, we sought to test the pharmacogenomic hypothesis that antioxidant vitamin E supplementation would provide cardiovascular protection to Hp 2-2 DM individuals. MATERIALS & METHODS: We determined the Hp genotype on DM participants from two trials (HOPE and ICARE) and assessed the effect of vitamin E by Hp genotype on their common prespecified outcome, the composite of stroke, myocardial infarction and cardiovascular death. Data was analyzed with a fixed-effect model. These results were input into a simulation model, the Evidence Based Medicine Integrator, in order to estimate their long-term implications in a real-world population from Kaiser Permanente (CA, USA). RESULTS: Meta-analysis of the two trials demonstrated a significant overall reduction in the composite end point in Hp 2-2 DM individuals with vitamin E (odds ratio: 0.58; 95% CI: 0.40-0.86; p = 0.006). There was a statistically significant interaction between the Hp genotype and vitamin E on the composite end point. In these trials, Hp typing of 69 DM individuals and treating those with the Hp 2-2 with vitamin E prevented one myocardial infarct, stroke or cardiovascular death. Lifelong administration of vitamin E to Hp 2-2 DM individuals in the Kaiser population would increase their life expectancy by 3 years. CONCLUSION: A pharmacogenomic strategy of screening DM individuals for the Hp genotype and treating those with Hp 2-2 with vitamin E appears to be highly clinically effective.",
+  "entities": [
+    {
+      "id": "D014810",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Vitamin E",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 380,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 602,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1127,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1265,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1391,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1494,
+          "length": 9
+        },
+        {
+          "text": "vitamin E",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1726,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 22
+        },
+        {
+          "text": "cardiovascular disease",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 227,
+          "length": 22
+        },
+        {
+          "text": "cardiovascular death",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 716,
+          "length": 20
+        },
+        {
+          "text": "cardiovascular death",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1445,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes mellitus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 17
+        },
+        {
+          "text": "diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 141,
+          "length": 17
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 160,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 456,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 526,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1107,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1336,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1514,
+          "length": 2
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1655,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "3240",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "haptoglobin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 11
+        },
+        {
+          "text": "Haptoglobin",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 172,
+          "length": 11
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 185,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 286,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 449,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 511,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 615,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1100,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1249,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1320,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1379,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1507,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1678,
+          "length": 2
+        },
+        {
+          "text": "Hp",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1714,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antioxidant",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 368,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 682,
+          "length": 6
+        },
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1435,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 690,
+          "length": 21
+        },
+        {
+          "text": "myocardial infarct",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1415,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D003920",
+      "tail_id": "3240",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3240",
+      "tail_id": "D002318",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D014810",
+      "tail_id": "D020521",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D014810",
+      "tail_id": "D009203",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D014810",
+      "tail_id": "D003920",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014810",
+      "tail_id": "3240",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014810",
+      "tail_id": "D002318",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

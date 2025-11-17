@@ -1,0 +1,639 @@
+{
+  "doc_id": "19672862",
+  "title": "Protein kinase C alpha-dependent signaling mediates endometrial cancer cell growth and tumorigenesis.",
+  "body": "Endometrial cancer is the most common invasive gynecologic malignancy, yet molecular mechanisms and signaling pathways underlying its etiology and pathophysiology remain poorly characterized. We sought to define a functional role for the protein kinase C (PKC) isoform, PKCalpha, in an established cell model of endometrial adenocarcinoma. Ishikawa cells depleted of PKCalpha protein grew slower, formed fewer colonies in anchorage-independent growth assays and exhibited impaired xenograft tumor formation in nude mice. Consistent with impaired growth, PKCalpha knockdown increased levels of the cyclin-dependent kinase (CDK) inhibitors p21(Cip1/WAF1) (p21) and p27(Kip1) (p27). Despite the absence of functional phosphatase and tensin homolog (PTEN) protein in Ishikawa cells, PKCalpha knockdown reduced Akt phosphorylation at serine 473 and concomitantly inhibited phosphorylation of the Akt target, glycogen synthase kinase-3beta (GSK-3beta). PKCalpha knockdown also resulted in decreased basal ERK phosphorylation and attenuated ERK activation following EGF stimulation. p21 and p27 expression was not increased by treatment of Ishikawa cells with ERK and Akt inhibitors, suggesting that PKCalpha regulates CDK expression independently of Akt and ERK. Immunohistochemical analysis of Grade 1 endometrioid adenocarcinoma revealed aberrant PKCalpha expression, with foci of elevated PKCalpha staining, not observed in normal endometrium. These studies demonstrate a critical role for PKCalpha signaling in endometrial tumorigenesis by regulating expression of CDK inhibitors p21 and p27 and activation of Akt and ERK-dependent proliferative pathways. Thus, targeting PKCalpha may provide novel therapeutic options in endometrial tumors.",
+  "entities": [
+    {
+      "id": "5578",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Protein kinase C alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 22
+        },
+        {
+          "text": "protein kinase C",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 340,
+          "length": 16
+        },
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 358,
+          "length": 3
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 372,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 469,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 656,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 881,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1049,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1295,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1445,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1488,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1589,
+          "length": 8
+        },
+        {
+          "text": "PKCalpha",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1772,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D016889",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "endometrial cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 18
+        },
+        {
+          "text": "Endometrial cancer",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 102,
+          "length": 18
+        },
+        {
+          "text": "endometrial adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 414,
+          "length": 26
+        },
+        {
+          "text": "endometrioid adenocarcinoma",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1399,
+          "length": 27
+        },
+        {
+          "text": "endometrial tumors",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1822,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumorigenesis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 13
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 593,
+          "length": 5
+        },
+        {
+          "text": "tumorigenesis",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1623,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D005833",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gynecologic malignancy",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 149,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "CVCL_2529",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "Ishikawa",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 442,
+          "length": 8
+        },
+        {
+          "text": "Ishikawa",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 865,
+          "length": 8
+        },
+        {
+          "text": "Ishikawa",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1235,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 617,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin-dependent kinase",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 699,
+          "length": 23
+        },
+        {
+          "text": "CDK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 724,
+          "length": 3
+        },
+        {
+          "text": "CDK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1314,
+          "length": 3
+        },
+        {
+          "text": "CDK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1665,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 740,
+          "length": 3
+        },
+        {
+          "text": "Cip1",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 744,
+          "length": 4
+        },
+        {
+          "text": "WAF1",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 749,
+          "length": 4
+        },
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 756,
+          "length": 3
+        },
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1178,
+          "length": 3
+        },
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1680,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p27",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 765,
+          "length": 3
+        },
+        {
+          "text": "Kip1",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 769,
+          "length": 4
+        },
+        {
+          "text": "p27",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 776,
+          "length": 3
+        },
+        {
+          "text": "p27",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1186,
+          "length": 3
+        },
+        {
+          "text": "p27",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1688,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "phosphatase and tensin homolog",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 816,
+          "length": 30
+        },
+        {
+          "text": "PTEN",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 848,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 908,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 993,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1263,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1346,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1710,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2932",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycogen synthase kinase-3beta",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1005,
+          "length": 30
+        },
+        {
+          "text": "GSK-3beta",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1037,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5594",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1101,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1136,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1255,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1354,
+          "length": 3
+        },
+        {
+          "text": "ERK",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1718,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1950",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EGF",
+          "passage_index": 1,
+          "passage_offset": 102,
+          "char_offset": 1161,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "5594",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009369",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009369",
+      "tail_id": "983",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009369",
+      "tail_id": "1027",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009369",
+      "tail_id": "1026",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D016889",
+      "tail_id": "5578",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "1950",
+      "tail_id": "5594",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "207",
+      "tail_id": "2932",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "983",
+      "tail_id": "1027",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "983",
+      "tail_id": "1026",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "1027",
+      "tail_id": "5594",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "1027",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "1026",
+      "tail_id": "5594",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "1026",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "5578",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "5578",
+      "tail_id": "1950",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "5578",
+      "tail_id": "5594",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "5578",
+      "tail_id": "2932",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "5578",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "5578",
+      "tail_id": "983",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "5578",
+      "tail_id": "1027",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "5578",
+      "tail_id": "1026",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

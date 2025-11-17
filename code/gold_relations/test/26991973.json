@@ -1,0 +1,273 @@
+{
+  "doc_id": "26991973",
+  "title": "MOL1 is required for cambium homeostasis in Arabidopsis.",
+  "body": "Plants maintain pools of pluripotent stem cells which allow them to constantly produce new tissues and organs. Stem cell homeostasis in shoot and root tips depends on negative regulation by ligand-receptor pairs of the CLE peptide and leucine-rich repeat receptor-like kinase (LRR-RLK) families. However, regulation of the cambium, the stem cell niche required for lateral growth of shoots and roots, is poorly characterized. Here we show that the LRR-RLK MOL1 is necessary for cambium homeostasis in Arabidopsis thaliana. By employing promoter reporter lines, we reveal that MOL1 is active in a domain that is distinct from the domain of the positively acting CLE41/PXY signaling module. In particular, we show that MOL1 acts in an opposing manner to the CLE41/PXY module and that changing the domain or level of MOL1 expression both result in disturbed cambium organization. Underlining discrete roles of MOL1 and PXY, both LRR-RLKs are not able to replace each other when their expression domains are interchanged. Furthermore, MOL1 but not PXY is able to rescue CLV1 deficiency in the shoot apical meristem. By identifying genes mis-expressed in mol1 mutants, we demonstrate that MOL1 represses genes associated with stress-related ethylene and jasmonic acid hormone signaling pathways which have known roles in coordinating lateral growth of the Arabidopsis stem. Our findings provide evidence that common regulatory mechanisms in different plant stem cell niches are adapted to specific niche anatomies and emphasize the importance of a complex spatial organization of intercellular signaling cascades for a strictly bidirectional tissue production.",
+  "entities": [
+    {
+      "id": "835209",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MOL1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 513,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 633,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 774,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 871,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 964,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1088,
+          "length": 4
+        },
+        {
+          "text": "mol1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1207,
+          "length": 4
+        },
+        {
+          "text": "MOL1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1241,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3702",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Arabidopsis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 11
+        },
+        {
+          "text": "Arabidopsis thaliana",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 558,
+          "length": 20
+        },
+        {
+          "text": "Arabidopsis",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1408,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "820713,821957,832170",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CLE peptide",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 276,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "835209,836269",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leucine-rich repeat receptor-like kinase",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 292,
+          "length": 40
+        },
+        {
+          "text": "LRR-RLK",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 334,
+          "length": 7
+        },
+        {
+          "text": "LRR-RLK",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 505,
+          "length": 7
+        },
+        {
+          "text": "LRR-RLKs",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 983,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "822075",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CLE41",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 718,
+          "length": 5
+        },
+        {
+          "text": "CLE41",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 813,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "836269",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PXY",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 724,
+          "length": 3
+        },
+        {
+          "text": "PXY",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 819,
+          "length": 3
+        },
+        {
+          "text": "PXY",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 973,
+          "length": 3
+        },
+        {
+          "text": "PXY",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1101,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "843915",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CLV1",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1123,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005030",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ethylene",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1293,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C011006",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "jasmonic acid",
+          "passage_index": 1,
+          "passage_offset": 57,
+          "char_offset": 1306,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "835209",
+      "tail_id": "C011006",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "835209",
+      "tail_id": "D005030",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "835209",
+      "tail_id": "843915",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "822075",
+      "tail_id": "836269",
+      "type": "Bind",
+      "novel": "No"
+    }
+  ]
+}

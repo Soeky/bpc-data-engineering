@@ -1,0 +1,434 @@
+{
+  "doc_id": "24632946",
+  "title": "Disruption of the temporally regulated cloaca endodermal b-catenin signaling causes anorectal malformations.",
+  "body": "The cloaca is temporally formed and eventually divided by the urorectal septum (URS) during urogenital and anorectal organ development. Although congenital malformations, such as anorectal malformations (ARMs), are frequently observed during this process, the underlying pathogenic mechanisms remain unclear. b-Catenin is a critical component of canonical Wnt signaling and is essential for the regulation of cell differentiation and morphogenesis during embryogenesis. The expression of b-catenin is observed in endodermal epithelia, including URS epithelia. We modulated the b-catenin gene conditionally in endodermal epithelia by utilizing tamoxifen-inducible Cre driver line (Shh(CreERT2)). Both b-catenin loss- and gain-of-function (LOF and GOF) mutants displayed abnormal clefts in the perineal region and hypoplastic elongation of the URS. The mutants also displayed reduced cell proliferation in the URS mesenchyme. In addition, the b-catenin GOF mutants displayed reduced apoptosis and subsequently increased apoptosis in the URS epithelium. This instability possibly resulted in reduced expression levels of differentiation markers, such as keratin 1 and filaggrin, in the perineal epithelia. The expression of bone morphogenetic protein (Bmp) genes, such as Bmp4 and Bmp7, was also ectopically induced in the epithelia of the URS in the b-catenin GOF mutants. The expression of the Msx2 gene and phosphorylated-Smad1/5/8, possible readouts of Bmp signaling, was also increased in the mutants. Moreover, we introduced an additional mutation for a Bmp receptor gene: BmprIA. The Shh(CreERT2/+); b-catenin(flox(ex3)/+); BmprIA(flox/-) mutants displayed partial restoration of URS elongation compared with the b-catenin GOF mutants. These results indicate that some ARM phenotypes in the b-catenin GOF mutants were caused by abnormal Bmp signaling. The current analysis revealed the close relation of endodermal b-catenin signaling to the ARM phenotypes. These results are considered to shed light on the pathogenic mechanisms of human ARMs.",
+  "entities": [
+    {
+      "id": "12387",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "b-catenin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 9
+        },
+        {
+          "text": "b-Catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 418,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 597,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 686,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 809,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1050,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1457,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1713,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1826,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1904,
+          "length": 9
+        },
+        {
+          "text": "b-catenin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 2028,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000071056",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anorectal malformations",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 84,
+          "length": 23
+        },
+        {
+          "text": "anorectal malformations",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 288,
+          "length": 23
+        },
+        {
+          "text": "ARMs",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 313,
+          "length": 4
+        },
+        {
+          "text": "ARM",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1882,
+          "length": 3
+        },
+        {
+          "text": "ARM",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 2055,
+          "length": 3
+        },
+        {
+          "text": "ARMs",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 2152,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000013",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congenital malformations",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 254,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "22408",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Wnt",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 465,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D013629",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tamoxifen",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 752,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "20423",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Shh",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 789,
+          "length": 3
+        },
+        {
+          "text": "Shh",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1697,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D029502",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoplastic",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 921,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "16678",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "keratin 1",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1260,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "14246",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "filaggrin",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1274,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12159,12162",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bone morphogenetic protein",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1330,
+          "length": 26
+        },
+        {
+          "text": "Bmp",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1358,
+          "length": 3
+        },
+        {
+          "text": "Bmp",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1563,
+          "length": 3
+        },
+        {
+          "text": "Bmp",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1950,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "12159",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bmp4",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1378,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12162",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bmp7",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1387,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17702",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Msx2",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1502,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "17125,17129,55994",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Smad1/5/8",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1531,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12166",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bmp receptor",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1666,
+          "length": 12
+        },
+        {
+          "text": "BmprIA",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1685,
+          "length": 6
+        },
+        {
+          "text": "BmprIA",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 1737,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 109,
+          "char_offset": 2146,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013629",
+      "tail_id": "20423",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013629",
+      "tail_id": "12387",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "12162",
+      "tail_id": "12387",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "12159",
+      "tail_id": "12387",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000071056",
+      "tail_id": "12162",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000071056",
+      "tail_id": "12159",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "12387",
+      "tail_id": "17702",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "12387",
+      "tail_id": "D029502",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "12387",
+      "tail_id": "20423",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "12387",
+      "tail_id": "D000071056",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

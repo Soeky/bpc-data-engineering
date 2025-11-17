@@ -1,0 +1,314 @@
+{
+  "doc_id": "20086182",
+  "title": "The six-nucleotide deletion/insertion variant in the CASP8 promoter region is inversely associated with risk of squamous cell carcinoma of the head and neck.",
+  "body": "Caspase 8 (CASP8) is an apoptosis-related cysteine peptidase involved in the death receptor pathway and likely in the mitochondrial pathway. A CASP8 promoter region six-nucleotide deletion/insertion (-652 6N ins/del) variant and a coding region D302H polymorphism are reportedly important in cancer development, but no reported study has assessed the associations of these genetic variations with risk of head and neck cancer. In a hospital-based study of non-Hispanic whites, we genotyped CASP8 -652 6N del and 302H variants in 1,023 patients with squamous cell carcinoma of the head and neck (SCCHN) and 1,052 cancer-free controls. Crude and adjusted odds ratios (OR) and 95% confidence intervals (CI) were estimated using unconditional logistic regression models. The CASP8 -652 6N del variant genotypes or haplotypes were inversely associated with SCCHN risk (adjusted OR, 0.70; 95% CI, 0.57-0.85 for the ins/del + del/del genotypes compared with the ins/ins genotype; adjusted OR, 0.73; 95% CI, 0.55-0.97 for the del-D haplotype compared with the ins-D haplotype). Furthermore, the number of the CASP8 -652 6N del (but not 302H) variant allele tended to correlate with increased levels of camptothecin-induced p53-mediated apoptosis in T lymphocytes from 170 cancer-free controls. We concluded that the CASP8 -652 6N del variant allele may contribute to the risk of developing SCCHN in non-Hispanic white populations. Further validation by population-based case-control studies and rigorous mechanistic studies is warranted.",
+  "entities": [
+    {
+      "id": "841",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CASP8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 5
+        },
+        {
+          "text": "Caspase 8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 158,
+          "length": 9
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 169,
+          "length": 5
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 301,
+          "length": 5
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 648,
+          "length": 5
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 929,
+          "length": 5
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1259,
+          "length": 5
+        },
+        {
+          "text": "CASP8",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1466,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000077195",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "squamous cell carcinoma of the head and neck",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 112,
+          "length": 44
+        },
+        {
+          "text": "squamous cell carcinoma of the head and neck",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 707,
+          "length": 44
+        },
+        {
+          "text": "SCCHN",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 753,
+          "length": 5
+        },
+        {
+          "text": "SCCHN",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1010,
+          "length": 5
+        },
+        {
+          "text": "SCCHN",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1540,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL|-652|6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-652 6N ins/del",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 358,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "rs1045485",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D302H",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 403,
+          "length": 5
+        },
+        {
+          "text": "302H",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 670,
+          "length": 4
+        },
+        {
+          "text": "302H",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1286,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 450,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D006258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "head and neck cancer",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 563,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|-652|6",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-652 6N del",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 654,
+          "length": 11
+        },
+        {
+          "text": "-652 6N del",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 935,
+          "length": 11
+        },
+        {
+          "text": "-652 6N del",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1265,
+          "length": 11
+        },
+        {
+          "text": "-652 6N del",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1472,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 693,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002166",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "camptothecin",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1352,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 158,
+          "char_offset": 1373,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009369",
+      "tail_id": "rs1045485",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009369",
+      "tail_id": "c|INDEL|-652|6",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002166",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|DEL|-652|6",
+      "tail_id": "D002166",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "c|DEL|-652|6",
+      "tail_id": "D000077195",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "841",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "841",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "841",
+      "tail_id": "D002166",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "841",
+      "tail_id": "D000077195",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "doc_id": "18165598",
+  "title": "The differential effects of bupivacaine and lidocaine on prostaglandin E2 release, cyclooxygenase gene expression and pain in a clinical pain model.",
+  "body": "BACKGROUND: In addition to blocking nociceptive input from surgical sites, long-acting local anesthetics might directly modulate inflammation. In the present study, we describe the proinflammatory effects of bupivacaine on local prostaglandin E2 (PGE2) production and cyclooxygenase (COX) gene expression that increases postoperative pain in human subjects. METHODS: Subjects (n = 114) undergoing extraction of impacted third molars received either 2% lidocaine or 0.5% bupivacaine before surgery and either rofecoxib 50 mg or placebo orally 90 min before surgery and for the following 48 h. Oral mucosal biopsies were taken before surgery and 48 h after surgery. After extraction, a microdialysis probe was placed at the surgical site for PGE2 and thromboxane B2 (TXB2) measurements. RESULTS: The bupivacaine/rofecoxib group reported significantly less pain, as assessed by a visual analog scale, compared with the other three treatment groups over the first 4 h. However, the bupivacaine/placebo group reported significantly more pain at 24 h and PGE2 levels during the first 4 h were significantly higher than the other three treatment groups. Moreover, bupivacaine significantly increased COX-2 gene expression at 48 h as compared with the lidocaine/placebo group. Thromboxane levels were not significantly affected by any of the treatments, indicating that the effects seen were attributable to inhibition of COX-2, but not COX-1. CONCLUSIONS: These results suggest that bupivacaine stimulates COX-2 gene expression after tissue injury, which is associated with higher PGE2 production and pain after the local anesthetic effect dissipates.",
+  "entities": [
+    {
+      "id": "D002045",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bupivacaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 357,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 619,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 947,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1127,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1306,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1625,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008012",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lidocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 601,
+          "length": 9
+        },
+        {
+          "text": "lidocaine",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1393,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5732",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prostaglandin E2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 16
+        },
+        {
+          "text": "prostaglandin E2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 378,
+          "length": 16
+        },
+        {
+          "text": "PGE2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 396,
+          "length": 4
+        },
+        {
+          "text": "PGE2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 889,
+          "length": 4
+        },
+        {
+          "text": "PGE2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1198,
+          "length": 4
+        },
+        {
+          "text": "PGE2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1723,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4512,4513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclooxygenase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 14
+        },
+        {
+          "text": "cyclooxygenase",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 417,
+          "length": 14
+        },
+        {
+          "text": "COX",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 433,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 118,
+          "length": 4
+        },
+        {
+          "text": "pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 137,
+          "length": 4
+        },
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1003,
+          "length": 4
+        },
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1181,
+          "length": 4
+        },
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1743,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 278,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D010149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postoperative pain",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 469,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 491,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C116926",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 657,
+          "length": 9
+        },
+        {
+          "text": "rofecoxib",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 959,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D013929",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thromboxane B2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 898,
+          "length": 14
+        },
+        {
+          "text": "TXB2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 914,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1342,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1563,
+          "length": 5
+        },
+        {
+          "text": "COX-2",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1648,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013931",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Thromboxane",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1418,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "4512",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "COX-1",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1578,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D017695",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tissue injury",
+          "passage_index": 1,
+          "passage_offset": 149,
+          "char_offset": 1676,
+          "length": 13
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "4512",
+      "tail_id": "D010149",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D013931",
+      "tail_id": "4513",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "4513",
+      "tail_id": "D010149",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4513",
+      "tail_id": "5732",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "4513",
+      "tail_id": "D010146",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5732",
+      "tail_id": "D010149",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C116926",
+      "tail_id": "D010146",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002045",
+      "tail_id": "D010149",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002045",
+      "tail_id": "4512",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D002045",
+      "tail_id": "D017695",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D002045",
+      "tail_id": "4513",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002045",
+      "tail_id": "5732",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D002045",
+      "tail_id": "D010146",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D002045",
+      "tail_id": "C116926",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D002045",
+      "tail_id": "D008012",
+      "type": "Comparison",
+      "novel": "Novel"
+    }
+  ]
+}

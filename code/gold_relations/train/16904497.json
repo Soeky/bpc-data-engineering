@@ -1,0 +1,278 @@
+{
+  "doc_id": "16904497",
+  "title": "Cauda equina syndrome after epidural steroid injection: a case report.",
+  "body": "OBJECTIVE: Conventional treatment methods of lumbusacral radiculopathy are physical therapy, epidural steroid injections, oral medications, and spinal manipulative therapy. Cauda equina syndrome is a rare complication of epidural anesthesia. The following case is a report of cauda equina syndrome possibly caused by epidural injection of triamcinolone and bupivacaine. CLINICAL FEATURES: A 50-year-old woman with low back and right leg pain was scheduled for epidural steroid injection. INTERVENTION AND OUTCOME: An 18-gauge Touhy needle was inserted until loss of resistance occurred at the L4-5 level. Spread of the contrast medium within the epidural space was determined by radiographic imaging. After verifying the epidural space, bupivacaine and triamcinolone diacetate were injected. After the injection, there was a reduction in radicular symptoms. Three hours later, she complained of perineal numbness and lower extremity weakness. The neurologic evaluation revealed loss of sensation in the saddle area and medial aspect of her right leg. There was a decrease in the perception of pinprick test. Deep-tendon reflexes were decreased especially in the right leg. She was unable to urinate. The patient's symptoms improved slightly over the next few hours. She had a gradual return of motor function and ability of feeling Foley catheter. All of the symptoms were completely resolved over the next 8 hours. CONCLUSION: Complications associated with epidural steroid injections are rare. Clinical examination and continued vigilance for neurologic deterioration after epidural steroid injections is important.",
+  "entities": [
+    {
+      "id": "D011128",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Cauda equina syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 21
+        },
+        {
+          "text": "Cauda equina syndrome",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 244,
+          "length": 21
+        },
+        {
+          "text": "cauda equina syndrome",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 347,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D013256",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "steroid",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 173,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 540,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1538,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1656,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011843",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "radiculopathy",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 128,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D014221",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triamcinolone",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 410,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D002045",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 428,
+          "length": 11
+        },
+        {
+          "text": "bupivacaine",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 808,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 474,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1275,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D010146,D017116",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "low back and right leg pain",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 485,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "C030262",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "triamcinolone diacetate",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 824,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D006987",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "numbness",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 975,
+          "length": 8
+        },
+        {
+          "text": "loss of sensation",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1049,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D020335",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lower extremity weakness",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 988,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D009422",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurologic deterioration",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1616,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2",
+      "head_id": "D011843",
+      "tail_id": "D013256",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D009422",
+      "tail_id": "D013256",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C030262",
+      "tail_id": "D020335",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C030262",
+      "tail_id": "D006987",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D002045",
+      "tail_id": "D020335",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002045",
+      "tail_id": "D006987",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D011128",
+      "tail_id": "D014221",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D011128",
+      "tail_id": "D002045",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D013256",
+      "tail_id": "D011128",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

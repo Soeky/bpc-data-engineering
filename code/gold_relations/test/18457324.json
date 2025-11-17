@@ -1,0 +1,621 @@
+{
+  "doc_id": "18457324",
+  "title": "Genetic polymorphisms in the carbonyl reductase 3 gene CBR3 and the NAD(P)H:quinone oxidoreductase 1 gene NQO1 in patients who developed anthracycline-related congestive heart failure after childhood cancer.",
+  "body": "BACKGROUND: Exposure to anthracyclines as part of cancer therapy has been associated with the development of congestive heart failure (CHF). The potential role of genetic risk factors in anthracycline-related CHF remains to be defined. Thus, in this study, the authors examined whether common polymorphisms in candidate genes involved in the pharmacodynamics of anthracyclines (in particular, the nicotinamide adenine dinucleotide phosphate:quinone oxidoreductase 1 gene NQO1 and the carbonyl reductase 3 gene CBR3) had an impact on the risk of anthracycline-related CHF. METHODS: A nested case-control study was conducted within a cohort of 1979 patients enrolled in the Childhood Cancer Survivor Study who received treatment with anthracyclines and had available DNA. Thirty patients with CHF (cases) and 115 matched controls were genotyped for polymorphisms in NQO1 (NQO1*2) and CBR3 (the CBR3 valine [V] to methionine [M] substitution at position 244 [V244M]). Enzyme activity assays with recombinant CBR3 isoforms (CBR3 V244 and CBR3 M244) and the anthracycline substrate doxorubicin were used to investigate the functional impact of the CBR3 V244M polymorphism. RESULTS: Multivariate analyses adjusted for sex and primary disease recurrence were used to test for associations between the candidate genetic polymorphisms (NQO1*2 and CBR3 V244M) and the risk of CHF. Analyses indicated no association between the NQO1*2 polymorphism and the risk of anthracycline-related CHF (odds ratio [OR], 1.04; P=.97). There was a trend toward an association between the CBR3 V244M polymorphism and the risk of CHF (OR, 8.16; P=.056 for G/G vs A/A; OR, 5.44; P=.092 for G/A vs A/A). In line, recombinant CBR3 V244 (G allele) synthesized 2.6-fold more cardiotoxic doxorubicinol per unit of time than CBR3 M244 (A allele; CBR3 V244 [8.26+/-3.57 nmol/hour.mg] vs CBR3 M244 [3.22+/-0.67 nmol/hour.mg]; P=.01). CONCLUSIONS: The functional CBR3 V244M polymorphism may have an impact on the risk of anthracycline-related CHF among childhood cancer survivors by modulating the intracardiac formation of cardiotoxic anthracycline alcohol metabolites. Larger confirmatory case-control studies are warranted.",
+  "entities": [
+    {
+      "id": "874",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "carbonyl reductase 3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 20
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 4
+        },
+        {
+          "text": "carbonyl reductase 3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 692,
+          "length": 20
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 718,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1090,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1100,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1213,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1228,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1242,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1351,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1546,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1771,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1904,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1999,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2020,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2060,
+          "length": 4
+        },
+        {
+          "text": "CBR3",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2134,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1728",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NAD(P)H:quinone oxidoreductase 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 32
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 106,
+          "length": 4
+        },
+        {
+          "text": "nicotinamide adenine dinucleotide phosphate:quinone oxidoreductase 1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 605,
+          "length": 68
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 679,
+          "length": 4
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1072,
+          "length": 4
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1078,
+          "length": 4
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1535,
+          "length": 4
+        },
+        {
+          "text": "NQO1",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1625,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 855,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 985,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D018943",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anthracycline",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 137,
+          "length": 13
+        },
+        {
+          "text": "anthracyclines",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 232,
+          "length": 14
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 395,
+          "length": 13
+        },
+        {
+          "text": "anthracyclines",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 570,
+          "length": 14
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 753,
+          "length": 13
+        },
+        {
+          "text": "anthracyclines",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 940,
+          "length": 14
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1261,
+          "length": 13
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1661,
+          "length": 13
+        },
+        {
+          "text": "anthracycline",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2192,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006333",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "congestive heart failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 159,
+          "length": 24
+        },
+        {
+          "text": "congestive heart failure",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 317,
+          "length": 24
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 343,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 417,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 775,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 999,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1574,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1683,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1811,
+          "length": 3
+        },
+        {
+          "text": "CHF",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2214,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 200,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 258,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2234,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs1056892",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "valine [V] to methionine [M] substitution at position 244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1105,
+          "length": 57
+        },
+        {
+          "text": "V244M",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1164,
+          "length": 5
+        },
+        {
+          "text": "V244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1233,
+          "length": 4
+        },
+        {
+          "text": "M244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1247,
+          "length": 4
+        },
+        {
+          "text": "V244M",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1356,
+          "length": 5
+        },
+        {
+          "text": "V244M",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1551,
+          "length": 5
+        },
+        {
+          "text": "V244M",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1776,
+          "length": 5
+        },
+        {
+          "text": "V244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1909,
+          "length": 4
+        },
+        {
+          "text": "M244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2004,
+          "length": 4
+        },
+        {
+          "text": "V244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2025,
+          "length": 4
+        },
+        {
+          "text": "M244",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2065,
+          "length": 4
+        },
+        {
+          "text": "V244M",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2139,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1285,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiotoxic",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1951,
+          "length": 11
+        },
+        {
+          "text": "cardiotoxic",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2295,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C010013",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicinol",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 1963,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D000438,D018943",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "anthracycline alcohol",
+          "passage_index": 1,
+          "passage_offset": 208,
+          "char_offset": 2307,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D066126",
+      "tail_id": "C010013",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs1056892",
+      "tail_id": "C010013",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs1056892",
+      "tail_id": "D006333",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "rs1056892",
+      "tail_id": "D018943",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D018943",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D018943",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D018943",
+      "tail_id": "D006333",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "874",
+      "tail_id": "D066126",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "874",
+      "tail_id": "C010013",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "874",
+      "tail_id": "D006333",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "874",
+      "tail_id": "D018943",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

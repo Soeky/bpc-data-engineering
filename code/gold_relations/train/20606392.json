@@ -1,0 +1,287 @@
+{
+  "doc_id": "20606392",
+  "title": "Atypical GH insensitivity syndrome and severe insulin-like growth factor-I deficiency resulting from compound heterozygous mutations of the GH receptor, including a novel frameshift mutation affecting the intracellular domain.",
+  "body": "BACKGROUND/AIMS: GH insensitivity and IGF deficiency may result from aberrations of the GH receptor (GHR). We describe a 4-year-old child with modest growth failure and normal serum concentrations of GH-binding protein (GHBP), but clinical evidence of GH insensitivity. METHOD: Serum and DNA samples from the proband and his parents were analyzed. RESULTS: The child had a height of -4 SD, elevated serum GH concentrations, abnormally low serum IGF-I and IGFBP-3 concentrations and normal GHBP concentrations. DNA analysis revealed compound heterozygosity for mutations of GHR, including a previously reported R211H mutation and a novel duplication of a nucleotide in exon 9 (899dupC), the latter resulting in a frameshift and a premature stop codon. Treatment with recombinant DNA-derived IGF-I resulted in growth acceleration. CONCLUSION: Mutations affecting the intracellular domain of the GHR can result in GH insensitivity and IGF deficiency, despite normal serum concentrations of GHBP. The presence of clinical and biochemical evidence of GH resistance is sufficient to consider the possibility of aberrations of the GHR, even in the presence of normal serum GHBP concentrations.",
+  "entities": [
+    {
+      "id": "D046150",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GH insensitivity syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 25
+        },
+        {
+          "text": "GH insensitivity",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 244,
+          "length": 16
+        },
+        {
+          "text": "GH insensitivity",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 479,
+          "length": 16
+        },
+        {
+          "text": "GH insensitivity",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1138,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "C563867",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulin-like growth factor-I deficiency",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 39
+        },
+        {
+          "text": "IGF deficiency",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 265,
+          "length": 14
+        },
+        {
+          "text": "IGF deficiency",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1159,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "2690",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GH receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 140,
+          "length": 11
+        },
+        {
+          "text": "GH receptor",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 315,
+          "length": 11
+        },
+        {
+          "text": "GHR",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 328,
+          "length": 3
+        },
+        {
+          "text": "GH-binding protein",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 427,
+          "length": 18
+        },
+        {
+          "text": "GHBP",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 447,
+          "length": 4
+        },
+        {
+          "text": "GHBP",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 716,
+          "length": 4
+        },
+        {
+          "text": "GHR",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 800,
+          "length": 3
+        },
+        {
+          "text": "GHR",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1120,
+          "length": 3
+        },
+        {
+          "text": "GHBP",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1214,
+          "length": 4
+        },
+        {
+          "text": "GHR",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1351,
+          "length": 3
+        },
+        {
+          "text": "GHBP",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1393,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006130",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "growth failure",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 377,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "2688",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 632,
+          "length": 2
+        },
+        {
+          "text": "GH",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1273,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "3479",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGF-I",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 672,
+          "length": 5
+        },
+        {
+          "text": "IGF-I",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 1017,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3486",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGFBP-3",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 682,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|211|H",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R211H",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 837,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|DUP|899|C|",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "899dupC",
+          "passage_index": 1,
+          "passage_offset": 227,
+          "char_offset": 903,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D046150",
+      "tail_id": "c|DUP|899|C|",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D046150",
+      "tail_id": "p|SUB|R|211|H",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D046150",
+      "tail_id": "2690",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C563867",
+      "tail_id": "c|DUP|899|C|",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C563867",
+      "tail_id": "p|SUB|R|211|H",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C563867",
+      "tail_id": "2690",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

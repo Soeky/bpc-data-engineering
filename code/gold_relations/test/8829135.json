@@ -1,0 +1,320 @@
+{
+  "doc_id": "8829135",
+  "title": "Nefiracetam (DM-9384) reverses apomorphine-induced amnesia of a passive avoidance response: delayed emergence of the memory retention effects.",
+  "body": "Nefiracetam is a novel pyrrolidone derivative which attenuates scopolamine-induced learning and post-training consolidation deficits. Given that apomorphine inhibits passive avoidance retention when given during training or in a defined 10-12h post-training period, we evaluated the ability of nefiracetam to attenuate amnesia induced by dopaminergic agonism. A step-down passive avoidance paradigm was employed and nefiracetam (3 mg/kg) and apomorphine (0.5 mg/kg) were given alone or in combination during training and at the 10-12h post-training period of consolidation. Co-administration of nefiracetam and apomorphine during training or 10h thereafter produced no significant anti-amnesic effect. However, administration of nefiracetam during training completely reversed the amnesia induced by apomorphine at the 10h post-training time and the converse was also true. These effects were not mediated by a dopaminergic mechanism as nefiracetam, at millimolar concentrations, failed to displace either [3H]SCH 23390 or [3H]spiperone binding from D1 or D2 dopamine receptor subtypes, respectively. It is suggested that nefiracetam augments molecular processes in the early stages of events which ultimately lead to consolidation of memory.",
+  "entities": [
+    {
+      "id": "C058876",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Nefiracetam",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 11
+        },
+        {
+          "text": "DM-9384",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 7
+        },
+        {
+          "text": "Nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 143,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 437,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 559,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 738,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 872,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1080,
+          "length": 11
+        },
+        {
+          "text": "nefiracetam",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1265,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001058",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "apomorphine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 288,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 585,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 754,
+          "length": 11
+        },
+        {
+          "text": "apomorphine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 943,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D000647",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "amnesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 462,
+          "length": 7
+        },
+        {
+          "text": "amnesic",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 829,
+          "length": 7
+        },
+        {
+          "text": "amnesia",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 924,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011760",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pyrrolidone",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 166,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012601",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "scopolamine",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 206,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007859",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "learning and post-training consolidation deficits",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 226,
+          "length": 49
+        }
+      ]
+    },
+    {
+      "id": "D018491",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopaminergic agonism",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 481,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D014316",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3H",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1150,
+          "length": 2
+        },
+        {
+          "text": "3H",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1167,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "C534628",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "SCH 23390",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1153,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D013134",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "spiperone",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1170,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "1812,1813",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "D1 or D2 dopamine receptor",
+          "passage_index": 1,
+          "passage_offset": 143,
+          "char_offset": 1193,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012601",
+      "tail_id": "D007859",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D018491",
+      "tail_id": "D000647",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000647",
+      "tail_id": "D001058",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "C058876",
+      "tail_id": "D012601",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C058876",
+      "tail_id": "D007859",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C058876",
+      "tail_id": "D018491",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C058876",
+      "tail_id": "D001058",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C058876",
+      "tail_id": "D000647",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

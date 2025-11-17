@@ -1,0 +1,730 @@
+{
+  "doc_id": "16720068",
+  "title": "Possible neuroleptic malignant syndrome related to concomitant treatment with paroxetine and alprazolam.",
+  "body": "A 74-year-old man with depressive symptoms was admitted to a psychiatric hospital due to insomnia, loss of appetite, exhaustion, and agitation. Medical treatment was initiated at a daily dose of 20 mg paroxetine and 1.2 mg alprazolam. On the 10th day of paroxetine and alprazolam treatment, the patient exhibited marked psychomotor retardation, disorientation, and severe muscle rigidity with tremors. The patient had a fever (38.2 degrees C), fluctuating blood pressure (between 165/90 and 130/70 mg mm Hg), and severe extrapyramidal symptoms. Laboratory tests showed an elevation of creatine phosphokinase (2218 IU/L), aspartate aminotransferase (134 IU/L), alanine aminotransferase (78 IU/L), and BUN (27.9 mg/ml) levels. The patient received bromocriptine and diazepam to treat his symptoms. 7 days later, the fever disappeared and the patient's serum CPK levels were normalized (175 IU/L). This patient presented with symptoms of neuroleptic malignant syndrome (NMS), thus demonstrating that NMS-like symptoms can occur after combined paroxetine and alprazolam treatment. The adverse drug reaction score obtained by the Naranjo algorithm was 6 in our case, indicating a probable relationship between the patient's NMS-like adverse symptoms and the combined treatment used in this case. The involvement of physiologic and environmental aspects specific to this patient was suspected. Several risk factors for NMS should be noted in elderly depressive patients whose symptoms often include dehydration, agitation, malnutrition, and exhaustion. Careful therapeutic intervention is necessary in cases involving elderly patients who suffer from depression.",
+  "entities": [
+    {
+      "id": "D009459",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuroleptic malignant syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 30
+        },
+        {
+          "text": "neuroleptic malignant syndrome",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1040,
+          "length": 30
+        },
+        {
+          "text": "NMS",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1072,
+          "length": 3
+        },
+        {
+          "text": "NMS",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1102,
+          "length": 3
+        },
+        {
+          "text": "NMS",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1324,
+          "length": 3
+        },
+        {
+          "text": "NMS",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1518,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D017374",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paroxetine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 306,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 359,
+          "length": 10
+        },
+        {
+          "text": "paroxetine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1145,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000525",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alprazolam",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 10
+        },
+        {
+          "text": "alprazolam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 328,
+          "length": 10
+        },
+        {
+          "text": "alprazolam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 374,
+          "length": 10
+        },
+        {
+          "text": "alprazolam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1160,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 119,
+          "length": 3
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 400,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 511,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 834,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 945,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1005,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1314,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1470,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1560,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1725,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressive symptoms",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 128,
+          "length": 19
+        },
+        {
+          "text": "depressive",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1549,
+          "length": 10
+        },
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1750,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychiatric",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 166,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007319",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insomnia",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 194,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001068",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "loss of appetite",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 204,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D011595",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "agitation",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 238,
+          "length": 9
+        },
+        {
+          "text": "agitation",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1611,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D011596",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychomotor retardation",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 425,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D009127",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscle rigidity",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 477,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D014202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tremors",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 498,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005334",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fever",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 525,
+          "length": 5
+        },
+        {
+          "text": "fever",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 919,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001480",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "extrapyramidal symptoms",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 625,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D003402",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatine phosphokinase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 690,
+          "length": 22
+        },
+        {
+          "text": "CPK",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 961,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D001219",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspartate aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 726,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D000410",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alanine aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 765,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D001971",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "bromocriptine",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 851,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D003975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diazepam",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 869,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003681",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dehydration",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1598,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D044342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malnutrition",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1622,
+          "length": 12
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011595",
+      "tail_id": "D000525",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011595",
+      "tail_id": "D017374",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001068",
+      "tail_id": "D000525",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001068",
+      "tail_id": "D017374",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007319",
+      "tail_id": "D000525",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007319",
+      "tail_id": "D017374",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003866",
+      "tail_id": "D000525",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003866",
+      "tail_id": "D017374",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003402",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D003402",
+      "tail_id": "D001971",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003975",
+      "tail_id": "D001480",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D001971",
+      "tail_id": "D001480",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D001480",
+      "tail_id": "D000410",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D001480",
+      "tail_id": "D001219",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D001480",
+      "tail_id": "D003402",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D001480",
+      "tail_id": "D000525",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D001480",
+      "tail_id": "D017374",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D005334",
+      "tail_id": "D000410",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "D005334",
+      "tail_id": "D001219",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "D005334",
+      "tail_id": "D003402",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "D005334",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "D005334",
+      "tail_id": "D001971",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D014202",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "D014202",
+      "tail_id": "D001971",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "D009127",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R25",
+      "head_id": "D009127",
+      "tail_id": "D001971",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R26",
+      "head_id": "D011596",
+      "tail_id": "D003975",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R27",
+      "head_id": "D011596",
+      "tail_id": "D001971",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R28",
+      "head_id": "D000525",
+      "tail_id": "D005334",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "D000525",
+      "tail_id": "D014202",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "D000525",
+      "tail_id": "D009127",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "D000525",
+      "tail_id": "D011596",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D000525",
+      "tail_id": "D009459",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "D017374",
+      "tail_id": "D005334",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "D017374",
+      "tail_id": "D014202",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D017374",
+      "tail_id": "D009127",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "D017374",
+      "tail_id": "D011596",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R37",
+      "head_id": "D017374",
+      "tail_id": "D000525",
+      "type": "Drug_Interaction",
+      "novel": "No"
+    },
+    {
+      "id": "R38",
+      "head_id": "D017374",
+      "tail_id": "D009459",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

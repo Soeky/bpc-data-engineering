@@ -1,0 +1,518 @@
+{
+  "doc_id": "18752389",
+  "title": "Simvastatin-ezetimibe-induced hepatic failure necessitating liver transplantation.",
+  "body": "Abstract Serum aminotransferase elevations are a commonly known adverse effect of 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitor (statin) therapy. However, hepatotoxic events have not been widely published with ezetimibe or the combination agent simvastatin-ezetimibe. We describe a 70-year-old Hispanic woman who developed fulminant hepatic failure necessitating liver transplantation 10 weeks after conversion from simvastatin 40 mg/day to simvastatin 10 mg-ezetimibe 40 mg/day. The patient's lipid panel had been maintained with simvastatin for 18 months before the conversion without evidence of hepatotoxicity. A routine laboratory work-up 10 weeks after conversion revealed elevated serum aminotransferase levels. Simvastatinezetimibe and escitalopram (which she was taking for depression) were discontinued, and other potential causes of hepatotoxicity were excluded. A repeat work-up revealed further elevations in aminotransferase levels, and liver biopsy revealed evidence of moderate-to-severe drug toxicity. She underwent liver transplantation with an uneventful postoperative course. Her aminotransferase levels returned to normal by postoperative day 23, and her 2-year follow-up showed no adverse events. Ezetimibe undergoes extensive glucuronidation by uridine diphosphate glucoronosyltransferases (UGT) in the intestine and liver and may have inhibited the glucuronidation of simvastatin hydroxy acid, resulting in increased simvastatin exposure and subsequent hepatotoxicity. To our knowledge, this is the first case report of simvastatin-ezetimibe-induced liver failure that resulted in liver transplantation. We postulate that the mechanism of the simvastatinezetimibe-induced hepatotoxicity is the increased simvastatin exposure by ezetimibe inhibition of UGT enzymes. Clinicians should be aware of potential hepatotoxicity with simvastatin-ezetimibe especially in elderly patients and should carefully monitor serum aminotransferase levels when starting therapy and titrating the dosage.",
+  "entities": [
+    {
+      "id": "D000069499",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Simvastatin-ezetimibe",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 21
+        },
+        {
+          "text": "simvastatin-ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 340,
+          "length": 21
+        },
+        {
+          "text": "Simvastatinezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 814,
+          "length": 20
+        },
+        {
+          "text": "simvastatin-ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1639,
+          "length": 21
+        },
+        {
+          "text": "simvastatinezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1762,
+          "length": 20
+        },
+        {
+          "text": "simvastatin-ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1944,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D017093",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatic failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 15
+        },
+        {
+          "text": "liver failure",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1669,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D001219",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Serum aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 92,
+          "length": 22
+        },
+        {
+          "text": "serum aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 783,
+          "length": 22
+        },
+        {
+          "text": "serum aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 2026,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "3156",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "3-hydroxy-3-methylglutaryl coenzyme A reductase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 165,
+          "length": 47
+        }
+      ]
+    },
+    {
+      "id": "D019821",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "statin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 224,
+          "length": 6
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 511,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 536,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 626,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1536,
+          "length": 11
+        },
+        {
+          "text": "simvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1823,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D056486",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatotoxic",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 250,
+          "length": 11
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 694,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 939,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1572,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1791,
+          "length": 14
+        },
+        {
+          "text": "hepatotoxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1924,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D000069438",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 305,
+          "length": 9
+        },
+        {
+          "text": "ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 554,
+          "length": 9
+        },
+        {
+          "text": "Ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1314,
+          "length": 9
+        },
+        {
+          "text": "ezetimibe",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1847,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 398,
+          "length": 5
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 579,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1988,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D017114",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fulminant hepatic failure",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 418,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 589,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D015283",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "escitalopram",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 839,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depression",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 878,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000637",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1017,
+          "length": 16
+        },
+        {
+          "text": "aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1195,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "drug toxicity",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1099,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "7361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "uridine diphosphate glucoronosyltransferases",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1363,
+          "length": 44
+        },
+        {
+          "text": "UGT",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1409,
+          "length": 3
+        },
+        {
+          "text": "UGT",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1871,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C532833",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "simvastatin hydroxy acid",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1487,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017114",
+      "tail_id": "D000069438",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001219",
+      "tail_id": "D056486",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D001219",
+      "tail_id": "D000069499",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019821",
+      "tail_id": "D001219",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019821",
+      "tail_id": "3156",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019821",
+      "tail_id": "7361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019821",
+      "tail_id": "D000069438",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D056486",
+      "tail_id": "D019821",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D056486",
+      "tail_id": "7361",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D056486",
+      "tail_id": "D000069499",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C532833",
+      "tail_id": "D019821",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D000069438",
+      "tail_id": "D056486",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D000069438",
+      "tail_id": "C532833",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D000069438",
+      "tail_id": "7361",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D015283",
+      "tail_id": "D003866",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D000069499",
+      "tail_id": "D017114",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D000069499",
+      "tail_id": "D017093",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

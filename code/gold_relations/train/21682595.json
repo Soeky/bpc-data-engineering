@@ -1,0 +1,263 @@
+{
+  "doc_id": "21682595",
+  "title": "XRCC1 Arg399Gln gene polymorphism and the risk of systemic lupus erythematosus in the Polish population.",
+  "body": "It has been shown that DNA repair is reduced in patients with systemic lupus erythematosus (SLE) and that the X-ray repair cross-complementing (XRCC1) Arg399Gln (rs25487) polymorphism may contribute to DNA repair. We evaluated the frequency of the XRCC1 Arg399Gln substitution in patients with SLE (n=265) and controls (n=360) in a sample of the Polish population. The odds ratio (OR) for SLE patients with the Gln/Gln versus Gln/Arg or Arg/Arg genotypes was 1.553 (95% confidence interval [CI]=0.9573-2.520; p=0.0729). OR for the Gln/Gln or Gln/Arg versus Arg/Arg genotype was 1.551 (95% CI=1.122-2.144, p=0.0077). The OR for the 399 Gln allele in patients with SLE was 1.406 (95% CI=1.111-1.779, p=0.0045). There was also a statistically significant p-value of the (2) test for the trend observed in the XRCC1 Arg399Gln polymorphism (ptrend=0.0048). We also found a significant contribution of the Gln/Gln or Arg/Gln versus Arg/Arg genotype to the presence of either the malar rash or photosensitivity manifestations of SLE OR=2.241 (1.328-3.781, p=0.0023, pcorr=0.0414). Moreover, the meta-analysis of Taiwanese Han Chinese, Brazilian, and Polish populations showed that the Gln/Gln or Gln/Arg genotype and Gln allele were associated with SLE incidence. OR for the Gln/Gln or Gln/Arg versus Arg/Arg genotype was 1.440 (95% CI=1.15-1.80, p=0.0019) and OR for the Gln allele was 1.27 (95% CI=1.08-1.51, p=0.0051). Our studies may confirm that the XRCC1 Arg399Gln polymorphism may increase the risk of incidence of SLE and the occurrence of some SLE manifestations.",
+  "entities": [
+    {
+      "id": "7515",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "XRCC1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "X-ray repair cross-complementing",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 215,
+          "length": 32
+        },
+        {
+          "text": "XRCC1",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 249,
+          "length": 5
+        },
+        {
+          "text": "XRCC1",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 353,
+          "length": 5
+        },
+        {
+          "text": "XRCC1",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 911,
+          "length": 5
+        },
+        {
+          "text": "XRCC1",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1553,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs25487",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg399Gln",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 6,
+          "length": 9
+        },
+        {
+          "text": "Arg399Gln",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 256,
+          "length": 9
+        },
+        {
+          "text": "rs25487",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 267,
+          "length": 7
+        },
+        {
+          "text": "Arg399Gln",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 359,
+          "length": 9
+        },
+        {
+          "text": "399 Gln",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 736,
+          "length": 7
+        },
+        {
+          "text": "Arg399Gln",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 917,
+          "length": 9
+        },
+        {
+          "text": "Arg399Gln",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1559,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 28
+        },
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 167,
+          "length": 28
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 197,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 399,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 494,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 768,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1127,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1347,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1620,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1651,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 153,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 385,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 498,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 754,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005076",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malar rash",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1078,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7515",
+      "tail_id": "D008180",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "7515",
+      "tail_id": "D005076",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs25487",
+      "tail_id": "D008180",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005076",
+      "tail_id": "rs25487",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

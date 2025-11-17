@@ -1,0 +1,481 @@
+{
+  "doc_id": "19692487",
+  "title": "Mice lacking mPGES-1 are resistant to lithium-induced polyuria.",
+  "body": "Cyclooxygenase-2 activity is required for the development of lithium-induced polyuria. However, the involvement of a specific, terminal prostaglandin (PG) isomerase has not been evaluated. The present study was undertaken to assess lithium-induced polyuria in mice deficient in microsomal prostaglandin E synthase-1 (mPGES-1). A 2-wk administration of LiCl (4 mmol.kg(-1).day(-1) ip) in mPGES-1 +/+ mice led to a marked polyuria with hyposmotic urine. This was associated with elevated renal mPGES-1 protein expression and increased urine PGE(2) excretion. In contrast, mPGES-1 -/- mice were largely resistant to lithium-induced polyuria and a urine concentrating defect, accompanied by nearly complete blockade of high urine PGE(2) and cAMP output. Immunoblotting, immunohistochemistry, and quantitative (q) RT-PCR consistently detected a significant decrease in aquaporin-2 (AQP2) protein expression in both the renal cortex and medulla of lithium-treated +/+ mice. This decrease was significantly attenuated in the -/- mice. qRT-PCR detected similar patterns of changes in AQP2 mRNA in the medulla but not in the cortex. Similarly, the total protein abundance of the Na-K-2Cl cotransporter (NKCC2) in the medulla but not in the cortex of the +/+ mice was significantly reduced by lithium treatment. In contrast, the dowregulation of renal medullary NKCC2 expression was significantly attenuated in the -/- mice. We conclude that mPGES-1-derived PGE(2) mediates lithium-induced polyuria likely via inhibition of AQP2 and NKCC2 expression.",
+  "entities": [
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 324,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 463,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 646,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1026,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1086,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1313,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1473,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "64292",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mPGES-1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 7
+        },
+        {
+          "text": "microsomal prostaglandin E synthase-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 342,
+          "length": 37
+        },
+        {
+          "text": "mPGES-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 381,
+          "length": 7
+        },
+        {
+          "text": "mPGES-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 451,
+          "length": 7
+        },
+        {
+          "text": "mPGES-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 556,
+          "length": 7
+        },
+        {
+          "text": "mPGES-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 634,
+          "length": 7
+        },
+        {
+          "text": "mPGES-1",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1496,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008094",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lithium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 125,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 296,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 677,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1006,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1347,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1528,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D011141",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "polyuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 141,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 312,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 484,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 693,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1544,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "19225",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Cyclooxygenase-2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 64,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D011453",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "prostaglandin",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 200,
+          "length": 13
+        },
+        {
+          "text": "PG",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 215,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D018021",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "LiCl",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 416,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015232",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "PGE(2)",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 603,
+          "length": 6
+        },
+        {
+          "text": "PGE(2)",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 790,
+          "length": 6
+        },
+        {
+          "text": "PGE(2)",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1512,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cAMP",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 801,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11827",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aquaporin-2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 928,
+          "length": 11
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 941,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1140,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1578,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20495",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Na-K-2Cl cotransporter",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1234,
+          "length": 22
+        },
+        {
+          "text": "NKCC2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1258,
+          "length": 5
+        },
+        {
+          "text": "NKCC2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1416,
+          "length": 5
+        },
+        {
+          "text": "NKCC2",
+          "passage_index": 1,
+          "passage_offset": 64,
+          "char_offset": 1587,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "19225",
+      "tail_id": "D011141",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "11827",
+      "tail_id": "D008094",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D015232",
+      "tail_id": "20495",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D015232",
+      "tail_id": "11827",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D015232",
+      "tail_id": "D011141",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D015232",
+      "tail_id": "D008094",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D018021",
+      "tail_id": "D015232",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D018021",
+      "tail_id": "D011141",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D018021",
+      "tail_id": "64292",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008094",
+      "tail_id": "20495",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D008094",
+      "tail_id": "D011141",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "64292",
+      "tail_id": "D015232",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "64292",
+      "tail_id": "D011141",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "64292",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

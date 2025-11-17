@@ -1,0 +1,406 @@
+{
+  "doc_id": "17965424",
+  "title": "Gastrointestinal tolerability of etoricoxib in rheumatoid arthritis patients: results of the etoricoxib vs diclofenac sodium gastrointestinal tolerability and effectiveness trial (EDGE-II).",
+  "body": "OBJECTIVE: A randomised, double-blind study to compare the gastrointestinal (GI) tolerability, safety and efficacy of etoricoxib and diclofenac in patients with rheumatoid arthritis (RA). PATIENTS AND METHODS: A total of 4086 patients (mean age 60.8 years) diagnosed with RA were enrolled and received etoricoxib 90 mg daily (n = 2032) or diclofenac 75 mg twice daily (n = 2054). Use of gastroprotective agents and low-dose aspirin was allowed. The prespecified primary end point consisted of the cumulative rate of patient discontinuations due to clinical and laboratory GI adverse experiences (AEs). General safety was also assessed, including adjudicated thrombotic cardiovascular event data. Efficacy was evaluated using the Patient Global Assessment of Disease Status (PGADS; 0-4 point scale). RESULTS: Mean (SD; maximum) duration of treatment was 19.3 (10.3; 32.9) and 19.1 (10.4; 33.1) months in the etoricoxib and diclofenac groups, respectively. The cumulative discontinuation rate due to GI AEs was significantly lower with etoricoxib than diclofenac (5.2 vs 8.5 events per 100 patient-years, respectively; hazard ratio 0.62 (95% CI: 0.47, 0.81; p<or=0.001)). The incidence of discontinuations for hypertension-related and oedema-related AEs were significantly higher with etoricoxib (2.5% and 1.1% respectively) compared with diclofenac (1.5% and 0.4% respectively; p<0.001 for hypertension and p<0.01 for oedema). Etoricoxib and diclofenac treatment resulted in similar efficacy (PGADS mean changes from baseline -0.62 vs -0.58, respectively). CONCLUSIONS: Etoricoxib 90 mg demonstrated a significantly lower risk for discontinuing treatment due to GI AEs compared with diclofenac 150 mg. Discontinuations from renovascular AEs, although less common than discontinuations from GI AEs, were significantly higher with etoricoxib.",
+  "entities": [
+    {
+      "id": "D000077613",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etoricoxib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 33,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 308,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 492,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1097,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1224,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1473,
+          "length": 10
+        },
+        {
+          "text": "Etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1616,
+          "length": 10
+        },
+        {
+          "text": "Etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1759,
+          "length": 10
+        },
+        {
+          "text": "etoricoxib",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 2018,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001172",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 20
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 351,
+          "length": 20
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 373,
+          "length": 2
+        },
+        {
+          "text": "RA",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 462,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 337,
+          "length": 8
+        },
+        {
+          "text": "PATIENTS",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 378,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 416,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 706,
+          "length": 7
+        },
+        {
+          "text": "Patient",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 919,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1278,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D004008",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diclofenac sodium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 107,
+          "length": 17
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 323,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 529,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1112,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1240,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1527,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1631,
+          "length": 10
+        },
+        {
+          "text": "diclofenac",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1872,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D001241",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aspirin",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 614,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005767",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GI adverse experiences",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 762,
+          "length": 22
+        },
+        {
+          "text": "GI AEs",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1188,
+          "length": 6
+        },
+        {
+          "text": "GI AEs",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1851,
+          "length": 6
+        },
+        {
+          "text": "GI AEs",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1979,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombotic cardiovascular",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 848,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1398,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1579,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D004487",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "oedema",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1423,
+          "length": 6
+        },
+        {
+          "text": "oedema",
+          "passage_index": 1,
+          "passage_offset": 190,
+          "char_offset": 1607,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004487",
+      "tail_id": "D004008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004487",
+      "tail_id": "D000077613",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D006973",
+      "tail_id": "D004008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006973",
+      "tail_id": "D000077613",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005767",
+      "tail_id": "D004008",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005767",
+      "tail_id": "D000077613",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001241",
+      "tail_id": "D001172",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D004008",
+      "tail_id": "D001172",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D000077613",
+      "tail_id": "D004008",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000077613",
+      "tail_id": "D001172",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "doc_id": "17951029",
+  "title": "Focal dermal hypoplasia resulting from a new nonsense mutation, p.E300X, in the PORCN gene.",
+  "body": "BACKGROUND: Focal dermal hypoplasia (FDH) (OMIM 305600) is an X-linked dominant disorder of ecto-mesodermal development. Also known as Goltz syndrome, FDH presents with characteristic linear streaks of hypoplastic dermis and variable abnormalities of bone, nails, hair, limbs, teeth and eyes. The molecular basis of FDH involves mutations in the PORCN gene, which encodes an enzyme that allows membrane targeting and secretion of several Wnt proteins critical for normal tissue development. OBJECTIVES: To investigate the molecular basis of FDH in a 2-year-old Thai girl who presented at birth with depressed, pale linear scars on the trunk and limbs, sparse brittle hair, syndactyly of the right middle and ring fingers, dental caries and radiological features of osteopathia striata. METHODS: Sequencing of genomic DNA from the affected individual and both parents to search for pathogenic mutations in PORCN gene. RESULTS: DNA sequencing disclosed a heterozygous G>T substitution at nucleotide c.898 within exon 10 (NM_203475.1), converting a glutamic acid residue (GAA) to a premature termination codon (TAA). This mutation, designated p.E300X, was not detected in DNA from either parent or in 100 control chromosomes. CONCLUSION: Identification of this new de novo nonsense mutation confirms the diagnosis of FDH in this child and highlights the clinical importance of PORCN and Wnt signalling pathways in embryogenesis.",
+  "entities": [
+    {
+      "id": "D005489",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Focal dermal hypoplasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 23
+        },
+        {
+          "text": "Focal dermal hypoplasia",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 104,
+          "length": 23
+        },
+        {
+          "text": "FDH",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 129,
+          "length": 3
+        },
+        {
+          "text": "OMIM 305600",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 135,
+          "length": 11
+        },
+        {
+          "text": "Goltz syndrome",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 227,
+          "length": 14
+        },
+        {
+          "text": "FDH",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 243,
+          "length": 3
+        },
+        {
+          "text": "hypoplastic dermis",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 294,
+          "length": 18
+        },
+        {
+          "text": "FDH",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 408,
+          "length": 3
+        },
+        {
+          "text": "FDH",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 633,
+          "length": 3
+        },
+        {
+          "text": "FDH",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1406,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E|300|X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.E300X",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 64,
+          "length": 7
+        },
+        {
+          "text": "p.E300X",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1232,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "64840",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PORCN",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 5
+        },
+        {
+          "text": "PORCN",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 438,
+          "length": 5
+        },
+        {
+          "text": "PORCN",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 997,
+          "length": 5
+        },
+        {
+          "text": "PORCN",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1466,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D040181",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked dominant disorder",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 154,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressed",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 691,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003731",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dental caries",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 814,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|898|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G>T substitution at nucleotide c.898",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1058,
+          "length": 36
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E||X",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "glutamic acid residue (GAA) to a premature termination codon (TAA)",
+          "passage_index": 1,
+          "passage_offset": 92,
+          "char_offset": 1138,
+          "length": 66
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|E||X",
+      "tail_id": "D005489",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|SUB|G|898|T",
+      "tail_id": "D005489",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005489",
+      "tail_id": "64840",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "p|SUB|E|300|X",
+      "tail_id": "D005489",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

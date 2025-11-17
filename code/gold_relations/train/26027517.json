@@ -1,0 +1,696 @@
+{
+  "doc_id": "26027517",
+  "title": "The autotaxin-LPA2 GPCR axis is modulated by gamma-irradiation and facilitates DNA damage repair.",
+  "body": "In this study we characterized the effects of radiation injury on the expression and function of the autotaxin (ATX)-LPA2 GPCR axis. In IEC-6 crypt cells and jejunum enteroids quantitative RT-PCR showed a time- and dose-dependent upregulation of lpa2 in response to gamma-irradiation that was abolished by mutation of the NF-kappaB site in the lpa2 promoter or by inhibition of ATM/ATR kinases with CGK-733, suggesting that lpa2 is a DNA damage response gene upregulated by ATM via NF-kappaB. The resolution kinetics of the DNA damage marker gamma-H2AX in LPA-treated IEC-6 cells exposed to gamma-irradiation was accelerated compared to vehicle, whereas pharmacological inhibition of LPA2 delayed the resolution of gamma-H2AX. In LPA2-reconstituted MEF cells lacking LPA1    '3 the levels of gamma-H2AX decreased rapidly, whereas in Vector MEF were high and remained sustained. Inhibition of ERK1    '2 or PI3K/AKT signaling axis by pertussis toxin or the C311A/C314A/L351A mutation in the C-terminus of LPA2 abrogated the effect of LPA on DNA repair. LPA2 transcripts in Lin(-)Sca-1(+)c-Kit(+) enriched for bone marrow stem cells were 27- and 5-fold higher than in common myeloid or lymphoid progenitors, respectively. Furthermore, after irradiation higher residual gamma-H2AX levels were detected in the bone marrow or jejunum of irradiated LPA2-KO mice compared to WT mice. We found that gamma-irradiation increases plasma ATX activity and LPA level that is in part due to the previously established radiation-induced upregulation of TNFalpha. These findings identify ATX and LPA2 as radiation-regulated genes that appear to play a physiological role in DNA repair.",
+  "entities": [
+    {
+      "id": "84050",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "autotaxin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 9
+        },
+        {
+          "text": "autotaxin",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 199,
+          "length": 9
+        },
+        {
+          "text": "ATX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 210,
+          "length": 3
+        },
+        {
+          "text": "ATX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1524,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "498609,53978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPA2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 4
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1677,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "295589",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GPCR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 19,
+          "length": 4
+        },
+        {
+          "text": "GPCR",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 220,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011832",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "radiation injury",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 144,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "498609",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 215,
+          "length": 4
+        },
+        {
+          "text": "lpa2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 344,
+          "length": 4
+        },
+        {
+          "text": "lpa2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 442,
+          "length": 4
+        },
+        {
+          "text": "lpa2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 522,
+          "length": 4
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 782,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0343",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "IEC-6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 234,
+          "length": 5
+        },
+        {
+          "text": "IEC-6",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 666,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "81736",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 420,
+          "length": 9
+        },
+        {
+          "text": "NF-kappaB",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 580,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "300711,685055",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATM/ATR kinases",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 476,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "C512273",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "CGK-733",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 497,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "300711",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATM",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 572,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "500987",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gamma-H2AX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 640,
+          "length": 10
+        },
+        {
+          "text": "gamma-H2AX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 813,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "53978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPA",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 654,
+          "length": 3
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 828,
+          "length": 4
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1102,
+          "length": 4
+        },
+        {
+          "text": "LPA",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1131,
+          "length": 3
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1150,
+          "length": 4
+        },
+        {
+          "text": "LPA2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1441,
+          "length": 4
+        },
+        {
+          "text": "LPA",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1541,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_9115",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MEF",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 847,
+          "length": 3
+        },
+        {
+          "text": "MEF",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 938,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "14745,65086",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LPA1    '3",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 865,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "15270",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gamma-H2AX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 890,
+          "length": 10
+        },
+        {
+          "text": "gamma-H2AX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1365,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ERK1    '2",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 990,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "18708",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1004,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1009,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|C|311|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C311A",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1054,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|C|314|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C314A",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1060,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|L|351|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "L351A",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1066,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "83557",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Lin",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1170,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "110454",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sca-1",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1176,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16590",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "c-Kit",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1184,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1449,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1469,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFalpha",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1635,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "18606,84050",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATX",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1669,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "21926",
+      "tail_id": "84050",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D011832",
+      "tail_id": "295589",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011832",
+      "tail_id": "498609",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011832",
+      "tail_id": "84050",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "p|SUB|C|311|A",
+      "tail_id": "p|SUB|L|351|A",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|SUB|C|311|A",
+      "tail_id": "p|SUB|C|314|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "p|SUB|C|314|A",
+      "tail_id": "p|SUB|L|351|A",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "11651",
+      "tail_id": "53978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "18708",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "18708",
+      "tail_id": "53978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "500987",
+      "tail_id": "53978",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "300711",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "300711",
+      "tail_id": "C512273",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R18",
+      "head_id": "53978",
+      "tail_id": "21926",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "53978",
+      "tail_id": "16590",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "53978",
+      "tail_id": "110454",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "53978",
+      "tail_id": "83557",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "53978",
+      "tail_id": "15270",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "53978",
+      "tail_id": "295589",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R26",
+      "head_id": "498609",
+      "tail_id": "500987",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "498609",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "498609",
+      "tail_id": "C512273",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "498609",
+      "tail_id": "300711",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "498609",
+      "tail_id": "295589",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R31",
+      "head_id": "84050",
+      "tail_id": "295589",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R32",
+      "head_id": "84050",
+      "tail_id": "53978",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R33",
+      "head_id": "84050",
+      "tail_id": "498609",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

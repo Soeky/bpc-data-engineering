@@ -1,0 +1,280 @@
+{
+  "doc_id": "15241482",
+  "title": "Paraoxonase 1 polymorphisms and survival.",
+  "body": "The antioxidant enzyme paraoxonase 1 (PON1) has previously been suggested to confer protection against coronary heart disease (CHD), one of the main causes of death in the Western world. Two coding polymorphisms, 55M/L and 192Q/R, and a promoter variant, -107C/T, has been extensively studied with respect to susceptibility to CHD. In this study, we have investigated the impact of these three polymorphisms on mortality using a sample of 1932 Danish individuals aged 47-93 years, previously used in gene-longevity studies. A cross-sectional study comparing the genotype distribution of the three polymorphisms separately as well as the haplotype distribution in different age groups did not reveal any difference. However, a longitudinal follow-up study on survival in the same sample indicated that 192RR homozygotes have a poorer survival compared to QQ homozygotes (hazard rate: 1.38, P = 0.04). We hereafter used an independent sample of 541 Danish individuals from the oldest cohort and confirmed the initial findings (hazard rate: 1.38, P = 0.09). In both samples, the effect was most pronounced in women. Using self-reported data on ischemic heart disease to evaluate the impact of the PON 192Q/R polymorphism on susceptibility to CHD, we found only a nonsignificant trend of 192RR homozygosity in women being a risk factor. Our results thus indicates that PON1 192RR homozygosity is associated with increased mortality in women in the second half of life and that this increased mortality is possibly related to CHD severity and survival after CHD rather than susceptibility to development of CHD.",
+  "entities": [
+    {
+      "id": "5444",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Paraoxonase 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "paraoxonase 1",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 65,
+          "length": 13
+        },
+        {
+          "text": "PON1",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 80,
+          "length": 4
+        },
+        {
+          "text": "PON",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1236,
+          "length": 3
+        },
+        {
+          "text": "PON1",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1407,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "coronary heart disease",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 145,
+          "length": 22
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 169,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 369,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1281,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1563,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1595,
+          "length": 3
+        },
+        {
+          "text": "CHD",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1644,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 201,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|M|55|L",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "55M/L",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 255,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|Q|192|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "192Q/R",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 265,
+          "length": 6
+        },
+        {
+          "text": "192Q/R",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1240,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C|-107|T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "-107C/T",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 297,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "p|Allele|R|192",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "192RR",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 843,
+          "length": 5
+        },
+        {
+          "text": "192RR",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1326,
+          "length": 5
+        },
+        {
+          "text": "192RR",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1412,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1148,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1348,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1473,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D017202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic heart disease",
+          "passage_index": 1,
+          "passage_offset": 42,
+          "char_offset": 1183,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|C|-107|T",
+      "tail_id": "D003327",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "5444",
+      "tail_id": "D003327",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|Allele|R|192",
+      "tail_id": "D003327",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D017202",
+      "tail_id": "5444",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D017202",
+      "tail_id": "p|SUB|Q|192|R",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "p|SUB|Q|192|R",
+      "tail_id": "D003327",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "p|SUB|M|55|L",
+      "tail_id": "D003327",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

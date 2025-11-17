@@ -1,0 +1,292 @@
+{
+  "doc_id": "15851735",
+  "title": "Mild glycine encephalopathy (NKH) in a large kindred due to a silent exonic GLDC splice mutation.",
+  "body": "BACKGROUND: Classic neonatal-onset glycine encephalopathy (GE) is devastating and life threatening. Milder, later onset variants have been reported but were usually sporadic and incompletely defined. OBJECTIVE: To determine the clinical and biochemical phenotype and molecular basis of mild GE in nine children from a consanguineous Israeli Bedouin kindred. METHODS: Genomic DNA was screened for GLDC, AMT, and GCSH gene mutations. GLDC expression in lymphoblasts was studied by Northern blot and reverse transcriptase PCR analysis. RESULTS: Clinical features included hypotonia, abnormal movements, convulsions, and moderate mental retardation with relative sparing of gross motor function, activities of daily living skills, and receptive language. Aggression and irritability were prominent. CSF-to-plasma glycine ratio was mildly to moderately elevated. All nine patients were homozygous and their parents heterozygous for a novel, translationally silent GLDC exon 22 transversion c.2607C>A. Lymphoblast GLDC mRNA levels were considerably reduced. Three aberrantly spliced cDNA species were identified: exon 22 and exon 22 to 23 skipping, and insertion of an 87-base pair cryptic exon. Homozygosity for c.2607C>A was also identified in an unrelated but haplotypically identical patient with an unusually favorable outcome despite severe neonatal-onset GE. Mutation analysis enabled prenatal diagnosis of three unaffected and one affected pregnancies. CONCLUSIONS: The mutation in this kindred led to missplicing and reduced GLDC (glycine decarboxylase) expression. The 4 to 6% of normally spliced GLDC mRNA in the patients may account for their relatively favorable clinical outcome compared with patients with classic glycine encephalopathy.",
+  "entities": [
+    {
+      "id": "D020158",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glycine encephalopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 5,
+          "length": 22
+        },
+        {
+          "text": "NKH",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 3
+        },
+        {
+          "text": "glycine encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 133,
+          "length": 22
+        },
+        {
+          "text": "GE",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 157,
+          "length": 2
+        },
+        {
+          "text": "GE",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 389,
+          "length": 2
+        },
+        {
+          "text": "GE",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1454,
+          "length": 2
+        },
+        {
+          "text": "glycine encephalopathy",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1821,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "2731",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GLDC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 4
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 494,
+          "length": 4
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 530,
+          "length": 4
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1057,
+          "length": 4
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1106,
+          "length": 4
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1626,
+          "length": 4
+        },
+        {
+          "text": "glycine decarboxylase",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1632,
+          "length": 21
+        },
+        {
+          "text": "GLDC",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1699,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "275",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMT",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 500,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2653",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GCSH",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 509,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009123",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotonia",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 667,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009069",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "abnormal movements",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 678,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "convulsions",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 698,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mental retardation",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 724,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Aggression",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 849,
+          "length": 10
+        },
+        {
+          "text": "irritability",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 864,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 965,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1380,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1716,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1799,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs386833565",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.2607C>A",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1083,
+          "length": 9
+        },
+        {
+          "text": "c.2607C>A",
+          "passage_index": 1,
+          "passage_offset": 98,
+          "char_offset": 1305,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs386833565",
+      "tail_id": "D020158",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D020158",
+      "tail_id": "2731",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

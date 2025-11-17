@@ -1,0 +1,439 @@
+{
+  "doc_id": "26847345",
+  "title": "Transgelin increases metastatic potential of colorectal cancer cells in vivo and alters expression of genes involved in cell motility.",
+  "body": "BACKGROUND: Transgelin is an actin-binding protein that promotes motility in normal cells. Although the role of transgelin in cancer is controversial, a number of studies have shown that elevated levels correlate with aggressive tumor behavior, advanced stage, and poor prognosis. Here we sought to determine the role of transgelin more directly by determining whether experimental manipulation of transgelin levels in colorectal cancer (CRC) cells led to changes in metastatic potential in vivo. METHODS: Isogenic CRC cell lines that differ in transgelin expression were characterized using in vitro assays of growth and invasiveness and a mouse tail vein assay of experimental metastasis. Downstream effects of transgelin overexpression were investigated by gene expression profiling and quantitative PCR. RESULTS: Stable overexpression of transgelin in RKO cells, which have low endogenous levels, led to increased invasiveness, growth at low density, and growth in soft agar. Overexpression also led to an increase in the number and size of lung metastases in the mouse tail vein injection model. Similarly, attenuation of transgelin expression in HCT116 cells, which have high endogenous levels, decreased metastases in the same model. Investigation of mRNA expression patterns showed that transgelin overexpression altered the levels of approximately 250 other transcripts, with over-representation of genes that affect function of actin or other cytoskeletal proteins. Changes included increases in HOOK1, SDCCAG8, ENAH/Mena, and TNS1 and decreases in EMB, BCL11B, and PTPRD. CONCLUSIONS: Increases or decreases in transgelin levels have reciprocal effects on tumor cell behavior, with higher expression promoting metastasis. Chronic overexpression influences steady-state levels of mRNAs for metastasis-related genes.",
+  "entities": [
+    {
+      "id": "6876",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Transgelin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "Transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 147,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 247,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 456,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 533,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 680,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 848,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 977,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1262,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1430,
+          "length": 10
+        },
+        {
+          "text": "transgelin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1757,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 554,
+          "length": 17
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 573,
+          "length": 3
+        },
+        {
+          "text": "CRC",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 650,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "21345,6876",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "actin-binding protein",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 164,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 261,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 364,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1802,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 776,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1203,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0504",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "RKO",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 991,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008175",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung metastases",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1180,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0291",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "HCT116",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1287,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D009362",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metastases",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1346,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1573,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "51361,55740,7145",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cytoskeletal proteins",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1588,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "51361",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HOOK1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1641,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10806",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SDCCAG8",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1648,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "55740",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ENAH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1657,
+          "length": 4
+        },
+        {
+          "text": "Mena",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1662,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7145",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNS1",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1672,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "133418",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EMB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1694,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "64919",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCL11B",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1699,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "5789",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTPRD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1711,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "6876",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "6876",
+      "tail_id": "5789",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "6876",
+      "tail_id": "64919",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "6876",
+      "tail_id": "133418",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "6876",
+      "tail_id": "10806",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "6876",
+      "tail_id": "7145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "6876",
+      "tail_id": "55740",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "6876",
+      "tail_id": "51361",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "6876",
+      "tail_id": "60",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "6876",
+      "tail_id": "D008175",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "6876",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

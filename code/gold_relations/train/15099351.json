@@ -1,0 +1,272 @@
+{
+  "doc_id": "15099351",
+  "title": "Mutations in the PCSK9 gene in Norwegian subjects with autosomal dominant hypercholesterolemia.",
+  "body": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) is at a locus for autosomal dominant hypercholesterolemia, and recent data indicate that the PCSK9 gene is involved in cholesterol biosynthesis. Mutations within this gene have previously been found to segregate with hypercholesterolemia. In this study, DNA sequencing of the 12 exons of the PCSK9 gene has been performed in 51 Norwegian subjects with a clinical diagnosis of familial hypercholesterolemia where mutations in the low-density lipoprotein receptor gene and mutation R3500Q in the apolipoprotein B-100 gene had been excluded. Two novel missense mutations were detected in the catalytic subdomain of the PCSK9 gene. Two patients were heterozygotes for D374Y, and one patient was a double heterozygote for D374Y and N157K. D374Y segregated with hypercholesterolemia in the two former families where family members were available for study. Our findings support the notion that mutations in the PCSK9 gene cause autosomal dominant hypercholesterolemia.",
+  "entities": [
+    {
+      "id": "255738",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PCSK9",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 17,
+          "length": 5
+        },
+        {
+          "text": "Proprotein convertase subtilisin/kexin type 9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 96,
+          "length": 45
+        },
+        {
+          "text": "PCSK9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 143,
+          "length": 5
+        },
+        {
+          "text": "PCSK9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 243,
+          "length": 5
+        },
+        {
+          "text": "PCSK9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 442,
+          "length": 5
+        },
+        {
+          "text": "PCSK9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 766,
+          "length": 5
+        },
+        {
+          "text": "PCSK9",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1055,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006938",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant hypercholesterolemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 39
+        },
+        {
+          "text": "autosomal dominant hypercholesterolemia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 168,
+          "length": 39
+        },
+        {
+          "text": "autosomal dominant hypercholesterolemia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 1072,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 269,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D006937",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypercholesterolemia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 367,
+          "length": 20
+        },
+        {
+          "text": "familial hypercholesterolemia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 526,
+          "length": 29
+        },
+        {
+          "text": "hypercholesterolemia",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 906,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "3949",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "low-density lipoprotein receptor",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 579,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "rs5742904",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R3500Q",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 630,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "338",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "apolipoprotein B-100",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 644,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 782,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 829,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs137852912",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "D374Y",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 814,
+          "length": 5
+        },
+        {
+          "text": "D374Y",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 867,
+          "length": 5
+        },
+        {
+          "text": "D374Y",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 884,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs143117125",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "N157K",
+          "passage_index": 1,
+          "passage_offset": 96,
+          "char_offset": 877,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs143117125",
+      "tail_id": "D006938",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006938",
+      "tail_id": "255738",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "255738",
+      "tail_id": "D002784",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "255738",
+      "tail_id": "D006937",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs137852912",
+      "tail_id": "D006938",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006937",
+      "tail_id": "rs137852912",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

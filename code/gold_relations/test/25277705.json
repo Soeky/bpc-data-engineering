@@ -1,0 +1,1168 @@
+{
+  "doc_id": "25277705",
+  "title": "Leukemia inhibitory factor protects the lung during respiratory syncytial viral infection.",
+  "body": "BACKGROUND: Respiratory syncytial virus (RSV) infects the lung epithelium where it stimulates the production of numerous host cytokines that are associated with disease burden and acute lung injury. Characterizing the host cytokine response to RSV infection, the regulation of host cytokines and the impact of neutralizing an RSV-inducible cytokine during infection were undertaken in this study. METHODS: A549, primary human small airway epithelial (SAE) cells and wild-type, TIR-domain-containing adapter-inducing interferon-b (Trif) and mitochondrial antiviral-signaling protein (Mavs) knockout (KO) mice were infected with RSV and cytokine responses were investigated by ELISA, multiplex analysis and qPCR. Neutralizing anti-leukemia inhibitory factor (LIF) IgG or control IgG was administered to a group of wild-type animals prior to RSV infection. RESULTS AND DISCUSSION: RSV-infected A549 and SAE cells release a network of cytokines, including newly identified RSV-inducible cytokines LIF, migration inhibitory factor (MIF), stem cell factor (SCF), CCL27, CXCL12 and stem cell growth factor beta (SCGF-b). These RSV-inducible cytokines were also observed in the airways of mice during an infection. To identify the regulation of RSV inducible cytokines, Mavs and Trif deficient animals were infected with RSV. In vivo induction of airway IL-1b, IL-4, IL-5, IL-6, IL-12(p40), IFN-g, CCL2, CCL5, CCL3, CXCL1, IP-10/CXCL10, IL-22, MIG/CXCL9 and MIF were dependent on Mavs expression in mice. Loss of Trif expression in mice altered the RSV induction of IL-1b, IL-5, CXCL12, MIF, LIF, CXCL12 and IFN-g. Silencing of retinoic acid-inducible gene-1 (RIG-I) expression in A549 cells had a greater impact on RSV-inducible cytokines than melanoma differentiation-associated protein 5 (MDA5) and laboratory of genetics and physiology 2 (LGP2), and Trif expression. To evaluate the role of LIF in the airways during RSV infection, animals were treated with neutralizing anti-LIF IgG, which enhanced RSV pathology observed with increased airspace protein content, apoptosis and airway hyperresponsiveness compared to control IgG treatment. CONCLUSIONS: RSV infection in the epithelium induces a network of immune factors to counter infection, primarily in a RIG-I dependent manner. Expression of LIF protects the lung from lung injury and enhanced pathology during RSV infection.",
+  "entities": [
+    {
+      "id": "16878,3976",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Leukemia inhibitory factor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 26
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2383,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018357",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory syncytial viral infection",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 37
+        },
+        {
+          "text": "RSV infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 335,
+          "length": 13
+        },
+        {
+          "text": "RSV infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 930,
+          "length": 13
+        },
+        {
+          "text": "RSV-infected",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 969,
+          "length": 12
+        },
+        {
+          "text": "RSV infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2004,
+          "length": 13
+        },
+        {
+          "text": "RSV infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2240,
+          "length": 13
+        },
+        {
+          "text": "RSV infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2452,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12814",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Respiratory syncytial virus",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 103,
+          "length": 27
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 132,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 417,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 718,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1060,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1211,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1328,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1404,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1632,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1799,
+          "length": 3
+        },
+        {
+          "text": "RSV",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2087,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D055371",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute lung injury",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 271,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007239",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 447,
+          "length": 9
+        },
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1287,
+          "length": 9
+        },
+        {
+          "text": "infection",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2319,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0023",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "A549",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 497,
+          "length": 4
+        },
+        {
+          "text": "A549",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 982,
+          "length": 4
+        },
+        {
+          "text": "A549",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1764,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 511,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_6E24",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "SAE",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 542,
+          "length": 3
+        },
+        {
+          "text": "SAE",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 991,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "106759",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TIR-domain-containing adapter-inducing interferon-b",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 568,
+          "length": 51
+        },
+        {
+          "text": "Trif",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 621,
+          "length": 4
+        },
+        {
+          "text": "Trif",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1362,
+          "length": 4
+        },
+        {
+          "text": "Trif",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1596,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "228607",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mitochondrial antiviral-signaling protein",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 631,
+          "length": 41
+        },
+        {
+          "text": "Mavs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 674,
+          "length": 4
+        },
+        {
+          "text": "Mavs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1353,
+          "length": 4
+        },
+        {
+          "text": "Mavs",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1563,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 694,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1272,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1582,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1615,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "3976",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leukemia inhibitory factor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 820,
+          "length": 26
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 848,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1084,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4282",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "migration inhibitory factor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1089,
+          "length": 27
+        },
+        {
+          "text": "MIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1118,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "4254",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "stem cell factor",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1124,
+          "length": 16
+        },
+        {
+          "text": "SCF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1142,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10850",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL27",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1148,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6387",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1155,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "6320",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "stem cell growth factor beta",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1166,
+          "length": 28
+        },
+        {
+          "text": "SCGF-b",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1196,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16176",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-1b",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1437,
+          "length": 5
+        },
+        {
+          "text": "IL-1b",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1649,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16189",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-4",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1444,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16191",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1450,
+          "length": 4
+        },
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1656,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16193",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-6",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1456,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16160",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1462,
+          "length": 5
+        },
+        {
+          "text": "p40",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1468,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1474,
+          "length": 5
+        },
+        {
+          "text": "IFN-g",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1691,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL2",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1481,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20304",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL5",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1487,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20302",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCL3",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1493,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "14825",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1499,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "15945",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IP-10",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1506,
+          "length": 5
+        },
+        {
+          "text": "CXCL10",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1512,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "50929",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-22",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1520,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17329",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MIG",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1527,
+          "length": 3
+        },
+        {
+          "text": "CXCL9",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1531,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17319",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1541,
+          "length": 3
+        },
+        {
+          "text": "MIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1670,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "20315",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CXCL12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1662,
+          "length": 6
+        },
+        {
+          "text": "CXCL12",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1680,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1675,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1978,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2063,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "23586",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "retinoic acid-inducible gene-1",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1711,
+          "length": 30
+        },
+        {
+          "text": "RIG-I",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1743,
+          "length": 5
+        },
+        {
+          "text": "RIG-I",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2345,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "64135",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "melanoma differentiation-associated protein 5",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1828,
+          "length": 45
+        },
+        {
+          "text": "MDA5",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1875,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "79132",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "laboratory of genetics and physiology 2",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1885,
+          "length": 39
+        },
+        {
+          "text": "LGP2",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1926,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "148022",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Trif",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 1937,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D055370",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung injury",
+          "passage_index": 1,
+          "passage_offset": 91,
+          "char_offset": 2410,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "17319",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "17329",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "50929",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "15945",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "14825",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "20302",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "20304",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "20296",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "15978",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "16160",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "16193",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "16191",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "16189",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "16176",
+      "tail_id": "228607",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "106759",
+      "tail_id": "20315",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "106759",
+      "tail_id": "17319",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "106759",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "106759",
+      "tail_id": "16191",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "106759",
+      "tail_id": "16176",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "106759",
+      "tail_id": "16878",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "6320",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "6387",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "10850",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "4254",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "4282",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "23586",
+      "tail_id": "6320",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "23586",
+      "tail_id": "6387",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "23586",
+      "tail_id": "10850",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "23586",
+      "tail_id": "4254",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "23586",
+      "tail_id": "4282",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "23586",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "23586",
+      "tail_id": "3976",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "3976",
+      "tail_id": "D055370",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R33",
+      "head_id": "3976",
+      "tail_id": "D007239",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R34",
+      "head_id": "3976",
+      "tail_id": "D018357",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R35",
+      "head_id": "D018357",
+      "tail_id": "106759",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R36",
+      "head_id": "D018357",
+      "tail_id": "228607",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R37",
+      "head_id": "D018357",
+      "tail_id": "6320",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D018357",
+      "tail_id": "6387",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R39",
+      "head_id": "D018357",
+      "tail_id": "10850",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "D018357",
+      "tail_id": "4254",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "D018357",
+      "tail_id": "4282",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "D018357",
+      "tail_id": "23586",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R43",
+      "head_id": "16878",
+      "tail_id": "D055370",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R44",
+      "head_id": "16878",
+      "tail_id": "D018357",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

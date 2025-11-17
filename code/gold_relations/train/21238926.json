@@ -1,0 +1,289 @@
+{
+  "doc_id": "21238926",
+  "title": "Brat promotes stem cell differentiation via control of a bistable switch that restricts BMP signaling.",
+  "body": "Drosophila ovarian germline stem cells (GSCs) are maintained by Dpp signaling and the Pumilio (Pum) and Nanos (Nos) translational repressors. Upon division, Dpp signaling is extinguished, and Nos is downregulated in one daughter cell, causing it to switch to a differentiating cystoblast (CB). However, downstream effectors of Pum-Nos remain unknown, and how CBs lose their responsiveness to Dpp is unclear. Here, we identify Brain Tumor (Brat) as a potent differentiation factor and target of Pum-Nos regulation. Brat is excluded from GSCs by Pum-Nos but functions with Pum in CBs to translationally repress distinct targets, including the Mad and dMyc mRNAs. Regulation of both targets simultaneously lowers cellular responsiveness to Dpp signaling, forcing the cell to become refractory to the self-renewal signal. Mathematical modeling elucidates bistability of cell fate in the Brat-mediated system, revealing how autoregulation of GSC number can arise from Brat coupling extracellular Dpp regulation to intracellular interpretation.",
+  "entities": [
+    {
+      "id": "35197",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Brat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 4
+        },
+        {
+          "text": "Brain Tumor",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 529,
+          "length": 11
+        },
+        {
+          "text": "Brat",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 542,
+          "length": 4
+        },
+        {
+          "text": "Brat",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 617,
+          "length": 4
+        },
+        {
+          "text": "Brat",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 986,
+          "length": 4
+        },
+        {
+          "text": "Brat",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1066,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "33432",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 88,
+          "length": 3
+        },
+        {
+          "text": "Dpp",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 167,
+          "length": 3
+        },
+        {
+          "text": "Dpp",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 260,
+          "length": 3
+        },
+        {
+          "text": "Dpp",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 495,
+          "length": 3
+        },
+        {
+          "text": "Dpp",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 840,
+          "length": 3
+        },
+        {
+          "text": "Dpp",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1094,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "7227",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Drosophila",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 103,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "41094",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Pumilio",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 189,
+          "length": 7
+        },
+        {
+          "text": "Pum",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 198,
+          "length": 3
+        },
+        {
+          "text": "Pum",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 430,
+          "length": 3
+        },
+        {
+          "text": "Pum",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 597,
+          "length": 3
+        },
+        {
+          "text": "Pum",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 647,
+          "length": 3
+        },
+        {
+          "text": "Pum",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 674,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "42297",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nanos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 207,
+          "length": 5
+        },
+        {
+          "text": "Nos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 214,
+          "length": 3
+        },
+        {
+          "text": "Nos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 295,
+          "length": 3
+        },
+        {
+          "text": "Nos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 434,
+          "length": 3
+        },
+        {
+          "text": "Nos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 601,
+          "length": 3
+        },
+        {
+          "text": "Nos",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 651,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "33529",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Mad",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 744,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "31310",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dMyc",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 752,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "41094",
+      "tail_id": "31310",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "41094",
+      "tail_id": "33529",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "35197",
+      "tail_id": "33432",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "35197",
+      "tail_id": "31310",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "35197",
+      "tail_id": "33529",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "35197",
+      "tail_id": "42297",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "35197",
+      "tail_id": "41094",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

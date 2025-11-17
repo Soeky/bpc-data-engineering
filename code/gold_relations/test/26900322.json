@@ -1,0 +1,359 @@
+{
+  "doc_id": "26900322",
+  "title": "CFI-rs7356506 polymorphisms associated with Vogt-Koyanagi-Harada syndrome.",
+  "body": "PURPOSE: Complement factor I (CFI) plays an important role in complement activation pathways and is known to affect the development of uveitis. The present study was performed to investigate the existence of an association between CFI genetic polymorphisms and Vogt-Koyanagi-Harada (VKH) syndrome. METHODS: A total of 100 patients diagnosed with VKH syndrome and 300 healthy controls were recruited for the study. Two milliliters of peripheral blood were collected in a sterile anticoagulative tube. CFI-rs7356506 polymorphisms were genotyped using Sequenom MassARRAY technology. Allele and genotype frequencies were compared between patients and controls using a X(2) test. The analyses were stratified for recurrent status, complicated cataract status, and steroid-sensitive status. RESULTS: No significant association was found between CFI-rs7356506 polymorphisms and VKH syndrome. However, patients with recurrent VKH syndrome had lower frequencies of the G allele and GG homozygosity in CFI-rs7356506 when compared to the controls (p=0.016, odds ratio [OR]=0.429, 95% confidence interval [CI]=0.212-0.871; p=0.014, OR=0.364, 95% CI=0.158-0.837, respectively). Furthermore, there were significant decreases in the frequencies of the G allele and GG homozygosity in CFI-rs7356506 in patients with VKH syndrome with complicated cataract compared to the controls (p<0.001, OR=0.357, 95% CI=0.197-0.648; p<0.001, OR=0.273, 95% CI=0.135-0.551, respectively). Nevertheless, no significant association with patients with VKH syndrome in steroid-sensitive statuses was detected for CFI-rs7356506 polymorphisms. CONCLUSIONS: Our results indicate that CFI polymorphisms are not significantly associated with VKH syndrome; nevertheless, we identified a trend for the association of CFI-7356506 with VKH syndrome that depends on the recurrent status and the complicated cataract status but not on the steroid-sensitive status.",
+  "entities": [
+    {
+      "id": "3426",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CFI",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 3
+        },
+        {
+          "text": "Complement factor I",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 84,
+          "length": 19
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 105,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 306,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 575,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 914,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1067,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1344,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1653,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1721,
+          "length": 3
+        },
+        {
+          "text": "CFI",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1850,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs7356506",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs7356506",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 9
+        },
+        {
+          "text": "rs7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 579,
+          "length": 9
+        },
+        {
+          "text": "rs7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 918,
+          "length": 9
+        },
+        {
+          "text": "rs7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1071,
+          "length": 9
+        },
+        {
+          "text": "rs7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1348,
+          "length": 9
+        },
+        {
+          "text": "rs7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1657,
+          "length": 9
+        },
+        {
+          "text": "7356506",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1854,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D014607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Vogt-Koyanagi-Harada syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 29
+        },
+        {
+          "text": "Vogt-Koyanagi-Harada (VKH) syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 336,
+          "length": 35
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 421,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 946,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 993,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1375,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1593,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1777,
+          "length": 12
+        },
+        {
+          "text": "VKH syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1867,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D014605",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "uveitis",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 210,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 397,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 709,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 969,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1361,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1579,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002386",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cataract",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 813,
+          "length": 8
+        },
+        {
+          "text": "cataract",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1405,
+          "length": 8
+        },
+        {
+          "text": "cataract",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1937,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D013256",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 834,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1609,
+          "length": 7
+        },
+        {
+          "text": "steroid",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1968,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs7356506",
+      "tail_id": "D002386",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs7356506",
+      "tail_id": "D014607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "3426",
+      "tail_id": "D014605",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "3426",
+      "tail_id": "D002386",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3426",
+      "tail_id": "D014607",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

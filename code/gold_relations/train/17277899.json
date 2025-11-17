@@ -1,0 +1,94 @@
+{
+  "doc_id": "17277899",
+  "title": "Polymorphic Alu insertions and the genetic structure of Iberian Basques.",
+  "body": "Eight Alu sequences (ACE, TPA25, PV92, APO, FXIIIB, D1, A25 and B65) were analyzed in two samples from Navarre and Guipuzcoa provinces (Basque Country, Spain). Alu data for other European, Caucasus and North African populations were compiled from the literature for comparison purposes to assess the genetic relationships of the Basques in a broader geographic context. Results of both MDS plot and AMOVA revealed spatial heterogeneity among these three population clusters clearly defined by geography. On the contrary, no substantial genetic heterogeneity was found between the Basque samples, or between Basques and other Europeans (excluding Caucasus populations). Moreover, the genetic information obtained from Alu data conflicts with hypotheses linking the origin of Basques with populations from North Africa (Berbers) or from the Caucasus region (Georgia). In order to explain the reduced genetic heterogeneity detected by Alu insertions among Basque subpopulations, values of the Wright's F(ST )statistic were estimated for both Alu markers and a set of short tandem repeats (STRs) in terms of two geographical scales: (1) the Basque Country, (2) Europe (including Basques). In the Basque area, estimates of Wahlund's effect for both genetic markers showed no statistical difference between Basque subpopulations. However, when this analysis was performed on a European scale, F(ST) values were significantly higher for Alu insertions than for STR alleles. From these results, we suggest that the spatial heterogeneity of the Basque gene pool identified in previous polymorphism studies is relatively recent and probably caused by a differential process of genetic admixture with non-Basque neighboring populations modulated by the effect of a linguistic barrier to random mating.",
+  "entities": [
+    {
+      "id": "1636",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 94,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TPA25",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 99,
+          "length": 5
+        },
+        {
+          "text": "PV92",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 106,
+          "length": 4
+        },
+        {
+          "text": "D1",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 125,
+          "length": 2
+        },
+        {
+          "text": "B65",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 137,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "84909",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "APO",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 112,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2165",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FXIIIB",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 117,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "28936",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "A25",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 129,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

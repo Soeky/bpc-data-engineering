@@ -1,0 +1,219 @@
+{
+  "doc_id": "18270997",
+  "title": "Catechol-O-methyltransferase (COMT) gene variants: possible association of the Val158Met variant with opiate addiction in Hispanic women.",
+  "body": "Catechol-O-methyltransferase (COMT) catalyzes the breakdown of catechol neurotransmitters, including dopamine, which plays a prominent role in drug reward. A common single nucleotide polymorphism (SNP), G472A, codes for a Val158Met substitution and results in a fourfold down regulation of enzyme activity. We sequenced exon IV of COMT gene in search for novel polymorphisms and then genotyped four out of five identified by direct sequencing, using TaqMan assay on 266 opioid-dependent and 173 control subjects. Genotype frequencies of the G472A SNP varied significantly (P = 0.029) among the three main ethnic/cultural groups (Caucasians, Hispanics, and African Americans). Using a genotype test, we found a trend to point-wise association (P = 0.053) of the G472A SNP in Hispanic subjects with opiate addiction. Further analysis of G472A genotypes in Hispanic subjects with data stratified by gender identified a point-wise significant (P = 0.049) association of G/A and A/A genotypes with opiate addiction in women, but not men. These point-wise significant results are not significant experiment-wise (at P < 0.05) after correction for multiple testing. No significant association was found with haplotypes of the three most common SNPs. Linkage disequilibrium patterns were similar for the three ethnic/cultural groups.",
+  "entities": [
+    {
+      "id": "1312",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Catechol-O-methyltransferase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 28
+        },
+        {
+          "text": "COMT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 4
+        },
+        {
+          "text": "Catechol-O-methyltransferase",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 138,
+          "length": 28
+        },
+        {
+          "text": "COMT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 168,
+          "length": 4
+        },
+        {
+          "text": "COMT",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 469,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs4680",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Val158Met",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 9
+        },
+        {
+          "text": "G472A",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 341,
+          "length": 5
+        },
+        {
+          "text": "Val158Met",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 360,
+          "length": 9
+        },
+        {
+          "text": "G472A",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 679,
+          "length": 5
+        },
+        {
+          "text": "G472A",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 899,
+          "length": 5
+        },
+        {
+          "text": "G472A",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 973,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009293",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "opiate addiction",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 16
+        },
+        {
+          "text": "opiate addiction",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 935,
+          "length": 16
+        },
+        {
+          "text": "opiate addiction",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1131,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 131,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1151,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1166,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002395",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "catechol neurotransmitters",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 201,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 239,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D018847",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "opioid",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 608,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs4680",
+      "tail_id": "D009293",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "1312",
+      "tail_id": "D004298",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "1312",
+      "tail_id": "D002395",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "1312",
+      "tail_id": "D009293",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

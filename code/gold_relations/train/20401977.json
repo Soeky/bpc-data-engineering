@@ -1,0 +1,187 @@
+{
+  "doc_id": "20401977",
+  "title": "The human AHR: identification of single nucleotide polymorphisms from six ethnic populations.",
+  "body": "BACKGROUND: The effects of 2,3,7,8-tetrachlorodibenzo-p-dioxin and related dioxin-like chemicals are mediated through binding-dependent activation of the cytosolic aryl hydrocarbon receptor (AHR). The human AHR is a low-affinity receptor relative to most rodents, but some reports suggest that there may be individuals with polymorphic high-affinity receptors, thereby possibly increasing the sensitivity to dioxins in such people. METHODS: Although no polymorphisms have been reported in the ligand binding region of the AHR in the over 100 reported sequences, we sequenced 108 additional human AHR genes in an effort to further identify single single nucleotide polymorphisms (SNPs) within the open reading frames of the AHR locus. The DNA was sequenced from six ethnic populations that included Japanese, Chinese, European/Caucasian, African-American, South East Asian, and Hispanic. RESULTS: Six exonic SNPs were identified; four had been described as previously reported and two seem to be novel. Four of the SNPs identified lead to amino acid changes in the AHR protein and two of the SNPs lead to synonymous substitutions. An additional four SNPs have been reported elsewhere that were not identified in the current analysis. With these new sequences, more than 200 human AHR gene sequences have been analyzed for SNPs. CONCLUSION: The results indicate a very limited presence of polymorphisms in the core ligand binding region of the human AHR. Other regions, such as the transactivation domain, seem to be slightly more polymorphic in the human population and the impact on functionality should be further examined.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 295,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 684,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1367,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1536,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1642,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AHR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 3
+        },
+        {
+          "text": "aryl hydrocarbon receptor",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 258,
+          "length": 25
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 285,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 301,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 616,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 690,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 817,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1158,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1373,
+          "length": 3
+        },
+        {
+          "text": "AHR",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 1542,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000072317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "2,3,7,8-tetrachlorodibenzo-p-dioxin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 121,
+          "length": 35
+        }
+      ]
+    },
+    {
+      "id": "D004147",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dioxin",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 169,
+          "length": 6
+        },
+        {
+          "text": "dioxins",
+          "passage_index": 1,
+          "passage_offset": 94,
+          "char_offset": 502,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004147",
+      "tail_id": "196",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000072317",
+      "tail_id": "196",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000072317",
+      "tail_id": "D004147",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

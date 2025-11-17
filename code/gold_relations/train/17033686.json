@@ -1,0 +1,360 @@
+{
+  "doc_id": "17033686",
+  "title": "A two base pair deletion in the PQBP1 gene is associated with microphthalmia, microcephaly, and mental retardation.",
+  "body": "X-linked mental retardation has been traditionally divided into syndromic (S-XLMR) and non-syndromic forms (NS-XLMR), although the borderlines between these phenotypes begin to vanish and mutations in a single gene, for example PQBP1, can cause S-XLMR as well as NS-XLMR. Here, we report two maternal cousins with an apparently X-linked phenotype of mental retardation (MR), microphthalmia, choroid coloboma, microcephaly, renal hypoplasia, and spastic paraplegia. By multipoint linkage analysis with markers spanning the entire X-chromosome we mapped the disease locus to a 28-Mb interval between Xp11.4 and Xq12, including the BCOR gene. A missense mutation in BCOR was described in a family with Lenz microphthalmia syndrome, a phenotype showing substantial overlapping features with that described in the two cousins. However, no mutation in the BCOR gene was found in both patients. Subsequent mutation analysis of PQBP1, located within the delineated linkage interval in Xp11.23, revealed a 2-bp deletion, c.461_462delAG, that cosegregated with the disease. Notably, the same mutation is associated with the Hamel cerebropalatocardiac syndrome, another form of S-XLMR. Haplotype analysis suggests a germline mosaicism of the 2-bp deletion in the maternal grandmother of both affected individuals. In summary, our findings demonstrate for the first time that mutations in PQBP1 are associated with an S-XLMR phenotype including microphthalmia, thereby further extending the clinical spectrum of phenotypes associated with PQBP1 mutations.",
+  "entities": [
+    {
+      "id": "10084",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PQBP1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 5
+        },
+        {
+          "text": "PQBP1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 344,
+          "length": 5
+        },
+        {
+          "text": "PQBP1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1036,
+          "length": 5
+        },
+        {
+          "text": "PQBP1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1493,
+          "length": 5
+        },
+        {
+          "text": "PQBP1",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1643,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D008850",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "microphthalmia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 14
+        },
+        {
+          "text": "microphthalmia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 491,
+          "length": 14
+        },
+        {
+          "text": "microphthalmia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1549,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D008831",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "microcephaly",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 12
+        },
+        {
+          "text": "microcephaly",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 525,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008607",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mental retardation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 96,
+          "length": 18
+        },
+        {
+          "text": "MR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 486,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D038901",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked mental retardation",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 116,
+          "length": 27
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 193,
+          "length": 4
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 227,
+          "length": 4
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 363,
+          "length": 4
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 382,
+          "length": 4
+        },
+        {
+          "text": "X-linked phenotype of mental retardation",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 444,
+          "length": 40
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1285,
+          "length": 4
+        },
+        {
+          "text": "XLMR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1524,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003103",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "choroid coloboma",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 507,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal hypoplasia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 539,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D010264",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "spastic paraplegia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 561,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "54880",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BCOR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 745,
+          "length": 4
+        },
+        {
+          "text": "BCOR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 779,
+          "length": 4
+        },
+        {
+          "text": "BCOR",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 966,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C537464",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Lenz microphthalmia syndrome",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 815,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 994,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs606231195",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.461_462delAG",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1128,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "C537761",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Hamel cerebropalatocardiac syndrome",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1230,
+          "length": 35
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs606231195",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs606231195",
+      "tail_id": "C537761",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "54880",
+      "tail_id": "C537464",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008850",
+      "tail_id": "rs606231195",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "10084",
+      "tail_id": "D038901",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "10084",
+      "tail_id": "C537761",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "10084",
+      "tail_id": "D008607",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "10084",
+      "tail_id": "D008831",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "10084",
+      "tail_id": "D008850",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

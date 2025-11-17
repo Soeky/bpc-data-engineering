@@ -1,0 +1,407 @@
+{
+  "doc_id": "27999109",
+  "title": "A Critical Role for the Type I Interferon Receptor in Virus-Induced Autoimmune Diabetes in Rats.",
+  "body": "The pathogenesis of human type 1 diabetes, characterized by immune-mediated damage of insulin-producing b-cells of pancreatic islets, may involve viral infection. Essential components of the innate immune antiviral response, including type I interferon (IFN) and IFN receptor-mediated signaling pathways, are candidates for determining susceptibility to human type 1 diabetes. Numerous aspects of human type 1 diabetes pathogenesis are recapitulated in the LEW.1WR1 rat model. Diabetes can be induced in LEW.1WR1 weanling rats challenged with virus or with the viral mimetic polyinosinic:polycytidylic acid (poly I:C). We hypothesized that disrupting the cognate type I IFN receptor (type I IFN a/b receptor [IFNAR]) to interrupt IFN signaling would prevent or delay the development of virus-induced diabetes. We generated IFNAR1 subunit-deficient LEW.1WR1 rats using CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats-associated protein 9) genome editing and confirmed functional disruption of the Ifnar1 gene. IFNAR1 deficiency significantly delayed the onset and frequency of diabetes and greatly reduced the intensity of insulitis after poly I:C treatment. The occurrence of Kilham rat virus-induced diabetes was also diminished in IFNAR1-deficient animals. These findings firmly establish that alterations in innate immunity influence the course of autoimmune diabetes and support the use of targeted strategies to limit or prevent the development of type 1 diabetes.",
+  "entities": [
+    {
+      "id": "288264,686326",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Type I Interferon Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 26
+        },
+        {
+          "text": "type I IFN receptor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 760,
+          "length": 19
+        },
+        {
+          "text": "type I IFN a/b receptor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 781,
+          "length": 23
+        },
+        {
+          "text": "IFNAR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 806,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003922",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Autoimmune Diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 19
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 123,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 457,
+          "length": 15
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 500,
+          "length": 15
+        },
+        {
+          "text": "autoimmune diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1471,
+          "length": 19
+        },
+        {
+          "text": "type 1 diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1573,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 563,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 619,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 954,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 117,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 451,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 494,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 183,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D014777",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "viral infection",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 243,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "3456",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "type I interferon",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 332,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "3439",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 351,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "3454",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN receptor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 360,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 574,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 897,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1196,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1321,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011070",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "polyinosinic:polycytidylic acid",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 672,
+          "length": 31
+        },
+        {
+          "text": "poly I:C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 705,
+          "length": 8
+        },
+        {
+          "text": "poly I:C",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1258,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "25712",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFN",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 827,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "288264",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFNAR1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 920,
+          "length": 6
+        },
+        {
+          "text": "Ifnar1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1116,
+          "length": 6
+        },
+        {
+          "text": "IFNAR1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1129,
+          "length": 6
+        },
+        {
+          "text": "IFNAR1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1353,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D007410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "insulitis",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1242,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "12441",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Kilham rat virus",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1296,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007410",
+      "tail_id": "288264",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D003920",
+      "tail_id": "25712",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003920",
+      "tail_id": "D011070",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003920",
+      "tail_id": "288264",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "3454",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "3456",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D003922",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "288264",
+      "tail_id": "D003922",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

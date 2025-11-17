@@ -1,0 +1,383 @@
+{
+  "doc_id": "16309808",
+  "title": "Does domperidone potentiate mirtazapine-associated restless legs syndrome?",
+  "body": "There is now evidence to suggest a central role for the dopaminergic system in restless legs syndrome (RLS). For example, the symptoms of RLS can be dramatically improved by levodopa and dopamine agonists, whereas central dopamine D2 receptor antagonists can induce or aggravate RLS symptoms. To our knowledge, there is no previous report regarding whether domperidone, a peripheral dopamine D2 receptor antagonist, can also induce or aggravate symptoms of RLS. Mirtazapine, the first noradrenergic and specific serotonergic antidepressant (NaSSA), has been associated with RLS in several recent publications. The authors report here a depressed patient comorbid with postprandial dyspepsia who developed RLS after mirtazapine had been added to his domperidone therapy. Our patient started to have symptoms of RLS only after he had been treated with mirtazapine, and his RLS symptoms resolved completely upon discontinuation of his mirtazapine. Such a temporal relationship between the use of mirtazapine and the symptoms of RLS in our patient did not support a potentiating effect of domperione on mirtazapine-associated RLS. However, physicians should be aware of the possibility that mirtazapine can be associated with RLS in some individuals, especially those receiving concomitant dopamine D2 receptor antagonists.",
+  "entities": [
+    {
+      "id": "D004294",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "domperidone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 5,
+          "length": 11
+        },
+        {
+          "text": "domperidone",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 432,
+          "length": 11
+        },
+        {
+          "text": "domperidone",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 824,
+          "length": 11
+        },
+        {
+          "text": "domperione",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1160,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D000078785",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "mirtazapine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 11
+        },
+        {
+          "text": "Mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 537,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 790,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 925,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1007,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1068,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1174,
+          "length": 11
+        },
+        {
+          "text": "mirtazapine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1262,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D012148",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "restless legs syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 22
+        },
+        {
+          "text": "restless legs syndrome",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 154,
+          "length": 22
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 178,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 213,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 354,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 532,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 649,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 780,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 885,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 946,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1100,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1197,
+          "length": 3
+        },
+        {
+          "text": "RLS",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1297,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levodopa",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 249,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 262,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D065127",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dopamine D2 receptor antagonists",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 297,
+          "length": 32
+        },
+        {
+          "text": "dopamine D2 receptor antagonists",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1361,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "1813",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dopamine D2 receptor",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 458,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D000928",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "noradrenergic and specific serotonergic antidepressant",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 560,
+          "length": 54
+        },
+        {
+          "text": "NaSSA",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 616,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressed",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 711,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 721,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 849,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1111,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D004415",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postprandial dyspepsia",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 743,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D065127",
+      "tail_id": "D012148",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000928",
+      "tail_id": "D012148",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012148",
+      "tail_id": "D007980",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012148",
+      "tail_id": "D004294",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000078785",
+      "tail_id": "D012148",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004294",
+      "tail_id": "D000078785",
+      "type": "Drug_Interaction",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004294",
+      "tail_id": "1813",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    }
+  ]
+}

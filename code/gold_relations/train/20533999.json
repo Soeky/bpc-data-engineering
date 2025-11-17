@@ -1,0 +1,344 @@
+{
+  "doc_id": "20533999",
+  "title": "Dopamine is not essential for the development of methamphetamine-induced neurotoxicity.",
+  "body": "It is widely believed that dopamine (DA) mediates methamphetamine (METH)-induced toxicity to brain dopaminergic neurons, because drugs that interfere with DA neurotransmission decrease toxicity, whereas drugs that increase DA neurotransmission enhance toxicity. However, temperature effects of drugs that have been used to manipulate brain DA neurotransmission confound interpretation of the data. Here we show that the recently reported ability of L-dihydroxyphenylalanine to reverse the protective effect of alpha-methyl-para-tyrosine on METH-induced DA neurotoxicity is also confounded by drug effects on body temperature. Further, we show that mice genetically engineered to be deficient in brain DA develop METH neurotoxicity, as long as the thermic effects of METH are preserved. In addition, we demonstrate that mice genetically engineered to have unilateral brain DA deficits develop METH-induced dopaminergic deficits that are of comparable magnitude on both sides of the brain. Taken together, these findings demonstrate that DA is not essential for the development of METH-induced dopaminergic neurotoxicity and suggest that mechanisms independent of DA warrant more intense investigation.",
+  "entities": [
+    {
+      "id": "D004298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Dopamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "dopamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 115,
+          "length": 8
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 125,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 243,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 311,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 428,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 641,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 789,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 960,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1124,
+          "length": 2
+        },
+        {
+          "text": "DA",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1250,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D008694",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methamphetamine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 15
+        },
+        {
+          "text": "methamphetamine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 138,
+          "length": 15
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 155,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 628,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 800,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 854,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 980,
+          "length": 4
+        },
+        {
+          "text": "METH",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1167,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D020258",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 644,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 805,
+          "length": 13
+        },
+        {
+          "text": "neurotoxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 1193,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 169,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 273,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 340,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007980",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-dihydroxyphenylalanine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 537,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D019805",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alpha-methyl-para-tyrosine",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 598,
+          "length": 26
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 736,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 907,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dopaminergic deficits",
+          "passage_index": 1,
+          "passage_offset": 88,
+          "char_offset": 993,
+          "length": 21
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D004298",
+      "tail_id": "D009461",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D004298",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D019805",
+      "tail_id": "D020258",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019805",
+      "tail_id": "D008694",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007980",
+      "tail_id": "D004298",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007980",
+      "tail_id": "D019805",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D007980",
+      "tail_id": "D020258",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008694",
+      "tail_id": "D009461",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008694",
+      "tail_id": "D004298",
+      "type": "Drug_Interaction",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D008694",
+      "tail_id": "D020258",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

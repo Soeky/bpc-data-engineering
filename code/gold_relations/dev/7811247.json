@@ -1,0 +1,192 @@
+{
+  "doc_id": "7811247",
+  "title": "X-linked adrenoleukodystrophy (ALD): a novel mutation of the ALD gene in 6 members of a family presenting with 5 different phenotypes.",
+  "body": "Fragments of the adrenoleukodystrophy (ALD) cDNA from a patient with adolescent ALD were amplified by polymerase chain reaction and subcloned. Bidirectional sequencing of the entire coding ALD gene disclosed a cytosine to guanine transversion at nucleotide 1451 in exon five, resulting in substitution of proline 484 by arginine. Five of nine siblings of the patient, comprising two cerebral ALD, one adrenomyeloneuropathy, one Addison only as well as the symptomatic mother (all accumulating very long chain fatty acids) carried this mutation, which was not found in the unaffected persons, in five unrelated ALD patients, and in twenty controls. We propose that this missense mutation generated the disease per se as well as the metabolic defect; the different phenotypes, however, must have originated by means of additional pathogenetic factors..",
+  "entities": [
+    {
+      "id": "D000326",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "X-linked adrenoleukodystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 29
+        },
+        {
+          "text": "ALD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 31,
+          "length": 3
+        },
+        {
+          "text": "adrenoleukodystrophy",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 152,
+          "length": 20
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 174,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 215,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 527,
+          "length": 3
+        },
+        {
+          "text": "adrenomyeloneuropathy",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 536,
+          "length": 21
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 745,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 3
+        },
+        {
+          "text": "ALD",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 324,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 191,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 494,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 749,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs128624214",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "cytosine to guanine transversion at nucleotide 1451",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 345,
+          "length": 51
+        },
+        {
+          "text": "proline 484 by arginine",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 440,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D000224",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Addison",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 563,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "long chain fatty acids",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 633,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "215",
+      "tail_id": "D000224",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000326",
+      "tail_id": "215",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs128624214",
+      "tail_id": "D000326",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs128624214",
+      "tail_id": "D000224",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

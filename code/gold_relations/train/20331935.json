@@ -1,0 +1,233 @@
+{
+  "doc_id": "20331935",
+  "title": "A cross-sectional evaluation of the effect of risperidone and selective serotonin reuptake inhibitors on bone mineral density in boys.",
+  "body": "OBJECTIVE: The aim of the present study was to investigate the effect of risperidone-induced hyperprolactinemia on trabecular bone mineral density (BMD) in children and adolescents. METHOD: Medically healthy 7- to 17-year-old males chronically treated, in a naturalistic setting, with risperidone were recruited for this cross-sectional study through child psychiatry outpatient clinics between November 2005 and June 2007. Anthropometric measurements and laboratory testing were conducted. The clinical diagnoses were based on chart review, and developmental and treatment history was obtained from the medical record. Volumetric BMD of the ultradistal radius was measured using peripheral quantitative computed tomography, and areal BMD of the lumbar spine was estimated using dual-energy x-ray absorptiometry. RESULTS: Hyperprolactinemia was present in 49% of 83 boys (n = 41) treated with risperidone for a mean of 2.9 years. Serum testosterone concentration increased with pubertal status but was not affected by hyperprolactinemia. As expected, bone mineral content and BMD increased with sexual maturity. After adjusting for the stage of sexual development and height and BMI z scores, serum prolactin was negatively associated with trabecular volumetric BMD at the ultradistal radius (P < .03). Controlling for relevant covariates, we also found treatment with selective serotonin reuptake inhibitors (SSRIs) to be associated with lower trabecular BMD at the radius (P = .03) and BMD z score at the lumbar spine (P < .05). These findings became more marked when the analysis was restricted to non-Hispanic white patients. Of 13 documented fractures, 3 occurred after risperidone and SSRIs were started, and none occurred in patients with hyperprolactinemia. CONCLUSIONS: This is the first study to link risperidone-induced hyperprolactinemia and SSRI treatment to lower BMD in children and adolescents. Future research should evaluate the longitudinal course of this adverse event to determine its temporal stability and whether a higher fracture rate ensues.",
+  "entities": [
+    {
+      "id": "D018967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "risperidone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 46,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 208,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 420,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1028,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1810,
+          "length": 11
+        },
+        {
+          "text": "risperidone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1946,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D017367",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "selective serotonin reuptake inhibitors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 62,
+          "length": 39
+        },
+        {
+          "text": "selective serotonin reuptake inhibitors",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1504,
+          "length": 39
+        },
+        {
+          "text": "SSRIs",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1545,
+          "length": 5
+        },
+        {
+          "text": "SSRIs",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1826,
+          "length": 5
+        },
+        {
+          "text": "SSRI",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1989,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006966",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 228,
+          "length": 18
+        },
+        {
+          "text": "Hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 957,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1153,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1881,
+          "length": 18
+        },
+        {
+          "text": "hyperprolactinemia",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1966,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "outpatient",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 503,
+          "length": 10
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1755,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1867,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D013739",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "testosterone",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1071,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "5617",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "prolactin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1334,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D050723",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fractures",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1782,
+          "length": 9
+        },
+        {
+          "text": "fracture",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 2181,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D018967",
+      "tail_id": "D006966",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D050723",
+      "tail_id": "D017367",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D050723",
+      "tail_id": "D018967",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

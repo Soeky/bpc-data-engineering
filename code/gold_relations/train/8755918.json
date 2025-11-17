@@ -1,0 +1,172 @@
+{
+  "doc_id": "8755918",
+  "title": "Mutations associated with variant phenotypes in ataxia-telangiectasia.",
+  "body": "We have identified 14 families with ataxia-telangiectasia (A-T) in which mutation of the ATM gene is associated with a less severe clinical and cellular phenotype (approximately 10% -15% of A-T families identified in the United Kingdom). In 10 of these families, all the homozygotes have a 137-bp insertion in their cDNA caused by a point mutation in a sequence resembling a splice-donor site. The second A-T allele has a different mutation in each patient. We show that the less severe phenotype in these patients is caused by some degree of normal splicing, which occurs as an alternative product from the insertion-containing allele. The level of the 137-bp PCR product containing the insertion was lowest in two patients who showed a later onset of cerebellar ataxia. A further four families who do not have this insertion have been identified. Mutations detected in two of four of these are missense mutations, normally rare in A-T patients. The demonstration of mutations giving rise to a slightly milder phenotype in A-T raises the interesting question of what range of phenotypes might occur in individuals in whom both mutations are milder. One possibility might be that individuals who are compound heterozygotes for ATM mutations are more common than we realize..",
+  "entities": [
+    {
+      "id": "D001260",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ataxia-telangiectasia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 21
+        },
+        {
+          "text": "ataxia-telangiectasia",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 107,
+          "length": 21
+        },
+        {
+          "text": "A-T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 130,
+          "length": 3
+        },
+        {
+          "text": "A-T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 261,
+          "length": 3
+        },
+        {
+          "text": "A-T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 476,
+          "length": 3
+        },
+        {
+          "text": "A-T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1004,
+          "length": 3
+        },
+        {
+          "text": "A-T",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1095,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "472",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ATM",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 160,
+          "length": 3
+        },
+        {
+          "text": "ATM",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1298,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|INS||137",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "137-bp insertion",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 361,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 520,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 577,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 787,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 1008,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D002524",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebellar ataxia",
+          "passage_index": 1,
+          "passage_offset": 71,
+          "char_offset": 824,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "472",
+      "tail_id": "D002524",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001260",
+      "tail_id": "472",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "c|INS||137",
+      "tail_id": "D002524",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|INS||137",
+      "tail_id": "D001260",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

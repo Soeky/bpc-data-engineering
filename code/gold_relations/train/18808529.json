@@ -1,0 +1,374 @@
+{
+  "doc_id": "18808529",
+  "title": "Isoproterenol induces primary loss of dystrophin in rat hearts: correlation with myocardial injury.",
+  "body": "The mechanism of isoproterenol-induced myocardial damage is unknown, but a mismatch of oxygen supply vs. demand following coronary hypotension and myocardial hyperactivity is the best explanation for the complex morphological alterations observed. Severe alterations in the structural integrity of the sarcolemma of cardiomyocytes have been demonstrated to be caused by isoproterenol. Taking into account that the sarcolemmal integrity is stabilized by the dystrophin-glycoprotein complex (DGC) that connects actin and laminin in contractile machinery and extracellular matrix and by integrins, this study tests the hypothesis that isoproterenol affects sarcolemmal stability through changes in the DGC and integrins. We found different sensitivity of the DGC and integrin to isoproterenol subcutaneous administration. Immunofluorescent staining revealed that dystrophin is the most sensitive among the structures connecting the actin in the cardiomyocyte cytoskeleton and the extracellular matrix. The sarcomeric actin dissolution occurred after the reduction or loss of dystrophin. Subsequently, after lysis of myofilaments, gamma-sarcoglycan, beta-dystroglycan, beta1-integrin, and laminin alpha-2 expressions were reduced followed by their breakdown, as epiphenomena of the myocytolytic process. In conclusion, administration of isoproterenol to rats results in primary loss of dystrophin, the most sensitive among the structural proteins that form the DGC that connects the extracellular matrix and the cytoskeleton in cardiomyocyte. These changes, related to ischaemic injury, explain the severe alterations in the structural integrity of the sarcolemma of cardiomyocytes and hence severe and irreversible injury induced by isoproterenol.",
+  "entities": [
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 117,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 470,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 732,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 876,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1433,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1830,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "24907",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dystrophin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 10
+        },
+        {
+          "text": "dystrophin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 557,
+          "length": 10
+        },
+        {
+          "text": "dystrophin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 960,
+          "length": 10
+        },
+        {
+          "text": "dystrophin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1172,
+          "length": 10
+        },
+        {
+          "text": "dystrophin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1482,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1450,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial injury",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 81,
+          "length": 17
+        },
+        {
+          "text": "myocardial damage",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 139,
+          "length": 17
+        },
+        {
+          "text": "myocardial hyperactivity",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 247,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 187,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 231,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "11820",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glycoprotein",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 568,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 609,
+          "length": 5
+        },
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1029,
+          "length": 5
+        },
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1114,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "309368",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "laminin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 619,
+          "length": 7
+        },
+        {
+          "text": "laminin alpha-2",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1285,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "305941",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "gamma-sarcoglycan",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1227,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "114489",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-dystroglycan",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1246,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "24511",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta1-integrin",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1265,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischaemic injury",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 1665,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010100",
+      "tail_id": "D007022",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010100",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "24907",
+      "tail_id": "D007511",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "24907",
+      "tail_id": "309368",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "24907",
+      "tail_id": "24511",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "24907",
+      "tail_id": "114489",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "24907",
+      "tail_id": "305941",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "24907",
+      "tail_id": "11820",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "24907",
+      "tail_id": "D009202",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D007545",
+      "tail_id": "D007511",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D007545",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D007545",
+      "tail_id": "24907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

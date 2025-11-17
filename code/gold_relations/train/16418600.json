@@ -1,0 +1,245 @@
+{
+  "doc_id": "16418600",
+  "title": "Genetic investigation of the TSPYL1 gene in sudden infant death syndrome.",
+  "body": "BACKGROUND: Sudden infant death syndrome (SIDS) constitutes the most frequent cause of death in the postperinatal period in Germany. Recently, a lethal phenotype characterized by sudden infant death with dysgenesis of the testes syndrome (SIDDT) was identified to be caused by loss of function mutations in the TSPYL1 gene. PURPOSE: The study's purpose was to reveal a possible role of TSPYL1 in SIDS. METHODS: DNA samples of 126 SIDS cases and 261 controls were investigated. RESULTS: We found five sequence variations, each of them causing an amino acid substitution. No Hardy Weinberg disequilibrium and no significant difference in allele frequencies between patients and controls were observed for any variation. In one female patient a p.F366L amino acid polymorphism was found heterozygous, which could not be displayed in controls. A pathogenic implication of this substitution, which is conserved in primates and rodents, cannot be ruled out completely. Because SIDDT is the result of homozygous TSPYL1 mutations, this heterozygous exchange cannot solely explain the sudden death in this child. The reported mutation associated with SIDDT (457_458insG) was not detectable in our cohort. CONCLUSION: No association of sequence variations in the TSPYL1 gene and SIDS has been found in a German cohort. Genetic analysis of TSPYL1 seems to be of limited significance in the differential diagnosis of SIDS without dysgenesis of the testes.",
+  "entities": [
+    {
+      "id": "7259",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TSPYL1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 6
+        },
+        {
+          "text": "TSPYL1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 385,
+          "length": 6
+        },
+        {
+          "text": "TSPYL1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 460,
+          "length": 6
+        },
+        {
+          "text": "TSPYL1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1079,
+          "length": 6
+        },
+        {
+          "text": "TSPYL1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1327,
+          "length": 6
+        },
+        {
+          "text": "TSPYL1",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1403,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D013398",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sudden infant death syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 44,
+          "length": 28
+        },
+        {
+          "text": "Sudden infant death syndrome",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 86,
+          "length": 28
+        },
+        {
+          "text": "SIDS",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 116,
+          "length": 4
+        },
+        {
+          "text": "SIDS",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 470,
+          "length": 4
+        },
+        {
+          "text": "SIDS",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 504,
+          "length": 4
+        },
+        {
+          "text": "SIDS",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1343,
+          "length": 4
+        },
+        {
+          "text": "SIDS",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1479,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 161,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C563856",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sudden infant death with dysgenesis of the testes syndrome",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 253,
+          "length": 58
+        },
+        {
+          "text": "SIDDT",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 313,
+          "length": 5
+        },
+        {
+          "text": "SIDDT",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1045,
+          "length": 5
+        },
+        {
+          "text": "SIDDT",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1216,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 737,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 806,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs140756663",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.F366L",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 816,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003645",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sudden death",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1150,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "c|INS|457_458|G",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "457_458insG",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1223,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D013733",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dysgenesis of the testes",
+          "passage_index": 1,
+          "passage_offset": 74,
+          "char_offset": 1492,
+          "length": 24
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C563856",
+      "tail_id": "c|INS|457_458|G",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C563856",
+      "tail_id": "7259",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

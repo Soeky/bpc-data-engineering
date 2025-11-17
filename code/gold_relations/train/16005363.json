@@ -1,0 +1,276 @@
+{
+  "doc_id": "16005363",
+  "title": "Identification of a novel WFS1 mutation (AFF344-345ins) in Japanese patients with Wolfram syndrome.",
+  "body": "Wolfram syndrome (WFS) is an autosomal recessive disorder characterized by early onset diabetes mellitus, progressive optic atrophy, sensorineural deafness and diabetes insipidus. Affected individuals may also have renal tract abnormalities as well as neurogical and psychiatric syndromes. WFS1 encoding a transmembrane protein was identified as the gene responsible for WFS. We report herein a Japanese family, of which two members had this syndrome. In the WFS1 gene of these patients, we identified a novel mutation, a nine nucleotide insertion (AFF344-345ins). In addition, one of these patients had preclinical hypopituitarism, which is an unusual feature of WFS. As only the two family members homozygous for the mutation showed WFS, these data support the notion that this mutation is the cause of WFS.",
+  "entities": [
+    {
+      "id": "7466",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "WFS1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 4
+        },
+        {
+          "text": "WFS1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 390,
+          "length": 4
+        },
+        {
+          "text": "WFS1",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 559,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|INS|344_345|AFF",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "AFF344-345ins",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 41,
+          "length": 13
+        },
+        {
+          "text": "AFF344-345ins",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 649,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 68,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 578,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 691,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Wolfram syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 16
+        },
+        {
+          "text": "Wolfram syndrome",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 100,
+          "length": 16
+        },
+        {
+          "text": "WFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 118,
+          "length": 3
+        },
+        {
+          "text": "WFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 471,
+          "length": 3
+        },
+        {
+          "text": "WFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 764,
+          "length": 3
+        },
+        {
+          "text": "WFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 835,
+          "length": 3
+        },
+        {
+          "text": "WFS",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 905,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal recessive disorder",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 129,
+          "length": 28
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes mellitus",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 187,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D009896",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "optic atrophy",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 218,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006319",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sensorineural deafness",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 233,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D003919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes insipidus",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 260,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal tract abnormalities",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 315,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D001523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "psychiatric syndromes",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 367,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "c|INS||9",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "nine nucleotide insertion",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 622,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D007018",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypopituitarism",
+          "passage_index": 1,
+          "passage_offset": 100,
+          "char_offset": 716,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|INS||9",
+      "tail_id": "D014929",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "7466",
+      "tail_id": "D014929",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|INS|344_345|AFF",
+      "tail_id": "D014929",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

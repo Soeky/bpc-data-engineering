@@ -1,0 +1,278 @@
+{
+  "doc_id": "9294109",
+  "title": "Myotonic dystrophy protein kinase is involved in the modulation of the Ca2+ homeostasis in skeletal muscle cells.",
+  "body": "Myotonic dystrophy (DM), the most prevalent muscular disorder in adults, is caused by (CTG) n-repeat expansion in a gene encoding a protein kinase (DM protein kinase; DMPK) and involves changes in cytoarchitecture and ion homeostasis. To obtain clues to the normal biological role of DMPK in cellular ion homeostasis, we have compared the resting [Ca2 +] i, the amplitude and shape of depolarization-induced Ca2 + transients, and the content of ATP-driven ion pumps in cultured skeletal muscle cells of wild-type and DMPK [-/-] knockout mice. In vitro-differentiated DMPK [-/-] myotubes exhibit a higher resting [Ca2 +] i than do wild-type myotubes because of an altered open probability of voltage-dependent l-type Ca2 + and Na + channels. The mutant myotubes exhibit smaller and slower Ca2 + responses upon triggering by acetylcholine or high external K +. In addition, we observed that these Ca2 + transients partially result from an influx of extracellular Ca2 + through the l-type Ca2 + channel. Neither the content nor the activity of Na +/K + ATPase and sarcoplasmic reticulum Ca2 + -ATPase are affected by DMPK absence. In conclusion, our data suggest that DMPK is involved in modulating the initial events of excitation-contraction coupling in skeletal muscle..",
+  "entities": [
+    {
+      "id": "13400",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Myotonic dystrophy protein kinase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 33
+        },
+        {
+          "text": "DM protein kinase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 262,
+          "length": 17
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 281,
+          "length": 4
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 398,
+          "length": 4
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 631,
+          "length": 4
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 681,
+          "length": 4
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1228,
+          "length": 4
+        },
+        {
+          "text": "DMPK",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1279,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Ca2+",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 4
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 462,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 522,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 727,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 830,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 902,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1009,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1075,
+          "length": 5
+        },
+        {
+          "text": "Ca2 +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1100,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Myotonic dystrophy",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 114,
+          "length": 18
+        },
+        {
+          "text": "DM",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 134,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D009135",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscular disorder",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 158,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D000255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 559,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 651,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Na +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 840,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000109",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetylcholine",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 937,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "K +",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 968,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Na +/K + ATPase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1155,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D053498",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sarcoplasmic reticulum Ca2 + -ATPase",
+          "passage_index": 1,
+          "passage_offset": 114,
+          "char_offset": 1175,
+          "length": 36
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009223",
+      "tail_id": "13400",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002118",
+      "tail_id": "13400",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "doc_id": "19728177",
+  "title": "Prolonged hypothermia as a bridge to recovery for cerebral edema and intracranial hypertension associated with fulminant hepatic failure.",
+  "body": "BACKGROUND: To review evidence-based treatment options in patients with cerebral edema complicating fulminant hepatic failure (FHF) and discuss the potential applications of hypothermia. METHOD: Case-based observations from a medical intensive care unit (MICU) in a tertiary care facility in a 27-year-old female with FHF from acetaminophen and resultant cerebral edema. RESULTS: Our patient was admitted to the MICU after being found unresponsive with presumed toxicity from acetaminophen which was ingested over a 2-day period. The patient had depressed of mental status lasting at least 24 h prior to admission. Initial evaluation confirmed FHF from acetaminophen and cerebral edema. The patient was treated with hyperosmolar therapy, hyperventilation, sedation, and chemical paralysis. Her intracranial pressure remained elevated despite maximal medical therapy. We then initiated therapeutic hypothermia which was continued for 5 days. At re-warming, patient had resolution of her cerebral edema and intracranial hypertension. At discharge, she had complete recovery of neurological and hepatic functions. CONCLUSION: In patients with FHF and cerebral edema from acetaminophen overdose, prolonged therapeutic hypothermia could potentially be used as a life saving therapy and a bridge to hepatic and neurological recovery. A clinical trial of hypothermia in patients with this condition is warranted.",
+  "entities": [
+    {
+      "id": "D007036",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypothermia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 11
+        },
+        {
+          "text": "hypothermia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 312,
+          "length": 11
+        },
+        {
+          "text": "hypothermia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1035,
+          "length": 11
+        },
+        {
+          "text": "hypothermia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1352,
+          "length": 11
+        },
+        {
+          "text": "hypothermia",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1486,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebral edema",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 14
+        },
+        {
+          "text": "cerebral edema",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 210,
+          "length": 14
+        },
+        {
+          "text": "cerebral edema",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 493,
+          "length": 14
+        },
+        {
+          "text": "cerebral edema",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 809,
+          "length": 14
+        },
+        {
+          "text": "cerebral edema",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1124,
+          "length": 14
+        },
+        {
+          "text": "cerebral edema",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1286,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D019586",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intracranial hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 25
+        },
+        {
+          "text": "intracranial hypertension",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1143,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D017114",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fulminant hepatic failure",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 111,
+          "length": 25
+        },
+        {
+          "text": "fulminant hepatic failure",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 238,
+          "length": 25
+        },
+        {
+          "text": "FHF",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 265,
+          "length": 3
+        },
+        {
+          "text": "FHF",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 456,
+          "length": 3
+        },
+        {
+          "text": "FHF",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 782,
+          "length": 3
+        },
+        {
+          "text": "FHF",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1278,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 196,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 522,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 672,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 829,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1094,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1264,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1501,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000082",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 465,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 614,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 791,
+          "length": 13
+        },
+        {
+          "text": "acetaminophen",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 1306,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 600,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003866",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "depressed",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 684,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006985",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperventilation",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 876,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D010243",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "paralysis",
+          "passage_index": 1,
+          "passage_offset": 138,
+          "char_offset": 917,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000082",
+      "tail_id": "D003866",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D000082",
+      "tail_id": "D017114",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000082",
+      "tail_id": "D001929",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "doc_id": "25006961",
+  "title": "Absence of PKC-alpha attenuates lithium-induced nephrogenic diabetes insipidus.",
+  "body": "Lithium, an effective antipsychotic, induces nephrogenic diabetes insipidus (NDI) in  40% of patients. The decreased capacity to concentrate urine is likely due to lithium acutely disrupting the cAMP pathway and chronically reducing urea transporter (UT-A1) and water channel (AQP2) expression in the inner medulla. Targeting an alternative signaling pathway, such as PKC-mediated signaling, may be an effective method of treating lithium-induced polyuria. PKC-alpha null mice (PKCa KO) and strain-matched wild type (WT) controls were treated with lithium for 0, 3 or 5 days. WT mice had increased urine output and lowered urine osmolality after 3 and 5 days of treatment whereas PKCa KO mice had no change in urine output or concentration. Western blot analysis revealed that AQP2 expression in medullary tissues was lowered after 3 and 5 days in WT mice; however, AQP2 was unchanged in PKCa KO. Similar results were observed with UT-A1 expression. Animals were also treated with lithium for 6 weeks. Lithium-treated WT mice had 19-fold increased urine output whereas treated PKCa KO animals had a 4-fold increase in output. AQP2 and UT-A1 expression was lowered in 6 week lithium-treated WT animals whereas in treated PKCa KO mice, AQP2 was only reduced by 2-fold and UT-A1 expression was unaffected. Urinary sodium, potassium and calcium were elevated in lithium-fed WT but not in lithium-fed PKCa KO mice. Our data show that ablation of PKCa preserves AQP2 and UT-A1 protein expression and localization in lithium-induced NDI, and prevents the development of the severe polyuria associated with lithium therapy.",
+  "entities": [
+    {
+      "id": "18750",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PKC-alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 11,
+          "length": 9
+        },
+        {
+          "text": "PKC",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 448,
+          "length": 3
+        },
+        {
+          "text": "PKC-alpha",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 537,
+          "length": 9
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 558,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 760,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 968,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1157,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1300,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1476,
+          "length": 4
+        },
+        {
+          "text": "PKCa",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1521,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D008094",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lithium",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 7
+        },
+        {
+          "text": "Lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 80,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 244,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 511,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 628,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1061,
+          "length": 7
+        },
+        {
+          "text": "Lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1082,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1254,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1438,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1464,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1590,
+          "length": 7
+        },
+        {
+          "text": "lithium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1679,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D018500",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrogenic diabetes insipidus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 30
+        },
+        {
+          "text": "nephrogenic diabetes insipidus",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 125,
+          "length": 30
+        },
+        {
+          "text": "NDI",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 157,
+          "length": 3
+        },
+        {
+          "text": "NDI",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1606,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 173,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cAMP",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 275,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "27411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "urea transporter",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 313,
+          "length": 16
+        },
+        {
+          "text": "UT-A1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 331,
+          "length": 5
+        },
+        {
+          "text": "UT-A1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1012,
+          "length": 5
+        },
+        {
+          "text": "UT-A1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1215,
+          "length": 5
+        },
+        {
+          "text": "UT-A1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1350,
+          "length": 5
+        },
+        {
+          "text": "UT-A1",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1545,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "11827",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 357,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 857,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 946,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1206,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1314,
+          "length": 4
+        },
+        {
+          "text": "AQP2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1536,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D011141",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 527,
+          "length": 8
+        },
+        {
+          "text": "polyuria",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1654,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 552,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 659,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 768,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 931,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1101,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1308,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1484,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1391,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1399,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 1413,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D002118",
+      "tail_id": "D008094",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "27411",
+      "tail_id": "D008094",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D011141",
+      "tail_id": "18750",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "11827",
+      "tail_id": "18750",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D008094",
+      "tail_id": "D011188",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008094",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D008094",
+      "tail_id": "D011141",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D008094",
+      "tail_id": "11827",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D008094",
+      "tail_id": "D018500",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "18750",
+      "tail_id": "27411",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "18750",
+      "tail_id": "D008094",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "18750",
+      "tail_id": "D018500",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

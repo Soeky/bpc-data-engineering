@@ -1,0 +1,402 @@
+{
+  "doc_id": "28481876",
+  "title": "Oncogenic activity of amplified miniature chromosome maintenance 8 in human malignancies.",
+  "body": "Miniature chromosome maintenance (MCM) proteins play critical roles in DNA replication licensing, initiation and elongation. MCM8, one of the MCM proteins playing a critical role in DNA repairing and recombination, was found to have overexpression and increased DNA copy number in a variety of human malignancies. The gain of MCM8 is associated with aggressive clinical features of several human cancers. Increased expression of MCM8 in prostate cancer is associated with cancer recurrence. Forced expression of MCM8 in RWPE1 cells, the immortalized but non-transformed prostate epithelial cell line, exhibited fast cell growth and transformation, while knock down of MCM8 in PC3, DU145 and LNCaP cells induced cell growth arrest, and decreased tumour volumes and mortality of severe combined immunodeficiency mice xenografted with PC3 and DU145 cells. MCM8 bound cyclin D1 and activated Rb protein phosphorylation by cyclin-dependent kinase 4 in vitro and in vivo. The cyclin D1/MCM8 interaction is required for Rb phosphorylation and S-phase entry in cancer cells. As a result, our study showed that copy number increase and overexpression of MCM8 may play critical roles in human cancer development.",
+  "entities": [
+    {
+      "id": "84515",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "miniature chromosome maintenance 8",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 34
+        },
+        {
+          "text": "Miniature chromosome maintenance",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 90,
+          "length": 32
+        },
+        {
+          "text": "MCM",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 124,
+          "length": 3
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 215,
+          "length": 4
+        },
+        {
+          "text": "MCM",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 232,
+          "length": 3
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 416,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 519,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 602,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 758,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 943,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1070,
+          "length": 4
+        },
+        {
+          "text": "MCM8",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1235,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 384,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 480,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1267,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignancies",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 76,
+          "length": 12
+        },
+        {
+          "text": "malignancies",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 390,
+          "length": 12
+        },
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 486,
+          "length": 7
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 562,
+          "length": 6
+        },
+        {
+          "text": "tumour",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 835,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1143,
+          "length": 6
+        },
+        {
+          "text": "cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1273,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D011471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "prostate cancer",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 527,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "CVCL_3791",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "RWPE1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 610,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_4011",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "PC3",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 766,
+          "length": 3
+        },
+        {
+          "text": "PC3",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 922,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0105",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "DU145",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 771,
+          "length": 5
+        },
+        {
+          "text": "DU145",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 930,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0395",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "LNCaP",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 781,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007153",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "immunodeficiency",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 883,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 900,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin D1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 954,
+          "length": 9
+        },
+        {
+          "text": "cyclin D1",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1060,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5925",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rb",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 978,
+          "length": 2
+        },
+        {
+          "text": "Rb",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1103,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "1019",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclin-dependent kinase 4",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1008,
+          "length": 25
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "5925",
+      "tail_id": "1019",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "595",
+      "tail_id": "5925",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "84515",
+      "tail_id": "1019",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "84515",
+      "tail_id": "5925",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "84515",
+      "tail_id": "595",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "84515",
+      "tail_id": "D007153",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "84515",
+      "tail_id": "D011471",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "84515",
+      "tail_id": "D009369",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

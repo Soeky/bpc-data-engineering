@@ -1,0 +1,320 @@
+{
+  "doc_id": "20583543",
+  "title": "Molecular diagnosis of 46,XY DSD and identification of a novel 8 nucleotide deletion in exon 1 of the SRD5A2 gene.",
+  "body": "Phenotypic presentation of 46,XY DSD depends on the underlying defects. Defect in androgen action on the target tissues or production of active metabolite share common morphological features. Molecular study may help differentiating these abnormalities with precision. Mutational analysis of androgen receptor (AR) and SRD5A2 genes was performed in 29 patients with 46,XY DSD, by PCR-SSCP. The amplicons that showed an aberrant migration in SSCP were subjected to sequencing. Interestingly, six patients from 4 unrelated families (a pair of sibs, uncle/nephew and other two isolated) were identified with mutations in SRD5A2 gene. In five patients p.R246Q missense mutation was detected, of which four were homozygous and one was compound heterozygous: g.80_87delT CGCGAAG (p.A27fsX132) and p.R246Q. Another patient with isolated micropenis harbored a heterozygous p.G196S missense mutation. No AR gene mutation was detected. In conclusion, our study suggests that p.R246Q mutation is common amongst patients with SRD5A2 gene defect from the Northern states of India. Also, it records a novel deletion in exon 1 of SRD5A2 gene in a patient with severe hypospadias.",
+  "entities": [
+    {
+      "id": "D058490",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "46,XY DSD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 9
+        },
+        {
+          "text": "46,XY DSD",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 142,
+          "length": 9
+        },
+        {
+          "text": "46,XY DSD",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 481,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||8",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "8 nucleotide deletion",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "6716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SRD5A2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 434,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 733,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1129,
+          "length": 6
+        },
+        {
+          "text": "SRD5A2",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1230,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "androgen receptor",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 407,
+          "length": 17
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 426,
+          "length": 2
+        },
+        {
+          "text": "AR",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1010,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 467,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 610,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 754,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 923,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1115,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1247,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "rs9332967",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.R246Q",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 763,
+          "length": 7
+        },
+        {
+          "text": "p.R246Q",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 906,
+          "length": 7
+        },
+        {
+          "text": "p.R246Q",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1080,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "g|DEL|80_87|TCGCGAAG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "g.80_87delT CGCGAAG",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 868,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "p|FS|A|27||132",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.A27fsX132",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 889,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "C536649",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "isolated micropenis",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 936,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "rs121434250",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "p.G196S",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 980,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007021",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypospadias",
+          "passage_index": 1,
+          "passage_offset": 115,
+          "char_offset": 1267,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007021",
+      "tail_id": "c|DEL||8",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C536649",
+      "tail_id": "rs121434250",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C536649",
+      "tail_id": "6716",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "6716",
+      "tail_id": "D007021",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D058490",
+      "tail_id": "g|DEL|80_87|TCGCGAAG",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D058490",
+      "tail_id": "p|FS|A|27||132",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D058490",
+      "tail_id": "rs9332967",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D058490",
+      "tail_id": "6716",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D058490",
+      "tail_id": "c|DEL||8",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

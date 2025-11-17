@@ -1,0 +1,385 @@
+{
+  "doc_id": "20683499",
+  "title": "Effects of active constituents of Crocus sativus L., crocin on streptozocin-induced model of sporadic Alzheimer's disease in male rats.",
+  "body": "BACKGROUND: The involvement of water-soluble carotenoids, crocins, as the main and active components of Crocus sativus L. extract in learning and memory processes has been proposed. In the present study, the effect of crocins on sporadic Alzheimer's disease induced by intracerebroventricular (icv) streptozocin (STZ) in male rats was investigated. METHODS: Male adult Wistar rats (n = 90 and 260-290 g) were divided into 1, control; 2 and 3, crocins (15 and 30 mg/kg); 4, STZ; 5 and 6, STZ + crocins (15 and 30 mg/kg) groups. In Alzheimer's disease groups, rats were injected with STZ-icv bilaterally (3 mg/kg) in first day and 3 days later, a similar STZ-icv application was repeated. In STZ + crocin animal groups, crocin was applied in doses of 15 and 30 mg/kg, i.p., one day pre-surgery and continued for three weeks. Prescription of crocin in each dose was repeated once for two days. However, the learning and memory performance was assessed using passive avoidance paradigm, and for spatial cognition evaluation, Y-maze task was used. RESULTS: It was found out that crocin (30 mg/kg)-treated STZ-injected rats show higher correct choices and lower errors in Y-maze than vehicle-treated STZ-injected rats. In addition, crocin in the mentioned dose could significantly attenuated learning and memory impairment in treated STZ-injected group in passive avoidance test. CONCLUSION: Therefore, these results demonstrate the effectiveness of crocin (30 mg/kg) in antagonizing the cognitive deficits caused by STZ-icv in rats and its potential in the treatment of neurodegenerative diseases such as Alzheimer's disease.",
+  "entities": [
+    {
+      "id": "D010936",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "constituents of Crocus sativus L.",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 33
+        },
+        {
+          "text": "Crocus sativus L. extract",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 240,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "C029036",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "crocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 6
+        },
+        {
+          "text": "crocins",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 194,
+          "length": 7
+        },
+        {
+          "text": "crocins",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 354,
+          "length": 7
+        },
+        {
+          "text": "crocins",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 579,
+          "length": 7
+        },
+        {
+          "text": "crocins",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 629,
+          "length": 7
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 832,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 854,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 975,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1210,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1362,
+          "length": 6
+        },
+        {
+          "text": "crocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1580,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 12
+        },
+        {
+          "text": "streptozocin",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 435,
+          "length": 12
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 449,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 609,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 623,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 718,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 789,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 826,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1236,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1330,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1464,
+          "length": 3
+        },
+        {
+          "text": "STZ",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1647,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 374,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 666,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1736,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 130,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 462,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 512,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 694,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1249,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1343,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1658,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002338",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "carotenoids",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 181,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D007859,D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "learning and memory impairment",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1422,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D003072",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cognitive deficits",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1618,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegenerative diseases",
+          "passage_index": 1,
+          "passage_offset": 136,
+          "char_offset": 1701,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "C029036",
+      "tail_id": "D019636",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C029036",
+      "tail_id": "D003072",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C029036",
+      "tail_id": "D000544",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C029036",
+      "tail_id": "D013311",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D013311",
+      "tail_id": "D003072",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D013311",
+      "tail_id": "D000544",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

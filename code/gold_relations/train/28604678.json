@@ -1,0 +1,190 @@
+{
+  "doc_id": "28604678",
+  "title": "Dynamic subunit turnover in ESCRT-III assemblies is regulated by Vps4 to mediate membrane remodelling during cytokinesis.",
+  "body": "The endosomal sorting complex required for transport (ESCRT)-III mediates membrane fission in fundamental cellular processes, including cytokinesis. ESCRT-III is thought to form persistent filaments that over time increase their curvature to constrict membranes. Unexpectedly, we found that ESCRT-III at the midbody of human cells rapidly turns over subunits with cytoplasmic pools while gradually forming larger assemblies. ESCRT-III turnover depended on the ATPase VPS4, which accumulated at the midbody simultaneously with ESCRT-III subunits, and was required for assembly of functional ESCRT-III structures. In vitro, the Vps2/Vps24 subunits of ESCRT-III formed side-by-side filaments with Snf7 and inhibited further polymerization, but the growth inhibition was alleviated by the addition of Vps4 and ATP. High-speed atomic force microscopy further revealed highly dynamic arrays of growing and shrinking ESCRT-III spirals in the presence of Vps4. Continuous ESCRT-III remodelling by subunit turnover might facilitate shape adaptions to variable membrane geometries, with broad implications for diverse cellular processes.",
+  "entities": [
+    {
+      "id": "128866,27243,51652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ESCRT-III",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 28,
+          "length": 9
+        },
+        {
+          "text": "endosomal sorting complex required for transport (ESCRT)-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 126,
+          "length": 60
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 271,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 413,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 547,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 648,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 712,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 771,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1032,
+          "length": 9
+        },
+        {
+          "text": "ESCRT-III",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1086,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "27183,9525",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vps4",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 4
+        },
+        {
+          "text": "ATPase",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 582,
+          "length": 6
+        },
+        {
+          "text": "VPS4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 589,
+          "length": 4
+        },
+        {
+          "text": "Vps4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 919,
+          "length": 4
+        },
+        {
+          "text": "Vps4",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 1069,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 441,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "27243",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vps2",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 748,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "51652",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vps24",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 753,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "128866,29082",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Snf7",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 816,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 122,
+          "char_offset": 928,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": []
+}

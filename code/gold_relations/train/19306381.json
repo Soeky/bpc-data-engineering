@@ -1,0 +1,575 @@
+{
+  "doc_id": "19306381",
+  "title": "Neuregulin-1 beta and neuregulin-1 alpha differentially affect the migration and invasion of malignant peripheral nerve sheath tumor cells.",
+  "body": "Malignant peripheral nerve sheath tumors (MPNSTs) are the most common malignancy associated with neurofibromatosis Type 1 (NF1). These Schwann cell lineage-derived sarcomas aggressively invade adjacent nerve and soft tissue, frequently precluding surgical resection. Little is known regarding the mechanisms underlying this invasive behavior. We have shown that MPNSTs express neuregulin-1 (NRG-1) beta isoforms, which promote Schwann cell migration during development, and NRG-1 alpha isoforms, whose effects on Schwann cells are poorly understood. Hypothesizing that NRG-1 beta and/or NRG-1 alpha promote MPNST invasion, we found that NRG-1 beta promoted MPNST migration in a substrate-specific manner, markedly enhancing migration on laminin but not on collagen type I or fibronectin. The NRG-1 receptors erbB3 and erbB4 were present in MPNST invadopodia (processes mediating invasion), partially colocalized with focal adhesion kinase and the laminin receptor beta(1)-integrin and coimmunoprecipitated with beta(1)-integrin. NRG-1 beta stimulated human and murine MPNST cell migration and invasion in a concentration-dependent manner in three-dimensional migration assays, acting as a chemotactic factor. Both baseline and NRG-1 beta-induced migration were erbB-dependent and required the action of MEK 1/2, SAPK/JNK, PI-3 kinase, Src family kinases and ROCK-I/II. In contrast, NRG-1 alpha had no effect on the migration and invasion of some MPNST lines and inhibited the migration of others. While NRG-1 beta potently and persistently activated Erk 1/2, SAPK/JNK, Akt and Src family kinases, NRG-1 alpha did not activate Akt and activated these other kinases with kinetics distinct from those evident in NRG-1 beta-stimulated cells. These findings suggest that NRG-1 beta enhances MPNST migration and that NRG-1 beta and NRG-1 alpha differentially modulate this process.",
+  "entities": [
+    {
+      "id": "3084",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Neuregulin-1 beta",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 17
+        },
+        {
+          "text": "neuregulin-1 alpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 18
+        },
+        {
+          "text": "neuregulin-1 (NRG-1) beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 517,
+          "length": 25
+        },
+        {
+          "text": "NRG-1 alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 614,
+          "length": 11
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 709,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 727,
+          "length": 11
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 777,
+          "length": 10
+        },
+        {
+          "text": "NRG-1",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 932,
+          "length": 5
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1169,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1367,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1522,
+          "length": 11
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1643,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1737,
+          "length": 11
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1849,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1906,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 beta",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1951,
+          "length": 10
+        },
+        {
+          "text": "NRG-1 alpha",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1966,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D018319",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignant peripheral nerve sheath tumor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 93,
+          "length": 39
+        },
+        {
+          "text": "Malignant peripheral nerve sheath tumors",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 140,
+          "length": 40
+        },
+        {
+          "text": "MPNSTs",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 182,
+          "length": 6
+        },
+        {
+          "text": "MPNSTs",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 502,
+          "length": 6
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 747,
+          "length": 5
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 797,
+          "length": 5
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 980,
+          "length": 5
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1208,
+          "length": 5
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1586,
+          "length": 5
+        },
+        {
+          "text": "MPNST",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1926,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignancy",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 210,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "4763",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neurofibromatosis Type 1",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 237,
+          "length": 24
+        },
+        {
+          "text": "NF1",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 263,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012509",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sarcomas",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 304,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "16777",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "laminin",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 877,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1277,1278",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "collagen type I",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 896,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "2335",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "fibronectin",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 915,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "13867,2065",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "erbB3",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 948,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "13869,2066",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "erbB4",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 958,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5747",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "focal adhesion kinase",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1057,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "3688",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "laminin receptor",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1087,
+          "length": 16
+        },
+        {
+          "text": "beta(1)-integrin",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1104,
+          "length": 16
+        },
+        {
+          "text": "beta(1)-integrin",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1151,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1191,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1201,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "13867,13869,2065,2066",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "erbB",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1401,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "26395,26396,5604,5605",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MEK 1/2",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1443,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "26419,5599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SAPK",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1452,
+          "length": 4
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1457,
+          "length": 3
+        },
+        {
+          "text": "SAPK",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1699,
+          "length": 4
+        },
+        {
+          "text": "JNK",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1704,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "30955,5290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI-3 kinase",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1462,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "20779,6714",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Src family kinases",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1475,
+          "length": 18
+        },
+        {
+          "text": "Src family kinases",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1717,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "19877,19878,6093,9475",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ROCK-I/II",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1498,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "26413,26417,5594,5595",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk 1/2",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1690,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "11651,207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1709,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 140,
+          "char_offset": 1766,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R12",
+      "head_id": "16777",
+      "tail_id": "3688",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R37",
+      "head_id": "3084",
+      "tail_id": "16777",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R38",
+      "head_id": "D018319",
+      "tail_id": "4763",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R39",
+      "head_id": "D018319",
+      "tail_id": "5747",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R40",
+      "head_id": "D018319",
+      "tail_id": "3688",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R41",
+      "head_id": "D018319",
+      "tail_id": "16777",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R42",
+      "head_id": "D018319",
+      "tail_id": "3084",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

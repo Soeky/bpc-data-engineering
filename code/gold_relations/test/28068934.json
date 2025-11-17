@@ -1,0 +1,287 @@
+{
+  "doc_id": "28068934",
+  "title": "Concordance between PIK3CA mutations in endoscopic biopsy and surgically resected specimens of esophageal squamous cell carcinoma.",
+  "body": "BACKGROUND: PIK3CA mutations are expected to be potential therapeutic targets for esophageal squamous cell carcinoma (ESCC). We aimed to clarify the concordance between PIK3CA mutations detected in endoscopic biopsy specimens and corresponding surgically resected specimens. METHODS: We examined five hotspot mutations in the PIK3CA gene (E542K, E545K, E546K, H1047R, and H1047L) in formalin-fixed and paraffin-embedded tissue sections of paired endoscopic biopsy and surgically resected specimens from 181 patients undergoing curative resection for ESCC between 2000 and 2011 using a Luminex technology-based multiplex gene mutation detection kit. RESULTS: Mutation analyses were successfully performed for both endoscopic biopsy and surgically resected specimens in all the cases. A PIK3CA mutation was detected in either type of specimen in 13 cases (7.2%, 95% confidence interval: 3.9-12.0). The overall concordance rate, positive predictive value, and negative predictive value were 98.3% (178/181), 90.9% (10/11), and 98.8% (168/170), respectively. Among patients with a PIK3CA mutation detected in both types of specimens, the concordance between PIK3CA mutation genotypes was 100%. There were three cases with a discordant mutation status between the types of specimens (PIK3CA mutation in surgically resected specimen and wild-type in biopsy specimen in two cases, and the opposite pattern in one case), suggesting possible intratumoral heterogeneity in the PIK3CA mutation status. CONCLUSIONS: The PIK3CA mutation status was highly concordant between endoscopic biopsy and surgically resected specimens from the same patient, suggesting that endoscopic biopsy specimens can be clinically used to detect PIK3CA mutations in patients with ESCC.",
+  "entities": [
+    {
+      "id": "5290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PIK3CA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 143,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 300,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 457,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 916,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1208,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1285,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1410,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1598,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1639,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1844,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000077277",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "esophageal squamous cell carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 95,
+          "length": 34
+        },
+        {
+          "text": "esophageal squamous cell carcinoma",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 213,
+          "length": 34
+        },
+        {
+          "text": "ESCC",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 249,
+          "length": 4
+        },
+        {
+          "text": "ESCC",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 681,
+          "length": 4
+        },
+        {
+          "text": "ESCC",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1878,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "rs121913273",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E542K",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 470,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs104886003",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E545K",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 477,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|E|546|K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "E546K",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 484,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs121913279",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "H1047R",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 491,
+          "length": 6
+        },
+        {
+          "text": "H1047L",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 503,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D005557",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "formalin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 514,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010232",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "paraffin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 533,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 638,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1192,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1758,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1864,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "p|SUB|E|546|K",
+      "tail_id": "D000077277",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs104886003",
+      "tail_id": "D000077277",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs121913273",
+      "tail_id": "D000077277",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs121913279",
+      "tail_id": "D000077277",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "5290",
+      "tail_id": "D000077277",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

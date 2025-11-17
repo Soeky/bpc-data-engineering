@@ -1,0 +1,304 @@
+{
+  "doc_id": "27807193",
+  "title": "PTPN22 Is a Critical Regulator of Fcg Receptor-Mediated Neutrophil Activation.",
+  "body": "Neutrophils act as a first line of defense against bacterial and fungal infections, but they are also important effectors of acute and chronic inflammation. Genome-wide association studies have established that the gene encoding the protein tyrosine phosphatase nonreceptor 22 (PTPN22) makes an important contribution to susceptibility to autoimmune disease, notably rheumatoid arthritis. Although PTPN22 is most highly expressed in neutrophils, its function in these cells remains poorly characterized. We show in this article that neutrophil effector functions, including adhesion, production of reactive oxygen species, and degranulation induced by immobilized immune complexes, were reduced in Ptpn22(-/-) neutrophils. Tyrosine phosphorylation of Lyn and Syk was altered in Ptpn22(-/-) neutrophils. On stimulation with immobilized immune complexes, Ptpn22(-/-) neutrophils manifested reduced activation of key signaling intermediates. Ptpn22(-/-) mice were protected from immune complex-mediated arthritis, induced by the transfer of arthritogenic serum. In contrast, in vivo neutrophil recruitment following thioglycollate-induced peritonitis and in vitro chemotaxis were not affected by lack of PTPN22. Our data suggest an important role for PTPN22-dependent dephosphorylation events, which are required to enable full FcgR-induced activation, pointing to an important role for this molecule in neutrophil function.",
+  "entities": [
+    {
+      "id": "19260",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTPN22",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 6
+        },
+        {
+          "text": "protein tyrosine phosphatase nonreceptor 22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 312,
+          "length": 43
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 357,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 477,
+          "length": 6
+        },
+        {
+          "text": "Ptpn22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 777,
+          "length": 6
+        },
+        {
+          "text": "Ptpn22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 857,
+          "length": 6
+        },
+        {
+          "text": "Ptpn22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 932,
+          "length": 6
+        },
+        {
+          "text": "Ptpn22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1018,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1280,
+          "length": 6
+        },
+        {
+          "text": "PTPN22",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1327,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "14130",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Fcg Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 12
+        },
+        {
+          "text": "FcgR",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1404,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009181",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "fungal infections",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 144,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute and chronic inflammation",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 204,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D001327",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autoimmune disease",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 418,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D001172",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rheumatoid arthritis",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 446,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 677,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "17096",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Lyn",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 830,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "20963",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Syk",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 838,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1030,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D001168",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "arthritis",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1079,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D013864",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "thioglycollate",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1192,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D010538",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "peritonitis",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1215,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013864",
+      "tail_id": "D010538",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "20963",
+      "tail_id": "19260",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "17096",
+      "tail_id": "19260",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "19260",
+      "tail_id": "D001172",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "19260",
+      "tail_id": "D001327",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "19260",
+      "tail_id": "D001168",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "19260",
+      "tail_id": "D017382",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "19260",
+      "tail_id": "14130",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

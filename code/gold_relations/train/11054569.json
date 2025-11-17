@@ -1,0 +1,284 @@
+{
+  "doc_id": "11054569",
+  "title": "Rab6c, a new member of the rab gene family, is involved in drug resistance in MCF7/AdrR cells.",
+  "body": "A new Rab6 homolog cDNA, Rab6c, was discovered by a hypermethylated DNA fragment probe that was isolated from a human multidrug resistant (MDR) breast cancer cell line, MCF7/AdrR, by the methylation sensitive-representational difference analysis (MS-RDA) technique. Rab6c was found to be under-expressed in MCF7/AdrR and MES-SA/Dx5 (a human MDR uterine sarcoma cell line) compared with their non-MDR parental cell lines. MCF7/AdrR cells expressing the exogenous Rab6c exhibited less resistance to several anti-cancer drugs, such as doxorubicin (DOX), taxol, vinblastine, and vincristine, than the control cells containing the empty vector. Flow cytometry experiments confirmed that the transfectants' diminished resistance to DOX was caused by increased drug accumulation induced by the exogenous Rab6c. These results indicate that Rab6c is involved in drug resistance in MCF7/AdrR cells.",
+  "entities": [
+    {
+      "id": "84084",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rab6c",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "Rab6c",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 120,
+          "length": 5
+        },
+        {
+          "text": "Rab6c",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 361,
+          "length": 5
+        },
+        {
+          "text": "Rab6c",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 557,
+          "length": 5
+        },
+        {
+          "text": "Rab6c",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 892,
+          "length": 5
+        },
+        {
+          "text": "Rab6c",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 927,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5870,84084",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "rab",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_1452",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MCF7/AdrR",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 9
+        },
+        {
+          "text": "MCF7/AdrR",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 264,
+          "length": 9
+        },
+        {
+          "text": "MCF7/AdrR",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 402,
+          "length": 9
+        },
+        {
+          "text": "MCF7/AdrR",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 516,
+          "length": 9
+        },
+        {
+          "text": "MCF7/AdrR",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 967,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "5870",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rab6",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 101,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 207,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 430,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001943",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "breast cancer",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 239,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "CVCL_2598",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MES-SA/Dx5",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 416,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D014594",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "uterine sarcoma",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 440,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 627,
+          "length": 11
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 640,
+          "length": 3
+        },
+        {
+          "text": "DOX",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 821,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D017239",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "taxol",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 646,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D014747",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vinblastine",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 653,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014750",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vincristine",
+          "passage_index": 1,
+          "passage_offset": 95,
+          "char_offset": 670,
+          "length": 11
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014594",
+      "tail_id": "84084",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "84084",
+      "tail_id": "D014750",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "84084",
+      "tail_id": "D014747",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "84084",
+      "tail_id": "D017239",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "84084",
+      "tail_id": "D004317",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

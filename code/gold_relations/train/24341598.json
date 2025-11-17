@@ -1,0 +1,439 @@
+{
+  "doc_id": "24341598",
+  "title": "Comparison of effects of isotonic sodium chloride with diltiazem in prevention of contrast-induced nephropathy.",
+  "body": "INTRODUCTION AND OBJECTIVE: Contrast-induced nephropathy (CIN) significantly increases the morbidity and mortality of patients. The aim of this study is to investigate and compare the protective effects of isotonic sodium chloride with sodium bicarbonate infusion and isotonic sodium chloride infusion with diltiazem, a calcium channel blocker, in preventing CIN. MATERIALS AND METHODS: Our study included patients who were administered 30-60 mL of iodinated contrast agent for percutaneous coronary angiography (PCAG), all with creatinine values between 1.1 and 3.1 mg/dL. Patients were divided into three groups and each group had 20 patients. The first group of patients was administered isotonic sodium chloride; the second group was administered a solution that of 5% dextrose and sodium bicarbonate, while the third group was administered isotonic sodium chloride before and after the contrast injection. The third group received an additional injection of diltiazem the day before and first 2 days after the contrast injection. All of the patients' plasma blood urea nitrogen (BUN) and creatinine levels were measured on the second and seventh day after the administration of intravenous contrast material. RESULTS: The basal creatinine levels were similar for all three groups (p > 0.05). Among a total of 60 patients included in the study, 16 patients developed acute renal failure (ARF) on the second day after contrast material was injected (26.6%). The number of patients who developed ARF on the second day after the injection in the first group was five (25%), in the second group was six (30%) and the third group was five (25%) (p > 0.05). CONCLUSION: There was no significant difference between isotonic sodium chloride, sodium bicarbonate and isotonic sodium chloride with diltiazem application in prevention of CIN.",
+  "entities": [
+    {
+      "id": "D012965",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium chloride",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 327,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 389,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 812,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 966,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1833,
+          "length": 15
+        },
+        {
+          "text": "sodium chloride",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1882,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D004110",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diltiazem",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 55,
+          "length": 9
+        },
+        {
+          "text": "diltiazem",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 419,
+          "length": 9
+        },
+        {
+          "text": "diltiazem",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1075,
+          "length": 9
+        },
+        {
+          "text": "diltiazem",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1903,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003287",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "contrast",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 82,
+          "length": 8
+        },
+        {
+          "text": "Contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 140,
+          "length": 8
+        },
+        {
+          "text": "contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 571,
+          "length": 8
+        },
+        {
+          "text": "contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1003,
+          "length": 8
+        },
+        {
+          "text": "contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1127,
+          "length": 8
+        },
+        {
+          "text": "contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1307,
+          "length": 8
+        },
+        {
+          "text": "contrast",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1533,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 99,
+          "length": 11
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 157,
+          "length": 11
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 170,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 471,
+          "length": 3
+        },
+        {
+          "text": "CIN",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1942,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 230,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 518,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 686,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 748,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 777,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1158,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1429,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1464,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1587,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D017693",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium bicarbonate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 348,
+          "length": 18
+        },
+        {
+          "text": "sodium bicarbonate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 898,
+          "length": 18
+        },
+        {
+          "text": "sodium bicarbonate",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1850,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 432,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 641,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1205,
+          "length": 10
+        },
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1345,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dextrose",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 885,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D001806",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "blood urea nitrogen",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1175,
+          "length": 19
+        },
+        {
+          "text": "BUN",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1196,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1483,
+          "length": 19
+        },
+        {
+          "text": "ARF",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1504,
+          "length": 3
+        },
+        {
+          "text": "ARF",
+          "passage_index": 1,
+          "passage_offset": 112,
+          "char_offset": 1610,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D058186",
+      "tail_id": "D003287",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D017693",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D017693",
+      "tail_id": "D004110",
+      "type": "Comparison",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003287",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004110",
+      "tail_id": "D002118",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D004110",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D004110",
+      "tail_id": "D003287",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

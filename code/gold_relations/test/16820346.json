@@ -1,0 +1,371 @@
+{
+  "doc_id": "16820346",
+  "title": "Atorvastatin prevented and reversed dexamethasone-induced hypertension in the rat.",
+  "body": "To assess the antioxidant effects of atorvastatin (atorva) on dexamethasone (dex)-induced hypertension, 60 male Sprague-Dawley rats were treated with atorva 30 mg/kg/day or tap water for 15 days. Dex increased systolic blood pressure (SBP) from 109 +/- 1.8 to 135 +/- 0.6 mmHg and plasma superoxide (5711 +/- 284.9 saline, 7931 +/- 392.8 U/ml dex, P < 0.001). In this prevention study, SBP in the atorva + dex group was increased from 115 +/- 0.4 to 124 +/- 1.5 mmHg, but this was significantly lower than in the dex-only group (P' < 0.05). Atorva reversed dex-induced hypertension (129 +/- 0.6 mmHg, vs. 135 +/- 0.6 mmHg P' < 0.05) and decreased plasma superoxide (7931 +/- 392.8 dex, 1187 +/- 441.2 atorva + dex, P < 0.0001). Plasma nitrate/nitrite (NOx) was decreased in dex-treated rats compared to saline-treated rats (11.2 +/- 1.08 microm, 15.3 +/- 1.17 microm, respectively, P < 0.05). Atorva affected neither plasma NOx nor thymus weight. Thus, atorvastatin prevented and reversed dexamethasone-induced hypertension in the rat.",
+  "entities": [
+    {
+      "id": "D000069059",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Atorvastatin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 12
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 120,
+          "length": 12
+        },
+        {
+          "text": "atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 134,
+          "length": 6
+        },
+        {
+          "text": "atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 233,
+          "length": 6
+        },
+        {
+          "text": "atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 480,
+          "length": 6
+        },
+        {
+          "text": "Atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 624,
+          "length": 6
+        },
+        {
+          "text": "atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 784,
+          "length": 6
+        },
+        {
+          "text": "Atorva",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 976,
+          "length": 6
+        },
+        {
+          "text": "atorvastatin",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1036,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 145,
+          "length": 13
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 160,
+          "length": 3
+        },
+        {
+          "text": "Dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 279,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 426,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 489,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 596,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 640,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 764,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 793,
+          "length": 3
+        },
+        {
+          "text": "dex",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 857,
+          "length": 3
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1072,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 58,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 173,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 652,
+          "length": 12
+        },
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1094,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 210,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 869,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 901,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1114,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antioxidant",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 97,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D013481",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "superoxide",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 371,
+          "length": 10
+        },
+        {
+          "text": "superoxide",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 737,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D009566",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitrate",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 818,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009573",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitrite",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 826,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009589",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "NOx",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 835,
+          "length": 3
+        },
+        {
+          "text": "NOx",
+          "passage_index": 1,
+          "passage_offset": 83,
+          "char_offset": 1007,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009589",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009573",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009566",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D003907",
+      "tail_id": "D013481",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D003907",
+      "tail_id": "D006973",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000069059",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000069059",
+      "tail_id": "D003907",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

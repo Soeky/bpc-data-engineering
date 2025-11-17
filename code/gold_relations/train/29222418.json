@@ -1,0 +1,354 @@
+{
+  "doc_id": "29222418",
+  "title": "HEB is required for the specification of fetal IL-17-producing gd T cells.",
+  "body": "IL-17-producing gd T (gdT17) cells are critical components of the innate immune system. However, the gene networks that control their development are unclear. Here we show that HEB (HeLa E-box binding protein, encoded by Tcf12) is required for the generation of a newly defined subset of fetal-derived CD73- gdT17 cells. HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3. HEB-deficiency also affects mature CD73+ gd T cells, which are defective in RORgt expression and IL-17 production. Additionally, the fetal TCRg chain repertoire is altered, and peripheral Vg4 gd T cells are mostly restricted to the IFNg-producing phenotype in HEB-deficient mice. Therefore, our work identifies HEB-dependent pathways for the development of CD73+ and CD73- gdT17 cells, and provides mechanistic evidence for control of the gdT17 gene network by HEB.",
+  "entities": [
+    {
+      "id": "21406",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HEB",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 252,
+          "length": 3
+        },
+        {
+          "text": "HeLa E-box binding protein",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 257,
+          "length": 26
+        },
+        {
+          "text": "Tcf12",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 296,
+          "length": 5
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 396,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 548,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 568,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 828,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 879,
+          "length": 3
+        },
+        {
+          "text": "HEB",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 1029,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16171",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-17",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 75,
+          "length": 5
+        },
+        {
+          "text": "IL-17",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 665,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "23959",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD73",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 377,
+          "length": 4
+        },
+        {
+          "text": "CD73",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 429,
+          "length": 4
+        },
+        {
+          "text": "CD73",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 603,
+          "length": 4
+        },
+        {
+          "text": "CD73",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 925,
+          "length": 4
+        },
+        {
+          "text": "CD73",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 935,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12484",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD24",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 424,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20677",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sox4",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 468,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20668",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sox13",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 474,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "19885",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rorc",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 485,
+          "length": 4
+        },
+        {
+          "text": "RORgt",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 644,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "15903",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Id3",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 563,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "110067",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TCRg",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 707,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "21638",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vg4",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 756,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IFNg",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 800,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 75,
+          "char_offset": 842,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "15978",
+      "tail_id": "21406",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "21638",
+      "tail_id": "15978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "21638",
+      "tail_id": "21406",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "19885",
+      "tail_id": "15903",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "20668",
+      "tail_id": "15903",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "20677",
+      "tail_id": "15903",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "21406",
+      "tail_id": "19885",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "21406",
+      "tail_id": "20668",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "21406",
+      "tail_id": "15903",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "21406",
+      "tail_id": "20677",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "21406",
+      "tail_id": "16171",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "doc_id": "28368537",
+  "title": "Tissue-Specific Ablation of the LIF Receptor in the Murine Uterine Epithelium Results in Implantation Failure.",
+  "body": "The cytokine leukemia inhibitory factor (LIF) is essential for rendering the uterus receptive for blastocyst implantation. In mice, LIF receptor expression (LIFR) is largely restricted to the uterine luminal epithelium (LE). LIF, secreted from the endometrial glands (GEs), binds to the LIFR, activating the Janus kinase-signal transducer and activation of transcription (STAT) 3 (Jak-Stat3) signaling pathway in the LE. JAK-STAT activation converts the LE to a receptive state so that juxtaposed blastocysts begin to implant. To specifically delete the LIFR in the LE, we derived a line of mice in which Cre recombinase was inserted into the endogenous lactoferrin gene (Ltf-Cre). Lactoferrin expression in the LE is induced by E2, and we demonstrate that Cre recombinase activity is restricted to the LE and GE. To determine the requirement of the LIFR in implantation, we derived an additional mouse line carrying a conditional (floxed) Lifr flx/flx gene. Crossing Ltf-Cre mice with Lifr flx/flx mice generated Lifr flx/D:Ltf Cre/+ females that were overtly normal but infertile. Many of these females, despite repeated matings, did not become pregnant. Unimplanted blastocysts were recovered from the Lifr flx/D:Ltf Cre/+ uteri and, when transferred to wild-type recipients, implanted normally, indicating that uterine receptivity rather than the embryo's competency is compromised. The loss of Lifr results in both the failure for STAT3 to translocate to the LE nuclei and a reduction in the expression of the LIF regulated gene Msx1 that regulates uterine receptivity. These results reveal that uterine expression of the LIFR is essential for embryo implantation and further define the components of the LIF signaling pathway necessary for effective implantation.",
+  "entities": [
+    {
+      "id": "16880",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "LIF Receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 12
+        },
+        {
+          "text": "LIF receptor",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 243,
+          "length": 12
+        },
+        {
+          "text": "LIFR",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 268,
+          "length": 4
+        },
+        {
+          "text": "LIFR",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 398,
+          "length": 4
+        },
+        {
+          "text": "LIFR",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 665,
+          "length": 4
+        },
+        {
+          "text": "LIFR",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 961,
+          "length": 4
+        },
+        {
+          "text": "Lifr",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1051,
+          "length": 4
+        },
+        {
+          "text": "Lifr",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1097,
+          "length": 4
+        },
+        {
+          "text": "Lifr",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1125,
+          "length": 4
+        },
+        {
+          "text": "Lifr",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1316,
+          "length": 4
+        },
+        {
+          "text": "Lifr",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1510,
+          "length": 4
+        },
+        {
+          "text": "LIFR",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1738,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Murine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 52,
+          "length": 6
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 237,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 702,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1008,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1087,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1110,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16878",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "leukemia inhibitory factor",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 124,
+          "length": 26
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 152,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 336,
+          "length": 3
+        },
+        {
+          "text": "Ltf",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 783,
+          "length": 3
+        },
+        {
+          "text": "Ltf",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1079,
+          "length": 3
+        },
+        {
+          "text": "Ltf",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1136,
+          "length": 3
+        },
+        {
+          "text": "Ltf",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1327,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1626,
+          "length": 3
+        },
+        {
+          "text": "LIF",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1821,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16452",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Janus kinase",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 419,
+          "length": 12
+        },
+        {
+          "text": "Jak",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 492,
+          "length": 3
+        },
+        {
+          "text": "JAK",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 532,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "20848",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "signal transducer and activation of transcription (STAT) 3",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 432,
+          "length": 58
+        },
+        {
+          "text": "Stat3",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 496,
+          "length": 5
+        },
+        {
+          "text": "STAT",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 536,
+          "length": 4
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1547,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17002",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "lactoferrin",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 765,
+          "length": 11
+        },
+        {
+          "text": "Lactoferrin",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 793,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "17701",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Msx1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1645,
+          "length": 4
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "16880",
+      "tail_id": "17701",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "16878",
+      "tail_id": "17701",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "16878",
+      "tail_id": "16880",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "20848",
+      "tail_id": "16880",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "20848",
+      "tail_id": "16878",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "16452",
+      "tail_id": "16880",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "16452",
+      "tail_id": "16878",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "16452",
+      "tail_id": "20848",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

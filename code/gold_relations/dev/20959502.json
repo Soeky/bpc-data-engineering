@@ -1,0 +1,568 @@
+{
+  "doc_id": "20959502",
+  "title": "Cerebrospinal fluid penetration of high-dose daptomycin in suspected Staphylococcus aureus meningitis.",
+  "body": "OBJECTIVE: To report a case of methicillin-sensitive Staphylococcus aureus (MSSA) bacteremia with suspected MSSA meningitis treated with high-dose daptomycin assessed with concurrent serum and cerebrospinal fluid (CSF) concentrations. CASE SUMMARY: A 54-year-old male presented to the emergency department with generalized weakness and presumed health-care-associated pneumonia shown on chest radiograph. Treatment was empirically initiated with vancomycin, levofloxacin, and piperacillin/tazobactam. Blood cultures revealed S. aureus susceptible to oxacillin. Empiric antibiotic treatment was narrowed to nafcillin on day 4. On day 8, the patient developed acute renal failure (serum creatinine 1.9 mg/dL, increased from 1.2 mg/dL the previous day and 0.8 mg/dL on admission). The patient's Glasgow Coma Score was 3, with normal findings shown on computed tomography scan of the head 72 hours following an episode of cardiac arrest on day 10. The patient experienced relapsing MSSA bacteremia on day 9, increasing the suspicion for a central nervous system (CNS) infection. Nafcillin was discontinued and daptomycin 9 mg/kg daily was initiated for suspected meningitis and was continued until the patient's death on day 16. Daptomycin serum and CSF trough concentrations were 11.21 ug/mL and 0.52 ug/mL, respectively, prior to the third dose. Lumbar puncture results were inconclusive and no further blood cultures were positive for MSSA. Creatine kinase levels were normal prior to daptomycin therapy and were not reassessed. DISCUSSION: Daptomycin was initiated in our patient secondary to possible nafcillin-induced acute interstitial nephritis and relapsing bacteremia. At a dose of 9 mg/kg, resultant penetration of 5% was higher than in previous reports, more consistent with inflamed meninges. CONCLUSIONS: High-dose daptomycin may be an alternative option for MSSA bacteremia with or without a CNS source in patients who have failed or cannot tolerate standard therapy. Further clinical evaluation in patients with confirmed meningitis is warranted.",
+  "entities": [
+    {
+      "id": "D017576",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "daptomycin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 10
+        },
+        {
+          "text": "daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 250,
+          "length": 10
+        },
+        {
+          "text": "daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1209,
+          "length": 10
+        },
+        {
+          "text": "Daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1328,
+          "length": 10
+        },
+        {
+          "text": "daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1587,
+          "length": 10
+        },
+        {
+          "text": "Daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1643,
+          "length": 10
+        },
+        {
+          "text": "daptomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1928,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "1280",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Staphylococcus aureus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 69,
+          "length": 21
+        },
+        {
+          "text": "Staphylococcus aureus",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 156,
+          "length": 21
+        },
+        {
+          "text": "S. aureus",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 628,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008581",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "meningitis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 10
+        },
+        {
+          "text": "meningitis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 216,
+          "length": 10
+        },
+        {
+          "text": "meningitis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1262,
+          "length": 10
+        },
+        {
+          "text": "meningitis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 2137,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D008712",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methicillin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 134,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D016470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bacteremia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 185,
+          "length": 10
+        },
+        {
+          "text": "bacteremia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1086,
+          "length": 10
+        },
+        {
+          "text": "bacteremia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1766,
+          "length": 10
+        },
+        {
+          "text": "bacteremia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1977,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D018908",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "weakness",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 426,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D011014",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pneumonia",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 471,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D014640",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vancomycin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 549,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D064704",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 561,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000077725",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "piperacillin/tazobactam",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 579,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D010068",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxacillin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 653,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000900",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "antibiotic",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 672,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D009254",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nafcillin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 709,
+          "length": 9
+        },
+        {
+          "text": "Nafcillin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1178,
+          "length": 9
+        },
+        {
+          "text": "nafcillin",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1705,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 743,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 885,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1051,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1301,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1675,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 2020,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 2113,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D058186",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "acute renal failure",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 761,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 788,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D003128",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Coma",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 903,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006323",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac arrest",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1021,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D002494",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "central nervous system (CNS) infection",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1138,
+          "length": 38
+        }
+      ]
+    },
+    {
+      "id": "D003643",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "death",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1311,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1152",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Creatine kinase",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1543,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D009395",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "interstitial nephritis",
+          "passage_index": 1,
+          "passage_offset": 103,
+          "char_offset": 1729,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000900",
+      "tail_id": "D011014",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009254",
+      "tail_id": "D009395",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009254",
+      "tail_id": "D016470",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D008712",
+      "tail_id": "D016470",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D017576",
+      "tail_id": "D009395",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D017576",
+      "tail_id": "D016470",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D017576",
+      "tail_id": "D008581",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D058186",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D011014",
+      "tail_id": "D000077725",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D011014",
+      "tail_id": "D064704",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D011014",
+      "tail_id": "D014640",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D018908",
+      "tail_id": "D000077725",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D018908",
+      "tail_id": "D064704",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D018908",
+      "tail_id": "D014640",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D064704",
+      "tail_id": "D000077725",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D014640",
+      "tail_id": "D000077725",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R16",
+      "head_id": "D014640",
+      "tail_id": "D064704",
+      "type": "Cotreatment",
+      "novel": "No"
+    }
+  ]
+}

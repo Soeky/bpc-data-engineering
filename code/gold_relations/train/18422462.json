@@ -1,0 +1,537 @@
+{
+  "doc_id": "18422462",
+  "title": "Spectrum of adverse events after generic HAART in southern Indian HIV-infected patients.",
+  "body": "To determine the incidence of clinically significant adverse events after long-term, fixed-dose, generic highly active antiretroviral therapy (HAART) use among HIV-infected individuals in South India, we examined the experiences of 3154 HIV-infected individuals who received a minimum of 3 months of generic HAART between February 1996 and December 2006 at a tertiary HIV care referral center in South India. The most common regimens were 3TC + d4T + nevirapine (NVP) (54.8%), zidovudine (AZT) + 3TC + NVP (14.5%), 3TC + d4T + efavirenz (EFV) (20.1%), and AZT + 3TC + EFV (5.4%). The most common adverse events and median CD4 at time of event were rash (15.2%; CD4, 285 cells/microL) and peripheral neuropathy (9.0% and 348 cells/microL). Clinically significant anemia (hemoglobin <7 g/dL) was observed in 5.4% of patients (CD4, 165 cells/microL) and hepatitis (clinical jaundice with alanine aminotransferase > 5 times upper limits of normal) in 3.5% of patients (CD4, 260 cells/microL). Women were significantly more likely to experience lactic acidosis, while men were significantly more likely to experience immune reconstitution syndrome (p < 0.05). Among the patients with 1 year of follow-up, NVP therapy was significantly associated with developing rash and d4T therapy with developing peripheral neuropathy (p < 0.05). Anemia and hepatitis often occur within 12 weeks of initiating generic HAART. Frequent and early monitoring for these toxicities is warranted in developing countries where generic HAART is increasingly available.",
+  "entities": [
+    {
+      "id": "D015658",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "HIV-infected",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 12
+        },
+        {
+          "text": "HIV-infected",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 249,
+          "length": 12
+        },
+        {
+          "text": "HIV-infected",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 326,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 903,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1044,
+          "length": 8
+        },
+        {
+          "text": "Women",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1078,
+          "length": 5
+        },
+        {
+          "text": "men",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1152,
+          "length": 3
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1254,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D019259",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "3TC",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 528,
+          "length": 3
+        },
+        {
+          "text": "3TC",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 585,
+          "length": 3
+        },
+        {
+          "text": "3TC",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 604,
+          "length": 3
+        },
+        {
+          "text": "3TC",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 651,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018119",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "d4T",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 534,
+          "length": 3
+        },
+        {
+          "text": "d4T",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 610,
+          "length": 3
+        },
+        {
+          "text": "d4T",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1355,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D019829",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nevirapine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 540,
+          "length": 10
+        },
+        {
+          "text": "NVP",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 552,
+          "length": 3
+        },
+        {
+          "text": "NVP",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 591,
+          "length": 3
+        },
+        {
+          "text": "NVP",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1289,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D015215",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "zidovudine",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 566,
+          "length": 10
+        },
+        {
+          "text": "AZT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 578,
+          "length": 3
+        },
+        {
+          "text": "AZT",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 645,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C098320",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "efavirenz",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 616,
+          "length": 9
+        },
+        {
+          "text": "EFV",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 627,
+          "length": 3
+        },
+        {
+          "text": "EFV",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 657,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 711,
+          "length": 3
+        },
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 750,
+          "length": 3
+        },
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 913,
+          "length": 3
+        },
+        {
+          "text": "CD4",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1054,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005076",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "rash",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 737,
+          "length": 4
+        },
+        {
+          "text": "rash",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1346,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D010523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "peripheral neuropathy",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 777,
+          "length": 21
+        },
+        {
+          "text": "peripheral neuropathy",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1383,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D000740",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "anemia",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 851,
+          "length": 6
+        },
+        {
+          "text": "Anemia",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1417,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3039",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hemoglobin",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 859,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D056486",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatitis",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 940,
+          "length": 9
+        },
+        {
+          "text": "hepatitis",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1428,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007565",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "jaundice",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 960,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000410",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "alanine aminotransferase",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 974,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D000140",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lactic acidosis",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1129,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D054019",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "immune reconstitution syndrome",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1201,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicities",
+          "passage_index": 1,
+          "passage_offset": 89,
+          "char_offset": 1535,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D007565",
+      "tail_id": "D000410",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D015658",
+      "tail_id": "C098320",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D015658",
+      "tail_id": "D018119",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D015658",
+      "tail_id": "D019259",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D015658",
+      "tail_id": "D019829",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D015658",
+      "tail_id": "D015215",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D018119",
+      "tail_id": "D010523",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D018119",
+      "tail_id": "C098320",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D018119",
+      "tail_id": "D019829",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D019259",
+      "tail_id": "C098320",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D019259",
+      "tail_id": "D018119",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D019259",
+      "tail_id": "D019829",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D019829",
+      "tail_id": "D005076",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D015215",
+      "tail_id": "C098320",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D015215",
+      "tail_id": "D019259",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D015215",
+      "tail_id": "D019829",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    }
+  ]
+}

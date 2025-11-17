@@ -1,0 +1,871 @@
+{
+  "doc_id": "29183288",
+  "title": "Arginase 1 deletion in myeloid cells affects the inflammatory response in allergic asthma, but not lung mechanics, in female mice.",
+  "body": "BACKGROUND: (Over-)expression of arginase may limit local availability of arginine for nitric oxide synthesis. We investigated the significance of arginase1 (ARG1) for the development of airway hyperresponsiveness (AHR) and lung inflammation in female mice with ovalbumin (OVA)-induced allergic asthma. METHODS: Arg1 was ablated in the lung by crossing Arg1 fl/fl and Tie2Cre tg/- mice. OVA sensitization and challenge were conducted, and AHR to methacholine was determined using the Flexivent system. Changes in gene expression, chemokine and cytokine secretion, plasma IgE, and lung histology were quantified using RT-qPCR, ELISA, and immunohistochemistry, respectively. RESULTS: Arg1 ablation had no influence on the development of OVA-induced AHR, but attenuated OVA-induced increases in expression of Arg2 and Nos2, Slc7a1, Slc7a2, and Slc7a7 (arginine transporters), Il4, Il5 and Il13 (TH2-type cytokines), Ccl2 and Ccl11 (chemokines), Ifng (TH1-type cytokine), Clca3 and Muc5ac (goblet cell markers), and OVA-specific IgE. Pulmonary IL-10 protein content increased, but IL-4, IL-5, IL-13, TNFalpha and IFNgamma content, and lung histopathology, were not affected. Arg1 elimination also decreased number and tightness of correlations between adaptive changes in lung function and inflammatory parameters in OVA/OVA-treated female mice. OVA/OVA-treated female mice mounted a higher OVA-IgE response than males, but the correlation between lung function and inflammation was lower. Arg1-deficient OVA/OVA-treated females differed from males in a more pronounced decline of arginine-metabolizing and -transporting genes, higher plasma arginine levels, a smaller OVA-specific IgE response, and no improvement of peripheral lung function. CONCLUSION: Complete ablation of Arg1 in the lung affects mRNA abundance of arginine-transporting and -metabolizing genes, and pro-inflammatory genes, but not methacholine responsiveness or accumulation of inflammatory cells.",
+  "entities": [
+    {
+      "id": "11846",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Arginase 1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "arginase",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 164,
+          "length": 8
+        },
+        {
+          "text": "arginase1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 278,
+          "length": 9
+        },
+        {
+          "text": "ARG1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 289,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 443,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 484,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 813,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1302,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1617,
+          "length": 4
+        },
+        {
+          "text": "Arg1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1904,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1417,
+          "length": 12
+        },
+        {
+          "text": "inflammation",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1593,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2002,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2077,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D001249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "asthma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 83,
+          "length": 6
+        },
+        {
+          "text": "asthma",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 426,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 125,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 383,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 512,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1467,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1496,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009569",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 218,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D011014",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lung inflammation",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 355,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "66222",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ovalbumin",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 393,
+          "length": 9
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 404,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 518,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 866,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 898,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1143,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1444,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1448,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1473,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1477,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1518,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1632,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1636,
+          "length": 3
+        },
+        {
+          "text": "OVA",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1796,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016210",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "methacholine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 577,
+          "length": 12
+        },
+        {
+          "text": "methacholine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 2030,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "629822",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IgE",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 702,
+          "length": 3
+        },
+        {
+          "text": "IgE",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1156,
+          "length": 3
+        },
+        {
+          "text": "IgE",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1522,
+          "length": 3
+        },
+        {
+          "text": "IgE",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1809,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "11847",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Arg2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 937,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "18126",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nos2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 946,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11987",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Slc7a1",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 952,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11988",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Slc7a2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 960,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "20540",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Slc7a7",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 972,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11987,11988,20540",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "arginine transporters",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 980,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "16189",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Il4",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1004,
+          "length": 3
+        },
+        {
+          "text": "IL-4",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1208,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16191",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Il5",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1009,
+          "length": 3
+        },
+        {
+          "text": "IL-5",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1214,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "16163",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Il13",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1017,
+          "length": 4
+        },
+        {
+          "text": "IL-13",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1220,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "16163,16189,16191",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TH2-type cytokines",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1023,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "20296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ccl2",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1044,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20292",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ccl11",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1053,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "20292,20296",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chemokines",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1060,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "15978",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Ifng",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1073,
+          "length": 4
+        },
+        {
+          "text": "TH1-type cytokine",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1079,
+          "length": 17
+        },
+        {
+          "text": "IFNgamma",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1240,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "23844",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Clca3",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1099,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "17833",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Muc5ac",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1109,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "16153",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IL-10",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1171,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "21926",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TNFalpha",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1227,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "66222",
+      "tail_id": "17833",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "66222",
+      "tail_id": "23844",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "66222",
+      "tail_id": "15978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "66222",
+      "tail_id": "20292",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "66222",
+      "tail_id": "20296",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "66222",
+      "tail_id": "16163",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "66222",
+      "tail_id": "16191",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "66222",
+      "tail_id": "16189",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "66222",
+      "tail_id": "20540",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "66222",
+      "tail_id": "11988",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "66222",
+      "tail_id": "11987",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "66222",
+      "tail_id": "18126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "66222",
+      "tail_id": "11847",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "629822",
+      "tail_id": "66222",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "11846",
+      "tail_id": "D009569",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "11846",
+      "tail_id": "66222",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "11846",
+      "tail_id": "16153",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "11846",
+      "tail_id": "629822",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "11846",
+      "tail_id": "17833",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R19",
+      "head_id": "11846",
+      "tail_id": "23844",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "11846",
+      "tail_id": "15978",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "11846",
+      "tail_id": "20292",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "11846",
+      "tail_id": "20296",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "11846",
+      "tail_id": "16163",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "11846",
+      "tail_id": "16191",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "11846",
+      "tail_id": "16189",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "11846",
+      "tail_id": "20540",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "11846",
+      "tail_id": "11988",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "11846",
+      "tail_id": "11987",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R29",
+      "head_id": "11846",
+      "tail_id": "18126",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "11846",
+      "tail_id": "11847",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R31",
+      "head_id": "11846",
+      "tail_id": "D001249",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "11846",
+      "tail_id": "D007249",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

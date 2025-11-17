@@ -1,0 +1,356 @@
+{
+  "doc_id": "20477932",
+  "title": "Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and oxidative stress, and prevention by topiramate.",
+  "body": "Different mechanisms have been suggested for cocaine toxicity including an increase in oxidative stress but the association between oxidative status in the brain and cocaine induced-behaviour is poorly understood. Nuclear factor kappa B (NFkappaB) is a sensor of oxidative stress and participates in memory formation that could be involved in drug toxicity and addiction mechanisms. Therefore NFkappaB activity, oxidative stress, neuronal nitric oxide synthase (nNOS) activity, spatial learning and memory as well as the effect of topiramate, a previously proposed therapy for cocaine addiction, were evaluated in an experimental model of cocaine administration in rats. NFkappaB activity was decreased in the frontal cortex of cocaine treated rats, as well as GSH concentration and glutathione peroxidase activity in the hippocampus, whereas nNOS activity in the hippocampus was increased. Memory retrieval of experiences acquired prior to cocaine administration was impaired and negatively correlated with NFkappaB activity in the frontal cortex. In contrast, learning of new tasks was enhanced and correlated with the increase of nNOS activity and the decrease of glutathione peroxidase. These results provide evidence for a possible mechanistic role of oxidative and nitrosative stress and NFkappaB in the alterations induced by cocaine. Topiramate prevented all the alterations observed, showing novel neuroprotective properties.",
+  "entities": [
+    {
+      "id": "D003042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Cocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 191,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 312,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 785,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 874,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1087,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1479,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007859,D008569",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "memory and learning impairments",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 15,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 50,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 811,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 890,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "81736",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear factor kappa B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 22
+        },
+        {
+          "text": "Nuclear factor kappa B",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 360,
+          "length": 22
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 384,
+          "length": 8
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 539,
+          "length": 8
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 817,
+          "length": 8
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1154,
+          "length": 8
+        },
+        {
+          "text": "NFkappaB",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1440,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000077236",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "topiramate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 134,
+          "length": 10
+        },
+        {
+          "text": "topiramate",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 677,
+          "length": 10
+        },
+        {
+          "text": "Topiramate",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1488,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 199,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 494,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "24598",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neuronal nitric oxide synthase",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 576,
+          "length": 30
+        },
+        {
+          "text": "nNOS",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 608,
+          "length": 4
+        },
+        {
+          "text": "nNOS",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 989,
+          "length": 4
+        },
+        {
+          "text": "nNOS",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1279,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D019970",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cocaine addiction",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 723,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D005978",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GSH",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 907,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "2876",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glutathione peroxidase",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 929,
+          "length": 22
+        },
+        {
+          "text": "glutathione peroxidase",
+          "passage_index": 1,
+          "passage_offset": 146,
+          "char_offset": 1313,
+          "length": 22
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005978",
+      "tail_id": "81736",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "24598",
+      "tail_id": "D005978",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "24598",
+      "tail_id": "2876",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "24598",
+      "tail_id": "D003042",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "81736",
+      "tail_id": "24598",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "81736",
+      "tail_id": "2876",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "81736",
+      "tail_id": "D003042",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D000077236",
+      "tail_id": "D019970",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D003042",
+      "tail_id": "2876",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D003042",
+      "tail_id": "D000077236",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

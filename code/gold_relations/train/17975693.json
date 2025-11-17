@@ -1,0 +1,200 @@
+{
+  "doc_id": "17975693",
+  "title": "Anxiogenic potential of ciprofloxacin and norfloxacin in rats.",
+  "body": "INTRODUCTION: The possible anxiogenic effects of fluoroquinolones, namely ciprofloxacin and norfloxacin, were investigated in adult Charles Foster albino rats of either sex, weighing 150-200 g. METHODS: The drugs were given orally, in doses of 50 mg/kg for five consecutive days and the experiments were performed on the fifth day. The tests included open-field exploratory behaviour, elevated plus maze and elevated zero maze, social interaction and novelty-suppressed feeding latency behaviour. RESULTS: The results indicate that ciprofloxacin- and norfloxacin-treated rats showed anxious behaviour in comparison to control rats in all the parameters studied. However, ciprofloxacin- and norfloxacin-treated rats did not differ significantly from each other in various behavioural parameters. CONCLUSION: The present experimental findings substantiate the clinically observed anxiogenic potential of ciprofloxacin and norfloxacin.",
+  "entities": [
+    {
+      "id": "D001008",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Anxiogenic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 10
+        },
+        {
+          "text": "anxiogenic",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 90,
+          "length": 10
+        },
+        {
+          "text": "anxious behaviour",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 646,
+          "length": 17
+        },
+        {
+          "text": "anxiogenic",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 941,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002939",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ciprofloxacin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 13
+        },
+        {
+          "text": "ciprofloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 137,
+          "length": 13
+        },
+        {
+          "text": "ciprofloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 595,
+          "length": 13
+        },
+        {
+          "text": "ciprofloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 734,
+          "length": 13
+        },
+        {
+          "text": "ciprofloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 965,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009643",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "norfloxacin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 11
+        },
+        {
+          "text": "norfloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 155,
+          "length": 11
+        },
+        {
+          "text": "norfloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 614,
+          "length": 11
+        },
+        {
+          "text": "norfloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 753,
+          "length": 11
+        },
+        {
+          "text": "norfloxacin",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 983,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 57,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 217,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 634,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 689,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 773,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D024841",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fluoroquinolones",
+          "passage_index": 1,
+          "passage_offset": 63,
+          "char_offset": 112,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D009643",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001008",
+      "tail_id": "D024841",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D002939",
+      "tail_id": "D001008",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

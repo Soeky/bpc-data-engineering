@@ -1,0 +1,350 @@
+{
+  "doc_id": "21325775",
+  "title": "A novel apolipoprotein E mutation, ApoE Osaka (Arg158 Pro), in a dyslipidemic patient with lipoprotein glomerulopathy.",
+  "body": "Lipoprotein glomerulopathy (LPG) is a rare disease characterized by the presence of thrombuslike deposition in markedly dilated glomerular capillaries and is often accompanied by an increased serum apolipoprotein E (apoE) level. Several gene mutations of apoE have been reported to be associated with LPG. In the current study, we report an LPG patient with a novel apoE mutation, apoE Osaka. The patient was a 45-year-old man who was hospitalized due to nephrotic syndrome. Light and electron microscopic observations of renal biopsy clearly showed characteristic findings of LPG, including lamellate thrombi in the lumen of dilated glomerular capillaries. His apoE phenotype was apoE3/2 and he had mild dyslipidemia with a mid-band on polyacrylamide gel electrophoresis. It is intriguing that the serum apoE level was within normal limits. We determined the sequence of the apoE gene using direct sequencing of the polymerase chain reaction (PCR) products. ApoE gene analysis showed a nucleotide substitution of G to C at codon 158 of exon 4. This mutation denoted an amino acid substitution of arginine residue for the proline residue at position 158 of apoE. The result of PCR associated with restriction fragment length polymorphism analysis also suggested that this mutation is heterozygous. It is possible that apoE Osaka mutation causes a conformational change of apoE protein and affects the interaction between abnormal apoE-containing lipoproteins and the endothelial cells of glomerular capillaries. The precise mechanism of LPG related with apoE Osaka, however, remains to be elucidated.",
+  "entities": [
+    {
+      "id": "348",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "apolipoprotein E",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 16
+        },
+        {
+          "text": "ApoE",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 35,
+          "length": 4
+        },
+        {
+          "text": "apolipoprotein E",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 317,
+          "length": 16
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 335,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 374,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 485,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 500,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 781,
+          "length": 4
+        },
+        {
+          "text": "apoE3/2",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 800,
+          "length": 7
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 924,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 995,
+          "length": 4
+        },
+        {
+          "text": "ApoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1078,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1276,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1437,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1491,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1549,
+          "length": 4
+        },
+        {
+          "text": "apoE",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1673,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|R|158|P",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg158 Pro",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 10
+        },
+        {
+          "text": "arginine residue for the proline residue at position 158",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1216,
+          "length": 56
+        }
+      ]
+    },
+    {
+      "id": "D050171",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dyslipidemic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 65,
+          "length": 12
+        },
+        {
+          "text": "dyslipidemia",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 824,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 464,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 516,
+          "length": 7
+        },
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 542,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C567089",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lipoprotein glomerulopathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 26
+        },
+        {
+          "text": "Lipoprotein glomerulopathy",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 119,
+          "length": 26
+        },
+        {
+          "text": "LPG",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 147,
+          "length": 3
+        },
+        {
+          "text": "LPG",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 420,
+          "length": 3
+        },
+        {
+          "text": "LPG",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 460,
+          "length": 3
+        },
+        {
+          "text": "LPG",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 696,
+          "length": 3
+        },
+        {
+          "text": "LPG",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1656,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009404",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotic syndrome",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 574,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D013927",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lamellate thrombi",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 711,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "polyacrylamide",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 856,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|CODON158|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G to C at codon 158",
+          "passage_index": 1,
+          "passage_offset": 119,
+          "char_offset": 1133,
+          "length": 19
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|SUB|G|CODON158|C",
+      "tail_id": "C567089",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "C567089",
+      "tail_id": "p|SUB|R|158|P",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C567089",
+      "tail_id": "348",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D050171",
+      "tail_id": "p|SUB|R|158|P",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "348",
+      "tail_id": "D050171",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

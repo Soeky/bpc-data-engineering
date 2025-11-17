@@ -1,0 +1,315 @@
+{
+  "doc_id": "21695597",
+  "title": "MHC region and risk of systemic lupus erythematosus in African American women.",
+  "body": "The major histocompatibility complex (MHC) on chromosome 6p21 is a key contributor to the genetic basis of systemic lupus erythematosus (SLE). Although SLE affects African Americans disproportionately compared to European Americans, there has been no comprehensive analysis of the MHC region in relationship to SLE in African Americans. We conducted a screening of the MHC region for 1,536 single nucleotide polymorphisms (SNPs) and the deletion of the C4A gene in a SLE case-control study (380 cases, 765 age-matched controls) nested within the prospective Black Women's Health Study. We also genotyped 1,509 ancestral informative markers throughout the genome to estimate European ancestry to control for population stratification due to population admixture. The most strongly associated SNP with SLE was the rs9271366 (odds ratio, OR = 1.70, p = 5.6 10(-5)) near the HLA-DRB1 gene. Conditional haplotype analysis revealed three other SNPs, rs204890 (OR = 1.86, p = 1.2 10(-4)), rs2071349 (OR = 1.53, p = 1.0 10(-3)), and rs2844580 (OR = 1.43, p = 1.3 10(-3)), to be associated with SLE independent of the rs9271366 SNP. In univariate analysis, the OR for the C4A deletion was 1.38, p = 0.075, but after simultaneous adjustment for the other four SNPs the odds ratio was 1.01, p = 0.98. A genotype score combining the four newly identified SNPs showed an additive risk according to the number of high-risk alleles (OR = 1.67 per high-risk allele, p < 0.0001). Our strongest signal, the rs9271366 SNP, was also associated with higher risk of SLE in a previous Chinese genome-wide association study (GWAS). In addition, two SNPs found in a GWAS of European ancestry women were confirmed in our study, indicating that African Americans share some genetic risk factors for SLE with European and Chinese subjects. In summary, we found four independent signals in the MHC region associated with risk of SLE in African American women.",
+  "entities": [
+    {
+      "id": "3123,720",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MHC",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 3
+        },
+        {
+          "text": "major histocompatibility complex",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 83,
+          "length": 32
+        },
+        {
+          "text": "MHC",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 117,
+          "length": 3
+        },
+        {
+          "text": "MHC",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 360,
+          "length": 3
+        },
+        {
+          "text": "MHC",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 448,
+          "length": 3
+        },
+        {
+          "text": "MHC",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1944,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D008180",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 28
+        },
+        {
+          "text": "systemic lupus erythematosus",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 186,
+          "length": 28
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 216,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 231,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 390,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 546,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 879,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1165,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1623,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1851,
+          "length": 3
+        },
+        {
+          "text": "SLE",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1979,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "women",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 5
+        },
+        {
+          "text": "Women",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 643,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1746,
+          "length": 5
+        },
+        {
+          "text": "women",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 2003,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "720",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "C4A",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 532,
+          "length": 3
+        },
+        {
+          "text": "C4A",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1242,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "rs9271366",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs9271366",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 891,
+          "length": 9
+        },
+        {
+          "text": "rs9271366",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1188,
+          "length": 9
+        },
+        {
+          "text": "rs9271366",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1568,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "3123",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HLA-DRB1",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 950,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs204890",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs204890",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1023,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "rs2071349",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2071349",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1061,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs2844580",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs2844580",
+          "passage_index": 1,
+          "passage_offset": 79,
+          "char_offset": 1104,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "720",
+      "tail_id": "D008180",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "3123",
+      "tail_id": "D008180",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs2844580",
+      "tail_id": "D008180",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "rs2071349",
+      "tail_id": "D008180",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "rs204890",
+      "tail_id": "D008180",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D008180",
+      "tail_id": "rs9271366",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

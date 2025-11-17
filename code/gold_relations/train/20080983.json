@@ -1,0 +1,201 @@
+{
+  "doc_id": "20080983",
+  "title": "Normalizing effects of modafinil on sleep in chronic cocaine users.",
+  "body": "OBJECTIVE: The purpose of the present study was to determine the effect of morning-dosed modafinil on sleep and daytime sleepiness in chronic cocaine users. METHOD: Twenty cocaine-dependent participants were randomly assigned to receive modafinil, 400 mg (N=10), or placebo (N=10) every morning at 7:30 a.m. for 16 days in an inpatient, double-blind randomized trial. Participants underwent polysomnographic sleep recordings on days 1 to 3, 7 to 9, and 14 to 16 (first, second, and third weeks of abstinence). The Multiple Sleep Latency Test was performed at 11:30 a.m., 2:00 p.m., and 4:30 p.m. on days 2, 8, and 15. For comparison of sleep architecture variables, 12 healthy comparison participants underwent a single night of experimental polysomnography that followed 1 night of accommodation polysomnography. RESULTS: Progressive abstinence from cocaine was associated with worsening of all measured polysomnographic sleep outcomes. Compared with placebo, modafinil decreased nighttime sleep latency and increased slow-wave sleep time in cocaine-dependent participants. The effect of modafinil interacted with the abstinence week and was associated with longer total sleep time and shorter REM sleep latency in the third week of abstinence. Comparison of slow-wave sleep time, total sleep time, and sleep latency in cocaine-dependent and healthy participants revealed a normalizing effect of modafinil in cocaine-dependent participants. Modafinil was associated with increased daytime sleep latency, as measured by the Multiple Sleep Latency Test, and a nearly significant decrease in subjective daytime sleepiness. CONCLUSIONS: Morning-dosed modafinil promotes nocturnal sleep, normalizes sleep architecture, and decreases daytime sleepiness in abstinent cocaine users. These effects may be relevant in the treatment of cocaine dependence.",
+  "entities": [
+    {
+      "id": "C048833",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "modafinil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 157,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 305,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1029,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1157,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1465,
+          "length": 9
+        },
+        {
+          "text": "Modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1510,
+          "length": 9
+        },
+        {
+          "text": "modafinil",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1716,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D003042",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cocaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 53,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 210,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 240,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 919,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1111,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1389,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1478,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1829,
+          "length": 7
+        },
+        {
+          "text": "cocaine",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1894,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012893",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "daytime sleepiness",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 180,
+          "length": 18
+        },
+        {
+          "text": "daytime sleepiness",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1669,
+          "length": 18
+        },
+        {
+          "text": "daytime sleepiness",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 1797,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "inpatient",
+          "passage_index": 1,
+          "passage_offset": 68,
+          "char_offset": 394,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012893",
+      "tail_id": "D003042",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "C048833",
+      "tail_id": "D003042",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C048833",
+      "tail_id": "D012893",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

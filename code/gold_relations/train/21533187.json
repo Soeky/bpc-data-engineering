@@ -1,0 +1,371 @@
+{
+  "doc_id": "21533187",
+  "title": "Loss-of-function mutations in PTPN11 cause metachondromatosis, but not Ollier disease or Maffucci syndrome.",
+  "body": "Metachondromatosis (MC) is a rare, autosomal dominant, incompletely penetrant combined exostosis and enchondromatosis tumor syndrome. MC is clinically distinct from other multiple exostosis or multiple enchondromatosis syndromes and is unlinked to EXT1 and EXT2, the genes responsible for autosomal dominant multiple osteochondromas (MO). To identify a gene for MC, we performed linkage analysis with high-density SNP arrays in a single family, used a targeted array to capture exons and promoter sequences from the linked interval in 16 participants from 11 MC families, and sequenced the captured DNA using high-throughput parallel sequencing technologies. DNA capture and parallel sequencing identified heterozygous putative loss-of-function mutations in PTPN11 in 4 of the 11 families. Sanger sequence analysis of PTPN11 coding regions in a total of 17 MC families identified mutations in 10 of them (5 frameshift, 2 nonsense, and 3 splice-site mutations). Copy number analysis of sequencing reads from a second targeted capture that included the entire PTPN11 gene identified an additional family with a 15 kb deletion spanning exon 7 of PTPN11. Microdissected MC lesions from two patients with PTPN11 mutations demonstrated loss-of-heterozygosity for the wild-type allele. We next sequenced PTPN11 in DNA samples from 54 patients with the multiple enchondromatosis disorders Ollier disease or Maffucci syndrome, but found no coding sequence PTPN11 mutations. We conclude that heterozygous loss-of-function mutations in PTPN11 are a frequent cause of MC, that lesions in patients with MC appear to arise following a \"second hit,\" that MC may be locus heterogeneous since 1 familial and 5 sporadically occurring cases lacked obvious disease-causing PTPN11 mutations, and that PTPN11 mutations are not a common cause of Ollier disease or Maffucci syndrome.",
+  "entities": [
+    {
+      "id": "5781",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PTPN11",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 866,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 926,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1166,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1251,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1308,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1405,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1555,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1633,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1861,
+          "length": 6
+        },
+        {
+          "text": "PTPN11",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1888,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C562938",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "metachondromatosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 43,
+          "length": 18
+        },
+        {
+          "text": "Metachondromatosis",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 108,
+          "length": 18
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 128,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 242,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 470,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 667,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 965,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1274,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1664,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1698,
+          "length": 2
+        },
+        {
+          "text": "MC",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1748,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D004687",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Ollier disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 14
+        },
+        {
+          "text": "Maffucci syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 17
+        },
+        {
+          "text": "enchondromatosis tumor syndrome",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 209,
+          "length": 31
+        },
+        {
+          "text": "multiple enchondromatosis syndromes",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 301,
+          "length": 35
+        },
+        {
+          "text": "enchondromatosis disorders Ollier disease",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1462,
+          "length": 41
+        },
+        {
+          "text": "Maffucci syndrome",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1507,
+          "length": 17
+        },
+        {
+          "text": "Ollier disease",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1931,
+          "length": 14
+        },
+        {
+          "text": "Maffucci syndrome",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1949,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D005096",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "exostosis",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 195,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D005097",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "multiple exostosis",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 279,
+          "length": 18
+        },
+        {
+          "text": "multiple osteochondromas",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 416,
+          "length": 24
+        },
+        {
+          "text": "MO",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 442,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "2131",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EXT1",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 356,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "2132",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "EXT2",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 365,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||15K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "15 kb deletion",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1217,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1294,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1435,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 108,
+          "char_offset": 1684,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL||15K",
+      "tail_id": "C562938",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "2132",
+      "tail_id": "D005097",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "2131",
+      "tail_id": "D005097",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "5781",
+      "tail_id": "C562938",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

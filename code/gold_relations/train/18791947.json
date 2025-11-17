@@ -1,0 +1,219 @@
+{
+  "doc_id": "18791947",
+  "title": "A case of Bernard-Soulier Syndrome due to a homozygous four bases deletion (TGAG) of GPIbalpha gene: lack of GPIbalpha but absence of bleeding.",
+  "body": "More than 20 DNA mutations with different inheritance pattern have been described in patients with Bernard-Soulier Syndrome (BSS), leading to abnormal or absent synthesis and/or expression of GPIbalpha. Clinical phenotype shows considerable variation between individuals, such as bleeding, platelet count and the percentage of large platelets. We describe in a BSS patient the first case of homozygous four bases deletion (TGAG) in the gpIbalpha gene coding sequence, leading to a premature stop codon. In the propositus, blood smears revealed giant platelets (30 x 10(9) platelets/L), and platelet agglutination to ristocetin was absent. Propositus' parents are consanguineous. His father and paternal grandmother showed a mild thrombocytopenia (108 x 10(9)/L and 120 x 10(9)/L platelets respectively) while mothers and sister's referred normal platelet counts. The surface expression of GPIbalpha was practically undetectable by flow-cytometry and western blot in the patient and was reduced in the father. Proband's DNA analysis revealed a homozygous four-base-pair deletion (TGAG), starting from the last base of the codon for Ser39, leading to a coding frame shift with a new termination codon after 11 novel amino acids. The same mutation was seen in heterozygosis in both parents. This is the first report of GPIbalpha TGAG deletion in homozygous state even if the defect has already been described in a case of compound heterozygosis. Surprisingly, the propositus does not report any spontaneous bleeding tendency.",
+  "entities": [
+    {
+      "id": "D001606",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Bernard-Soulier Syndrome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 24
+        },
+        {
+          "text": "Bernard-Soulier Syndrome",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 243,
+          "length": 24
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 269,
+          "length": 3
+        },
+        {
+          "text": "BSS",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 505,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||TGAG",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion (TGAG)",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 15
+        },
+        {
+          "text": "deletion (TGAG)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 557,
+          "length": 15
+        },
+        {
+          "text": "deletion (TGAG)",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1213,
+          "length": 15
+        },
+        {
+          "text": "TGAG deletion",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1470,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "2811",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GPIbalpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 85,
+          "length": 9
+        },
+        {
+          "text": "GPIbalpha",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 109,
+          "length": 9
+        },
+        {
+          "text": "GPIbalpha",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 336,
+          "length": 9
+        },
+        {
+          "text": "gpIbalpha",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 580,
+          "length": 9
+        },
+        {
+          "text": "GPIbalpha",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1033,
+          "length": 9
+        },
+        {
+          "text": "GPIbalpha",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1460,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006470",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bleeding",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 134,
+          "length": 8
+        },
+        {
+          "text": "bleeding",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 424,
+          "length": 8
+        },
+        {
+          "text": "bleeding tendency",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1648,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 229,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 509,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 1114,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012310",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ristocetin",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 760,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D013921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "thrombocytopenia",
+          "passage_index": 1,
+          "passage_offset": 144,
+          "char_offset": 873,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001606",
+      "tail_id": "2811",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D001606",
+      "tail_id": "c|DEL||TGAG",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

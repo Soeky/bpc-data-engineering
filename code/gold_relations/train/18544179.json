@@ -1,0 +1,430 @@
+{
+  "doc_id": "18544179",
+  "title": "Omitting fentanyl reduces nausea and vomiting, without increasing pain, after sevoflurane for day surgery.",
+  "body": "BACKGROUND AND OBJECTIVE: Despite advantages of induction and maintenance of anaesthesia with sevoflurane, postoperative nausea and vomiting occurs frequently. Fentanyl is a commonly used supplement that may contribute to this, although it may also improve analgesia. METHODS: This double-blind study examined the incidence and severity of postoperative nausea and vomiting and pain in the first 24 h after sevoflurane anaesthesia in 216 adult day surgery patients. Patients were randomly allocated to either receive or not receive 1 1 fentanyl, while a third group received dexamethasone in addition to fentanyl. RESULTS: Omission of fentanyl did not reduce the overall incidence of postoperative nausea and vomiting, but did reduce the incidence of vomiting and/or moderate to severe nausea prior to discharge from 20% and 17% with fentanyl and fentanyl-dexamethasone, respectively, to 5% (P = 0.013). Antiemetic requirements were reduced from 24% and 31% to 7% (P = 0.0012). Dexamethasone had no significant effect on the incidence or severity of postoperative nausea and vomiting. Combining the two fentanyl groups revealed further significant benefits from the avoidance of opioids, reducing postoperative nausea and vomiting and nausea prior to discharge from 35% and 33% to 22% and 19% (P = 0.049 and P = 0.035), respectively, while nausea in the first 24 h was decreased from 42% to 27% (P = 0.034). Pain severity and analgesic requirements were unaffected by the omission of fentanyl. Fentanyl did reduce minor intraoperative movement but had no sevoflurane-sparing effect and increased respiratory depression, hypotension and bradycardia. CONCLUSION: As fentanyl exacerbated postoperative nausea and vomiting without an improvement in postoperative pain and also had adverse cardiorespiratory effects, it appears to be an unnecessary and possibly detrimental supplement to sevoflurane in day surgery.",
+  "entities": [
+    {
+      "id": "D005283",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fentanyl",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 9,
+          "length": 8
+        },
+        {
+          "text": "Fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 267,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 643,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 711,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 742,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 941,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 954,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1210,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1591,
+          "length": 8
+        },
+        {
+          "text": "Fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1601,
+          "length": 8
+        },
+        {
+          "text": "fentanyl",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1771,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009325",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nausea",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 26,
+          "length": 6
+        },
+        {
+          "text": "nausea",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 893,
+          "length": 6
+        },
+        {
+          "text": "nausea",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1342,
+          "length": 6
+        },
+        {
+          "text": "nausea",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1447,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D014839",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vomiting",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 8
+        },
+        {
+          "text": "vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 858,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 4
+        },
+        {
+          "text": "Pain",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1515,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "C009250",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sevoflurane",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 201,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 514,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1662,
+          "length": 11
+        },
+        {
+          "text": "sevoflurane",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1990,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D020250",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postoperative nausea and vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 214,
+          "length": 33
+        },
+        {
+          "text": "postoperative nausea and vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 791,
+          "length": 33
+        },
+        {
+          "text": "postoperative nausea and vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1157,
+          "length": 33
+        },
+        {
+          "text": "postoperative nausea and vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1304,
+          "length": 33
+        },
+        {
+          "text": "postoperative nausea and vomiting",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1792,
+          "length": 33
+        }
+      ]
+    },
+    {
+      "id": "D010149,D020250",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postoperative nausea and vomiting and pain",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 447,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 563,
+          "length": 8
+        },
+        {
+          "text": "Patients",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 573,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D003907",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 682,
+          "length": 13
+        },
+        {
+          "text": "dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 963,
+          "length": 13
+        },
+        {
+          "text": "Dexamethasone",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1085,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D012131",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "respiratory depression",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1703,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D007022",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypotension",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1727,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1743,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010149",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "postoperative pain",
+          "passage_index": 1,
+          "passage_offset": 107,
+          "char_offset": 1852,
+          "length": 18
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D020250",
+      "tail_id": "C009250",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010149",
+      "tail_id": "C009250",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005283",
+      "tail_id": "D001919",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D005283",
+      "tail_id": "D007022",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D005283",
+      "tail_id": "D012131",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D005283",
+      "tail_id": "D003907",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005283",
+      "tail_id": "D009325",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005283",
+      "tail_id": "D014839",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005283",
+      "tail_id": "D020250",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005283",
+      "tail_id": "C009250",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    }
+  ]
+}

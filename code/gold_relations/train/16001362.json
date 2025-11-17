@@ -1,0 +1,312 @@
+{
+  "doc_id": "16001362",
+  "title": "An autosomal dominant cerebellar ataxia linked to chromosome 16q22.1 is associated with a single-nucleotide substitution in the 5' untranslated region of the gene encoding a protein with spectrin repeat and Rho guanine-nucleotide exchange-factor domains.",
+  "body": "Autosomal dominant cerebellar ataxia (ADCA) is a group of heterogeneous neurodegenerative disorders. By positional cloning, we have identified the gene strongly associated with a form of degenerative ataxia (chromosome 16q22.1-linked ADCA) that clinically shows progressive pure cerebellar ataxia. Detailed examination by use of audiogram suggested that sensorineural hearing impairment may be associated with ataxia in our families. After restricting the candidate region in chromosome 16q22.1 by haplotype analysis, we found that all patients from 52 unrelated Japanese families harbor a heterozygous C-->T single-nucleotide substitution, 16 nt upstream of the putative translation initiation site of the gene for a hypothetical protein DKFZP434I216, which we have called \"puratrophin-1\" (Purkinje cell atrophy associated protein-1). The full-length puratrophin-1 mRNA had an open reading frame of 3,576 nt, predicted to contain important domains, including the spectrin repeat and the guanine-nucleotide exchange factor (GEF) for Rho GTPases, followed by the Dbl-homologous domain, which indicates the role of puratrophin-1 in intracellular signaling and actin dynamics at the Golgi apparatus. Puratrophin-1--normally expressed in a wide range of cells, including epithelial hair cells in the cochlea--was aggregated in Purkinje cells of the chromosome 16q22.1-linked ADCA brains. Consistent with the protein prediction data of puratrophin-1, the Golgi-apparatus membrane protein and spectrin also formed aggregates in Purkinje cells. The present study highlights the importance of the 5' untranslated region (UTR) in identification of genes of human disease, suggests that a single-nucleotide substitution in the 5' UTR could be associated with protein aggregation, and indicates that the GEF protein is associated with cerebellar degeneration in humans.",
+  "entities": [
+    {
+      "id": "OMIM:604121",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "autosomal dominant cerebellar ataxia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 3,
+          "length": 36
+        },
+        {
+          "text": "Autosomal dominant cerebellar ataxia",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 255,
+          "length": 36
+        },
+        {
+          "text": "ADCA",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 293,
+          "length": 4
+        },
+        {
+          "text": "ADCA",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 489,
+          "length": 4
+        },
+        {
+          "text": "ADCA",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1626,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "9138",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rho guanine-nucleotide exchange-factor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 207,
+          "length": 38
+        },
+        {
+          "text": "guanine-nucleotide exchange factor",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1243,
+          "length": 34
+        },
+        {
+          "text": "GEF",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1279,
+          "length": 3
+        },
+        {
+          "text": "GEF",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 2048,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D019636",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurodegenerative disorders",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 327,
+          "length": 27
+        }
+      ]
+    },
+    {
+      "id": "D001259",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "degenerative ataxia",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 442,
+          "length": 19
+        },
+        {
+          "text": "ataxia",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 665,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D002524",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebellar ataxia",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 534,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D034381",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "sensorineural hearing impairment",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 609,
+          "length": 32
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 791,
+          "length": 8
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1903,
+          "length": 5
+        },
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 2106,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|C||T",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "C-->T",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 858,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "25894",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DKFZP434I216",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 994,
+          "length": 12
+        },
+        {
+          "text": "puratrophin-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1030,
+          "length": 13
+        },
+        {
+          "text": "Purkinje cell atrophy associated protein-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1046,
+          "length": 42
+        },
+        {
+          "text": "puratrophin-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1107,
+          "length": 13
+        },
+        {
+          "text": "puratrophin-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1368,
+          "length": 13
+        },
+        {
+          "text": "Puratrophin-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1452,
+          "length": 13
+        },
+        {
+          "text": "puratrophin-1",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1686,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "387",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Rho GTPases",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1288,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "actin",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 1413,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D013132",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebellar degeneration",
+          "passage_index": 1,
+          "passage_offset": 255,
+          "char_offset": 2079,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "60",
+      "tail_id": "25894",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "9138",
+      "tail_id": "D013132",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "OMIM:604121",
+      "tail_id": "25894",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "OMIM:604121",
+      "tail_id": "c|SUB|C||T",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "OMIM:604121",
+      "tail_id": "9138",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

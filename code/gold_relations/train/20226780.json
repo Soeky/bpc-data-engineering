@@ -1,0 +1,374 @@
+{
+  "doc_id": "20226780",
+  "title": "Zebrafish chordin-like and chordin are functionally redundant in regulating patterning of the dorsoventral axis.",
+  "body": "Chordin is the prototype of a group of cysteine-rich domain-containing proteins that bind and modulate signaling of various TGFbeta-like ligands. Chordin-like 1 and 2 (CHL1 and 2) are two members of this group that have been described in human, mouse, and chick. However, in vivo roles for CHL1 and 2 in early development are unknown due to lack of loss-of-function analysis. Here we identify and characterize zebrafish, Danio rerio, CHL (Chl). The chl gene is on a region of chromosome 21 syntenic with the area of murine chromosome 7 bearing the CHL2 gene. Inability to identify a separate zebrafish gene corresponding to the mammalian CHL1 gene suggests that Chl may serve roles in zebrafish distributed between CHL1 and CHL2 in other species. Chl is a maternal factor that is also zygotically expressed later in development and has spatiotemporal expression patterns that differ from but overlap those of zebrafish chordin (Chd), suggesting differences but also possible overlap in developmental roles of the two proteins. Chl, like Chd, dorsalizes embryos upon overexpression and is cleaved by BMP1, which antagonizes this activity. Loss-of-function experiments demonstrate that Chl serves as a BMP antagonist with functions that overlap and are redundant with those of Chd in forming the dorsoventral axis.",
+  "entities": [
+    {
+      "id": "7955",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "Zebrafish",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 9
+        },
+        {
+          "text": "zebrafish",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 523,
+          "length": 9
+        },
+        {
+          "text": "Danio rerio",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 534,
+          "length": 11
+        },
+        {
+          "text": "zebrafish",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 705,
+          "length": 9
+        },
+        {
+          "text": "zebrafish",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 798,
+          "length": 9
+        },
+        {
+          "text": "zebrafish",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1022,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "563085",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chordin-like",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 10,
+          "length": 12
+        },
+        {
+          "text": "CHL",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 547,
+          "length": 3
+        },
+        {
+          "text": "Chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 552,
+          "length": 3
+        },
+        {
+          "text": "chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 562,
+          "length": 3
+        },
+        {
+          "text": "Chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 775,
+          "length": 3
+        },
+        {
+          "text": "Chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 860,
+          "length": 3
+        },
+        {
+          "text": "Chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1140,
+          "length": 3
+        },
+        {
+          "text": "Chl",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1297,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "30161",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "chordin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 27,
+          "length": 7
+        },
+        {
+          "text": "Chordin",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 113,
+          "length": 7
+        },
+        {
+          "text": "chordin",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1032,
+          "length": 7
+        },
+        {
+          "text": "Chd",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1041,
+          "length": 3
+        },
+        {
+          "text": "Chd",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1150,
+          "length": 3
+        },
+        {
+          "text": "Chd",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1388,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "25884,30161,373985,419054,563085,69121,83453,91851",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cysteine-rich domain-containing proteins",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 152,
+          "length": 40
+        }
+      ]
+    },
+    {
+      "id": "359834",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFbeta",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 237,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "373985,83453,91851,25884,419054,69121",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Chordin-like 1 and 2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 259,
+          "length": 20
+        },
+        {
+          "text": "CHL1 and 2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 281,
+          "length": 10
+        },
+        {
+          "text": "CHL1 and 2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 403,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 351,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 358,
+          "length": 5
+        },
+        {
+          "text": "murine",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 629,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9031",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "chick",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 369,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "69121",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHL2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 661,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "91851",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHL1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 751,
+          "length": 4
+        },
+        {
+          "text": "CHL1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 828,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25884",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CHL2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 837,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "30204",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BMP1",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1212,
+          "length": 4
+        },
+        {
+          "text": "BMP",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1313,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "30161",
+      "tail_id": "30204",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "30161",
+      "tail_id": "359834",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "563085",
+      "tail_id": "30204",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "563085",
+      "tail_id": "25884",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "563085",
+      "tail_id": "91851",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "563085",
+      "tail_id": "69121",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

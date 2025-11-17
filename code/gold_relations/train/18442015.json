@@ -1,0 +1,589 @@
+{
+  "doc_id": "18442015",
+  "title": "Protective effect of verapamil on gastric hemorrhagic ulcers in severe atherosclerotic rats.",
+  "body": "Studies concerning with pathogenesis of gastric hemorrhage and mucosal ulceration produced in atherosclerotic rats are lacking. The aim of this study is to examine the role of gastric acid back-diffusion, mast cell histamine release, lipid peroxide (LPO) generation and mucosal microvascular permeability in modulating gastric hemorrhage and ulcer in rats with atherosclerosis induced by coadministration of vitamin D2 and cholesterol. Additionally, the protective effect of verapamil on this ulcer model was evaluated. Male Wistar rats were challenged intragastrically once daily for 9 days with 1.0 ml/kg of corn oil containing vitamin D2 and cholesterol to induce atherosclerosis. Control rats received corn oil only. After gastric surgery, rat stomachs were irrigated for 3 h with either simulated gastric juice or normal saline. Gastric acid back-diffusion, mucosal LPO generation, histamine concentration, microvascular permeability, luminal hemoglobin content and ulcer areas were determined. Elevated atherosclerotic parameters, such as serum calcium, total cholesterol and low-density lipoprotein concentration were obtained in atherosclerotic rats. Severe gastric ulcers accompanied with increased ulcerogenic factors, including gastric acid back-diffusion, histamine release, LPO generation and luminal hemoglobin content were also observed in these rats. Moreover, a positive correlation of histamine to gastric hemorrhage and to ulcer was found in those atherosclerotic rats. This hemorrhagic ulcer and various ulcerogenic parameters were dose-dependently ameliorated by daily intragastric verapamil. Atherosclerosis could produce gastric hemorrhagic ulcer via aggravation of gastric acid back-diffusion, LPO generation, histamine release and microvascular permeability that could be ameliorated by verapamil in rats.",
+  "entities": [
+    {
+      "id": "D014700",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "verapamil",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 21,
+          "length": 9
+        },
+        {
+          "text": "verapamil",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 568,
+          "length": 9
+        },
+        {
+          "text": "verapamil",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1696,
+          "length": 9
+        },
+        {
+          "text": "verapamil",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1905,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D006471,D013276",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric hemorrhagic ulcers",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 26
+        },
+        {
+          "text": "gastric hemorrhage and ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 412,
+          "length": 28
+        },
+        {
+          "text": "hemorrhagic ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1587,
+          "length": 17
+        },
+        {
+          "text": "gastric hemorrhagic ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1737,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D050197",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "atherosclerotic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 15
+        },
+        {
+          "text": "atherosclerotic",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 187,
+          "length": 15
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 454,
+          "length": 15
+        },
+        {
+          "text": "atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 760,
+          "length": 15
+        },
+        {
+          "text": "atherosclerotic",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1102,
+          "length": 15
+        },
+        {
+          "text": "atherosclerotic",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1230,
+          "length": 15
+        },
+        {
+          "text": "atherosclerotic",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1560,
+          "length": 15
+        },
+        {
+          "text": "Atherosclerosis",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1707,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 203,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 444,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 625,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 785,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 837,
+          "length": 3
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1246,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1454,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1576,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1918,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D006471",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 133,
+          "length": 18
+        },
+        {
+          "text": "gastric hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1509,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D006632",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "histamine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 308,
+          "length": 9
+        },
+        {
+          "text": "histamine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 980,
+          "length": 9
+        },
+        {
+          "text": "histamine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1361,
+          "length": 9
+        },
+        {
+          "text": "histamine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1496,
+          "length": 9
+        },
+        {
+          "text": "histamine",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1827,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D008054",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipid peroxide",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 327,
+          "length": 14
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 343,
+          "length": 3
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 964,
+          "length": 3
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1380,
+          "length": 3
+        },
+        {
+          "text": "LPO",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1811,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D004872",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vitamin D2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 501,
+          "length": 10
+        },
+        {
+          "text": "vitamin D2",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 723,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002784",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 516,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 738,
+          "length": 11
+        },
+        {
+          "text": "cholesterol",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1159,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D013276",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 586,
+          "length": 5
+        },
+        {
+          "text": "ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1064,
+          "length": 5
+        },
+        {
+          "text": "gastric ulcers",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1259,
+          "length": 14
+        },
+        {
+          "text": "ulcer",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1535,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D003314",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "corn oil",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 703,
+          "length": 8
+        },
+        {
+          "text": "corn oil",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 799,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D010634",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "luminal",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1033,
+          "length": 7
+        },
+        {
+          "text": "luminal",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1399,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25632",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "hemoglobin",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1041,
+          "length": 10
+        },
+        {
+          "text": "hemoglobin",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1407,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1144,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D008077",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "low-density lipoprotein",
+          "passage_index": 1,
+          "passage_offset": 93,
+          "char_offset": 1175,
+          "length": 23
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D010634",
+      "tail_id": "D013276",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D006632",
+      "tail_id": "D006471",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D003314",
+      "tail_id": "D050197",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004872",
+      "tail_id": "D002784",
+      "type": "Drug_Interaction",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D050197",
+      "tail_id": "D008077",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D050197",
+      "tail_id": "D008054",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D050197",
+      "tail_id": "D002118",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D050197",
+      "tail_id": "D002784",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D050197",
+      "tail_id": "D004872",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D013276",
+      "tail_id": "25632",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D013276",
+      "tail_id": "D006632",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D013276",
+      "tail_id": "D008054",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D006471",
+      "tail_id": "D008054",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D014700",
+      "tail_id": "D013276",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D014700",
+      "tail_id": "D006471",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "doc_id": "19707748",
+  "title": "Seizures associated with levofloxacin: case presentation and literature review.",
+  "body": "PURPOSE: We present a case of a patient who developed seizures shortly after initiating treatment with levofloxacin and to discuss the potential drug-drug interactions related to the inhibition of cytochrome P450 (CYP) 1A2 in this case, as well as in other cases, of levofloxacin-induced seizures. METHODS: Several biomedical databases were searched including MEDLINE, Cochrane and Ovid. The main search terms utilized were case report and levofloxacin. The search was limited to studies published in English. RESULTS: Six cases of levofloxacin-induced seizures have been reported in the literature. Drug-drug interactions related to the inhibition of CYP1A2 by levofloxacin are likely involved in the clinical outcome of these cases. CONCLUSIONS: Clinicians are exhorted to pay close attention when initiating levofloxacin therapy in patients taking medications with epileptogenic properties that are CYP1A2 substrates.",
+  "entities": [
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Seizures",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 134,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 368,
+          "length": 8
+        },
+        {
+          "text": "seizures",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 633,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D064704",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "levofloxacin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 183,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 347,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 520,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 612,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 742,
+          "length": 12
+        },
+        {
+          "text": "levofloxacin",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 891,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 112,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 915,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1544",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cytochrome P450 (CYP) 1A2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 277,
+          "length": 25
+        },
+        {
+          "text": "CYP1A2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 732,
+          "length": 6
+        },
+        {
+          "text": "CYP1A2",
+          "passage_index": 1,
+          "passage_offset": 80,
+          "char_offset": 982,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1544",
+      "tail_id": "D064704",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012640",
+      "tail_id": "D064704",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

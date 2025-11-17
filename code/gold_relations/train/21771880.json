@@ -1,0 +1,179 @@
+{
+  "doc_id": "21771880",
+  "title": "Resequencing of IRS2 reveals rare variants for obesity but not fasting glucose homeostasis in Hispanic children.",
+  "body": "Our objective was to resequence insulin receptor substrate 2 (IRS2) to identify variants associated with obesity- and diabetes-related traits in Hispanic children. Exonic and intronic segments, 5' and 3' flanking regions of IRS2 ( 14.5 kb), were bidirectionally sequenced for single nucleotide polymorphism (SNP) discovery in 934 Hispanic children using 3730XL DNA Sequencers. Additionally, 15 SNPs derived from Illumina HumanOmni1-Quad BeadChips were analyzed. Measured genotype analysis tested associations between SNPs and obesity and diabetes-related traits. Bayesian quantitative trait nucleotide analysis was used to statistically infer the most likely functional polymorphisms. A total of 140 SNPs were identified with minor allele frequencies (MAF) ranging from 0.001 to 0.47. Forty-two of the 70 coding SNPs result in nonsynonymous amino acid substitutions relative to the consensus sequence; 28 SNPs were detected in the promoter, 12 in introns, 28 in the 3'-UTR, and 2 in the 5'-UTR. Two insertion/deletions (indels) were detected. Ten independent rare SNPs (MAF = 0.001-0.009) were associated with obesity-related traits (P = 0.01-0.00002). SNP 10510452_139 in the promoter region was shown to have a high posterior probability (P = 0.77-0.86) of influencing BMI, fat mass, and waist circumference in Hispanic children. SNP 10510452_139 contributed between 2 and 4% of the population variance in body weight and composition. None of the SNPs or indels were associated with diabetes-related traits or accounted for a previously identified quantitative trait locus on chromosome 13 for fasting serum glucose. Rare but not common IRS2 variants may play a role in the regulation of body weight but not an essential role in fasting glucose homeostasis in Hispanic children.",
+  "entities": [
+    {
+      "id": "8660",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IRS2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 4
+        },
+        {
+          "text": "insulin receptor substrate 2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 145,
+          "length": 28
+        },
+        {
+          "text": "IRS2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 175,
+          "length": 4
+        },
+        {
+          "text": "IRS2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 337,
+          "length": 4
+        },
+        {
+          "text": "IRS2",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1752,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "obesity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 47,
+          "length": 7
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 218,
+          "length": 7
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 639,
+          "length": 7
+        },
+        {
+          "text": "obesity",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1223,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 71,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1723,
+          "length": 7
+        },
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1852,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 231,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 651,
+          "length": 8
+        },
+        {
+          "text": "diabetes",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1598,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "10510452_139",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "SNP 10510452_139",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1266,
+          "length": 16
+        },
+        {
+          "text": "SNP 10510452_139",
+          "passage_index": 1,
+          "passage_offset": 113,
+          "char_offset": 1445,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "8660",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "8660",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "10510452_139",
+      "tail_id": "D009765",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

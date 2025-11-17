@@ -1,0 +1,364 @@
+{
+  "doc_id": "25080425",
+  "title": "Regulation of signal transducer and activator of transcription 3 and apoptotic pathways by betaine attenuates isoproterenol-induced acute myocardial injury in rats.",
+  "body": "The present study was designed to investigate the cardioprotective effects of betaine on acute myocardial ischemia induced experimentally in rats focusing on regulation of signal transducer and activator of transcription 3 (STAT3) and apoptotic pathways as the potential mechanism underlying the drug effect. Male Sprague Dawley rats were treated with betaine (100, 200, and 400 mg/kg) orally for 40 days. Acute myocardial ischemic injury was induced in rats by subcutaneous injection of isoproterenol (85 mg/kg), for two consecutive days. Serum cardiac marker enzyme, histopathological variables and expression of protein levels were analyzed. Oral administration of betaine (200 and 400 mg/kg) significantly reduced the level of cardiac marker enzyme in the serum and prevented left ventricular remodeling. Western blot analysis showed that isoproterenol-induced phosphorylation of STAT3 was maintained or further enhanced by betaine treatment in myocardium. Furthermore, betaine (200 and 400 mg/kg) treatment increased the ventricular expression of Bcl-2 and reduced the level of Bax, therefore causing a significant increase in the ratio of Bcl-2/Bax. The protective role of betaine on myocardial damage was further confirmed by histopathological examination. In summary, our results showed that betaine pretreatment attenuated isoproterenol-induced acute myocardial ischemia via the regulation of STAT3 and apoptotic pathways.",
+  "entities": [
+    {
+      "id": "25125",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "signal transducer and activator of transcription 3",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 14,
+          "length": 50
+        },
+        {
+          "text": "signal transducer and activator of transcription 3",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 337,
+          "length": 50
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 389,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1049,
+          "length": 5
+        },
+        {
+          "text": "STAT3",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1567,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001622",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "betaine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 91,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 243,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 517,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 833,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1093,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1139,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1344,
+          "length": 7
+        },
+        {
+          "text": "betaine",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1465,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007545",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "isoproterenol",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 110,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 653,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1008,
+          "length": 13
+        },
+        {
+          "text": "isoproterenol",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1497,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D009202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial injury",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 138,
+          "length": 17
+        },
+        {
+          "text": "myocardial damage",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1355,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 159,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 306,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 494,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 619,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D017202",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 260,
+          "length": 19
+        },
+        {
+          "text": "myocardial ischemic injury",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 577,
+          "length": 26
+        },
+        {
+          "text": "myocardial ischemia",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1525,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D020257",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ventricular remodeling",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 950,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "24224",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1217,
+          "length": 5
+        },
+        {
+          "text": "Bcl-2",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1310,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24887",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1248,
+          "length": 3
+        },
+        {
+          "text": "Bax",
+          "passage_index": 1,
+          "passage_offset": 165,
+          "char_offset": 1316,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D017202",
+      "tail_id": "D007545",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D017202",
+      "tail_id": "25125",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007545",
+      "tail_id": "D009202",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007545",
+      "tail_id": "25125",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D009202",
+      "tail_id": "25125",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D001622",
+      "tail_id": "24887",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D001622",
+      "tail_id": "24224",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D001622",
+      "tail_id": "D020257",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D001622",
+      "tail_id": "D017202",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D001622",
+      "tail_id": "D007545",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D001622",
+      "tail_id": "D009202",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D001622",
+      "tail_id": "25125",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "doc_id": "27729412",
+  "title": "Reduced adiponectin expression after high-fat diet is associated with selective up-regulation of ALDH1A1 and further retinoic acid receptor signaling in adipose tissue.",
+  "body": "Adiponectin is an adipocyte-derived adipokine with potent antidiabetic, anti-inflammatory, and antiatherogenic activity. Long-term, high-fat diet results in gain of body weight, adiposity, further inflammatory-based cardiovascular diseases, and reduced adiponectin secretion. Vitamin A derivatives/retinoids are involved in several of these processes, which mainly take place in white adipose tissue (WAT). In this study, we examined adiponectin expression as a function of dietary high-fat and high-vitamin A conditions in mice. A decrease of adiponectin expression in addition to an up-regulation of aldehyde dehydrogenase A1 (ALDH1A1), retinoid signaling, and retinoic acid response element signaling was selectively observed in WAT of mice fed a normal-vitamin A, high-fat diet. Reduced adiponectin expression in WAT was also observed in mice fed a high-vitamin A diet. Adipocyte cell culture revealed that endogenous and synthetic retinoic acid receptor (RAR)a- and RARg-selective agonists, as well as a synthetic retinoid X receptor agonist, efficiently reduced adiponectin expression, whereas ALDH1A1 expression only increased with RAR agonists. We conclude that reduced adiponectin expression under high-fat dietary conditions is dependent on 1) increased ALDH1A1 expression in adipocytes, which does not increase all-trans-retinoic acid levels; 2) further RAR ligand-induced, WAT-selective, increased retinoic acid response element-mediated signaling; and 3) RAR ligand-dependent reduction of adiponectin expression.-Landrier, J.-F., Kasiri, E., Karkeni, E., Mihaly, J., Beke, G., Weiss, K., Lucas, R., Aydemir, G., Salles, J., Walrand, S., de Lera, A. R., Ruhl, R. Reduced adiponectin expression after high-fat diet is associated with selective up-regulation of ALDH1A1 and further retinoic acid receptor signaling in adipose tissue.",
+  "entities": [
+    {
+      "id": "11450",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "adiponectin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 8,
+          "length": 11
+        },
+        {
+          "text": "Adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 169,
+          "length": 11
+        },
+        {
+          "text": "adipokine",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 205,
+          "length": 9
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 422,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 603,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 713,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 960,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1237,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1347,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1671,
+          "length": 11
+        },
+        {
+          "text": "adiponectin",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1852,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "11668",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ALDH1A1",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 97,
+          "length": 7
+        },
+        {
+          "text": "aldehyde dehydrogenase A1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 771,
+          "length": 25
+        },
+        {
+          "text": "ALDH1A1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 798,
+          "length": 7
+        },
+        {
+          "text": "ALDH1A1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1269,
+          "length": 7
+        },
+        {
+          "text": "ALDH1A1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1433,
+          "length": 7
+        },
+        {
+          "text": "ALDH1A1",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1941,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "19401,19411,20181",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "retinoic acid receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 22
+        },
+        {
+          "text": "RAR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1308,
+          "length": 3
+        },
+        {
+          "text": "RAR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1534,
+          "length": 3
+        },
+        {
+          "text": "RAR",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1637,
+          "length": 3
+        },
+        {
+          "text": "retinoic acid receptor",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1961,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D007249",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 246,
+          "length": 12
+        },
+        {
+          "text": "inflammatory",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 366,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D009765",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "adiposity",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 347,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D002318",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiovascular diseases",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 385,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "D014801",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Vitamin A",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 445,
+          "length": 9
+        },
+        {
+          "text": "vitamin A",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 669,
+          "length": 9
+        },
+        {
+          "text": "vitamin A",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 926,
+          "length": 9
+        },
+        {
+          "text": "vitamin A",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1027,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D012176",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "retinoids",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 467,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 693,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 908,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1011,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D014212",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "retinoic acid",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 832,
+          "length": 13
+        },
+        {
+          "text": "retinoic acid",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1501,
+          "length": 13
+        },
+        {
+          "text": "retinoic acid",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1579,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "19401",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "retinoic acid receptor (RAR)a",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1105,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "19411",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RARg",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1140,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "20181",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "retinoid X receptor",
+          "passage_index": 1,
+          "passage_offset": 169,
+          "char_offset": 1188,
+          "length": 19
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "20181",
+      "tail_id": "D014212",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "20181",
+      "tail_id": "11450",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "19411",
+      "tail_id": "D014212",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "19411",
+      "tail_id": "11450",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "19401",
+      "tail_id": "D014212",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "19401",
+      "tail_id": "11450",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014212",
+      "tail_id": "D014801",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "11668",
+      "tail_id": "20181",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "11668",
+      "tail_id": "19411",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "11668",
+      "tail_id": "19401",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "11668",
+      "tail_id": "D014801",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "11450",
+      "tail_id": "D007249",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "11450",
+      "tail_id": "D014212",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "11450",
+      "tail_id": "11668",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "11450",
+      "tail_id": "D014801",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

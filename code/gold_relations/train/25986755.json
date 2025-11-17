@@ -1,0 +1,416 @@
+{
+  "doc_id": "25986755",
+  "title": "Low functional programming of renal AT2R mediates the developmental origin of glomerulosclerosis in adult offspring induced by prenatal caffeine exposure.",
+  "body": "UNASSIGNED: Our previous study has indicated that prenatal caffeine exposure (PCE) could induce intrauterine growth retardation (IUGR) of offspring. Recent research suggested that IUGR is a risk factor for glomerulosclerosis. However, whether PCE could induce glomerulosclerosis and its underlying mechanisms remain unknown. This study aimed to demonstrate the induction to glomerulosclerosis in adult offspring by PCE and its intrauterine programming mechanisms. A rat model of IUGR was established by PCE, male fetuses and adult offspring at the age of postnatal week 24 were euthanized. The results revealed that the adult offspring kidneys in the PCE group exhibited glomerulosclerosis as well as interstitial fibrosis, accompanied by elevated levels of serum creatinine and urine protein. Renal angiotensin II receptor type 2 (AT2R) gene expression in adult offspring was reduced by PCE, whereas the renal angiotensin II receptor type 1a (AT1aR)/AT2R expression ratio was increased. The fetal kidneys in the PCE group displayed an enlarged Bowman's space and a shrunken glomerular tuft, accompanied by a reduced cortex width and an increase in the nephrogenic zone/cortical zone ratio. Observation by electronic microscope revealed structural damage of podocytes; the reduced expression level of podocyte marker genes, nephrin and podocin, was also detected by q-PCR. Moreover, AT2R gene and protein expressions in fetal kidneys were inhibited by PCE, associated with the repression of the gene expression of glial-cell-line-derived neurotrophic factor (GDNF)/tyrosine kinase receptor (c-Ret) signaling pathway. These results demonstrated that PCE could induce dysplasia of fetal kidneys as well as glomerulosclerosis of adult offspring, and the low functional programming of renal AT2R might mediate the developmental origin of adult glomerulosclerosis.",
+  "entities": [
+    {
+      "id": "24182",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AT2R",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 36,
+          "length": 4
+        },
+        {
+          "text": "angiotensin II receptor type 2",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 955,
+          "length": 30
+        },
+        {
+          "text": "AT2R",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 987,
+          "length": 4
+        },
+        {
+          "text": "AT2R",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1106,
+          "length": 4
+        },
+        {
+          "text": "AT2R",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1538,
+          "length": 4
+        },
+        {
+          "text": "AT2R",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1942,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005921",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 361,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 415,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 529,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 826,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1859,
+          "length": 18
+        },
+        {
+          "text": "glomerulosclerosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1995,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D002110",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "caffeine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 136,
+          "length": 8
+        },
+        {
+          "text": "caffeine",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 214,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D005317",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "intrauterine growth retardation",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 251,
+          "length": 31
+        },
+        {
+          "text": "IUGR",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 284,
+          "length": 4
+        },
+        {
+          "text": "IUGR",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 335,
+          "length": 4
+        },
+        {
+          "text": "IUGR",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 634,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 621,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D005355",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "interstitial fibrosis",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 856,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D003404",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "creatinine",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 919,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "24180",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "angiotensin II receptor type 1a",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1066,
+          "length": 31
+        },
+        {
+          "text": "AT1aR",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1099,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "64563",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nephrin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1479,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "170672",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "podocin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1491,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "25453",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "glial-cell-line-derived neurotrophic factor",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1669,
+          "length": 43
+        },
+        {
+          "text": "GDNF",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1714,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "24716",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "tyrosine kinase receptor",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1720,
+          "length": 24
+        },
+        {
+          "text": "c-Ret",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1746,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "dysplasia of fetal kidneys",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 1821,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005355",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005921",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "24182",
+      "tail_id": "D005921",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "24182",
+      "tail_id": "24716",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "24182",
+      "tail_id": "25453",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "24182",
+      "tail_id": "D002110",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "24180",
+      "tail_id": "D002110",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D002110",
+      "tail_id": "170672",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "D002110",
+      "tail_id": "64563",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D002110",
+      "tail_id": "D005355",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "D002110",
+      "tail_id": "D003404",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "D002110",
+      "tail_id": "D005921",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R12",
+      "head_id": "D002110",
+      "tail_id": "D005317",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "D002110",
+      "tail_id": "24716",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D002110",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D002110",
+      "tail_id": "25453",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

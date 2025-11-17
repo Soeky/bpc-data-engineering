@@ -1,0 +1,211 @@
+{
+  "doc_id": "15042318",
+  "title": "Atrial fibrillation following chemotherapy for stage IIIE diffuse large B-cell gastric lymphoma in a patient with myotonic dystrophy (Steinert's disease).",
+  "body": "The authors describe the unusual association between diffuse B-cell gastric lymphoma and myotonic dystrophy, the most common form of adult muscular dystrophy, and sudden atrial fibrillation following one cycle of doxorubicin-based chemotherapy in the same patient. Atrial fibrillation or other cardiac arrhythmias are unusual complications in patients treated with chemotherapy. The cardiac toxicity intrinsically associated with the aggressive chemotherapy employed could function as a triggering factor for the arrhythmia in the predisposed myocardium of this patient.",
+  "entities": [
+    {
+      "id": "D001281",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Atrial fibrillation",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 19
+        },
+        {
+          "text": "atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 325,
+          "length": 19
+        },
+        {
+          "text": "Atrial fibrillation",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 420,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "C535648",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "gastric lymphoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 79,
+          "length": 16
+        },
+        {
+          "text": "gastric lymphoma",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 223,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 411,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 498,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 717,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009223",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myotonic dystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 18
+        },
+        {
+          "text": "Steinert's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 134,
+          "length": 18
+        },
+        {
+          "text": "myotonic dystrophy",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 244,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D009136",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "muscular dystrophy",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 294,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D004317",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "doxorubicin",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 368,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D001145",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac arrhythmias",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 449,
+          "length": 19
+        },
+        {
+          "text": "arrhythmia",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 668,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D066126",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cardiac toxicity",
+          "passage_index": 1,
+          "passage_offset": 155,
+          "char_offset": 538,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D001281",
+      "tail_id": "D004317",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D009136",
+      "tail_id": "D004317",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C535648",
+      "tail_id": "D004317",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D004317",
+      "tail_id": "D066126",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D004317",
+      "tail_id": "D001145",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "doc_id": "28368423",
+  "title": "Myc enhances B-cell receptor signaling in precancerous B cells and confers resistance to Btk inhibition.",
+  "body": "Dysregulation of the oncogenic transcription factor MYC induces B-cell transformation and is a driver for B-cell non-Hodgkin lymphoma (B-NHL). MYC overexpression in B-NHL is associated with more aggressive phenotypes and poor prognosis. Although genomic studies suggest a link between MYC overexpression and B-cell receptor (BCR) signaling molecules in B-NHL, signaling pathways essential to Myc-mediated B-cell transformation have not been fully elucidated. We utilized intracellular phospho-flow cytometry to investigate the relationship between Myc and BCR signaling in pre-malignant B cells. Utilizing the Eu-myc mouse model, where Myc is overexpressed specifically in B cells, both basal and stimulated BCR signaling were increased in precancerous B lymphocytes from Eu-myc mice compared with wild-type littermates. B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2. Notably, Myc-overexpressing B cells maintained elevated BCR signaling despite treatment with ibrutinib, a Bruton's tyrosine kinase inhibitor. Furthermore, PI3K/Akt pathway signaling was also increased in Eu-myc B cells, and this increase was partially suppressed with ibrutinib. In addition, experiments with Btk-null B cells revealed off-target effects of ibrutinib on BCR signaling. Our data show that in pre-malignant B cells, Myc overexpression is sufficient to activate BCR and PI3K/Akt signaling pathways and further enhances signaling following BCR ligation. Therefore, our results indicate that precancerous B cells have already acquired enhanced survival and growth capabilities before transformation, and that elevated MYC levels confer resistance to pharmacologic inhibitors of BCR signaling, which has significant implications for B-NHL treatment.",
+  "entities": [
+    {
+      "id": "17869",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Myc",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 3
+        },
+        {
+          "text": "MYC",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 157,
+          "length": 3
+        },
+        {
+          "text": "MYC",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 248,
+          "length": 3
+        },
+        {
+          "text": "MYC",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 390,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 497,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 653,
+          "length": 3
+        },
+        {
+          "text": "myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 718,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 741,
+          "length": 3
+        },
+        {
+          "text": "myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 880,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 949,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1044,
+          "length": 3
+        },
+        {
+          "text": "myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1242,
+          "length": 3
+        },
+        {
+          "text": "Myc",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1465,
+          "length": 3
+        },
+        {
+          "text": "MYC",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1764,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "16019",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "B-cell receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 15
+        },
+        {
+          "text": "B-cell receptor",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 413,
+          "length": 15
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 430,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 661,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 813,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1091,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1405,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1510,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1587,
+          "length": 3
+        },
+        {
+          "text": "BCR",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1824,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D011230",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "precancerous",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 42,
+          "length": 12
+        },
+        {
+          "text": "precancerous",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 845,
+          "length": 12
+        },
+        {
+          "text": "precancerous",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1638,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "12229",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Btk",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 3
+        },
+        {
+          "text": "Btk",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1012,
+          "length": 3
+        },
+        {
+          "text": "Btk",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1344,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D016393",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "B-cell non-Hodgkin lymphoma",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 211,
+          "length": 27
+        },
+        {
+          "text": "B-NHL",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 240,
+          "length": 5
+        },
+        {
+          "text": "B-NHL",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 270,
+          "length": 5
+        },
+        {
+          "text": "B-NHL",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 458,
+          "length": 5
+        },
+        {
+          "text": "B-NHL",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1878,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 722,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 884,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "12518",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CD79a",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1005,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "234779",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Plcg2",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1017,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Erk1/2",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1027,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "C551803",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ibrutinib",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1128,
+          "length": 9
+        },
+        {
+          "text": "ibrutinib",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1303,
+          "length": 9
+        },
+        {
+          "text": "ibrutinib",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1392,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "695",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Bruton's tyrosine kinase",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1141,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "18708",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1190,
+          "length": 4
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1518,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "11651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1195,
+          "length": 3
+        },
+        {
+          "text": "Akt",
+          "passage_index": 1,
+          "passage_offset": 105,
+          "char_offset": 1523,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D016393",
+      "tail_id": "16019",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "11651",
+      "tail_id": "C551803",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "11651",
+      "tail_id": "17869",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "18708",
+      "tail_id": "11651",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "18708",
+      "tail_id": "C551803",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "18708",
+      "tail_id": "17869",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C551803",
+      "tail_id": "695",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "C551803",
+      "tail_id": "17869",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "16019",
+      "tail_id": "C551803",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "16019",
+      "tail_id": "D011230",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "17869",
+      "tail_id": "D016393",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R13",
+      "head_id": "17869",
+      "tail_id": "234779",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "17869",
+      "tail_id": "12518",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "17869",
+      "tail_id": "12229",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "17869",
+      "tail_id": "D011230",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "17869",
+      "tail_id": "16019",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

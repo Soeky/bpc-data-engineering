@@ -1,0 +1,349 @@
+{
+  "doc_id": "9647766",
+  "title": "cDNA sequence and chromosomal localization of the remaining three human nuclear encoded iron sulphur protein (IP) subunits of complex I: the human IP fraction is completed.",
+  "body": "NADH:ubiquinone oxidoreductase (complex I) of the mitochondrial respiratory chain can be fragmented in a flavoprotein (FP), iron-sulfur protein (IP), and hydrophobic protein (HP) subfraction. The IP subfraction is hypothesized to be significant, since it contains important prosthetic groups highly conserved among species. We cloned the cDNA of three remaining human NADH:ubiquinone oxidoreductase subunits of this IP fraction: the NDUFS2 (49 kDa), NDUFS3 (30 kDa), and NDUFS6 (13 kDa) subunits. All presented cDNAs include the complete open reading frame (ORF), which consist of 1392, 795, and 375 base pairs, coding for 463, 264, and 124 amino acids, respectively. The latter show 96, 90, and 83% homology with the corresponding bovine translation products. The 3' untranslated regions (UTR) are complete in all three cDNAs. Polymerase chain reaction performed with DNA isolated from somatic human-rodent cell hybrids containing defined human chromosomes as template gave a human-specific signal which mapped the NDUFS2 and NDUFS3 subunits to chromosomes 1 and 11, respectively. In the case of the NDUFS6 subunit a pseudogene may be present since signals were seen in the lanes containing chromosomes 5 and 6. The NDUFS2 contains a highly conserved protein kinase C phosphorylation site and the NDUFS3 subunit contains a highly conserved casein kinase II phosphorylation site which make them strong candidates for future mutation detection studies in enzymatic complex I-deficient patients.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 66,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 141,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 535,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1068,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1113,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1150,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1657,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "4720,4722,4726",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "nuclear encoded iron sulphur protein (IP) subunits of complex I",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 72,
+          "length": 63
+        },
+        {
+          "text": "IP",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 147,
+          "length": 2
+        },
+        {
+          "text": "NADH:ubiquinone oxidoreductase (complex I)",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 173,
+          "length": 42
+        },
+        {
+          "text": "iron-sulfur protein",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 297,
+          "length": 19
+        },
+        {
+          "text": "IP",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 318,
+          "length": 2
+        },
+        {
+          "text": "IP",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 369,
+          "length": 2
+        },
+        {
+          "text": "NADH:ubiquinone oxidoreductase subunits",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 541,
+          "length": 39
+        },
+        {
+          "text": "IP",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 589,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "flavoprotein",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 278,
+          "length": 12
+        },
+        {
+          "text": "FP",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 292,
+          "length": 2
+        },
+        {
+          "text": "hydrophobic protein",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 327,
+          "length": 19
+        },
+        {
+          "text": "HP",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 348,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "4720",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NDUFS2",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 606,
+          "length": 6
+        },
+        {
+          "text": "NDUFS2",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1189,
+          "length": 6
+        },
+        {
+          "text": "NDUFS2",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1390,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4722",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NDUFS3",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 623,
+          "length": 6
+        },
+        {
+          "text": "NDUFS3",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1200,
+          "length": 6
+        },
+        {
+          "text": "NDUFS3",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1471,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "4726",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NDUFS6",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 644,
+          "length": 6
+        },
+        {
+          "text": "NDUFS6",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1274,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "9913",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "bovine",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 905,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "5578",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "protein kinase C",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1425,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "1457",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "casein kinase II",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1514,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "C537475",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "enzymatic complex I-deficient",
+          "passage_index": 1,
+          "passage_offset": 173,
+          "char_offset": 1627,
+          "length": 29
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "1457",
+      "tail_id": "C537475",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "4722",
+      "tail_id": "4726",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "4722",
+      "tail_id": "1457",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "4722",
+      "tail_id": "C537475",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5578",
+      "tail_id": "C537475",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "4720",
+      "tail_id": "4726",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "4720",
+      "tail_id": "4722",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "4720",
+      "tail_id": "C537475",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "4720",
+      "tail_id": "5578",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

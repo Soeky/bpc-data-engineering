@@ -1,0 +1,345 @@
+{
+  "doc_id": "27103577",
+  "title": "On the pivotal role of PPARa in adaptation of the heart to hypoxia and why fat in the diet increases hypoxic injury.",
+  "body": "The role of peroxisome proliferator-activated receptor a (PPARa)-mediated metabolic remodeling in cardiac adaptation to hypoxia has yet to be defined. Here, mice were housed in hypoxia for 3 wk before in vivo contractile function was measured using cine MRI. In isolated, perfused hearts, energetics were measured using (31)P magnetic resonance spectroscopy (MRS), and glycolysis and fatty acid oxidation were measured using [(3)H] labeling. Compared with a normoxic, chow-fed control mouse heart, hypoxia decreased PPARa expression, fatty acid oxidation, and mitochondrial uncoupling protein 3 (UCP3) levels, while increasing glycolysis, all of which served to maintain normal ATP concentrations ([ATP]) and thereby, ejection fractions. A high-fat diet increased cardiac PPARa expression, fatty acid oxidation, and UCP3 levels with decreased glycolysis. Hypoxia was unable to alter the high PPARa expression or reverse the metabolic changes caused by the high-fat diet, with the result that [ATP] and contractile function decreased significantly. The adaptive metabolic changes caused by hypoxia in control mouse hearts were found to have occurred already in PPARa-deficient (PPARa(-/-)) mouse hearts and sustained function in hypoxia despite an inability for further metabolic remodeling. We conclude that decreased cardiac PPARa expression is essential for adaptive metabolic remodeling in hypoxia, but is prevented by dietary fat.-Cole, M. A., Abd Jamil, A. H., Heather, L. C., Murray, A. J., Sutton, E. R., Slingo, M., Sebag-Montefiore, L., Tan, S. C., Aksentijevic, D., Gildea, O. S., Stuckey, D. J., Yeoh, K. K., Carr, C. A., Evans, R. D., Aasum, E., Schofield, C. J., Ratcliffe, P. J., Neubauer, S., Robbins, P. A., Clarke, K. On the pivotal role of PPARa in adaptation of the heart to hypoxia and why fat in the diet increases hypoxic injury.",
+  "entities": [
+    {
+      "id": "19013",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PPARa",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 23,
+          "length": 5
+        },
+        {
+          "text": "peroxisome proliferator-activated receptor a",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 129,
+          "length": 44
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 175,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 633,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 889,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1009,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1277,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1294,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1443,
+          "length": 5
+        },
+        {
+          "text": "PPARa",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1875,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D000860",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypoxia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 59,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 101,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 237,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 294,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 615,
+          "length": 7
+        },
+        {
+          "text": "Hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 972,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1206,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1345,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1510,
+          "length": 7
+        },
+        {
+          "text": "hypoxia",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1911,
+          "length": 7
+        },
+        {
+          "text": "hypoxic",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1953,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 274,
+          "length": 4
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 602,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1225,
+          "length": 5
+        },
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1306,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005227",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 501,
+          "length": 10
+        },
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 651,
+          "length": 10
+        },
+        {
+          "text": "fatty acid",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 907,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D014316",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "(3)H",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 543,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "22229",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mitochondrial uncoupling protein 3",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 677,
+          "length": 34
+        },
+        {
+          "text": "UCP3",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 713,
+          "length": 4
+        },
+        {
+          "text": "UCP3",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 933,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D000255",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 795,
+          "length": 3
+        },
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 816,
+          "length": 3
+        },
+        {
+          "text": "ATP",
+          "passage_index": 1,
+          "passage_offset": 117,
+          "char_offset": 1110,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "22229",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005227",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "19013",
+      "tail_id": "D000255",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D000860",
+      "tail_id": "D000255",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D000860",
+      "tail_id": "22229",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D000860",
+      "tail_id": "D005227",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D000860",
+      "tail_id": "19013",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

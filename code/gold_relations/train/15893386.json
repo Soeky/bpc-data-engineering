@@ -1,0 +1,117 @@
+{
+  "doc_id": "15893386",
+  "title": "Succinylcholine-induced masseter muscle rigidity during bronchoscopic removal of a tracheal foreign body.",
+  "body": "Masseter muscle rigidity during general anesthesia is considered an early warning sign of a possible episode of malignant hyperthermia. The decision whether to continue or discontinue the procedure depends on the urgency of the surgery and severity of masseter muscle rigidity. Here, we describe a case of severe masseter muscle rigidity (jaw of steel) after succinylcholine (Sch) administration during general anesthetic management for rigid bronchoscopic removal of a tracheal foreign body. Anesthesia was continued uneventfully with propofol infusion while all facilities were available to detect and treat malignant hyperthermia.",
+  "entities": [
+    {
+      "id": "D013390",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Succinylcholine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "succinylcholine",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 465,
+          "length": 15
+        },
+        {
+          "text": "Sch",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 482,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D014313",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "masseter muscle rigidity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 24
+        },
+        {
+          "text": "Masseter muscle rigidity",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 106,
+          "length": 24
+        },
+        {
+          "text": "masseter muscle rigidity",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 358,
+          "length": 24
+        },
+        {
+          "text": "masseter muscle rigidity",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 419,
+          "length": 24
+        },
+        {
+          "text": "jaw of steel",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 445,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D008305",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "malignant hyperthermia",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 218,
+          "length": 22
+        },
+        {
+          "text": "malignant hyperthermia",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 716,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D015742",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "propofol",
+          "passage_index": 1,
+          "passage_offset": 106,
+          "char_offset": 642,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D013390",
+      "tail_id": "D014313",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

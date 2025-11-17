@@ -1,0 +1,554 @@
+{
+  "doc_id": "25119790",
+  "title": "Curcumin prevents maleate-induced nephrotoxicity: relation to hemodynamic alterations, oxidative stress, mitochondrial oxygen consumption and activity of respiratory complex I.",
+  "body": "The potential protective effect of the dietary antioxidant curcumin (120 mg/Kg/day for 6 days) against the renal injury induced by maleate was evaluated. Tubular proteinuria and oxidative stress were induced by a single injection of maleate (400 mg/kg) in rats. Maleate-induced renal injury included increase in renal vascular resistance and in the urinary excretion of total protein, glucose, sodium, neutrophil gelatinase-associated lipocalin (NGAL) and N-acetyl b-D-glucosaminidase (NAG), upregulation of kidney injury molecule (KIM)-1, decrease in renal blood flow and claudin-2 expression besides of necrosis and apoptosis of tubular cells on 24 h. Oxidative stress was determined by measuring the oxidation of lipids and proteins and diminution in renal Nrf2 levels. Studies were also conducted in renal epithelial LLC-PK1 cells and in mitochondria isolated from kidneys of all the experimental groups. Maleate induced cell damage and reactive oxygen species (ROS) production in LLC-PK1 cells in culture. In addition, maleate treatment reduced oxygen consumption in ADP-stimulated mitochondria and diminished respiratory control index when using malate/glutamate as substrate. The activities of both complex I and aconitase were also diminished. All the above-described alterations were prevented by curcumin. It is concluded that curcumin is able to attenuate in vivo maleate-induced nephropathy and in vitro cell damage. The in vivo protection was associated to the prevention of oxidative stress and preservation of mitochondrial oxygen consumption and activity of respiratory complex I, and the in vitro protection was associated to the prevention of ROS production.",
+  "entities": [
+    {
+      "id": "D003474",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Curcumin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 236,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1483,
+          "length": 8
+        },
+        {
+          "text": "curcumin",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1514,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C030272",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "maleate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 7
+        },
+        {
+          "text": "maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 308,
+          "length": 7
+        },
+        {
+          "text": "maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 410,
+          "length": 7
+        },
+        {
+          "text": "Maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 439,
+          "length": 7
+        },
+        {
+          "text": "Maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1086,
+          "length": 7
+        },
+        {
+          "text": "maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1201,
+          "length": 7
+        },
+        {
+          "text": "maleate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1552,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "nephrotoxicity",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 34,
+          "length": 14
+        },
+        {
+          "text": "renal injury",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 284,
+          "length": 12
+        },
+        {
+          "text": "renal injury",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 455,
+          "length": 12
+        },
+        {
+          "text": "nephropathy",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1568,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D010100",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oxygen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 119,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1227,
+          "length": 6
+        },
+        {
+          "text": "oxygen",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1716,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D042967",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "respiratory complex I",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 154,
+          "length": 21
+        },
+        {
+          "text": "respiratory complex I",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1751,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D011507",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "proteinuria",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 339,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 433,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 562,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D012964",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sodium",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 571,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "170496",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neutrophil gelatinase-associated lipocalin",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 579,
+          "length": 42
+        },
+        {
+          "text": "NGAL",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 623,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "-",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-acetyl b-D-glucosaminidase",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 633,
+          "length": 28
+        },
+        {
+          "text": "NAG",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 663,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "286934",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "kidney injury molecule (KIM)-1",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 685,
+          "length": 30
+        }
+      ]
+    },
+    {
+      "id": "733684",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "claudin-2",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 750,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D007673",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "necrosis and apoptosis of tubular cells",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 782,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "D008055",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lipids",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 893,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "83619",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Nrf2",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 937,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0391",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "LLC-PK1",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 998,
+          "length": 7
+        },
+        {
+          "text": "LLC-PK1",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1162,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D017382",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "reactive oxygen species",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1118,
+          "length": 23
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1143,
+          "length": 3
+        },
+        {
+          "text": "ROS",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1838,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000244",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ADP",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1249,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "C030298",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "malate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1329,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D018698",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glutamate",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1336,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "50655",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "aconitase",
+          "passage_index": 1,
+          "passage_offset": 177,
+          "char_offset": 1397,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D011507",
+      "tail_id": "C030272",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D007674",
+      "tail_id": "286934",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D007674",
+      "tail_id": "733684",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D007674",
+      "tail_id": "170496",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D007674",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D007674",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "C030272",
+      "tail_id": "50655",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "C030272",
+      "tail_id": "D010100",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C030272",
+      "tail_id": "D017382",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C030272",
+      "tail_id": "286934",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C030272",
+      "tail_id": "733684",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C030272",
+      "tail_id": "170496",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C030272",
+      "tail_id": "D012964",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "C030272",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "C030272",
+      "tail_id": "D007674",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R15",
+      "head_id": "D003474",
+      "tail_id": "D007674",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D003474",
+      "tail_id": "C030272",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

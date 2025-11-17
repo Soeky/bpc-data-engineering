@@ -1,0 +1,546 @@
+{
+  "doc_id": "24853300",
+  "title": "Crucial role of calbindin-D28k in the pathogenesis of Alzheimer's disease mouse model.",
+  "body": "Calbindin-D28k (CB), one of the major calcium-binding and buffering proteins, has a critical role in preventing a neuronal death as well as maintaining calcium homeostasis. Although marked reductions of CB expression have been observed in the brains of mice and humans with Alzheimer disease (AD), it is unknown whether these changes contribute to AD-related dysfunction. To determine the pathogenic importance of CB depletions in AD models, we crossed 5 familial AD mutations (5XFAD; Tg) mice with CB knock-out (CBKO) mice and generated a novel line CBKO.5XFAD (CBKOTg) mice. We first identified the change of signaling pathways and differentially expressed proteins globally by removing CB in Tg mice using mass spectrometry and antibody microarray. Immunohistochemistry showed that CBKOTg mice had significant neuronal loss in the subiculum area without changing the magnitude (number) of amyloid b-peptide (Ab) plaques deposition and elicited significant apoptotic features and mitochondrial dysfunction compared with Tg mice. Moreover, CBKOTg mice reduced levels of phosphorylated mitogen-activated protein kinase (extracellular signal-regulated kinase) 1/2 and cAMP response element-binding protein at Ser-133 and synaptic molecules such as N-methyl-D-aspartate receptor 1 (NMDA receptor 1), NMDA receptor 2A, PSD-95 and synaptophysin in the subiculum compared with Tg mice. Importantly, this is the first experimental evidence that removal of CB from amyloid precursor protein/presenilin transgenic mice aggravates AD pathogenesis, suggesting that CB has a critical role in AD pathogenesis.",
+  "entities": [
+    {
+      "id": "12307",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "calbindin-D28k",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 16,
+          "length": 14
+        },
+        {
+          "text": "Calbindin-D28k",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 87,
+          "length": 14
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 103,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 501,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 586,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 600,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 638,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 650,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 776,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 872,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1128,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1537,
+          "length": 2
+        },
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1642,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D000544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Alzheimer's disease",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 19
+        },
+        {
+          "text": "Alzheimer disease",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 361,
+          "length": 17
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 380,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 435,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 518,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 551,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 568,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 646,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1609,
+          "length": 2
+        },
+        {
+          "text": "AD",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1668,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 74,
+          "length": 5
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 340,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 576,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 606,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 658,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 785,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 879,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1112,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1135,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1462,
+          "length": 4
+        },
+        {
+          "text": "mice",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1593,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D002118",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 125,
+          "length": 7
+        },
+        {
+          "text": "calcium",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 239,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009410",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuronal death",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 201,
+          "length": 14
+        },
+        {
+          "text": "neuronal loss",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 900,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "12307,793",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 290,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "humans",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 349,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "11820",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "amyloid b-peptide",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 979,
+          "length": 17
+        },
+        {
+          "text": "Ab",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 998,
+          "length": 2
+        },
+        {
+          "text": "amyloid precursor protein",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1545,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D028361",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "mitochondrial dysfunction",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1069,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "26413,26417",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mitogen-activated protein kinase",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1173,
+          "length": 32
+        },
+        {
+          "text": "extracellular signal-regulated kinase) 1/2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1207,
+          "length": 42
+        }
+      ]
+    },
+    {
+      "id": "12912",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cAMP response element-binding protein",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1254,
+          "length": 37
+        }
+      ]
+    },
+    {
+      "id": "14810",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "N-methyl-D-aspartate receptor 1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1334,
+          "length": 31
+        },
+        {
+          "text": "NMDA receptor 1",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1367,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "14811",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NMDA receptor 2A",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1385,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "13385",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PSD-95",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1403,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "20977",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "synaptophysin",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1414,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "19164",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "presenilin",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1571,
+          "length": 10
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "head_id": "D028361",
+      "tail_id": "12307",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "12307",
+      "tail_id": "12912",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "12307",
+      "tail_id": "D002118",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "12307",
+      "tail_id": "19164",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "12307",
+      "tail_id": "20977",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "12307",
+      "tail_id": "13385",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "12307",
+      "tail_id": "14811",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "12307",
+      "tail_id": "14810",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "12307",
+      "tail_id": "D009410",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "12307",
+      "tail_id": "D000544",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

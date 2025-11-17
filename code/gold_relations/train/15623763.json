@@ -1,0 +1,596 @@
+{
+  "doc_id": "15623763",
+  "title": "TGFBI gene mutations causing lattice and granular corneal dystrophies in Indian patients.",
+  "body": "PURPOSE: To identify mutations in the TGFBI gene in Indian patients with lattice corneal dystrophy (LCD) or granular corneal dystrophy (GCD) and to look for genotype-phenotype correlations. METHODS: Thirty-seven unrelated patients were studied, 18 with LCD and 19 with GCD. The diagnosis of LCD or GCD was made on the basis of clinical and/or histopathological evaluation. Exons and flanking intron sequences of the TGFBI gene were amplified by PCR with specific primers. PCR products were screened by the method of single-strand conformation polymorphism followed by sequencing. Mutations were confirmed by screening at least 100 unrelated normal control subjects. RESULTS: Mutations were identified in 14 of 18 patients with LCD and in all 19 patients with GCD. In LCD, three novel heterozygous mutations found were glycine-594-valine (Gly594Val) in 2 of 18 patients, valine-539-aspartic acid (Val539Asp) in 1 patient, and deletion of valine 624, valine 625 (Val624-Val625del) in 1 patient. In addition, mutation of arginine 124-to-cysteine (Arg124Cys) was found in 8 of 18 patients and histidine 626-to-arginine (His626Arg) in 2 of 18 patients. Atypical clinical features for LCD were noted in patients with the Gly594Val and Val624-Val625del mutations. In GCD, 18 patients with GCD type I had a mutation of arginine 555-to-tryptophan (Arg555Trp) and 1 patient with GCD type III (Reis-Bucklers dystrophy), had the Arg124Leu mutation. Seven novel single-nucleotide polymorphisms (SNPs) were also found, of which a change of leucine 269 to phenylalanine (Leu269Phe) was found in 12 of 18 patients with the Arg555Trp mutation. CONCLUSIONS: Arg124Cys and Arg555Trp appear to be the predominant mutations causing LCD and GCD, respectively, in the population studied. The novel mutations identified in this study are associated with distinct phenotypes.",
+  "entities": [
+    {
+      "id": "7045",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "TGFBI",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "TGFBI",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 128,
+          "length": 5
+        },
+        {
+          "text": "TGFBI",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 506,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "C537881,D003317",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lattice and granular corneal dystrophies",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 40
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 80,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 149,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 312,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 803,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 835,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 950,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1002,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1074,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1166,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1228,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1287,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1358,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1446,
+          "length": 7
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1679,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "C537881",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "lattice corneal dystrophy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 163,
+          "length": 25
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 190,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 343,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 381,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 817,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 857,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1269,
+          "length": 3
+        },
+        {
+          "text": "LCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1801,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D003317",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "granular corneal dystrophy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 198,
+          "length": 26
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 226,
+          "length": 3
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 359,
+          "length": 3
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 388,
+          "length": 3
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 849,
+          "length": 3
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1350,
+          "length": 3
+        },
+        {
+          "text": "GCD",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1809,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|G|594|V",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "glycine-594-valine",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 908,
+          "length": 18
+        },
+        {
+          "text": "Gly594Val",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 928,
+          "length": 9
+        },
+        {
+          "text": "Gly594Val",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1305,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|V|539|D",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "valine-539-aspartic acid",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 960,
+          "length": 24
+        },
+        {
+          "text": "Val539Asp",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 986,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|DEL|624_625|VV",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "deletion of valine 624, valine 625",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1015,
+          "length": 34
+        },
+        {
+          "text": "Val624-Val625del",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1051,
+          "length": 16
+        },
+        {
+          "text": "Val624-Val625del",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1319,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "rs121909210",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine 124-to-cysteine",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1108,
+          "length": 24
+        },
+        {
+          "text": "Arg124Cys",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1134,
+          "length": 9
+        },
+        {
+          "text": "Arg124Cys",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1730,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "p|SUB|H|626|R",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "histidine 626-to-arginine",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1179,
+          "length": 25
+        },
+        {
+          "text": "His626Arg",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1206,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C537304",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GCD type I",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1372,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "rs121909208",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "arginine 555-to-tryptophan",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1401,
+          "length": 26
+        },
+        {
+          "text": "Arg555Trp",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1429,
+          "length": 9
+        },
+        {
+          "text": "Arg555Trp",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1697,
+          "length": 9
+        },
+        {
+          "text": "Arg555Trp",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1744,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "C535476",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "GCD type III",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1459,
+          "length": 12
+        },
+        {
+          "text": "Reis-Bucklers dystrophy",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1473,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "rs121909211",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "Arg124Leu",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1507,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "rs199852470",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "leucine 269 to phenylalanine",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1616,
+          "length": 28
+        },
+        {
+          "text": "Leu269Phe",
+          "passage_index": 1,
+          "passage_offset": 90,
+          "char_offset": 1646,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "rs121909208",
+      "tail_id": "C537304",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs121909208",
+      "tail_id": "D003317",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "C537304",
+      "tail_id": "rs199852470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C537304",
+      "tail_id": "7045",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "C535476",
+      "tail_id": "rs121909211",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "C535476",
+      "tail_id": "7045",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003317",
+      "tail_id": "rs199852470",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003317",
+      "tail_id": "rs121909211",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "C537881",
+      "tail_id": "p|SUB|H|626|R",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C537881",
+      "tail_id": "rs121909210",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "C537881",
+      "tail_id": "p|DEL|624_625|VV",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C537881",
+      "tail_id": "p|SUB|V|539|D",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C537881",
+      "tail_id": "p|SUB|G|594|V",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "7045",
+      "tail_id": "D003317",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "7045",
+      "tail_id": "C537881",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "doc_id": "19789368",
+  "title": "Vitamin D receptor expression is associated with PIK3CA and KRAS mutations in colorectal cancer.",
+  "body": "Vitamin D is associated with decreased risks of various cancers, including colon cancer. The vitamin D receptor (VDR) is a transcription factor, which plays an important role in cellular differentiation and inhibition of proliferation. A link between VDR and the RAS-mitogen-activated protein kinase (MAPK) or phosphatidylinositol 3-kinase (PI3K)-AKT pathway has been suggested. However, the prognostic role of VDR expression or its relationship with PIK3CA or KRAS mutation remains uncertain. Among 619 colorectal cancers in two prospective cohort studies, 233 (38%) tumors showed VDR overexpression by immunohistochemistry. We analyzed for PIK3CA and KRAS mutations and LINE-1 methylation by Pyrosequencing, microsatellite instability (MSI), and DNA methylation (epigenetic changes) in eight CpG island methylator phenotype (CIMP)-specific promoters [CACNA1G, CDKN2A (p16), CRABP1, IGF2, MLH1, NEUROG1, RUNX3, and SOCS1] by MethyLight (real-time PCR). VDR overexpression was significantly associated with KRAS mutation (odds ratio, 1.55; 95% confidence interval, 1.11-2.16) and PIK3CA mutation (odds ratio, 2.17; 95% confidence interval, 1.36-3.47), both of which persisted in multivariate logistic regression analysis. VDR was not independently associated with body mass index, family history of colorectal cancer, tumor location (colon versus rectum), stage, tumor grade, signet ring cells, CIMP, MSI, LINE-1 hypomethylation, BRAF, p53, p21, beta-catenin, or cyclooxygenase-2. VDR expression was not significantly related with patient survival, prognosis, or clinical outcome. In conclusion, VDR overexpression in colorectal cancer is independently associated with PIK3CA and KRAS mutations. Our data support potential interactions between the VDR, RAS-MAPK and PI3K-AKT pathways, and possible influence by KRAS or PIK3CA mutation on therapy or chemoprevention targeting VDR.",
+  "entities": [
+    {
+      "id": "7421",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Vitamin D receptor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 18
+        },
+        {
+          "text": "vitamin D receptor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 190,
+          "length": 18
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 210,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 348,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 508,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 679,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1051,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1319,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1578,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1693,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1845,
+          "length": 3
+        },
+        {
+          "text": "VDR",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1972,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "5290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "PIK3CA",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 6
+        },
+        {
+          "text": "phosphatidylinositol 3-kinase",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 407,
+          "length": 29
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 438,
+          "length": 4
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 548,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 739,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1177,
+          "length": 6
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1766,
+          "length": 6
+        },
+        {
+          "text": "PI3K",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1863,
+          "length": 4
+        },
+        {
+          "text": "PIK3CA",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1916,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3845",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "KRAS",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 60,
+          "length": 4
+        },
+        {
+          "text": "RAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 360,
+          "length": 3
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 558,
+          "length": 4
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 750,
+          "length": 4
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1104,
+          "length": 4
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1777,
+          "length": 4
+        },
+        {
+          "text": "RAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1850,
+          "length": 3
+        },
+        {
+          "text": "KRAS",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1908,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D015179",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "colorectal cancer",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 78,
+          "length": 17
+        },
+        {
+          "text": "colon cancer",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 172,
+          "length": 12
+        },
+        {
+          "text": "colorectal cancers",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 601,
+          "length": 18
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1396,
+          "length": 17
+        },
+        {
+          "text": "colorectal cancer",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1715,
+          "length": 17
+        }
+      ]
+    },
+    {
+      "id": "D014807",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Vitamin D",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 97,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cancers",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 153,
+          "length": 7
+        },
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 665,
+          "length": 6
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1415,
+          "length": 5
+        },
+        {
+          "text": "tumor",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1460,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1432",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "mitogen-activated protein kinase",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 364,
+          "length": 32
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 398,
+          "length": 4
+        },
+        {
+          "text": "MAPK",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1854,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 444,
+          "length": 3
+        },
+        {
+          "text": "AKT",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1868,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "8913",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CACNA1G",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 950,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CDKN2A",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 959,
+          "length": 6
+        },
+        {
+          "text": "p16",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 967,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1381",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CRABP1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 973,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "3481",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "IGF2",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 981,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4292",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MLH1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 987,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "4762",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NEUROG1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 993,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "864",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RUNX3",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1002,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "8651",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOCS1",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1013,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "673",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BRAF",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1527,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1533,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p21",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1538,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1499",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "beta-catenin",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1543,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "5743",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "cyclooxygenase-2",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1560,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 97,
+          "char_offset": 1628,
+          "length": 7
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014807",
+      "tail_id": "D015179",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014807",
+      "tail_id": "D009369",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D009369",
+      "tail_id": "7421",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "3845",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "3845",
+      "tail_id": "1432",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "5290",
+      "tail_id": "D015179",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5290",
+      "tail_id": "207",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "7421",
+      "tail_id": "D015179",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "7421",
+      "tail_id": "D014807",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "7421",
+      "tail_id": "3845",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R10",
+      "head_id": "7421",
+      "tail_id": "5290",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

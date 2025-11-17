@@ -1,0 +1,349 @@
+{
+  "doc_id": "28883039",
+  "title": "Disease-associated mutations in human BICD2 hyperactivate motility of dynein-dynactin.",
+  "body": "Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement. Point mutations in the BICD2 gene have been identified in patients with a dominant form of spinal muscular atrophy, but how these mutations cause disease is unknown. To investigate this question, we have developed in vitro motility assays with purified DDB and BICD2's membrane vesicle partner, the GTPase Rab6a. Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport. In these assays, BICD2 mutants showed an enhanced ability to form motile DDB complexes. Increased retrograde transport by BICD2 mutants also was observed in cells using an inducible organelle transport assay. When overexpressed in rat hippocampal neurons, the hyperactive BICD2 mutants decreased neurite growth. Our results reveal that dominant mutations in BICD2 hyperactivate DDB motility and suggest that an imbalance of minus versus plus end-directed microtubule motility in neurons may underlie spinal muscular atrophy.",
+  "entities": [
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 32,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 260,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "23299",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BICD2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 38,
+          "length": 5
+        },
+        {
+          "text": "Bicaudal D2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 87,
+          "length": 11
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 100,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 225,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "1778",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dynein",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 70,
+          "length": 6
+        },
+        {
+          "text": "dynein",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 113,
+          "length": 6
+        },
+        {
+          "text": "dynein",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 642,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "1639",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dynactin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 8
+        },
+        {
+          "text": "dynactin",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 125,
+          "length": 8
+        },
+        {
+          "text": "dynactin",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 649,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1639,1778,23299",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DDB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 165,
+          "length": 3
+        },
+        {
+          "text": "DDB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 742,
+          "length": 3
+        },
+        {
+          "text": "DDB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1047,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009134",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "spinal muscular atrophy",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 293,
+          "length": 23
+        },
+        {
+          "text": "spinal muscular atrophy",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1169,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "1639,1778,76895",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "DDB",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 455,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "76895",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 463,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 588,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 686,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 791,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 941,
+          "length": 5
+        },
+        {
+          "text": "BICD2",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 1027,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5870",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GTPase Rab6a",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 501,
+          "length": 12
+        },
+        {
+          "text": "Rab6a-GTP",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 515,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 87,
+          "char_offset": 900,
+          "length": 3
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "76895",
+      "tail_id": "D009134",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "76895",
+      "tail_id": "1639",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "76895",
+      "tail_id": "1778",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "76895",
+      "tail_id": "23299",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "5870",
+      "tail_id": "76895",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "5870",
+      "tail_id": "1639",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "5870",
+      "tail_id": "1778",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "1639",
+      "tail_id": "D009134",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "1778",
+      "tail_id": "D009134",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "1778",
+      "tail_id": "1639",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "23299",
+      "tail_id": "D009134",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "23299",
+      "tail_id": "1639",
+      "type": "Bind",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "23299",
+      "tail_id": "1778",
+      "type": "Bind",
+      "novel": "Novel"
+    }
+  ]
+}

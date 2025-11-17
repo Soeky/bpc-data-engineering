@@ -1,0 +1,415 @@
+{
+  "doc_id": "20431083",
+  "title": "Antithrombotic drug use, cerebral microbleeds, and intracerebral hemorrhage: a systematic review of published and unpublished studies.",
+  "body": "BACKGROUND AND PURPOSE: Cerebral microbleeds (MB) are potential risk factors for intracerebral hemorrhage (ICH), but it is unclear if they are a contraindication to using antithrombotic drugs. Insights could be gained by pooling data on MB frequency stratified by antithrombotic use in cohorts with ICH and ischemic stroke (IS)/transient ischemic attack (TIA). METHODS: We performed a systematic review of published and unpublished data from cohorts with stroke or TIA to compare the presence of MB in: (1) antithrombotic users vs nonantithrombotic users with ICH; (2) antithrombotic users vs nonusers with IS/TIA; and (3) ICH vs ischemic events stratified by antithrombotic use. We also analyzed published and unpublished follow-up data to determine the risk of ICH in antithrombotic users with MB. RESULTS: In a pooled analysis of 1460 ICH and 3817 IS/TIA, MB were more frequent in ICH vs IS/TIA in all treatment groups, but the excess increased from 2.8 (odds ratio; range, 2.3-3.5) in nonantithrombotic users to 5.7 (range, 3.4-9.7) in antiplatelet users and 8.0 (range, 3.5-17.8) in warfarin users (P difference=0.01). There was also an excess of MB in warfarin users vs nonusers with ICH (OR, 2.7; 95% CI, 1.6-4.4; P<0.001) but none in warfarin users with IS/TIA (OR, 1.3; 95% CI, 0.9-1.7; P=0.33; P difference=0.01). There was a smaller excess of MB in antiplatelet users vs nonusers with ICH (OR, 1.7; 95% CI, 1.3-2.3; P<0.001), but findings were similar for antiplatelet users with IS/TIA (OR, 1.4; 95% CI, 1.2-1.7; P<0.001; P difference=0.25). In pooled follow-up data for 768 antithrombotic users, presence of MB at baseline was associated with a substantially increased risk of subsequent ICH (OR, 12.1; 95% CI, 3.4-42.5; P<0.001). CONCLUSIONS: The excess of MB in warfarin users with ICH compared to other groups suggests that MB increase the risk of warfarin-associated ICH. Limited prospective data corroborate these findings, but larger prospective studies are urgently required.",
+  "entities": [
+    {
+      "id": "D005343",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Antithrombotic drug",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 19
+        },
+        {
+          "text": "antithrombotic drugs",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 306,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D002543",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cerebral microbleeds",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 20
+        },
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 51,
+          "length": 24
+        },
+        {
+          "text": "Cerebral microbleeds",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 159,
+          "length": 20
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 181,
+          "length": 2
+        },
+        {
+          "text": "intracerebral hemorrhage",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 216,
+          "length": 24
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 242,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 372,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 434,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 631,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 695,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 758,
+          "length": 3
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 898,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 931,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 973,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 994,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1019,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1287,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1325,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1489,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1531,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1756,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1836,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1906,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1932,
+          "length": 3
+        },
+        {
+          "text": "MB",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1975,
+          "length": 2
+        },
+        {
+          "text": "ICH",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 2019,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D002544",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic stroke",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 442,
+          "length": 15
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 459,
+          "length": 2
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 742,
+          "length": 2
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 986,
+          "length": 2
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1026,
+          "length": 2
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1397,
+          "length": 2
+        },
+        {
+          "text": "IS",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1626,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D002546",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "transient ischemic attack",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 463,
+          "length": 25
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 490,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 600,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 745,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 989,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1029,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1400,
+          "length": 3
+        },
+        {
+          "text": "TIA",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1629,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D020521",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "stroke",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 590,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D007511",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ischemic",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 765,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014859",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1223,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1293,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1377,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1912,
+          "length": 8
+        },
+        {
+          "text": "warfarin",
+          "passage_index": 1,
+          "passage_offset": 135,
+          "char_offset": 1999,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005343",
+      "tail_id": "D002543",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D002543",
+      "tail_id": "D014859",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "doc_id": "21059483",
+  "title": "The GALT rush: high carrier frequency of an unusual deletion mutation of the GALT gene in the Ashkenazi population.",
+  "body": "Classic galactosemia is an autosomal recessive disorder of galactose metabolism manifesting in the first weeks of life following exposure to a milk-based diet. Despite the benefit of avoidance of lactose, many patients suffer from long-term complications including neurological deficits and ovarian failure. To date, over 230 mutations have been described in the GALT gene resulting in galactosemia. Recently, an unusual mutation was characterized causing a 5.5 kb deletion, with a relatively high carrier rate in subjects of Ashkenazi Jewish (AJ) descent. The aim of this study was to estimate the carrier frequency of this mutation in the AJ population in Israel. For this purpose we developed a high-throughput methodology to genotype both normal and deleted alleles using a chip-based matrix-assisted laser desorption-time-of-flight (MALDI-TOF) mass spectrometer and Multiplex PCR. DNA samples of 760 anonymous AJ subjects were submitted for analysis, subsequently detecting six individuals heterozygous for the GALT deletion mutation, giving a carrier frequency of 1 in 127 (0.79%). Based on these results, we suggest that the method described here provides a basis for genetic screening and prenatal counseling and can potentially reduce the morbidity and mortality associated with delayed diagnosis of galactosemia in this patient population.",
+  "entities": [
+    {
+      "id": "2592",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "GALT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 4,
+          "length": 4
+        },
+        {
+          "text": "GALT",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 4
+        },
+        {
+          "text": "GALT",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 479,
+          "length": 4
+        },
+        {
+          "text": "GALT",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1132,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D005693",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Classic galactosemia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 116,
+          "length": 20
+        },
+        {
+          "text": "autosomal recessive disorder of galactose metabolism",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 143,
+          "length": 52
+        },
+        {
+          "text": "galactosemia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 502,
+          "length": 12
+        },
+        {
+          "text": "galactosemia",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1425,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D007785",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "lactose",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 312,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 326,
+          "length": 8
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 1446,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D009461",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neurological deficits",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 381,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D016649",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ovarian failure",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 407,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||5.5K",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "5.5 kb deletion",
+          "passage_index": 1,
+          "passage_offset": 116,
+          "char_offset": 574,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "2592",
+      "tail_id": "D005693",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D005693",
+      "tail_id": "D007785",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D005693",
+      "tail_id": "c|DEL||5.5K",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

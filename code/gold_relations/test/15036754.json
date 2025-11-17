@@ -1,0 +1,738 @@
+{
+  "doc_id": "15036754",
+  "title": "Organophosphate-induced convulsions and prevention of neuropathological damages.",
+  "body": "Such organophosphorus (OP) compounds as diisopropylfluorophosphate (DFP), sarin and soman are potent inhibitors of acetylcholinesterases (AChEs) and butyrylcholinesterases (BChEs). The acute toxicity of OPs is the result of their irreversible binding with AChEs in the central nervous system (CNS), which elevates acetylcholine (ACh) levels. The protective action of subcutaneously (SC) administered antidotes or their combinations in DFP (2.0 mg/kg BW) intoxication was studied in 9-10-weeks-old Han-Wistar male rats. The rats received AChE reactivator pralidoxime-2-chloride (2PAM) (30.0 mg/kg BW), anticonvulsant diazepam (2.0 mg/kg BW), A(1)-adenosine receptor agonist N(6)-cyclopentyl adenosine (CPA) (2.0 mg/kg BW), NMDA-receptor antagonist dizocilpine maleate (+-MK801 hydrogen maleate) (2.0 mg/kg BW) or their combinations with cholinolytic drug atropine sulfate (50.0 mg/kg BW) immediately or 30 min after the single SC injection of DFP. The control rats received atropine sulfate, but also saline and olive oil instead of other antidotes and DFP, respectively. All rats were terminated either 24 h or 3 weeks after the DFP injection. The rats treated with DFP-atropine showed severe typical OP-induced toxicity signs. When CPA, diazepam or 2PAM was given immediately after DFP-atropine, these treatments prevented, delayed or shortened the occurrence of serious signs of poisoning. Atropine-MK801 did not offer any additional protection against DFP toxicity. In conclusion, CPA, diazepam and 2PAM in combination with atropine prevented the occurrence of serious signs of poisoning and thus reduced the toxicity of DFP in rat.",
+  "entities": [
+    {
+      "id": "D010755",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Organophosphate",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 15
+        },
+        {
+          "text": "organophosphorus",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 86,
+          "length": 16
+        },
+        {
+          "text": "OP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 104,
+          "length": 2
+        },
+        {
+          "text": "OPs",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 284,
+          "length": 3
+        },
+        {
+          "text": "OP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1282,
+          "length": 2
+        }
+      ]
+    },
+    {
+      "id": "D012640",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "convulsions",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 24,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D004194",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathological damages",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 54,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D007531",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diisopropylfluorophosphate",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 121,
+          "length": 26
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 149,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 516,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1023,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1133,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1210,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1247,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1364,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1536,
+          "length": 3
+        },
+        {
+          "text": "DFP",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1705,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D012524",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "sarin",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 155,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D012999",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "soman",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 165,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "83817",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "acetylcholinesterases",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 196,
+          "length": 21
+        },
+        {
+          "text": "AChEs",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 219,
+          "length": 5
+        },
+        {
+          "text": "AChEs",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 337,
+          "length": 5
+        },
+        {
+          "text": "AChE",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 618,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "65036",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "butyrylcholinesterases",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 230,
+          "length": 22
+        },
+        {
+          "text": "BChEs",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 254,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D064420",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 272,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1293,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1540,
+          "length": 8
+        },
+        {
+          "text": "toxicity",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1693,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000109",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "acetylcholine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 395,
+          "length": 13
+        },
+        {
+          "text": "ACh",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 410,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 594,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 604,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1040,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1156,
+          "length": 4
+        },
+        {
+          "text": "rats",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1229,
+          "length": 4
+        },
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1712,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D011220",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "pralidoxime-2-chloride",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 635,
+          "length": 22
+        },
+        {
+          "text": "2PAM",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 659,
+          "length": 4
+        },
+        {
+          "text": "2PAM",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1331,
+          "length": 4
+        },
+        {
+          "text": "2PAM",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1583,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003975",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "diazepam",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 697,
+          "length": 8
+        },
+        {
+          "text": "diazepam",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1319,
+          "length": 8
+        },
+        {
+          "text": "diazepam",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1570,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "29290",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "A(1)-adenosine receptor",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 722,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "C048599",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "N(6)-cyclopentyl adenosine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 754,
+          "length": 26
+        },
+        {
+          "text": "CPA",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 782,
+          "length": 3
+        },
+        {
+          "text": "CPA",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1314,
+          "length": 3
+        },
+        {
+          "text": "CPA",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1565,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24408",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NMDA-receptor",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 803,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "D016291",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "dizocilpine maleate",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 828,
+          "length": 19
+        },
+        {
+          "text": "MK801 hydrogen maleate",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 851,
+          "length": 22
+        },
+        {
+          "text": "MK801",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1482,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D001285",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "atropine sulfate",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 935,
+          "length": 16
+        },
+        {
+          "text": "atropine sulfate",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1054,
+          "length": 16
+        },
+        {
+          "text": "atropine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1251,
+          "length": 8
+        },
+        {
+          "text": "atropine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1368,
+          "length": 8
+        },
+        {
+          "text": "Atropine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1473,
+          "length": 8
+        },
+        {
+          "text": "atropine",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1608,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D000069463",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "olive oil",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1092,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D011041",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "poisoning",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1462,
+          "length": 9
+        },
+        {
+          "text": "poisoning",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1662,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D012999",
+      "tail_id": "65036",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D012999",
+      "tail_id": "83817",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D012524",
+      "tail_id": "65036",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D012524",
+      "tail_id": "83817",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D001285",
+      "tail_id": "D007531",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003975",
+      "tail_id": "D001285",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003975",
+      "tail_id": "D007531",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D007531",
+      "tail_id": "65036",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D007531",
+      "tail_id": "83817",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "24408",
+      "tail_id": "D016291",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "C048599",
+      "tail_id": "D001285",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "C048599",
+      "tail_id": "D003975",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "C048599",
+      "tail_id": "D007531",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "29290",
+      "tail_id": "C048599",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "D011220",
+      "tail_id": "D001285",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D011220",
+      "tail_id": "D003975",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D011220",
+      "tail_id": "D007531",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R17",
+      "head_id": "D011220",
+      "tail_id": "C048599",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R18",
+      "head_id": "83817",
+      "tail_id": "D011220",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "83817",
+      "tail_id": "D000109",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R20",
+      "head_id": "D010755",
+      "tail_id": "65036",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R21",
+      "head_id": "D010755",
+      "tail_id": "83817",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R22",
+      "head_id": "D010755",
+      "tail_id": "D000109",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R23",
+      "head_id": "D010755",
+      "tail_id": "D004194",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R24",
+      "head_id": "D010755",
+      "tail_id": "D012640",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

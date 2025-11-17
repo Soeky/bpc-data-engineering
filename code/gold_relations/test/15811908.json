@@ -1,0 +1,391 @@
+{
+  "doc_id": "15811908",
+  "title": "Pheochromocytoma unmasked by amisulpride and tiapride.",
+  "body": "OBJECTIVE: To describe the unmasking of pheochromocytoma in a patient treated with amisulpride and tiapride. CASE SUMMARY: A 42-year-old white man developed acute hypertension with severe headache and vomiting 2 hours after the first doses of amisulpride 100 mg and tiapride 100 mg. Both drugs were immediately discontinued, and the patient recovered after subsequent nicardipine and verapamil treatment. Abdominal ultrasound showed an adrenal mass, and postoperative histologic examination confirmed the diagnosis of pheochromocytoma. DISCUSSION: Drug-induced symptoms of pheochromocytoma are often associated with the use of substituted benzamide drugs, but the underlying mechanism is unknown. In our case, use of the Naranjo probability scale indicated a possible relationship between the hypertensive crisis and amisulpride and tiapride therapy. CONCLUSIONS: As of March 24, 2005, this is the first reported case of amisulpride- and tiapride-induced hypertensive crisis in a patient with pheochromocytoma. Physicians and other healthcare professionals should be aware of this potential adverse effect of tiapride and amisulpride.",
+  "entities": [
+    {
+      "id": "D010673",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Pheochromocytoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 16
+        },
+        {
+          "text": "pheochromocytoma",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 95,
+          "length": 16
+        },
+        {
+          "text": "pheochromocytoma",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 573,
+          "length": 16
+        },
+        {
+          "text": "pheochromocytoma",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 628,
+          "length": 16
+        },
+        {
+          "text": "pheochromocytoma",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1048,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D000077582",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "amisulpride",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 138,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 298,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 872,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 976,
+          "length": 11
+        },
+        {
+          "text": "amisulpride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1177,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D063325",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "tiapride",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 45,
+          "length": 8
+        },
+        {
+          "text": "tiapride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 154,
+          "length": 8
+        },
+        {
+          "text": "tiapride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 321,
+          "length": 8
+        },
+        {
+          "text": "tiapride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 888,
+          "length": 8
+        },
+        {
+          "text": "tiapride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 993,
+          "length": 8
+        },
+        {
+          "text": "tiapride",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1164,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 117,
+          "length": 7
+        },
+        {
+          "text": "man",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 198,
+          "length": 3
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 388,
+          "length": 7
+        },
+        {
+          "text": "patient",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1035,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006973",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hypertension",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 218,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 848,
+          "length": 12
+        },
+        {
+          "text": "hypertensive",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 1010,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D006261",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "headache",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 243,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D014839",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "vomiting",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 256,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009529",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nicardipine",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 423,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D014700",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "verapamil",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 439,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D001549",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "benzamide drugs",
+          "passage_index": 1,
+          "passage_offset": 55,
+          "char_offset": 694,
+          "length": 15
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D000077582",
+      "tail_id": "D063325",
+      "type": "Drug_Interaction",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D010673",
+      "tail_id": "D000077582",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D010673",
+      "tail_id": "D063325",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D001549",
+      "tail_id": "D010673",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D014700",
+      "tail_id": "D014839",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D014700",
+      "tail_id": "D006261",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D014700",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D009529",
+      "tail_id": "D014700",
+      "type": "Cotreatment",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D009529",
+      "tail_id": "D014839",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R9",
+      "head_id": "D009529",
+      "tail_id": "D006261",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D009529",
+      "tail_id": "D006973",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D014839",
+      "tail_id": "D000077582",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D014839",
+      "tail_id": "D063325",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D006261",
+      "tail_id": "D000077582",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D006261",
+      "tail_id": "D063325",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D006973",
+      "tail_id": "D000077582",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D006973",
+      "tail_id": "D063325",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

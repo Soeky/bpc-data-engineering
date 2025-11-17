@@ -1,0 +1,666 @@
+{
+  "doc_id": "19300402",
+  "title": "Bradykinin receptors antagonists and nitric oxide synthase inhibitors in vincristine and streptozotocin induced hyperalgesia in chemotherapy and diabetic neuropathy rat model.",
+  "body": "PURPOSE: The influence of an irreversible inhibitor of constitutive NO synthase (L-NOArg; 1.0 mg/kg ip), a relatively selective inhibitor of inducible NO synthase (L-NIL; 1.0 mg/kg ip) and a relatively specific inhibitor of neuronal NO synthase (7-NI; 0.1 mg/kg ip), on antihyperalgesic action of selective antagonists of B2 and B1 receptors: D-Arg-[Hyp3,Thi5,D-Tic7,Oic8] bradykinin (HOE 140; 70 nmol/kg ip) or des Arg10 HOE 140 (70 nmol/kg ip) respectively, in model of diabetic (streptozotocin-induced) and toxic (vincristine-induced) neuropathy was investigated. METHODS: The changes in pain thresholds were determined using mechanical stimuli--the modification of the classic paw withdrawal test described by Randall-Selitto. RESULTS: The results of this paper confirm that inhibition of bradykinin receptors and inducible NO synthase but not neuronal NO synthase activity reduces diabetic hyperalgesia. Pretreatment with L-NOArg and L-NIL but not 7-NI, significantly increases antihyperalgesic activity both HOE 140 and des Arg10 HOE 140. It was also shown that both products of inducible NO synthase and neuronal NO synthase activation as well as bradykinin are involved in hyperalgesia produced by vincristine. Moreover, L-NOArg and 7-NI but not L-NIL intensify antihyperalgesic activity of HOE 140 or des-Arg10HOE 140 in toxic neuropathy. CONCLUSIONS: Results of these studies suggest that B1 and B2 receptors are engaged in transmission of nociceptive stimuli in both diabetic and toxic neuropathy. In streptozotocin-induced hyperalgesia, inducible NO synthase participates in pronociceptive activity of bradykinin, whereas in vincristine-induced hyperalgesia bradykinin seemed to activate neuronal NO synthase pathway. Therefore, concomitant administration of small doses of bradykinin receptor antagonists and NO synthase inhibitors can be effective in alleviation of neuropathic pain, even in hospital care.",
+  "entities": [
+    {
+      "id": "D065168",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "Bradykinin receptors antagonists",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 32
+        },
+        {
+          "text": "bradykinin receptor antagonists",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1962,
+          "length": 31
+        }
+      ]
+    },
+    {
+      "id": "C080122,C090663,D019335",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "nitric oxide synthase inhibitors",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 37,
+          "length": 32
+        },
+        {
+          "text": "NO synthase inhibitors",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1998,
+          "length": 22
+        }
+      ]
+    },
+    {
+      "id": "D014750",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "vincristine",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 11
+        },
+        {
+          "text": "vincristine",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1382,
+          "length": 11
+        },
+        {
+          "text": "vincristine",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1813,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D013311",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "streptozotocin",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 89,
+          "length": 14
+        },
+        {
+          "text": "streptozotocin",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1688,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "D006930",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperalgesia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 112,
+          "length": 12
+        },
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1357,
+          "length": 12
+        },
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1711,
+          "length": 12
+        },
+        {
+          "text": "hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1833,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D003929",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic neuropathy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 145,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 165,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "24600",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "constitutive NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 231,
+          "length": 24
+        }
+      ]
+    },
+    {
+      "id": "D019335",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-NOArg",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 257,
+          "length": 7
+        },
+        {
+          "text": "L-NOArg",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1103,
+          "length": 7
+        },
+        {
+          "text": "L-NOArg",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1405,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "24599",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "inducible NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 317,
+          "length": 21
+        },
+        {
+          "text": "inducible NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 994,
+          "length": 21
+        },
+        {
+          "text": "inducible NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1261,
+          "length": 21
+        },
+        {
+          "text": "inducible NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1725,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "C090663",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "L-NIL",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 340,
+          "length": 5
+        },
+        {
+          "text": "L-NIL",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1115,
+          "length": 5
+        },
+        {
+          "text": "L-NIL",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1430,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "24598",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "neuronal NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 400,
+          "length": 20
+        },
+        {
+          "text": "neuronal NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1024,
+          "length": 20
+        },
+        {
+          "text": "neuronal NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1287,
+          "length": 20
+        },
+        {
+          "text": "neuronal NO synthase",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1876,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "C080122",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "7-NI",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 422,
+          "length": 4
+        },
+        {
+          "text": "7-NI",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1129,
+          "length": 4
+        },
+        {
+          "text": "7-NI",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1417,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "25245,81509",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "B2 and B1 receptors",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 498,
+          "length": 19
+        },
+        {
+          "text": "bradykinin receptors",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 969,
+          "length": 20
+        },
+        {
+          "text": "B1 and B2 receptors",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1575,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "C065679",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "D-Arg-[Hyp3,Thi5,D-Tic7,Oic8] bradykinin",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 519,
+          "length": 40
+        },
+        {
+          "text": "HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 561,
+          "length": 7
+        },
+        {
+          "text": "HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1190,
+          "length": 7
+        },
+        {
+          "text": "HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1475,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "C078665",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "des Arg10 HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 588,
+          "length": 17
+        },
+        {
+          "text": "des Arg10 HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1202,
+          "length": 17
+        },
+        {
+          "text": "des-Arg10HOE 140",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1486,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D003929,D010523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic (streptozotocin-induced) and toxic (vincristine-induced) neuropathy",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 648,
+          "length": 76
+        },
+        {
+          "text": "diabetic and toxic neuropathy",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1654,
+          "length": 29
+        }
+      ]
+    },
+    {
+      "id": "D010146",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "pain",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 767,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "D003920,D006930",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "diabetic hyperalgesia",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1062,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "3827",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "bradykinin",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1330,
+          "length": 10
+        },
+        {
+          "text": "bradykinin",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1790,
+          "length": 10
+        },
+        {
+          "text": "bradykinin",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1846,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "D010523",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "toxic neuropathy",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 1506,
+          "length": 16
+        }
+      ]
+    },
+    {
+      "id": "D009437",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "neuropathic pain",
+          "passage_index": 1,
+          "passage_offset": 176,
+          "char_offset": 2056,
+          "length": 16
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "24600",
+      "tail_id": "D019335",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "D065168",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "3827",
+      "tail_id": "D006930",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D019335",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D019335",
+      "tail_id": "D010523",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "D019335",
+      "tail_id": "C078665",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D019335",
+      "tail_id": "C065679",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "C078665",
+      "tail_id": "D010523",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R14",
+      "head_id": "C065679",
+      "tail_id": "D010523",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R19",
+      "head_id": "C080122",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R20",
+      "head_id": "C080122",
+      "tail_id": "D010523",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R21",
+      "head_id": "C080122",
+      "tail_id": "C078665",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R22",
+      "head_id": "C080122",
+      "tail_id": "C065679",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R23",
+      "head_id": "24598",
+      "tail_id": "C080122",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R24",
+      "head_id": "24598",
+      "tail_id": "D006930",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R25",
+      "head_id": "C090663",
+      "tail_id": "D009437",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R26",
+      "head_id": "C090663",
+      "tail_id": "C078665",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R27",
+      "head_id": "C090663",
+      "tail_id": "C065679",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R28",
+      "head_id": "24599",
+      "tail_id": "3827",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R30",
+      "head_id": "24599",
+      "tail_id": "C090663",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R31",
+      "head_id": "24599",
+      "tail_id": "D006930",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R32",
+      "head_id": "D013311",
+      "tail_id": "D006930",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R35",
+      "head_id": "D014750",
+      "tail_id": "D006930",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    }
+  ]
+}

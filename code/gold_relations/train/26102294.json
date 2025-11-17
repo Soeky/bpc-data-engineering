@@ -1,0 +1,404 @@
+{
+  "doc_id": "26102294",
+  "title": "Role of stress-activated OCT4A in the cell fate decisions of embryonal carcinoma cells treated with etoposide.",
+  "body": "Tumor cellular senescence induced by genotoxic treatments has recently been found to be paradoxically linked to the induction of \"stemness.\" This observation is critical as it directly impinges upon the response of tumors to current chemo-radio-therapy treatment regimens. Previously, we showed that following etoposide (ETO) treatment embryonal carcinoma PA-1 cells undergo a p53-dependent upregulation of OCT4A and p21Cip1 (governing self-renewal and regulating cell cycle inhibition and senescence, respectively). Here we report further detail on the relationship between these and other critical cell-fate regulators. PA-1 cells treated with ETO display highly heterogeneous increases in OCT4A and p21Cip1 indicative of dis-adaptation catastrophe. Silencing OCT4A suppresses p21Cip1, changes cell cycle regulation and subsequently suppresses terminal senescence; p21Cip1-silencing did not affect OCT4A expression or cellular phenotype. SOX2 and NANOG expression did not change following ETO treatment suggesting a dissociation of OCT4A from its pluripotency function. Instead, ETO-induced OCT4A was concomitant with activation of AMPK, a key component of metabolic stress and autophagy regulation. p16ink4a, the inducer of terminal senescence, underwent autophagic sequestration in the cytoplasm of ETO-treated cells, allowing alternative cell fates. Accordingly, failure of autophagy was accompanied by an accumulation of p16ink4a, nuclear disintegration, and loss of cell recovery. Together, these findings imply that OCT4A induction following DNA damage in PA-1 cells, performs a cell stress, rather than self-renewal, function by moderating the expression of p21Cip1, which alongside AMPK helps to then regulate autophagy. Moreover, this data indicates that exhaustion of autophagy, through persistent DNA damage, is the cause of terminal cellular senescence.",
+  "entities": [
+    {
+      "id": "5460",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "OCT4A",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 25,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 518,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 803,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 873,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1011,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1145,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1204,
+          "length": 5
+        },
+        {
+          "text": "OCT4A",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1635,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D018236",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "embryonal carcinoma",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 19
+        },
+        {
+          "text": "embryonal carcinoma",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 447,
+          "length": 19
+        }
+      ]
+    },
+    {
+      "id": "D005047",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "etoposide",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 100,
+          "length": 9
+        },
+        {
+          "text": "etoposide",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 421,
+          "length": 9
+        },
+        {
+          "text": "ETO",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 432,
+          "length": 3
+        },
+        {
+          "text": "ETO",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 757,
+          "length": 3
+        },
+        {
+          "text": "ETO",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1102,
+          "length": 3
+        },
+        {
+          "text": "ETO",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1192,
+          "length": 3
+        },
+        {
+          "text": "ETO",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1414,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D009369",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "tumors",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 326,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0479",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "PA-1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 467,
+          "length": 4
+        },
+        {
+          "text": "PA-1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 733,
+          "length": 4
+        },
+        {
+          "text": "PA-1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1675,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "7157",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p53",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 488,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p21Cip1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 528,
+          "length": 7
+        },
+        {
+          "text": "p21Cip1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 813,
+          "length": 7
+        },
+        {
+          "text": "p21Cip1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 890,
+          "length": 7
+        },
+        {
+          "text": "p21Cip1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 978,
+          "length": 7
+        },
+        {
+          "text": "p21Cip1",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1778,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "6657",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "SOX2",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1051,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "79923",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "NANOG",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1060,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "5562",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1245,
+          "length": 4
+        },
+        {
+          "text": "AMPK",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1803,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "p16ink4a",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1313,
+          "length": 8
+        },
+        {
+          "text": "p16ink4a",
+          "passage_index": 1,
+          "passage_offset": 111,
+          "char_offset": 1538,
+          "length": 8
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "7157",
+      "tail_id": "1026",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "7157",
+      "tail_id": "5460",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "D018236",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D018236",
+      "tail_id": "1026",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R4",
+      "head_id": "D018236",
+      "tail_id": "5460",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "1029",
+      "tail_id": "D005047",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "D005047",
+      "tail_id": "7157",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "D005047",
+      "tail_id": "D018236",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "D005047",
+      "tail_id": "5562",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D005047",
+      "tail_id": "1026",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D005047",
+      "tail_id": "5460",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R11",
+      "head_id": "1026",
+      "tail_id": "5562",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "5460",
+      "tail_id": "5562",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "5460",
+      "tail_id": "1026",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

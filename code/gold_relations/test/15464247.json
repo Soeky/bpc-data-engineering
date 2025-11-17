@@ -1,0 +1,259 @@
+{
+  "doc_id": "15464247",
+  "title": "Influence of interleukin 12B (IL12B) polymorphisms on spontaneous and treatment-induced recovery from hepatitis C virus infection.",
+  "body": "BACKGROUND/AIMS: Interleukin-12 (IL-12) governs the Th1-type immune response, affecting the spontaneous and treatment-induced recovery from HCV-infection. We investigated whether the IL12B polymorphisms within the promoter region (4 bp insertion/deletion) and the 3'-UTR (1188-A/C), which have been reported to influence IL-12 synthesis, are associated with the outcome of HCV infection. METHODS: We analyzed 186 individuals with spontaneous HCV clearance, 501 chronically HCV infected patients, and 217 healthy controls. IL12B 3'-UTR and promoter genotyping was performed by Taqman-based assays with allele-specific oligonucleotide probes and PCR-based allele-specific DNA-amplification, respectively. RESULTS: The proportion of IL12B promoter and 3'-UTR genotypes did not differ significantly between the different cohorts. However, HCV genotype 1-infected patients with high baseline viremia carrying the IL12B 3'-UTR 1188-C-allele showed significantly higher sustained virologic response (SVR) rates (25.3% vs. 46% vs. 54.5% for A/A, A/C and C/C) due to reduced relapse rates (24.2% vs. 12% vs. zero % for A/A, A/C and C/C). CONCLUSIONS: IL12B 3'-UTR 1188-C-allele carriers appear to be capable of responding more efficiently to antiviral combination therapy as a consequence of a reduced relapse rate. No association of IL12B polymorphisms and self-limited HCV infection could be demonstrated.",
+  "entities": [
+    {
+      "id": "3593",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "interleukin 12B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 13,
+          "length": 15
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 30,
+          "length": 5
+        },
+        {
+          "text": "Interleukin-12",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 148,
+          "length": 14
+        },
+        {
+          "text": "IL-12",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 164,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 314,
+          "length": 5
+        },
+        {
+          "text": "IL-12",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 452,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 653,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 861,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1039,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1273,
+          "length": 5
+        },
+        {
+          "text": "IL12B",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1456,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D006526",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hepatitis C virus infection",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 102,
+          "length": 27
+        },
+        {
+          "text": "HCV-infection",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 271,
+          "length": 13
+        },
+        {
+          "text": "HCV infection",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 504,
+          "length": 13
+        },
+        {
+          "text": "HCV infected",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 604,
+          "length": 12
+        },
+        {
+          "text": "HCV genotype 1-infected",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 966,
+          "length": 23
+        },
+        {
+          "text": "HCV infection",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1493,
+          "length": 13
+        }
+      ]
+    },
+    {
+      "id": "c|INDEL||4",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "4 bp insertion/deletion",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 362,
+          "length": 23
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|A|1188|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1188-A/C",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 403,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "11103",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "HCV",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 573,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 617,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 990,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009841",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "oligonucleotide",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 748,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "D014766",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "viremia",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1018,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|Allele|C|1188",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "1188-C",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1052,
+          "length": 6
+        },
+        {
+          "text": "1188-C",
+          "passage_index": 1,
+          "passage_offset": 131,
+          "char_offset": 1286,
+          "length": 6
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D014766",
+      "tail_id": "c|Allele|C|1188",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D014766",
+      "tail_id": "3593",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

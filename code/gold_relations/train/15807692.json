@@ -1,0 +1,157 @@
+{
+  "doc_id": "15807692",
+  "title": "Identification of novel type VII collagen gene mutations resulting in severe recessive dystrophic epidermolysis bullosa.",
+  "body": "In this work, we studied the proband in a small nuclear family of Chinese and Dutch/German descent and identified two novel mutations in the type VII collagen gene leading to recessive dystrophic epidermolysis bullosa, Hallopeau-Siemens variant (HS-RDEB). The maternal mutation is a single base pair deletion of a cytosine nucleotide in exon 26, designated 3472delC, resulting in a frameshift and a premature termination codon (PTC) within the same exon, 7 bp downstream of the site of the mutation. The paternal mutation is a G-->A transition located at the 5' donor splice site within intron 51, designated IVS51 + 1G-->A. This mutation leads to the activation of a cryptic splice site, 32 bp downstream of the mutation site and to subsequent aberrant out-of-frame splicing, resulting in two alternative mRNA transcripts and a downstream PTC. To our knowledge, these two mutations have not been previously reported. These findings extend the body of evidence for compound heterozygous mutations leading to HS-RDEB and provide the basis for prenatal diagnosis in this family.",
+  "entities": [
+    {
+      "id": "1294",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "VII collagen",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 29,
+          "length": 12
+        },
+        {
+          "text": "VII collagen",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 267,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D016108",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "recessive dystrophic epidermolysis bullosa",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 77,
+          "length": 42
+        },
+        {
+          "text": "recessive dystrophic epidermolysis bullosa",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 296,
+          "length": 42
+        },
+        {
+          "text": "Hallopeau-Siemens",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 340,
+          "length": 17
+        },
+        {
+          "text": "HS-RDEB",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 367,
+          "length": 7
+        },
+        {
+          "text": "HS-RDEB",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 1129,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "single base pair deletion of a cytosine nucleotide",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 404,
+          "length": 50
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|3472|C",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "3472delC",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 478,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G||A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "G-->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 648,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|SUB|G|IVS51+1|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "IVS51 + 1G-->A",
+          "passage_index": 1,
+          "passage_offset": 121,
+          "char_offset": 730,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL|3472|C",
+      "tail_id": "D016108",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "c|DEL||C",
+      "tail_id": "D016108",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "1294",
+      "tail_id": "D016108",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D016108",
+      "tail_id": "c|SUB|G||A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D016108",
+      "tail_id": "c|SUB|G|IVS51+1|A",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

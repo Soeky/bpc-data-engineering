@@ -1,0 +1,171 @@
+{
+  "doc_id": "18945288",
+  "title": "R58fs mutation in the HGD gene in a family with alkaptonuria in the UAE.",
+  "body": "This study was conducted to determine the prevalence of alkaptonuria in the UAE population and to identify the genotype of affected individuals. In a 3 stage sampling technique 2981 pupils from Government schools in Al Ain and private schools in Dubai were selected to take part in the study, of whom 2857 provided urine samples. Urine collected was analysed for homogentisic acid by gas chromatography-mass spectrometry. Genomic DNA was isolated from the white blood cells of all family members of the affected case following standard established protocols. Specific PRC primers were designed to amplify all 14 exons of the HGD gene with the flanking intronic sequences including the splice site sequences. 2857 children returned a viable urine sample, of which one was highly positive for homogentisic acid. All 12 members of this girl's family were studied and one, a 22 year old brother, was found to excrete HGA. Another, a sister who had not provided a urine sample, was discovered by genetic testing. There were no complaints of joint pain or other symptoms in any member of this family. Parents were first cousins. We found a single nucleotide deletion c.342delA, located in exon 3, which resulted in a frameshift at amino acid position 58 (p.Arg58fs or p.R58fs). Alkaptonuria may be more common than it is thought to be with an allele prevalence estimated at 0.0107 (95% CI 0.000392-0.03473). The R58fs mutation is old, perhaps having occurred several thousand years ago, and has spread over a large geographical area.",
+  "entities": [
+    {
+      "id": "p|FS|R|58||",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "R58fs",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 5
+        },
+        {
+          "text": "p.Arg58fs",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1322,
+          "length": 9
+        },
+        {
+          "text": "p.R58fs",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1335,
+          "length": 7
+        },
+        {
+          "text": "R58fs",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1479,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "3081",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "HGD",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 22,
+          "length": 3
+        },
+        {
+          "text": "HGD",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 698,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D000474",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "alkaptonuria",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 48,
+          "length": 12
+        },
+        {
+          "text": "alkaptonuria",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 129,
+          "length": 12
+        },
+        {
+          "text": "Alkaptonuria",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1345,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D006713",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "homogentisic acid",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 436,
+          "length": 17
+        },
+        {
+          "text": "homogentisic acid",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 864,
+          "length": 17
+        },
+        {
+          "text": "HGA",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 986,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D018771",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "joint pain",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1109,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "c|DEL|342|A",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "c.342delA",
+          "passage_index": 1,
+          "passage_offset": 73,
+          "char_offset": 1234,
+          "length": 9
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "3081",
+      "tail_id": "D006713",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "3081",
+      "tail_id": "D000474",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "p|FS|R|58||",
+      "tail_id": "D000474",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "c|DEL|342|A",
+      "tail_id": "D000474",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}

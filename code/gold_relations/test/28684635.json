@@ -1,0 +1,365 @@
+{
+  "doc_id": "28684635",
+  "title": "A Type 2 Diabetes-Associated Functional Regulatory Variant in a Pancreatic Islet Enhancer at the ADCY5 Locus.",
+  "body": "Molecular mechanisms remain unknown for most type 2 diabetes genome-wide association study identified loci. Variants associated with type 2 diabetes and fasting glucose levels reside in introns of ADCY5, a gene that encodes adenylate cyclase 5. Adenylate cyclase 5 catalyzes the production of cyclic AMP, which is a second messenger molecule involved in cell signaling and pancreatic b-cell insulin secretion. We demonstrated that type 2 diabetes risk alleles are associated with decreased ADCY5 expression in human islets and examined candidate variants for regulatory function. rs11708067 overlaps a predicted enhancer region in pancreatic islets. The type 2 diabetes risk rs11708067-A allele showed fewer H3K27ac ChIP-seq reads in human islets, lower transcriptional activity in reporter assays in rodent b-cells (rat 832/13 and mouse MIN6), and increased nuclear protein binding compared with the rs11708067-G allele. Homozygous deletion of the orthologous enhancer region in 832/13 cells resulted in a 64% reduction in expression level of Adcy5, but not adjacent gene Sec22a, and a 39% reduction in insulin secretion. Together, these data suggest that rs11708067-A risk allele contributes to type 2 diabetes by disrupting an islet enhancer, which results in reduced ADCY5 expression and impaired insulin secretion.",
+  "entities": [
+    {
+      "id": "D003924",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Type 2 Diabetes",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 2,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 155,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 243,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 541,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 764,
+          "length": 15
+        },
+        {
+          "text": "type 2 diabetes",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1307,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ADCY5",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 97,
+          "length": 5
+        },
+        {
+          "text": "ADCY5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 307,
+          "length": 5
+        },
+        {
+          "text": "adenylate cyclase 5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 334,
+          "length": 19
+        },
+        {
+          "text": "Adenylate cyclase 5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 355,
+          "length": 19
+        },
+        {
+          "text": "ADCY5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 600,
+          "length": 5
+        },
+        {
+          "text": "ADCY5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1381,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "D005947",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "glucose",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 271,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D000242",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "cyclic AMP",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 403,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 501,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 620,
+          "length": 5
+        },
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 844,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs11708067",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "rs11708067",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 690,
+          "length": 10
+        },
+        {
+          "text": "rs11708067",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 785,
+          "length": 10
+        },
+        {
+          "text": "rs11708067",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1011,
+          "length": 10
+        },
+        {
+          "text": "rs11708067",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1267,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "rat",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 927,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "CVCL_7226",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "832/13",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 931,
+          "length": 6
+        },
+        {
+          "text": "832/13",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1090,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "mouse",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 942,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "CVCL_0431",
+      "type": "CellLine",
+      "mentions": [
+        {
+          "text": "MIN6",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 948,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "64532",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Adcy5",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1154,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "117513",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "Sec22a",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1183,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "24506",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "insulin",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1214,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D003920",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "impaired insulin secretion",
+          "passage_index": 1,
+          "passage_offset": 110,
+          "char_offset": 1402,
+          "length": 26
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D005947",
+      "tail_id": "111",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs11708067",
+      "tail_id": "D003920",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D000242",
+      "tail_id": "3630",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "111",
+      "tail_id": "D003920",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "111",
+      "tail_id": "D000242",
+      "type": "Positive_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D003924",
+      "tail_id": "D005947",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D003924",
+      "tail_id": "rs11708067",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "D003924",
+      "tail_id": "111",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

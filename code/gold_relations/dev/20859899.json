@@ -1,0 +1,366 @@
+{
+  "doc_id": "20859899",
+  "title": "Syncope caused by hyperkalemia during use of a combined therapy with the angiotensin-converting enzyme inhibitor and spironolactone.",
+  "body": "A 76 year-old woman with a history of coronary artery bypass grafting and prior myocardial infarction was transferred to the emergency room with loss of consciousness due to marked bradycardia caused by hyperkalemia. The concentration of serum potassium was high, and normal sinus rhythm was restored after correction of the serum potassium level. The cause of hyperkalemia was considered to be several doses of spiranolactone, an aldosterone antagonist, in addition to the long-term intake of ramipril, an ACE inhibitor. This case is a good example of electrolyte imbalance causing acute life-threatening cardiac events. Clinicians should be alert to the possibility of hyperkalemia, especially in elderly patients using ACE/ARB in combination with potassium sparing agents and who have mild renal disturbance.",
+  "entities": [
+    {
+      "id": "D013575",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Syncope",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 0,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "D006947",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "hyperkalemia",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 18,
+          "length": 12
+        },
+        {
+          "text": "hyperkalemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 336,
+          "length": 12
+        },
+        {
+          "text": "hyperkalemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 494,
+          "length": 12
+        },
+        {
+          "text": "hyperkalemia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 804,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D000806",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "angiotensin-converting enzyme inhibitor",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 73,
+          "length": 39
+        }
+      ]
+    },
+    {
+      "id": "D013148",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "spironolactone",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 117,
+          "length": 14
+        },
+        {
+          "text": "spiranolactone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 545,
+          "length": 14
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "woman",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 147,
+          "length": 5
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 840,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "D009203",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "myocardial infarction",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 213,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D014474",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "loss of consciousness",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 278,
+          "length": 21
+        }
+      ]
+    },
+    {
+      "id": "D001919",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "bradycardia",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 314,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D011188",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 377,
+          "length": 9
+        },
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 464,
+          "length": 9
+        },
+        {
+          "text": "potassium",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 883,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "D000450",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "aldosterone",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 564,
+          "length": 11
+        }
+      ]
+    },
+    {
+      "id": "D017257",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ramipril",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 627,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "1636",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 640,
+          "length": 3
+        },
+        {
+          "text": "ACE",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 855,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D057911",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "ARB",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 859,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D007674",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "renal disturbance",
+          "passage_index": 1,
+          "passage_offset": 133,
+          "char_offset": 926,
+          "length": 17
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "D057911",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "D057911",
+      "tail_id": "D011188",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "D057911",
+      "tail_id": "D006947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "D011188",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D011188",
+      "tail_id": "D006947",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R5",
+      "head_id": "1636",
+      "tail_id": "D007674",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R6",
+      "head_id": "1636",
+      "tail_id": "D057911",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R7",
+      "head_id": "1636",
+      "tail_id": "D011188",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R8",
+      "head_id": "1636",
+      "tail_id": "D006947",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R9",
+      "head_id": "D000450",
+      "tail_id": "D013148",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R10",
+      "head_id": "D017257",
+      "tail_id": "1636",
+      "type": "Negative_Correlation",
+      "novel": "No"
+    },
+    {
+      "id": "R11",
+      "head_id": "D006947",
+      "tail_id": "D017257",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R12",
+      "head_id": "D006947",
+      "tail_id": "D013148",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R13",
+      "head_id": "D006947",
+      "tail_id": "D000806",
+      "type": "Negative_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R14",
+      "head_id": "D000806",
+      "tail_id": "D013148",
+      "type": "Cotreatment",
+      "novel": "Novel"
+    },
+    {
+      "id": "R15",
+      "head_id": "D013575",
+      "tail_id": "D013148",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R16",
+      "head_id": "D013575",
+      "tail_id": "D000806",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    }
+  ]
+}

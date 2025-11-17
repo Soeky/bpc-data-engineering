@@ -1,0 +1,262 @@
+{
+  "doc_id": "16186368",
+  "title": "Characterization of Bietti crystalline dystrophy patients with CYP4V2 mutations.",
+  "body": "PURPOSE: Mutations of the CYP4V2 gene, a novel family member of the cytochrome P450 genes on chromosome 4q35, have recently been identified in patients with Bietti crystalline dystrophy (BCD). The aim of this study was to investigate the spectrum of mutations in this gene in BCD patients from Singapore, and to characterize their phenotype. METHODS: Nine patients with BCD from six families were recruited into the study. The 11 exons of the CYP4V2 gene were amplified from genomic DNA of patients by polymerase chain reaction and then sequenced. Detailed characterization of the patients' phenotype was performed with fundal photography, visual field testing, fundal fluorescein angiography, and electroretinography (ERG). RESULTS: Three pathogenic mutations were identified; two mutations, S482X and K386T, were novel and found in three patients. The third mutation, a previously identified 15-bp deletion that included the 3' splice site for exon 7, was found in all nine patients, with six patients carrying the deletion in the homozygous state. Haplotype analysis in patients and controls indicated a founder effect for this deletion mutation in exon 7. Clinical heterogeneity was present in the patients. Compound heterozygotes for the deletion in exon 7 seemed to have more severe disease compared to patients homozygous for the deletion. There was good correlation between clinical stage of disease and ERG changes, but age did not correlate with disease severity. CONCLUSIONS: This study identified novel mutations in the CYP4V2 gene as a cause of BCD. A high carrier frequency for the 15-bp deletion in exon 7 may exist in the Singapore population. Phenotype characterization showed clinical heterogeneity, and age did not correlate with disease severity.",
+  "entities": [
+    {
+      "id": "C535440",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Bietti crystalline dystrophy",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 20,
+          "length": 28
+        },
+        {
+          "text": "Bietti crystalline dystrophy",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 238,
+          "length": 28
+        },
+        {
+          "text": "BCD",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 268,
+          "length": 3
+        },
+        {
+          "text": "BCD",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 357,
+          "length": 3
+        },
+        {
+          "text": "BCD",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 451,
+          "length": 3
+        },
+        {
+          "text": "BCD",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1639,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "patients",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 49,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 224,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 361,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 437,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 571,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 662,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 921,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1057,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1076,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1154,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1283,
+          "length": 8
+        },
+        {
+          "text": "patients",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1390,
+          "length": 8
+        }
+      ]
+    },
+    {
+      "id": "285440",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CYP4V2",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 63,
+          "length": 6
+        },
+        {
+          "text": "CYP4V2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 107,
+          "length": 6
+        },
+        {
+          "text": "cytochrome P450",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 149,
+          "length": 15
+        },
+        {
+          "text": "CYP4V2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 524,
+          "length": 6
+        },
+        {
+          "text": "CYP4V2",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1613,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "rs146494374",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "S482X",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 874,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "rs199476200",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "K386T",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 884,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "c|DEL||15",
+      "type": "SequenceVariant",
+      "mentions": [
+        {
+          "text": "15-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 975,
+          "length": 14
+        },
+        {
+          "text": "15-bp deletion",
+          "passage_index": 1,
+          "passage_offset": 81,
+          "char_offset": 1677,
+          "length": 14
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "c|DEL||15",
+      "tail_id": "C535440",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R1",
+      "head_id": "rs199476200",
+      "tail_id": "C535440",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R2",
+      "head_id": "rs146494374",
+      "tail_id": "C535440",
+      "type": "Positive_Correlation",
+      "novel": "Novel"
+    },
+    {
+      "id": "R3",
+      "head_id": "C535440",
+      "tail_id": "285440",
+      "type": "Association",
+      "novel": "No"
+    }
+  ]
+}

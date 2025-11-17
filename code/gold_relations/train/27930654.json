@@ -1,0 +1,524 @@
+{
+  "doc_id": "27930654",
+  "title": "Whole-Organism Developmental Expression Profiling Identifies RAB-28 as a Novel Ciliary GTPase Associated with the BBSome and Intraflagellar Transport.",
+  "body": "Primary cilia are specialised sensory and developmental signalling devices extending from the surface of most eukaryotic cells. Defects in these organelles cause inherited human disorders (ciliopathies) such as retinitis pigmentosa and Bardet-Biedl syndrome (BBS), frequently affecting many physiological and developmental processes across multiple organs. Cilium formation, maintenance and function depend on intracellular transport systems such as intraflagellar transport (IFT), which is driven by kinesin-2 and IFT-dynein motors and regulated by the Bardet-Biedl syndrome (BBS) cargo-adaptor protein complex, or BBSome. To identify new cilium-associated genes, we employed the nematode C. elegans, where ciliogenesis occurs within a short timespan during late embryogenesis when most sensory neurons differentiate. Using whole-organism RNA-Seq libraries, we discovered a signature expression profile highly enriched for transcripts of known ciliary proteins, including FAM-161 (FAM161A orthologue), CCDC-104 (CCDC104), and RPI-1 (RP1/RP1L1), which we confirm are cilium-localised in worms. From a list of 185 candidate ciliary genes, we uncover orthologues of human MAP9, YAP, CCDC149, and RAB28 as conserved cilium-associated components. Further analyses of C. elegans RAB-28, recently associated with autosomal-recessive cone-rod dystrophy, reveal that this small GTPase is exclusively expressed in ciliated neurons where it dynamically associates with IFT trains. Whereas inactive GDP-bound RAB-28 displays no IFT movement and diffuse localisation, GTP-bound (activated) RAB-28 concentrates at the periciliary membrane in a BBSome-dependent manner and undergoes bidirectional IFT. Functional analyses reveal that whilst cilium structure, sensory function and IFT are seemingly normal in a rab-28 null allele, overexpression of predicted GDP or GTP locked variants of RAB-28 perturbs cilium and sensory pore morphogenesis and function. Collectively, our findings present a new approach for identifying ciliary proteins, and unveil RAB28, a GTPase most closely related to the BBS protein RABL4/IFT27, as an IFT-associated cargo with BBSome-dependent cell autonomous and non-autonomous functions at the ciliary base.",
+  "entities": [
+    {
+      "id": "189429",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAB-28",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 61,
+          "length": 6
+        },
+        {
+          "text": "GTPase",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 87,
+          "length": 6
+        },
+        {
+          "text": "RAB-28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1425,
+          "length": 6
+        },
+        {
+          "text": "GTPase",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1521,
+          "length": 6
+        },
+        {
+          "text": "RAB-28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1649,
+          "length": 6
+        },
+        {
+          "text": "RAB-28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1729,
+          "length": 6
+        },
+        {
+          "text": "rab-28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1947,
+          "length": 6
+        },
+        {
+          "text": "RAB-28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2025,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "260219",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "BBSome",
+          "passage_index": 0,
+          "passage_offset": 0,
+          "char_offset": 114,
+          "length": 6
+        },
+        {
+          "text": "Bardet-Biedl syndrome (BBS) cargo-adaptor protein complex",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 705,
+          "length": 57
+        },
+        {
+          "text": "BBSome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 767,
+          "length": 6
+        },
+        {
+          "text": "BBSome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1782,
+          "length": 6
+        },
+        {
+          "text": "BBSome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2289,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D030342",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "inherited human disorders",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 313,
+          "length": 25
+        }
+      ]
+    },
+    {
+      "id": "D000072661",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "ciliopathies",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 340,
+          "length": 12
+        }
+      ]
+    },
+    {
+      "id": "D012174",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "retinitis pigmentosa",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 362,
+          "length": 20
+        }
+      ]
+    },
+    {
+      "id": "D020788",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "Bardet-Biedl syndrome",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 387,
+          "length": 21
+        },
+        {
+          "text": "BBS",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 410,
+          "length": 3
+        },
+        {
+          "text": "BBS",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2232,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "177685",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "kinesin-2",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 652,
+          "length": 9
+        }
+      ]
+    },
+    {
+      "id": "172041",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "dynein",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 670,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "6239",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "C. elegans",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 841,
+          "length": 10
+        },
+        {
+          "text": "C. elegans",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1414,
+          "length": 10
+        }
+      ]
+    },
+    {
+      "id": "189695",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FAM-161",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1124,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "84140",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "FAM161A",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1133,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "112942",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCDC-104",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1154,
+          "length": 8
+        },
+        {
+          "text": "CCDC104",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1164,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "189281",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RPI-1",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1178,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "6101",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RP1",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1185,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "94137",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RP1L1",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1189,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "9606",
+      "type": "OrganismTaxon",
+      "mentions": [
+        {
+          "text": "human",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1315,
+          "length": 5
+        }
+      ]
+    },
+    {
+      "id": "79884",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "MAP9",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1321,
+          "length": 4
+        }
+      ]
+    },
+    {
+      "id": "10413",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "YAP",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1327,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "91050",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "CCDC149",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1332,
+          "length": 7
+        }
+      ]
+    },
+    {
+      "id": "9364",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RAB28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1345,
+          "length": 5
+        },
+        {
+          "text": "RAB28",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2188,
+          "length": 5
+        },
+        {
+          "text": "GTPase",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2197,
+          "length": 6
+        }
+      ]
+    },
+    {
+      "id": "D000071700",
+      "type": "DiseaseOrPhenotypicFeature",
+      "mentions": [
+        {
+          "text": "cone-rod dystrophy",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1478,
+          "length": 18
+        }
+      ]
+    },
+    {
+      "id": "D006153",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GDP",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1639,
+          "length": 3
+        },
+        {
+          "text": "GDP",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1995,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "D006160",
+      "type": "ChemicalEntity",
+      "mentions": [
+        {
+          "text": "GTP",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 1707,
+          "length": 3
+        },
+        {
+          "text": "GTP",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2002,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "11020",
+      "type": "GeneOrGeneProduct",
+      "mentions": [
+        {
+          "text": "RABL4",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2244,
+          "length": 5
+        },
+        {
+          "text": "IFT27",
+          "passage_index": 1,
+          "passage_offset": 151,
+          "char_offset": 2250,
+          "length": 5
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "head_id": "11020",
+      "tail_id": "D020788",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R1",
+      "head_id": "9364",
+      "tail_id": "11020",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R2",
+      "head_id": "9364",
+      "tail_id": "D020788",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R3",
+      "head_id": "D006160",
+      "tail_id": "260219",
+      "type": "Association",
+      "novel": "Novel"
+    },
+    {
+      "id": "R4",
+      "head_id": "D006160",
+      "tail_id": "189429",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R5",
+      "head_id": "D006153",
+      "tail_id": "189429",
+      "type": "Bind",
+      "novel": "No"
+    },
+    {
+      "id": "R6",
+      "head_id": "D020788",
+      "tail_id": "260219",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R7",
+      "head_id": "189429",
+      "tail_id": "D000071700",
+      "type": "Association",
+      "novel": "No"
+    },
+    {
+      "id": "R8",
+      "head_id": "189429",
+      "tail_id": "260219",
+      "type": "Association",
+      "novel": "Novel"
+    }
+  ]
+}
