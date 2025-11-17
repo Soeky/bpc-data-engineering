@@ -274,54 +274,49 @@ AggregateResults:
 
 ```
 code/
-├── pipeline/
+├── PIPELINE_DESIGN.md
+├── README.md
+├── config.py
+├── main.py
+├── pipeline
 │   ├── __init__.py
-│   │
-│   ├── types.py                # Type definitions (Document, Entity, Relation, etc.)
-│   │
-│   ├── data/                   # Data loading and management
+│   ├── aggregation
 │   │   ├── __init__.py
-│   │   ├── loader.py           # DocumentLoader, GoldRelationsLoader, DatasetLoader
-│   │   └── entity_map.py       # GlobalEntityMap class
-│   │
-│   ├── llm_prompter/           # LLM prompting techniques
+│   │   ├── aggregator.py
+│   │   └── comparator.py
+│   ├── evaluation
 │   │   ├── __init__.py
-│   │   ├── base.py             # Base LLMPrompter abstract class
-│   │   ├── io_prompter.py      # IOPrompter - simple I/O prompting
-│   │   ├── cot_prompter.py     # ChainOfThoughtPrompter - step-by-step reasoning
-│   │   ├── rag_prompter.py     # RAGPrompter - retrieval-augmented generation
-│   │   └── react_prompter.py   # ReActPrompter - reasoning + actions
-│   │
-│   ├── retrieval/              # Retrieval components for RAG
+│   │   ├── evaluator.py
+│   │   ├── matcher.py
+│   │   └── metrics.py
+│   ├── llm_prompter
 │   │   ├── __init__.py
-│   │   ├── base.py             # Base Retriever interface
-│   │   ├── pubmed_retriever.py # PubMed abstract retriever
-│   │   ├── vector_store.py     # Vector database for embeddings
-│   │   └── embeddings.py       # Embedding model utilities
-│   │
-│   ├── parsing/                # Response parsing and entity resolution
+│   │   ├── base.py
+│   │   ├── cot_prompter.py
+│   │   ├── io_prompter.py
+│   │   ├── rag_prompter.py
+│   │   └── react_prompter.py
+│   ├── parsing
 │   │   ├── __init__.py
-│   │   ├── parser.py           # ResponseParser - parse LLM responses
-│   │   └── entity_resolver.py  # EntityResolver - resolve mentions to IDs
-│   │
-│   ├── evaluation/             # Evaluation components
+│   │   ├── entity_resolver.py
+│   │   └── parser.py
+│   ├── retrieval
 │   │   ├── __init__.py
-│   │   ├── matcher.py          # RelationMatcher - match predictions to gold
-│   │   ├── metrics.py          # MetricsCalculator - compute all metrics
-│   │   │                        # (EM, Precision, Recall, F1, GED, BERTScore, etc.)
-│   │   └── evaluator.py        # Main Evaluator class
-│   │
-│   └── aggregation/            # Result aggregation and comparison
-│       ├── __init__.py
-│       ├── aggregator.py       # ResultAggregator - aggregate across documents
-│       └── comparator.py       # TechniqueComparator - compare techniques
-│
-├── main.py                     # Main pipeline orchestration
-├── config.py                   # Configuration (paths, API keys, etc.)
-└── utils/                      # Utility functions
-    ├── __init__.py
-    ├── logging.py              # Logging utilities
-    └── io.py                   # File I/O utilities
+│   │   ├── base.py
+│   │   ├── embeddings.py
+│   │   ├── pubmed_retriever.py
+│   │   └── vector_store.py
+│   └── types.py
+├── pyproject.toml
+├── scripts
+│   ├── generate_clean_text_output.py
+│   ├── generate_gold_graph_output.py
+│   └── graph_viewer_server.py
+├── utils
+│   ├── __init__.py
+│   ├── io.py
+│   └── logging.py
+└── uv.lock
 ```
 
 ### Module Organization
