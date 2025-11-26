@@ -1,0 +1,31 @@
+{
+  "technique": "CoT",
+  "model": "openai/gpt-4o-mini",
+  "split": "train",
+  "num_documents": 1,
+  "timestamp": "20251126_141012",
+  "prompt_template": "Extract biomedical relations from the following text.\n\nDocument ID: sample_doc_id\n\nIMPORTANT: When extracting entities, use the EXACT text spans from the document. \nDo not paraphrase or modify the entity mentions. Copy them exactly as they appear in the text.\n\nText:\nSample document text for prompt template demonstration.\n\nExtract all biomedical relations from the text above using a step-by-step approach.\n\nStep 1: Identify all entities mentioned in the text. For each entity, extract the EXACT text span from the document.\nStep 2: Classify each entity's type (e.g., DiseaseOrPhenotypicFeature, GeneOrGeneProduct, OrganismTaxon).\nStep 3: Identify relations between entities. For each relation, determine:\n  - Head entity (use the exact text span from Step 1)\n  - Tail entity (use the exact text span from Step 1)\n  - Relation type (e.g., Association, Positive_Correlation, Negative_Correlation)\n\nThink through each step carefully, then provide your final answer as a JSON array:\n\n[\n  {\n    \"head_mention\": \"exact text from document\",\n    \"tail_mention\": \"exact text from document\",\n    \"relation_type\": \"Association\"\n  }\n]\n\nIMPORTANT: Use EXACT text spans from the document for entity mentions. Do not paraphrase or modify the text.\n",
+  "exact_match_metrics": {
+    "macro_precision": 0.16666666666666666,
+    "macro_recall": 0.3333333333333333,
+    "macro_f1": 0.2222222222222222,
+    "micro_precision": 1.0,
+    "micro_recall": 0.3333333333333333,
+    "micro_f1": 0.5,
+    "avg_exact_match_rate": 0.3333333333333333,
+    "avg_omission_rate": 0.6666666666666666,
+    "avg_hallucination_rate": 0.7142857142857143,
+    "avg_redundancy_rate": 0.14285714285714285,
+    "avg_graph_edit_distance": 6.0
+  },
+  "fuzzy_match_metrics": {
+    "total_partial_matches": 1,
+    "avg_partial_matches": 1.0,
+    "fuzzy_macro_precision": 0.3333333333333333,
+    "fuzzy_macro_recall": 0.5,
+    "fuzzy_macro_f1": 0.4,
+    "fuzzy_micro_precision": 2.0,
+    "fuzzy_micro_recall": 0.5,
+    "fuzzy_micro_f1": 0.8
+  }
+}

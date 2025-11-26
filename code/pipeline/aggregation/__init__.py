@@ -1,4 +1,9 @@
-"""Result aggregation and comparison components."""
+"""Aggregation and comparison components."""
 
-# TODO: Implement aggregation components
+from .aggregator import ResultAggregator
+from .comparator import TechniqueComparator
 
+__all__ = [
+    "ResultAggregator",
+    "TechniqueComparator",
+]

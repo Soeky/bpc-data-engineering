@@ -49,6 +49,7 @@ class GoldRelations:
     relations: List[Relation]
     title: Optional[str] = None
     body: Optional[str] = None
+    file_path: Optional[str] = None  # Path to the gold relations JSON file
 
 
 @dataclass
@@ -91,9 +92,14 @@ class EvaluationResult:
     true_positives: List[Relation] = field(default_factory=list)
     false_positives: List[Relation] = field(default_factory=list)
     false_negatives: List[Relation] = field(default_factory=list)
+    partial_matches: List[tuple] = field(default_factory=list)  # (ParsedRelation, Relation) pairs
     precision: float = 0.0
     recall: float = 0.0
     f1_score: float = 0.0
+    # Fuzzy metrics (treating partial matches as correct for entities)
+    fuzzy_precision: float = 0.0
+    fuzzy_recall: float = 0.0
+    fuzzy_f1: float = 0.0
     exact_match_rate: float = 0.0
     omission_rate: float = 0.0
     hallucination_rate: float = 0.0
@@ -119,5 +125,16 @@ class AggregateResults:
     avg_redundancy_rate: float = 0.0
     avg_graph_edit_distance: float = 0.0
     avg_bertscore: float = 0.0
+    # Fuzzy/partial match statistics
+    total_partial_matches: int = 0
+    avg_partial_matches: float = 0.0
+    # Fuzzy micro averages (calculated from aggregated TP/FP/FN including partial matches)
+    fuzzy_micro_precision: float = 0.0
+    fuzzy_micro_recall: float = 0.0
+    fuzzy_micro_f1: float = 0.0
+    # Fuzzy macro averages (average of per-document fuzzy metrics)
+    fuzzy_macro_precision: float = 0.0
+    fuzzy_macro_recall: float = 0.0
+    fuzzy_macro_f1: float = 0.0
     per_document_results: List[EvaluationResult] = field(default_factory=list)
 

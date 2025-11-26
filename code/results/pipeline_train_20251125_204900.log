@@ -1,0 +1,51 @@
+2025-11-25 20:49:00 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:00 - pipeline - INFO - Starting Relation Extraction Pipeline
+2025-11-25 20:49:00 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:00 - pipeline - INFO - Split: train
+2025-11-25 20:49:00 - pipeline - INFO - Max documents: 1
+2025-11-25 20:49:00 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/pipeline_train_20251125_204900.log
+2025-11-25 20:49:00 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:00 - pipeline - INFO - Step 1: Loading data...
+2025-11-25 20:49:00 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Loaded 400 documents
+2025-11-25 20:49:01 - pipeline - INFO - Limited to 1 documents (from 400)
+2025-11-25 20:49:01 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Step 2: Building global entity map...
+2025-11-25 20:49:01 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Entity map contains 10 entities
+2025-11-25 20:49:01 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Step 3: Initializing components...
+2025-11-25 20:49:01 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:01 - pipeline - INFO -   Initialized IO prompter with model: openai/gpt-4o-mini
+2025-11-25 20:49:01 - pipeline - INFO - Initialized 1 prompting techniques
+2025-11-25 20:49:01 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Step 4: Running pipeline for each technique...
+2025-11-25 20:49:01 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Processing with IO prompter
+2025-11-25 20:49:01 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:01 - pipeline - INFO - Processing 1 documents...
+2025-11-25 20:49:01 - pipeline - INFO - 
+--- Document 1/1: 10491763 ---
+2025-11-25 20:49:01 - pipeline - INFO - Document text preview: Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.
+
+The transcription factor hepatocyte nucl...
+2025-11-25 20:49:01 - pipeline - INFO - [IO] Processing document: 10491763
+2025-11-25 20:49:01 - pipeline - INFO - [IO] Sending request to OpenRouter API...
+2025-11-25 20:49:09 - pipeline - INFO - [IO] Received response in 8.19 seconds
+2025-11-25 20:49:09 - pipeline - INFO - [Parser] Parsing response for document: 10491763
+2025-11-25 20:49:09 - pipeline - INFO - [Parser] Extracted 7 relations from JSON
+2025-11-25 20:49:09 - pipeline - INFO - [Parser] Resolving entity IDs for 7 relations...
+2025-11-25 20:49:09 - pipeline - INFO - [Parser] Resolved 14/14 entity IDs
+2025-11-25 20:49:09 - pipeline - INFO - Document 10491763: Parsed 7 relations, 0 parsing errors, 0 resolution errors
+2025-11-25 20:49:09 - pipeline - INFO - Completed: 1 documents processed
+2025-11-25 20:49:09 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:49:09 - pipeline - INFO - Evaluating IO predictions...
+2025-11-25 20:49:09 - pipeline - INFO - ================================================================================
+2025-11-25 20:49:09 - pipeline - INFO - [Evaluator] Evaluating document: 10491763
+2025-11-25 20:49:09 - pipeline - INFO - [Evaluator] Document 10491763: 7 predicted relations, 3 gold relations

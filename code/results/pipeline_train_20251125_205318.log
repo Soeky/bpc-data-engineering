@@ -1,0 +1,153 @@
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Starting Relation Extraction Pipeline
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Split: train
+2025-11-25 20:53:18 - pipeline - INFO - Max documents: 1
+2025-11-25 20:53:18 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/pipeline_train_20251125_205318.log
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Step 1: Loading data...
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Loaded 400 documents
+2025-11-25 20:53:18 - pipeline - INFO - Limited to 1 documents (from 400)
+2025-11-25 20:53:18 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Step 2: Building global entity map...
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Entity map contains 10 entities
+2025-11-25 20:53:18 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Step 3: Initializing components...
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO -   Initialized IO prompter with model: openai/gpt-4o-mini
+2025-11-25 20:53:18 - pipeline - INFO - Initialized 1 prompting techniques
+2025-11-25 20:53:18 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Step 4: Running pipeline for each technique...
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Processing with IO prompter
+2025-11-25 20:53:18 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:18 - pipeline - INFO - Processing 1 documents...
+2025-11-25 20:53:18 - pipeline - INFO - 
+--- Document 1/1: 10491763 ---
+2025-11-25 20:53:18 - pipeline - INFO - Document text preview: Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.
+
+The transcription factor hepatocyte nucl...
+2025-11-25 20:53:18 - pipeline - INFO - [IO] Processing document: 10491763
+2025-11-25 20:53:18 - pipeline - DEBUG - [IO] Document text length: 1798 characters
+2025-11-25 20:53:18 - pipeline - DEBUG - [IO] Using model: openai/gpt-4o-mini
+2025-11-25 20:53:18 - pipeline - DEBUG - [IO] Prompt length: 2645 characters
+2025-11-25 20:53:18 - pipeline - INFO - [IO] Sending request to OpenRouter API...
+2025-11-25 20:53:25 - pipeline - INFO - [IO] Received response in 7.07 seconds
+2025-11-25 20:53:25 - pipeline - DEBUG - [IO] Raw LLM response length: 1360 characters
+2025-11-25 20:53:25 - pipeline - DEBUG - [IO] Raw LLM response:
+```json
+[
+  {
+    "head_mention": "Hepatocyte nuclear factor-6",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Hepatocyte nuclear factor-6",
+    "tail_mention": "estimates of insulin secretion",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "Type II (non-insulin-dependent) diabetes mellitus",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "insulin secretion",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "Type II diabetes mellitus",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "glucose induced serum insulin",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "C-peptide responses",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Mutations in the coding region of the HNF-6 gene",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Mutations in the coding region of the HNF-6 gene",
+    "tail_mention": "changes in insulin responses to glucose",
+    "relation_type": "Negative_Correlation"
+  }
+]
+```
+2025-11-25 20:53:25 - pipeline - INFO - [Parser] Parsing response for document: 10491763
+2025-11-25 20:53:25 - pipeline - INFO - [Parser] Extracted 9 relations from JSON
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser] Parsed 9 relations:
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 1: Hepatocyte nuclear factor-6 -> Type II diabetes (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 2: Hepatocyte nuclear factor-6 -> estimates of insulin secretion (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 3: HNF-6 gene -> Type II (non-insulin-dependent) diabetes mellitus (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 4: HNF-6 gene -> insulin secretion (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 5: Pro75Ala polymorphism -> Type II diabetes mellitus (Negative_Correlation)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 6: Pro75Ala polymorphism -> glucose induced serum insulin (Negative_Correlation)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 7: Pro75Ala polymorphism -> C-peptide responses (Negative_Correlation)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 8: Mutations in the coding region of the HNF-6 gene -> Type II diabetes (Negative_Correlation)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Parser]   Relation 9: Mutations in the coding region of the HNF-6 gene -> changes in insulin responses to glucose (Negative_Correlation)
+2025-11-25 20:53:25 - pipeline - INFO - [Parser] Resolving entity IDs for 9 relations...
+2025-11-25 20:53:25 - pipeline - INFO - [Parser] Resolved 18/18 entity IDs
+2025-11-25 20:53:25 - pipeline - INFO - Document 10491763: Parsed 9 relations, 0 parsing errors, 0 resolution errors
+2025-11-25 20:53:25 - pipeline - INFO - Completed: 1 documents processed
+2025-11-25 20:53:25 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Evaluating IO predictions...
+2025-11-25 20:53:25 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - [Evaluator] Evaluating document: 10491763
+2025-11-25 20:53:25 - pipeline - INFO - [Evaluator] Document 10491763: 9 predicted relations, 3 gold relations
+2025-11-25 20:53:25 - pipeline - INFO - [Evaluator] Document 10491763 matching results: TP=1, FP=8, FN=2
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator] Document 10491763 True Positives (first 3):
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   TP 1: 3175 -> D003924 (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator] Document 10491763 False Positives (first 3):
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   FP 1: Hepatocyte nuclear factor-6 -> estimates of insulin secretion (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   FP 2: HNF-6 gene -> Type II (non-insulin-dependent) diabetes mellitus (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   FP 3: HNF-6 gene -> insulin secretion (Association)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator] Document 10491763 False Negatives (first 3):
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   FN 1: D005947 -> 3630 (Positive_Correlation)
+2025-11-25 20:53:25 - pipeline - DEBUG - [Evaluator]   FN 2: D005947 -> D003924 (Association)
+2025-11-25 20:53:25 - pipeline - INFO - [Evaluator] Document 10491763 metrics: Precision=0.111, Recall=0.333, F1=0.167
+2025-11-25 20:53:25 - pipeline - INFO - 
+IO Summary:
+2025-11-25 20:53:25 - pipeline - INFO -   Avg Precision: 0.111
+2025-11-25 20:53:25 - pipeline - INFO -   Avg Recall: 0.333
+2025-11-25 20:53:25 - pipeline - INFO -   Avg F1: 0.167
+2025-11-25 20:53:25 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Step 6: Aggregating results...
+2025-11-25 20:53:25 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Step 7: Comparing techniques...
+2025-11-25 20:53:25 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Step 8: Saving results...
+2025-11-25 20:53:25 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Saved comparison report to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/comparison_train.json
+2025-11-25 20:53:25 - pipeline - INFO - Saved IO results to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/IO_train_results.json
+2025-11-25 20:53:25 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Pipeline completed!
+2025-11-25 20:53:25 - pipeline - INFO - ================================================================================
+2025-11-25 20:53:25 - pipeline - INFO - Processed 1 documents
+2025-11-25 20:53:25 - pipeline - INFO - Evaluated 1 prompting techniques
+2025-11-25 20:53:25 - pipeline - INFO - Results saved to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results
+2025-11-25 20:53:25 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/pipeline_train_20251125_205318.log

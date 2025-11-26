@@ -1,0 +1,80 @@
+2025-11-25 20:51:06 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:06 - pipeline - INFO - Starting Relation Extraction Pipeline
+2025-11-25 20:51:06 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:06 - pipeline - INFO - Split: train
+2025-11-25 20:51:06 - pipeline - INFO - Max documents: 1
+2025-11-25 20:51:06 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/pipeline_train_20251125_205106.log
+2025-11-25 20:51:06 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:06 - pipeline - INFO - Step 1: Loading data...
+2025-11-25 20:51:06 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Loaded 400 documents
+2025-11-25 20:51:07 - pipeline - INFO - Limited to 1 documents (from 400)
+2025-11-25 20:51:07 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Step 2: Building global entity map...
+2025-11-25 20:51:07 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Entity map contains 10 entities
+2025-11-25 20:51:07 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Step 3: Initializing components...
+2025-11-25 20:51:07 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:07 - pipeline - INFO -   Initialized IO prompter with model: openai/gpt-4o-mini
+2025-11-25 20:51:07 - pipeline - INFO - Initialized 1 prompting techniques
+2025-11-25 20:51:07 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Step 4: Running pipeline for each technique...
+2025-11-25 20:51:07 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Processing with IO prompter
+2025-11-25 20:51:07 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:07 - pipeline - INFO - Processing 1 documents...
+2025-11-25 20:51:07 - pipeline - INFO - 
+--- Document 1/1: 10491763 ---
+2025-11-25 20:51:07 - pipeline - INFO - Document text preview: Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.
+
+The transcription factor hepatocyte nucl...
+2025-11-25 20:51:07 - pipeline - INFO - [IO] Processing document: 10491763
+2025-11-25 20:51:07 - pipeline - INFO - [IO] Sending request to OpenRouter API...
+2025-11-25 20:51:14 - pipeline - INFO - [IO] Received response in 6.65 seconds
+2025-11-25 20:51:14 - pipeline - INFO - [Parser] Parsing response for document: 10491763
+2025-11-25 20:51:14 - pipeline - INFO - [Parser] Extracted 8 relations from JSON
+2025-11-25 20:51:14 - pipeline - INFO - [Parser] Resolving entity IDs for 8 relations...
+2025-11-25 20:51:14 - pipeline - INFO - [Parser] Resolved 16/16 entity IDs
+2025-11-25 20:51:14 - pipeline - INFO - Document 10491763: Parsed 8 relations, 0 parsing errors, 0 resolution errors
+2025-11-25 20:51:14 - pipeline - INFO - Completed: 1 documents processed
+2025-11-25 20:51:14 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Evaluating IO predictions...
+2025-11-25 20:51:14 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - [Evaluator] Evaluating document: 10491763
+2025-11-25 20:51:14 - pipeline - INFO - [Evaluator] Document 10491763: 8 predicted relations, 3 gold relations
+2025-11-25 20:51:14 - pipeline - INFO - [Evaluator] Document 10491763 matching results: TP=1, FP=7, FN=2
+2025-11-25 20:51:14 - pipeline - INFO - [Evaluator] Document 10491763 metrics: Precision=0.125, Recall=0.333, F1=0.182
+2025-11-25 20:51:14 - pipeline - INFO - 
+IO Summary:
+2025-11-25 20:51:14 - pipeline - INFO -   Avg Precision: 0.125
+2025-11-25 20:51:14 - pipeline - INFO -   Avg Recall: 0.333
+2025-11-25 20:51:14 - pipeline - INFO -   Avg F1: 0.182
+2025-11-25 20:51:14 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Step 6: Aggregating results...
+2025-11-25 20:51:14 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Step 7: Comparing techniques...
+2025-11-25 20:51:14 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Step 8: Saving results...
+2025-11-25 20:51:14 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Saved comparison report to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/comparison_train.json
+2025-11-25 20:51:14 - pipeline - INFO - Saved IO results to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/IO_train_results.json
+2025-11-25 20:51:14 - pipeline - INFO - 
+================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Pipeline completed!
+2025-11-25 20:51:14 - pipeline - INFO - ================================================================================
+2025-11-25 20:51:14 - pipeline - INFO - Processed 1 documents
+2025-11-25 20:51:14 - pipeline - INFO - Evaluated 1 prompting techniques
+2025-11-25 20:51:14 - pipeline - INFO - Results saved to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results
+2025-11-25 20:51:14 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/pipeline_train_20251125_205106.log

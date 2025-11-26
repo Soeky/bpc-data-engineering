@@ -1,0 +1,12 @@
+decided on biomedical data for relation extraction
+- Im working in medtech rn so its kinda exciting for me 
+- nice structured data 
+
+we have 3 datasets 
+- training for training models/first drafts
+- dev for development of the methods in the end 
+- test for final results, never touching this data before 
+
+Data structure given: 
+
+

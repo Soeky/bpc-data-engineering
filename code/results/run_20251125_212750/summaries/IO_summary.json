@@ -1,0 +1,31 @@
+{
+  "technique": "IO",
+  "model": "openai/gpt-4o-mini",
+  "split": "train",
+  "num_documents": 1,
+  "timestamp": "20251125_212750",
+  "prompt_template": "Extract biomedical relations from the following text.\n\nDocument ID: sample_doc_id\n\nIMPORTANT: When extracting entities, use the EXACT text spans from the document. \nDo not paraphrase or modify the entity mentions. Copy them exactly as they appear in the text.\n\nText:\nSample document text for prompt template demonstration.\n\nExtract all biomedical relations from the text above.\n\nFor each relation, identify:\n1. Head entity (exact text span from the document)\n2. Tail entity (exact text span from the document)\n3. Relation type (e.g., Association, Positive_Correlation, Negative_Correlation)\n\nReturn the results as a JSON array with the following format:\n[\n  {\n    \"head_mention\": \"exact text from document\",\n    \"tail_mention\": \"exact text from document\",\n    \"relation_type\": \"Association\"\n  }\n]\n\nIMPORTANT: Use EXACT text spans from the document for entity mentions. Do not paraphrase or modify the text.\n",
+  "exact_match_metrics": {
+    "macro_precision": 0.125,
+    "macro_recall": 0.3333333333333333,
+    "macro_f1": 0.18181818181818182,
+    "micro_precision": 1.0,
+    "micro_recall": 0.3333333333333333,
+    "micro_f1": 0.5,
+    "avg_exact_match_rate": 0.3333333333333333,
+    "avg_omission_rate": 0.6666666666666666,
+    "avg_hallucination_rate": 0.7777777777777778,
+    "avg_redundancy_rate": 0.3333333333333333,
+    "avg_graph_edit_distance": 7.0
+  },
+  "fuzzy_match_metrics": {
+    "total_partial_matches": 1,
+    "avg_partial_matches": 1.0,
+    "fuzzy_macro_precision": 0.25,
+    "fuzzy_macro_recall": 0.5,
+    "fuzzy_macro_f1": 0.3333333333333333,
+    "fuzzy_micro_precision": 2.0,
+    "fuzzy_micro_recall": 0.5,
+    "fuzzy_micro_f1": 0.8
+  }
+}

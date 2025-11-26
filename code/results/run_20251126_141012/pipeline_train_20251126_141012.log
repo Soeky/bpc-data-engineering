@@ -1,0 +1,1204 @@
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Starting Relation Extraction Pipeline
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Run directory: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012
+2025-11-26 14:10:12 - pipeline - INFO - Split: train
+2025-11-26 14:10:12 - pipeline - INFO - Max documents: 1
+2025-11-26 14:10:12 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/pipeline_train_20251126_141012.log
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Step 1: Loading data...
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 10491763.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 10491763: 10 entities, 3 relations from 10491763.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 10661407.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 10661407: 2 entities, 1 relations from 10661407.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 10788334.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 10788334: 12 entities, 16 relations from 10788334.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 11009181.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 11009181: 9 entities, 4 relations from 11009181.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 11054569.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 11054569: 12 entities, 5 relations from 11054569.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 11773892.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 11773892: 8 entities, 6 relations from 11773892.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 12442272.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 12442272: 5 entities, 2 relations from 12442272.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 1353340.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 1353340: 4 entities, 2 relations from 1353340.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 14722929.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 14722929: 24 entities, 1 relations from 14722929.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15033202.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15033202: 8 entities, 2 relations from 15033202.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15042318.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15042318: 8 entities, 5 relations from 15042318.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15064320.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15064320: 8 entities, 4 relations from 15064320.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15075188.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15075188: 16 entities, 19 relations from 15075188.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15099351.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15099351: 10 entities, 6 relations from 15099351.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15122708.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15122708: 9 entities, 7 relations from 15122708.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15122711.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15122711: 9 entities, 9 relations from 15122711.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15145918.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15145918: 10 entities, 11 relations from 15145918.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15177686.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15177686: 3 entities, 1 relations from 15177686.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15184369.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15184369: 8 entities, 5 relations from 15184369.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15188772.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15188772: 6 entities, 4 relations from 15188772.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15191352.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15191352: 11 entities, 12 relations from 15191352.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15198485.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15198485: 7 entities, 4 relations from 15198485.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15200408.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15200408: 15 entities, 8 relations from 15200408.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15241482.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15241482: 9 entities, 7 relations from 15241482.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15266215.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15266215: 12 entities, 6 relations from 15266215.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15278670.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15278670: 11 entities, 8 relations from 15278670.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15459183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15459183: 9 entities, 6 relations from 15459183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15461822.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15461822: 14 entities, 3 relations from 15461822.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15523499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15523499: 12 entities, 6 relations from 15523499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15583840.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15583840: 4 entities, 0 relations from 15583840.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15599941.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15599941: 12 entities, 7 relations from 15599941.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15602202.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15602202: 6 entities, 4 relations from 15602202.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15609295.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15609295: 10 entities, 8 relations from 15609295.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15614572.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15614572: 15 entities, 15 relations from 15614572.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15623763.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15623763: 15 entities, 15 relations from 15623763.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15630069.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15630069: 11 entities, 17 relations from 15630069.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15649253.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15649253: 6 entities, 5 relations from 15649253.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15686794.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15686794: 5 entities, 3 relations from 15686794.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15748645.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15748645: 12 entities, 3 relations from 15748645.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15749661.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15749661: 15 entities, 15 relations from 15749661.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15755837.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15755837: 7 entities, 6 relations from 15755837.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15770495.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15770495: 16 entities, 14 relations from 15770495.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15807692.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15807692: 6 entities, 5 relations from 15807692.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15814629.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15814629: 6 entities, 4 relations from 15814629.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15817013.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15817013: 5 entities, 3 relations from 15817013.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15851735.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15851735: 11 entities, 2 relations from 15851735.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15858223.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15858223: 14 entities, 9 relations from 15858223.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15859361.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15859361: 13 entities, 9 relations from 15859361.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15893386.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15893386: 4 entities, 1 relations from 15893386.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15897593.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15897593: 14 entities, 23 relations from 15897593.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15957009.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15957009: 12 entities, 12 relations from 15957009.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15970799.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15970799: 14 entities, 13 relations from 15970799.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 15983230.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 15983230: 12 entities, 14 relations from 15983230.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16001362.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16001362: 12 entities, 5 relations from 16001362.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16005363.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16005363: 13 entities, 3 relations from 16005363.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16120104.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16120104: 8 entities, 2 relations from 16120104.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16157158.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16157158: 5 entities, 2 relations from 16157158.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16158428.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16158428: 5 entities, 3 relations from 16158428.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16160878.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16160878: 11 entities, 7 relations from 16160878.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16167916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16167916: 9 entities, 7 relations from 16167916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16200390.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16200390: 8 entities, 1 relations from 16200390.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16288197.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16288197: 14 entities, 10 relations from 16288197.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16288199.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16288199: 10 entities, 7 relations from 16288199.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16309808.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16309808: 11 entities, 7 relations from 16309808.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16321363.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16321363: 9 entities, 7 relations from 16321363.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16364460.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16364460: 7 entities, 5 relations from 16364460.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16369751.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16369751: 12 entities, 12 relations from 16369751.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16391785.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16391785: 7 entities, 6 relations from 16391785.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16410744.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16410744: 9 entities, 7 relations from 16410744.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16412238.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16412238: 11 entities, 13 relations from 16412238.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16418600.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16418600: 9 entities, 2 relations from 16418600.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16506214.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16506214: 10 entities, 12 relations from 16506214.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16526029.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16526029: 2 entities, 0 relations from 16526029.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16541406.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16541406: 4 entities, 2 relations from 16541406.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16543197.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16543197: 9 entities, 6 relations from 16543197.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16574712.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16574712: 3 entities, 2 relations from 16574712.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16574713.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16574713: 6 entities, 6 relations from 16574713.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16575011.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16575011: 10 entities, 10 relations from 16575011.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16584858.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16584858: 24 entities, 41 relations from 16584858.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16586083.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16586083: 10 entities, 7 relations from 16586083.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16596970.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16596970: 7 entities, 3 relations from 16596970.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16634859.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16634859: 5 entities, 1 relations from 16634859.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16720068.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16720068: 21 entities, 39 relations from 16720068.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16725121.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16725121: 11 entities, 19 relations from 16725121.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16737910.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16737910: 4 entities, 2 relations from 16737910.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16755009.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16755009: 10 entities, 9 relations from 16755009.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16781314.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16781314: 8 entities, 5 relations from 16781314.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16786513.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16786513: 38 entities, 34 relations from 16786513.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16801510.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16801510: 8 entities, 5 relations from 16801510.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16810074.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16810074: 11 entities, 12 relations from 16810074.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16822828.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16822828: 9 entities, 6 relations from 16822828.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16843501.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16843501: 11 entities, 4 relations from 16843501.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16904497.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16904497: 11 entities, 9 relations from 16904497.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 16920333.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 16920333: 7 entities, 6 relations from 16920333.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17000021.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17000021: 7 entities, 7 relations from 17000021.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17003357.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17003357: 4 entities, 3 relations from 17003357.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17006606.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17006606: 8 entities, 7 relations from 17006606.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17033686.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17033686: 13 entities, 9 relations from 17033686.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17035713.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17035713: 20 entities, 11 relations from 17035713.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17042910.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17042910: 9 entities, 11 relations from 17042910.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17065198.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17065198: 15 entities, 5 relations from 17065198.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17074608.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17074608: 13 entities, 3 relations from 17074608.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17083016.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17083016: 13 entities, 13 relations from 17083016.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 1711760.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 1711760: 11 entities, 1 relations from 1711760.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17177139.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17177139: 11 entities, 12 relations from 17177139.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17185386.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17185386: 3 entities, 3 relations from 17185386.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17192049.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17192049: 5 entities, 3 relations from 17192049.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17194457.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17194457: 7 entities, 10 relations from 17194457.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17221831.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17221831: 7 entities, 6 relations from 17221831.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17244258.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17244258: 16 entities, 10 relations from 17244258.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17250663.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17250663: 5 entities, 2 relations from 17250663.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17273972.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17273972: 4 entities, 2 relations from 17273972.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17277899.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17277899: 5 entities, 0 relations from 17277899.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17286451.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17286451: 4 entities, 2 relations from 17286451.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17304550.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17304550: 8 entities, 6 relations from 17304550.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17318851.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17318851: 14 entities, 15 relations from 17318851.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17327131.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17327131: 7 entities, 1 relations from 17327131.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17344330.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17344330: 8 entities, 7 relations from 17344330.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17351238.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17351238: 7 entities, 4 relations from 17351238.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17379047.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17379047: 6 entities, 7 relations from 17379047.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17391797.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17391797: 7 entities, 5 relations from 17391797.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17439425.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17439425: 10 entities, 8 relations from 17439425.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17495183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17495183: 15 entities, 17 relations from 17495183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17572393.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17572393: 10 entities, 10 relations from 17572393.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17595233.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17595233: 17 entities, 7 relations from 17595233.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17615423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17615423: 24 entities, 15 relations from 17615423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17628794.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17628794: 6 entities, 3 relations from 17628794.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17634480.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17634480: 19 entities, 6 relations from 17634480.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17639754.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17639754: 6 entities, 3 relations from 17639754.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17683901.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17683901: 5 entities, 2 relations from 17683901.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17854040.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17854040: 8 entities, 2 relations from 17854040.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17877751.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17877751: 5 entities, 5 relations from 17877751.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17910065.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17910065: 5 entities, 3 relations from 17910065.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17951029.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17951029: 8 entities, 4 relations from 17951029.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17959715.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17959715: 9 entities, 8 relations from 17959715.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17965424.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17965424: 9 entities, 10 relations from 17965424.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 17975693.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 17975693: 5 entities, 3 relations from 17975693.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18000905.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18000905: 4 entities, 0 relations from 18000905.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18050247.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18050247: 8 entities, 6 relations from 18050247.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18083142.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18083142: 13 entities, 16 relations from 18083142.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18165598.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18165598: 14 entities, 15 relations from 18165598.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18166824.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18166824: 11 entities, 8 relations from 18166824.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18182964.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18182964: 6 entities, 5 relations from 18182964.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18189233.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18189233: 8 entities, 5 relations from 18189233.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18235024.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18235024: 8 entities, 2 relations from 18235024.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18262054.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18262054: 7 entities, 9 relations from 18262054.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18270997.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18270997: 7 entities, 4 relations from 18270997.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18310445.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18310445: 25 entities, 16 relations from 18310445.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18340638.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18340638: 8 entities, 7 relations from 18340638.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18356633.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18356633: 8 entities, 4 relations from 18356633.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18366737.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18366737: 9 entities, 5 relations from 18366737.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18397285.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18397285: 7 entities, 3 relations from 18397285.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18408250.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18408250: 8 entities, 3 relations from 18408250.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18410508.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18410508: 8 entities, 12 relations from 18410508.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18410548.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18410548: 7 entities, 3 relations from 18410548.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18422462.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18422462: 18 entities, 16 relations from 18422462.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18439317.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18439317: 5 entities, 5 relations from 18439317.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18442015.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18442015: 15 entities, 15 relations from 18442015.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18470323.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18470323: 5 entities, 2 relations from 18470323.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18483878.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18483878: 8 entities, 7 relations from 18483878.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18487244.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18487244: 6 entities, 2 relations from 18487244.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18541230.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18541230: 10 entities, 13 relations from 18541230.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18544179.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18544179: 13 entities, 10 relations from 18544179.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18593936.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18593936: 21 entities, 51 relations from 18593936.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18631865.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18631865: 8 entities, 7 relations from 18631865.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18657397.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18657397: 5 entities, 2 relations from 18657397.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18672102.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18672102: 16 entities, 41 relations from 18672102.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18674790.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18674790: 22 entities, 17 relations from 18674790.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18681856.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18681856: 6 entities, 6 relations from 18681856.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18699851.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18699851: 7 entities, 5 relations from 18699851.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18752389.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18752389: 16 entities, 17 relations from 18752389.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18754075.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18754075: 9 entities, 9 relations from 18754075.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18768591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18768591: 19 entities, 24 relations from 18768591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18772193.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18772193: 18 entities, 14 relations from 18772193.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18779591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18779591: 14 entities, 9 relations from 18779591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18790087.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18790087: 7 entities, 4 relations from 18790087.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18791947.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18791947: 7 entities, 2 relations from 18791947.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18808529.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18808529: 13 entities, 12 relations from 18808529.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18809400.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18809400: 11 entities, 12 relations from 18809400.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18827003.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18827003: 13 entities, 18 relations from 18827003.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18945288.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18945288: 6 entities, 4 relations from 18945288.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18945509.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18945509: 10 entities, 12 relations from 18945509.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 18987260.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 18987260: 14 entities, 14 relations from 18987260.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19037252.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19037252: 4 entities, 2 relations from 19037252.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19048115.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19048115: 12 entities, 12 relations from 19048115.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19058010.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19058010: 10 entities, 21 relations from 19058010.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19067809.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19067809: 12 entities, 6 relations from 19067809.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19082493.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19082493: 11 entities, 12 relations from 19082493.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19101703.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19101703: 7 entities, 5 relations from 19101703.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19108278.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19108278: 14 entities, 12 relations from 19108278.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19110214.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19110214: 7 entities, 6 relations from 19110214.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19160446.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19160446: 9 entities, 2 relations from 19160446.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19218574.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19218574: 9 entities, 11 relations from 19218574.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19234905.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19234905: 6 entities, 1 relations from 19234905.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19306381.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19306381: 22 entities, 7 relations from 19306381.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19319147.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19319147: 9 entities, 5 relations from 19319147.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19346865.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19346865: 4 entities, 2 relations from 19346865.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19365571.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19365571: 10 entities, 11 relations from 19365571.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19370764.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19370764: 16 entities, 12 relations from 19370764.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19445921.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19445921: 15 entities, 16 relations from 19445921.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19463742.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19463742: 19 entities, 26 relations from 19463742.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19508969.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19508969: 19 entities, 28 relations from 19508969.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19521089.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19521089: 8 entities, 2 relations from 19521089.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19536134.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19536134: 16 entities, 24 relations from 19536134.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19549709.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19549709: 15 entities, 5 relations from 19549709.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19592582.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19592582: 12 entities, 11 relations from 19592582.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19631624.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19631624: 5 entities, 4 relations from 19631624.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19642243.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19642243: 9 entities, 6 relations from 19642243.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19672862.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19672862: 14 entities, 22 relations from 19672862.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19692487.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19692487: 11 entities, 14 relations from 19692487.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19696792.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19696792: 8 entities, 6 relations from 19696792.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19707748.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19707748: 4 entities, 2 relations from 19707748.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19719056.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19719056: 12 entities, 2 relations from 19719056.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19721134.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19721134: 10 entities, 10 relations from 19721134.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19728177.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19728177: 10 entities, 3 relations from 19728177.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19779499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19779499: 8 entities, 5 relations from 19779499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19811499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19811499: 25 entities, 18 relations from 19811499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19825989.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19825989: 24 entities, 21 relations from 19825989.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19841052.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19841052: 3 entities, 2 relations from 19841052.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19881468.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19881468: 10 entities, 9 relations from 19881468.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19889778.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19889778: 12 entities, 10 relations from 19889778.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19891556.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19891556: 4 entities, 2 relations from 19891556.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19918264.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19918264: 6 entities, 2 relations from 19918264.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19923525.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19923525: 7 entities, 6 relations from 19923525.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 19996135.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 19996135: 7 entities, 1 relations from 19996135.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20005218.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20005218: 8 entities, 4 relations from 20005218.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20034406.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20034406: 7 entities, 8 relations from 20034406.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20046642.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20046642: 12 entities, 20 relations from 20046642.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20080916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20080916: 6 entities, 3 relations from 20080916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20080983.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20080983: 4 entities, 3 relations from 20080983.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20086182.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20086182: 10 entities, 9 relations from 20086182.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20105280.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20105280: 17 entities, 15 relations from 20105280.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20105310.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20105310: 39 entities, 31 relations from 20105310.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20129423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20129423: 6 entities, 2 relations from 20129423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20226780.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20226780: 13 entities, 6 relations from 20226780.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20331935.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20331935: 7 entities, 3 relations from 20331935.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20335448.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20335448: 16 entities, 19 relations from 20335448.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20367983.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20367983: 9 entities, 11 relations from 20367983.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20401977.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20401977: 4 entities, 3 relations from 20401977.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20415560.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20415560: 7 entities, 7 relations from 20415560.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20428796.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20428796: 12 entities, 13 relations from 20428796.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20431083.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20431083: 7 entities, 2 relations from 20431083.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20447294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20447294: 12 entities, 9 relations from 20447294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20477932.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20477932: 10 entities, 10 relations from 20477932.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20510337.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20510337: 19 entities, 26 relations from 20510337.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20520283.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20520283: 7 entities, 7 relations from 20520283.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20523265.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20523265: 17 entities, 8 relations from 20523265.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20528871.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20528871: 8 entities, 9 relations from 20528871.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20533999.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20533999: 8 entities, 10 relations from 20533999.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20534142.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20534142: 13 entities, 14 relations from 20534142.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20558148.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20558148: 9 entities, 12 relations from 20558148.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20579626.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20579626: 10 entities, 5 relations from 20579626.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20583543.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20583543: 11 entities, 9 relations from 20583543.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20588063.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20588063: 9 entities, 7 relations from 20588063.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20606392.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20606392: 9 entities, 6 relations from 20606392.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20651814.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20651814: 4 entities, 0 relations from 20651814.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20667451.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20667451: 10 entities, 7 relations from 20667451.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20683499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20683499: 9 entities, 6 relations from 20683499.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20708777.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20708777: 10 entities, 12 relations from 20708777.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20722491.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20722491: 14 entities, 7 relations from 20722491.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20801104.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20801104: 10 entities, 6 relations from 20801104.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20806042.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20806042: 7 entities, 9 relations from 20806042.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20828385.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20828385: 8 entities, 5 relations from 20828385.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20846357.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20846357: 21 entities, 8 relations from 20846357.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20854438.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20854438: 12 entities, 7 relations from 20854438.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20949073.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20949073: 4 entities, 2 relations from 20949073.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 20973483.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 20973483: 11 entities, 7 relations from 20973483.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21059483.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21059483: 7 entities, 3 relations from 21059483.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21070631.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21070631: 10 entities, 15 relations from 21070631.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21080147.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21080147: 12 entities, 14 relations from 21080147.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21135151.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21135151: 8 entities, 2 relations from 21135151.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21163864.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21163864: 9 entities, 2 relations from 21163864.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21195121.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21195121: 12 entities, 12 relations from 21195121.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21238926.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21238926: 7 entities, 7 relations from 21238926.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21325775.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21325775: 9 entities, 5 relations from 21325775.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21496008.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21496008: 11 entities, 8 relations from 21496008.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21533187.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21533187: 9 entities, 4 relations from 21533187.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21615796.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21615796: 6 entities, 5 relations from 21615796.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21666969.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21666969: 8 entities, 6 relations from 21666969.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21682595.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21682595: 5 entities, 4 relations from 21682595.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21695597.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21695597: 9 entities, 6 relations from 21695597.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21699520.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21699520: 13 entities, 10 relations from 21699520.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21771880.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21771880: 5 entities, 3 relations from 21771880.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21810259.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21810259: 18 entities, 25 relations from 21810259.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21904390.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21904390: 12 entities, 9 relations from 21904390.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 21911891.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 21911891: 9 entities, 2 relations from 21911891.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22048266.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22048266: 6 entities, 5 relations from 22048266.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22051099.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22051099: 7 entities, 7 relations from 22051099.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22104738.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22104738: 10 entities, 5 relations from 22104738.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22180037.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22180037: 4 entities, 4 relations from 22180037.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22303482.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22303482: 20 entities, 30 relations from 22303482.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22808010.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22808010: 28 entities, 33 relations from 22808010.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22836123.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22836123: 8 entities, 6 relations from 22836123.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 22859398.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 22859398: 24 entities, 7 relations from 22859398.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 23791840.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 23791840: 13 entities, 15 relations from 23791840.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 23864035.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 23864035: 5 entities, 5 relations from 23864035.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 23949582.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 23949582: 7 entities, 5 relations from 23949582.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 23952588.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 23952588: 4 entities, 2 relations from 23952588.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24055495.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24055495: 13 entities, 14 relations from 24055495.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24100257.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24100257: 10 entities, 3 relations from 24100257.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24126708.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24126708: 10 entities, 10 relations from 24126708.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24132704.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24132704: 12 entities, 12 relations from 24132704.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 2422478.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 2422478: 7 entities, 4 relations from 2422478.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24309294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24309294: 9 entities, 10 relations from 24309294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24341598.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24341598: 11 entities, 7 relations from 24341598.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24477591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24477591: 10 entities, 10 relations from 24477591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24535067.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24535067: 7 entities, 8 relations from 24535067.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24587916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24587916: 12 entities, 8 relations from 24587916.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24588023.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24588023: 8 entities, 1 relations from 24588023.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24623966.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24623966: 18 entities, 12 relations from 24623966.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24632946.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24632946: 16 entities, 10 relations from 24632946.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24709919.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24709919: 13 entities, 6 relations from 24709919.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24742750.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24742750: 9 entities, 2 relations from 24742750.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24743235.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24743235: 11 entities, 9 relations from 24743235.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24768818.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24768818: 15 entities, 21 relations from 24768818.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24842192.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24842192: 12 entities, 20 relations from 24842192.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24853300.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24853300: 16 entities, 10 relations from 24853300.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24902786.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24902786: 12 entities, 13 relations from 24902786.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24911645.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24911645: 15 entities, 16 relations from 24911645.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24914936.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24914936: 15 entities, 8 relations from 24914936.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24927617.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24927617: 12 entities, 13 relations from 24927617.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 24971338.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 24971338: 15 entities, 24 relations from 24971338.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25054547.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25054547: 17 entities, 22 relations from 25054547.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25218136.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25218136: 17 entities, 14 relations from 25218136.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25263533.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25263533: 22 entities, 26 relations from 25263533.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25305591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25305591: 21 entities, 27 relations from 25305591.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25622904.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25622904: 18 entities, 26 relations from 25622904.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25946186.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25946186: 16 entities, 13 relations from 25946186.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25979836.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25979836: 33 entities, 41 relations from 25979836.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25983002.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25983002: 12 entities, 9 relations from 25983002.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 25986755.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 25986755: 13 entities, 16 relations from 25986755.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26027517.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26027517: 27 entities, 27 relations from 26027517.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26102294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26102294: 11 entities, 14 relations from 26102294.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26115410.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26115410: 4 entities, 1 relations from 26115410.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26270232.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26270232: 23 entities, 25 relations from 26270232.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26411452.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26411452: 10 entities, 8 relations from 26411452.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26516699.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26516699: 38 entities, 56 relations from 26516699.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 26731607.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 26731607: 3 entities, 1 relations from 26731607.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27014915.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27014915: 21 entities, 23 relations from 27014915.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27084744.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27084744: 15 entities, 30 relations from 27084744.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27134166.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27134166: 15 entities, 12 relations from 27134166.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27172902.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27172902: 21 entities, 16 relations from 27172902.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27184800.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27184800: 8 entities, 5 relations from 27184800.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27248656.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27248656: 22 entities, 35 relations from 27248656.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27292643.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27292643: 7 entities, 6 relations from 27292643.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27630165.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27630165: 9 entities, 14 relations from 27630165.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27640183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27640183: 26 entities, 6 relations from 27640183.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27643404.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27643404: 11 entities, 9 relations from 27643404.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27779699.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27779699: 12 entities, 10 relations from 27779699.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27825100.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27825100: 9 entities, 10 relations from 27825100.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27860244.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27860244: 15 entities, 19 relations from 27860244.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27930654.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27930654: 24 entities, 9 relations from 27930654.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27941998.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27941998: 15 entities, 8 relations from 27941998.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27959382.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27959382: 11 entities, 8 relations from 27959382.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27974047.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27974047: 22 entities, 24 relations from 27974047.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 27999109.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 27999109: 15 entities, 8 relations from 27999109.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28075473.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28075473: 17 entities, 12 relations from 28075473.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28098423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28098423: 13 entities, 11 relations from 28098423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28101574.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28101574: 9 entities, 6 relations from 28101574.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28148288.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28148288: 15 entities, 9 relations from 28148288.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28151486.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28151486: 8 entities, 8 relations from 28151486.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28204828.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28204828: 17 entities, 16 relations from 28204828.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28260056.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28260056: 10 entities, 16 relations from 28260056.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28260077.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28260077: 16 entities, 16 relations from 28260077.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28260110.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28260110: 20 entities, 17 relations from 28260110.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28279980.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28279980: 19 entities, 17 relations from 28279980.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28346429.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28346429: 8 entities, 8 relations from 28346429.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28348168.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28348168: 5 entities, 3 relations from 28348168.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28368423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28368423: 13 entities, 16 relations from 28368423.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28368537.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28368537: 7 entities, 8 relations from 28368537.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28398555.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28398555: 11 entities, 11 relations from 28398555.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28411266.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28411266: 6 entities, 10 relations from 28411266.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28416580.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28416580: 17 entities, 16 relations from 28416580.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28428256.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28428256: 20 entities, 14 relations from 28428256.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28468941.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28468941: 9 entities, 4 relations from 28468941.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28472177.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28472177: 28 entities, 36 relations from 28472177.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28487437.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28487437: 16 entities, 13 relations from 28487437.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28512644.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28512644: 33 entities, 31 relations from 28512644.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28584052.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28584052: 9 entities, 6 relations from 28584052.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28604678.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28604678: 7 entities, 0 relations from 28604678.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28650467.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28650467: 12 entities, 14 relations from 28650467.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28660748.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28660748: 15 entities, 14 relations from 28660748.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28687665.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28687665: 8 entities, 3 relations from 28687665.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28747658.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28747658: 27 entities, 29 relations from 28747658.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28777492.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28777492: 16 entities, 12 relations from 28777492.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28851297.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28851297: 13 entities, 11 relations from 28851297.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 28883039.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 28883039: 10 entities, 13 relations from 28883039.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 29045486.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 29045486: 19 entities, 25 relations from 29045486.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 29222418.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 29222418: 12 entities, 11 relations from 29222418.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 30442153.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 30442153: 23 entities, 27 relations from 30442153.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 30836660.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 30836660: 30 entities, 6 relations from 30836660.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 7018927.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 7018927: 7 entities, 4 relations from 7018927.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 7468724.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 7468724: 5 entities, 5 relations from 7468724.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 7668252.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 7668252: 6 entities, 5 relations from 7668252.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 7905839.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 7905839: 10 entities, 6 relations from 7905839.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 8002973.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 8002973: 4 entities, 1 relations from 8002973.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 8755918.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 8755918: 5 entities, 4 relations from 8755918.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 9294109.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 9294109: 11 entities, 2 relations from 9294109.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 9647766.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 9647766: 10 entities, 9 relations from 9647766.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loading gold relations from: 9746003.json
+2025-11-26 14:10:12 - pipeline - DEBUG - [GoldRelationsLoader] Loaded 9746003: 7 entities, 10 relations from 9746003.json
+2025-11-26 14:10:12 - pipeline - INFO - [GoldRelationsLoader] Loaded 400 gold relation files
+2025-11-26 14:10:12 - pipeline - INFO - Gold relations files loaded:
+2025-11-26 14:10:12 - pipeline - INFO - Limited to 1 documents (from 400)
+2025-11-26 14:10:12 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Step 2: Building global entity map...
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Entity map contains 10 entities
+2025-11-26 14:10:12 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Step 3: Initializing components...
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO -   Initialized IO prompter with model: openai/gpt-4o-mini
+2025-11-26 14:10:12 - pipeline - INFO -   Initialized CoT prompter with model: openai/gpt-4o-mini
+2025-11-26 14:10:12 - pipeline - INFO - Initialized 2 prompting techniques
+2025-11-26 14:10:12 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Step 4: Running pipeline for each technique...
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Processing with IO prompter
+2025-11-26 14:10:12 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:12 - pipeline - INFO - Processing 1 documents...
+2025-11-26 14:10:12 - pipeline - INFO - 
+--- Document 1/1: 10491763 ---
+2025-11-26 14:10:12 - pipeline - INFO - Document text preview: Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.
+
+The transcription factor hepatocyte nucl...
+2025-11-26 14:10:12 - pipeline - INFO - [IO] Processing document: 10491763
+2025-11-26 14:10:12 - pipeline - DEBUG - [IO] Document text length: 1798 characters
+2025-11-26 14:10:12 - pipeline - DEBUG - [IO] Using model: openai/gpt-4o-mini
+2025-11-26 14:10:12 - pipeline - DEBUG - [IO] Prompt length: 2645 characters
+2025-11-26 14:10:12 - pipeline - INFO - [IO] Sending request to OpenRouter API...
+2025-11-26 14:10:12 - pipeline - DEBUG - [IO] API request attempt 1/4 (timeout=180s)
+2025-11-26 14:10:21 - pipeline - INFO - [IO] Received response in 9.04 seconds
+2025-11-26 14:10:21 - pipeline - DEBUG - [IO] Raw LLM response length: 1336 characters
+2025-11-26 14:10:21 - pipeline - DEBUG - [IO] Raw LLM response:
+```json
+[
+  {
+    "head_mention": "Hepatocyte nuclear factor-6",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Hepatocyte nuclear factor-6",
+    "tail_mention": "insulin secretion",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "Type II (non-insulin-dependent) diabetes mellitus",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "insulin secretion",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "Type II diabetes mellitus",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "glucose induced serum insulin",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Pro75Ala polymorphism",
+    "tail_mention": "C-peptide responses",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Mutations in the coding region of the HNF-6 gene",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "Mutations in the coding region of the HNF-6 gene",
+    "tail_mention": "insulin responses to glucose",
+    "relation_type": "Negative_Correlation"
+  }
+]
+```
+2025-11-26 14:10:21 - pipeline - INFO - [Parser] Parsing response for document: 10491763
+2025-11-26 14:10:21 - pipeline - INFO - [Parser] Extracted 9 relations from JSON
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser] Parsed 9 relations:
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 1: Hepatocyte nuclear factor-6 -> Type II diabetes (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 2: Hepatocyte nuclear factor-6 -> insulin secretion (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 3: HNF-6 gene -> Type II (non-insulin-dependent) diabetes mellitus (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 4: HNF-6 gene -> insulin secretion (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 5: Pro75Ala polymorphism -> Type II diabetes mellitus (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 6: Pro75Ala polymorphism -> glucose induced serum insulin (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 7: Pro75Ala polymorphism -> C-peptide responses (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 8: Mutations in the coding region of the HNF-6 gene -> Type II diabetes (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Parser]   Relation 9: Mutations in the coding region of the HNF-6 gene -> insulin responses to glucose (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - INFO - [Parser] Resolving entity IDs for 9 relations...
+2025-11-26 14:10:21 - pipeline - INFO - [Parser] Resolved 18/18 entity IDs
+2025-11-26 14:10:21 - pipeline - INFO - Document 10491763: Parsed 9 relations, 0 parsing errors, 0 resolution errors
+2025-11-26 14:10:21 - pipeline - INFO - Completed: 1 documents processed
+2025-11-26 14:10:21 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - Evaluating IO predictions...
+2025-11-26 14:10:21 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - [Evaluator] Evaluating document: 10491763 (gold relations file: 10491763.json)
+2025-11-26 14:10:21 - pipeline - INFO - [Evaluator] Document 10491763: 9 predicted relations, 3 gold relations
+2025-11-26 14:10:21 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - LLM Predicted Relations:
+2025-11-26 14:10:21 - pipeline - DEBUG -   1. Hepatocyte nuclear factor-6 (ID: 3175) -> Type II diabetes (ID: D003924) (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG -   2. Hepatocyte nuclear factor-6 (ID: 3175) -> insulin secretion (ID: 3630) (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG -   3. HNF-6 gene (ID: 3175) -> Type II (non-insulin-dependent) diabetes mellitus (ID: D003924) (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG -   4. HNF-6 gene (ID: 3175) -> insulin secretion (ID: 3630) (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG -   5. Pro75Ala polymorphism (ID: rs74805019) -> Type II diabetes mellitus (ID: D003924) (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG -   6. Pro75Ala polymorphism (ID: rs74805019) -> glucose induced serum insulin (ID: 3630) (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG -   7. Pro75Ala polymorphism (ID: rs74805019) -> C-peptide responses (ID: 3630) (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG -   8. Mutations in the coding region of the HNF-6 gene (ID: 3175) -> Type II diabetes (ID: D003924) (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG -   9. Mutations in the coding region of the HNF-6 gene (ID: 3175) -> insulin responses to glucose (ID: 3630) (Negative_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - Gold Relations:
+2025-11-26 14:10:21 - pipeline - DEBUG -   1. HNF-6 (ID: 3175) -> Type II diabetes (ID: D003924) (Association) [relation_id: R0]
+2025-11-26 14:10:21 - pipeline - DEBUG -   2. glucose (ID: D005947) -> insulin (ID: 3630) (Positive_Correlation) [relation_id: R1]
+2025-11-26 14:10:21 - pipeline - DEBUG -   3. glucose (ID: D005947) -> Type II diabetes (ID: D003924) (Association) [relation_id: R2]
+2025-11-26 14:10:21 - pipeline - INFO - [Evaluator] Document 10491763 matching results: TP=1, FP=7, FN=2, Partial Matches (entities correct, type wrong)=1
+2025-11-26 14:10:21 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - Partial Matches (entities correct, type wrong):
+2025-11-26 14:10:21 - pipeline - DEBUG -   1. Predicted: HNF-6 -> Type II diabetes (Negative_Correlation) | Gold: Association [entities match, type differs]
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator] Document 10491763 True Positives (first 3):
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   TP 1: 3175 -> D003924 (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator] Document 10491763 False Positives (first 3):
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   FP 1: Hepatocyte nuclear factor-6 -> insulin secretion (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   FP 2: HNF-6 gene -> Type II (non-insulin-dependent) diabetes mellitus (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   FP 3: HNF-6 gene -> insulin secretion (Association)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator] Document 10491763 False Negatives (first 3):
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   FN 1: D005947 -> 3630 (Positive_Correlation)
+2025-11-26 14:10:21 - pipeline - DEBUG - [Evaluator]   FN 2: D005947 -> D003924 (Association)
+2025-11-26 14:10:21 - pipeline - INFO - [Evaluator] Document 10491763 metrics: Precision=0.125, Recall=0.333, F1=0.182
+2025-11-26 14:10:21 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - IO - Aggregated Results
+2025-11-26 14:10:21 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - Number of documents: 1
+2025-11-26 14:10:21 - pipeline - INFO - 
+Macro Averages (average of per-document metrics):
+2025-11-26 14:10:21 - pipeline - INFO -   Precision: 0.125
+2025-11-26 14:10:21 - pipeline - INFO -   Recall: 0.333
+2025-11-26 14:10:21 - pipeline - INFO -   F1 Score: 0.182
+2025-11-26 14:10:21 - pipeline - INFO - 
+Micro Averages (calculated from aggregated TP/FP/FN):
+2025-11-26 14:10:21 - pipeline - INFO -   Precision: 1.000
+2025-11-26 14:10:21 - pipeline - INFO -   Recall: 0.333
+2025-11-26 14:10:21 - pipeline - INFO -   F1 Score: 0.500
+2025-11-26 14:10:21 - pipeline - INFO - 
+Additional Metrics:
+2025-11-26 14:10:21 - pipeline - INFO -   Exact Match Rate: 0.333
+2025-11-26 14:10:21 - pipeline - INFO -   Omission Rate: 0.667
+2025-11-26 14:10:21 - pipeline - INFO -   Hallucination Rate: 0.778
+2025-11-26 14:10:21 - pipeline - INFO -   Redundancy Rate: 0.333
+2025-11-26 14:10:21 - pipeline - INFO -   Graph Edit Distance: 7.00
+2025-11-26 14:10:21 - pipeline - INFO - 
+Fuzzy/Partial Match Statistics (entities correct, type may differ):
+2025-11-26 14:10:21 - pipeline - INFO -   Total Partial Matches: 1
+2025-11-26 14:10:21 - pipeline - INFO -   Avg Partial Matches per Document: 1.00
+2025-11-26 14:10:21 - pipeline - INFO - 
+Fuzzy Macro Averages (average of per-document fuzzy metrics):
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy Precision: 0.250
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy Recall: 0.500
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy F1 Score: 0.333
+2025-11-26 14:10:21 - pipeline - INFO - 
+Fuzzy Micro Averages (calculated from aggregated TP/FP/FN):
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy Precision: 2.000
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy Recall: 0.500
+2025-11-26 14:10:21 - pipeline - INFO -   Fuzzy F1 Score: 0.800
+2025-11-26 14:10:21 - pipeline - INFO - Saved IO summary to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/summaries/IO_summary.json
+2025-11-26 14:10:21 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - Processing with CoT prompter
+2025-11-26 14:10:21 - pipeline - INFO - ================================================================================
+2025-11-26 14:10:21 - pipeline - INFO - Processing 1 documents...
+2025-11-26 14:10:21 - pipeline - INFO - 
+--- Document 1/1: 10491763 ---
+2025-11-26 14:10:21 - pipeline - INFO - Document text preview: Hepatocyte nuclear factor-6: associations between genetic variability and type II diabetes and between genetic variability and estimates of insulin secretion.
+
+The transcription factor hepatocyte nucl...
+2025-11-26 14:10:21 - pipeline - INFO - [CoT] Processing document: 10491763
+2025-11-26 14:10:21 - pipeline - DEBUG - [CoT] Document text length: 1798 characters
+2025-11-26 14:10:21 - pipeline - DEBUG - [CoT] Using model: openai/gpt-4o-mini
+2025-11-26 14:10:21 - pipeline - DEBUG - [CoT] Prompt length: 2973 characters
+2025-11-26 14:10:21 - pipeline - INFO - [CoT] Sending request to OpenRouter API...
+2025-11-26 14:10:21 - pipeline - DEBUG - [CoT] API request attempt 1/4 (timeout=180s)
+2025-11-26 14:13:21 - pipeline - WARNING - [CoT] Request timeout (attempt 1/4): HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=180)
+2025-11-26 14:13:21 - pipeline - WARNING - [CoT] Retry attempt 1/3 after 2.0s delay...
+2025-11-26 14:13:23 - pipeline - DEBUG - [CoT] API request attempt 2/4 (timeout=180s)
+2025-11-26 14:13:40 - pipeline - INFO - [CoT] Received response in 199.24 seconds
+2025-11-26 14:13:40 - pipeline - DEBUG - [CoT] Raw LLM response length: 2565 characters
+2025-11-26 14:13:40 - pipeline - DEBUG - [CoT] Raw LLM response:
+Step 1: Identify all entities mentioned in the text.
+
+Entities extracted:
+1. "Hepatocyte nuclear factor-6"
+2. "Type II diabetes"
+3. "insulin secretion"
+4. "HNF-6 gene"
+5. "MODY"
+6. "MODY1"
+7. "MODY3"
+8. "MODY4"
+9. "Pro75 Ala"
+10. "Type II diabetes mellitus"
+11. "glucose tolerant control subjects"
+12. "C-peptide"
+13. "Caucasians"
+
+Step 2: Classify each entity's type.
+
+Entity classifications:
+1. "Hepatocyte nuclear factor-6" - GeneOrGeneProduct
+2. "Type II diabetes" - DiseaseOrPhenotypicFeature
+3. "insulin secretion" - DiseaseOrPhenotypicFeature
+4. "HNF-6 gene" - GeneOrGeneProduct
+5. "MODY" - DiseaseOrPhenotypicFeature
+6. "MODY1" - DiseaseOrPhenotypicFeature
+7. "MODY3" - DiseaseOrPhenotypicFeature
+8. "MODY4" - DiseaseOrPhenotypicFeature
+9. "Pro75 Ala" - GeneOrGeneProduct
+10. "Type II diabetes mellitus" - DiseaseOrPhenotypicFeature
+11. "glucose tolerant control subjects" - OrganismTaxon
+12. "C-peptide" - GeneOrGeneProduct
+13. "Caucasians" - OrganismTaxon
+
+Step 3: Identify relations between entities.
+
+Relations identified:
+1. Head: "HNF-6 gene", Tail: "Type II diabetes", Relation: Association
+2. Head: "HNF-6 gene", Tail: "insulin secretion", Relation: Association
+3. Head: "Hepatocyte nuclear factor-6", Tail: "Type II diabetes", Relation: Association
+4. Head: "Pro75 Ala", Tail: "Type II diabetes mellitus", Relation: Association
+5. Head: "Pro75 Ala", Tail: "glucose tolerant control subjects", Relation: Negative_Correlation
+6. Head: "HNF-6 gene", Tail: "Type II diabetes", Relation: Negative_Correlation
+7. Head: "HNF-6 gene", Tail: "insulin responses to glucose", Relation: Negative_Correlation
+
+Final answer in JSON format:
+
+```json
+[
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "insulin secretion",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Hepatocyte nuclear factor-6",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Pro75 Ala",
+    "tail_mention": "Type II diabetes mellitus",
+    "relation_type": "Association"
+  },
+  {
+    "head_mention": "Pro75 Ala",
+    "tail_mention": "glucose tolerant control subjects",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "Type II diabetes",
+    "relation_type": "Negative_Correlation"
+  },
+  {
+    "head_mention": "HNF-6 gene",
+    "tail_mention": "insulin responses to glucose",
+    "relation_type": "Negative_Correlation"
+  }
+]
+```
+2025-11-26 14:13:40 - pipeline - INFO - [Parser] Parsing response for document: 10491763
+2025-11-26 14:13:40 - pipeline - INFO - [Parser] Extracted 7 relations from JSON
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser] Parsed 7 relations:
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 1: HNF-6 gene -> Type II diabetes (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 2: HNF-6 gene -> insulin secretion (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 3: Hepatocyte nuclear factor-6 -> Type II diabetes (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 4: Pro75 Ala -> Type II diabetes mellitus (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 5: Pro75 Ala -> glucose tolerant control subjects (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 6: HNF-6 gene -> Type II diabetes (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Parser]   Relation 7: HNF-6 gene -> insulin responses to glucose (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - INFO - [Parser] Resolving entity IDs for 7 relations...
+2025-11-26 14:13:40 - pipeline - INFO - [Parser] Resolved 14/14 entity IDs
+2025-11-26 14:13:40 - pipeline - INFO - Document 10491763: Parsed 7 relations, 0 parsing errors, 0 resolution errors
+2025-11-26 14:13:40 - pipeline - INFO - Completed: 1 documents processed
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Evaluating CoT predictions...
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - [Evaluator] Evaluating document: 10491763 (gold relations file: 10491763.json)
+2025-11-26 14:13:40 - pipeline - INFO - [Evaluator] Document 10491763: 7 predicted relations, 3 gold relations
+2025-11-26 14:13:40 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - LLM Predicted Relations:
+2025-11-26 14:13:40 - pipeline - DEBUG -   1. HNF-6 gene (ID: 3175) -> Type II diabetes (ID: D003924) (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG -   2. HNF-6 gene (ID: 3175) -> insulin secretion (ID: 3630) (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG -   3. Hepatocyte nuclear factor-6 (ID: 3175) -> Type II diabetes (ID: D003924) (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG -   4. Pro75 Ala (ID: rs74805019) -> Type II diabetes mellitus (ID: D003924) (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG -   5. Pro75 Ala (ID: rs74805019) -> glucose tolerant control subjects (ID: D005947) (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG -   6. HNF-6 gene (ID: 3175) -> Type II diabetes (ID: D003924) (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG -   7. HNF-6 gene (ID: 3175) -> insulin responses to glucose (ID: 3630) (Negative_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - Gold Relations:
+2025-11-26 14:13:40 - pipeline - DEBUG -   1. HNF-6 (ID: 3175) -> Type II diabetes (ID: D003924) (Association) [relation_id: R0]
+2025-11-26 14:13:40 - pipeline - DEBUG -   2. glucose (ID: D005947) -> insulin (ID: 3630) (Positive_Correlation) [relation_id: R1]
+2025-11-26 14:13:40 - pipeline - DEBUG -   3. glucose (ID: D005947) -> Type II diabetes (ID: D003924) (Association) [relation_id: R2]
+2025-11-26 14:13:40 - pipeline - INFO - [Evaluator] Document 10491763 matching results: TP=1, FP=5, FN=2, Partial Matches (entities correct, type wrong)=1
+2025-11-26 14:13:40 - pipeline - DEBUG - 
+[Evaluator] Document 10491763 - Partial Matches (entities correct, type wrong):
+2025-11-26 14:13:40 - pipeline - DEBUG -   1. Predicted: HNF-6 -> Type II diabetes (Negative_Correlation) | Gold: Association [entities match, type differs]
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator] Document 10491763 True Positives (first 3):
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   TP 1: 3175 -> D003924 (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator] Document 10491763 False Positives (first 3):
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   FP 1: HNF-6 gene -> insulin secretion (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   FP 2: Hepatocyte nuclear factor-6 -> Type II diabetes (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   FP 3: Pro75 Ala -> Type II diabetes mellitus (Association)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator] Document 10491763 False Negatives (first 3):
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   FN 1: D005947 -> 3630 (Positive_Correlation)
+2025-11-26 14:13:40 - pipeline - DEBUG - [Evaluator]   FN 2: D005947 -> D003924 (Association)
+2025-11-26 14:13:40 - pipeline - INFO - [Evaluator] Document 10491763 metrics: Precision=0.167, Recall=0.333, F1=0.222
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - CoT - Aggregated Results
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Number of documents: 1
+2025-11-26 14:13:40 - pipeline - INFO - 
+Macro Averages (average of per-document metrics):
+2025-11-26 14:13:40 - pipeline - INFO -   Precision: 0.167
+2025-11-26 14:13:40 - pipeline - INFO -   Recall: 0.333
+2025-11-26 14:13:40 - pipeline - INFO -   F1 Score: 0.222
+2025-11-26 14:13:40 - pipeline - INFO - 
+Micro Averages (calculated from aggregated TP/FP/FN):
+2025-11-26 14:13:40 - pipeline - INFO -   Precision: 1.000
+2025-11-26 14:13:40 - pipeline - INFO -   Recall: 0.333
+2025-11-26 14:13:40 - pipeline - INFO -   F1 Score: 0.500
+2025-11-26 14:13:40 - pipeline - INFO - 
+Additional Metrics:
+2025-11-26 14:13:40 - pipeline - INFO -   Exact Match Rate: 0.333
+2025-11-26 14:13:40 - pipeline - INFO -   Omission Rate: 0.667
+2025-11-26 14:13:40 - pipeline - INFO -   Hallucination Rate: 0.714
+2025-11-26 14:13:40 - pipeline - INFO -   Redundancy Rate: 0.143
+2025-11-26 14:13:40 - pipeline - INFO -   Graph Edit Distance: 6.00
+2025-11-26 14:13:40 - pipeline - INFO - 
+Fuzzy/Partial Match Statistics (entities correct, type may differ):
+2025-11-26 14:13:40 - pipeline - INFO -   Total Partial Matches: 1
+2025-11-26 14:13:40 - pipeline - INFO -   Avg Partial Matches per Document: 1.00
+2025-11-26 14:13:40 - pipeline - INFO - 
+Fuzzy Macro Averages (average of per-document fuzzy metrics):
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy Precision: 0.333
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy Recall: 0.500
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy F1 Score: 0.400
+2025-11-26 14:13:40 - pipeline - INFO - 
+Fuzzy Micro Averages (calculated from aggregated TP/FP/FN):
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy Precision: 2.000
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy Recall: 0.500
+2025-11-26 14:13:40 - pipeline - INFO -   Fuzzy F1 Score: 0.800
+2025-11-26 14:13:40 - pipeline - INFO - Saved CoT summary to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/summaries/CoT_summary.json
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Step 6: Final aggregation check...
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Aggregated results for 2 techniques
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Step 7: Comparing techniques...
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Step 8: Saving results...
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Saved comparison report to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/comparison_train.json
+2025-11-26 14:13:40 - pipeline - INFO - Saved IO results to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/IO_train_results.json
+2025-11-26 14:13:40 - pipeline - INFO - Saved CoT results to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/CoT_train_results.json
+2025-11-26 14:13:40 - pipeline - INFO - 
+================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Pipeline completed!
+2025-11-26 14:13:40 - pipeline - INFO - ================================================================================
+2025-11-26 14:13:40 - pipeline - INFO - Processed 1 documents
+2025-11-26 14:13:40 - pipeline - INFO - Evaluated 2 prompting techniques
+2025-11-26 14:13:40 - pipeline - INFO - Results saved to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012
+2025-11-26 14:13:40 - pipeline - INFO - Summaries saved to: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/summaries
+2025-11-26 14:13:40 - pipeline - INFO - Log file: /Users/seymenyildirim/uni/praktikum/bpc-data-engineering/code/results/run_20251126_141012/pipeline_train_20251126_141012.log

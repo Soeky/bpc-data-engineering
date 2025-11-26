@@ -1,0 +1,70 @@
+{
+  "techniques": {
+    "IO": {
+      "macro_precision": 0.16666666666666666,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.2222222222222222,
+      "micro_precision": 1.0,
+      "micro_recall": 0.3333333333333333,
+      "micro_f1": 0.5,
+      "avg_exact_match_rate": 0.3333333333333333,
+      "avg_omission_rate": 0.6666666666666666,
+      "avg_hallucination_rate": 0.7142857142857143,
+      "avg_redundancy_rate": 0.14285714285714285,
+      "avg_graph_edit_distance": 6.0,
+      "avg_bertscore": 0.0,
+      "num_documents": 1
+    }
+  },
+  "rankings": {
+    "by_macro_f1": [
+      [
+        "IO",
+        0.2222222222222222
+      ]
+    ],
+    "by_micro_f1": [
+      [
+        "IO",
+        0.5
+      ]
+    ],
+    "by_precision": [
+      [
+        "IO",
+        0.16666666666666666
+      ]
+    ],
+    "by_recall": [
+      [
+        "IO",
+        0.3333333333333333
+      ]
+    ],
+    "by_exact_match_rate": [
+      [
+        "IO",
+        0.3333333333333333
+      ]
+    ],
+    "by_lowest_hallucination": [
+      [
+        "IO",
+        0.7142857142857143
+      ]
+    ],
+    "by_lowest_omission": [
+      [
+        "IO",
+        0.6666666666666666
+      ]
+    ]
+  },
+  "summary": {
+    "best_overall_f1": "IO",
+    "best_precision": "IO",
+    "best_recall": "IO",
+    "lowest_hallucination": "IO",
+    "lowest_omission": "IO"
+  }
+}
